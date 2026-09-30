@@ -97,7 +97,7 @@ export default function App() {
       <footer className="w-full bg-surface-container-lowest shadow-[0_-1px_6px_rgba(0,0,0,0.02)]">
         <div className="mx-auto flex max-w-[1360px] flex-col gap-space-md px-gutter py-space-lg">
           <p className="text-label-sm text-outline">
-            Pas un avis juridique : vérifiez la source avant d'agir. © 2026 HR Compass
+            Informations issues de sources officielles sélectionnées par HR Compass. © 2026 HR Compass
           </p>
         </div>
       </footer>

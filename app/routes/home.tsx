@@ -7,8 +7,8 @@ export function meta() {
 
 const flow = [
   { icon: "pin_drop", title: "Décrivez le poste", text: "Secteur, métier, région, régime, contrat. Six questions, une minute." },
-  { icon: "filter_alt", title: "On trie pour vous", text: "Seuls les documents qui s'appliquent au poste sont retenus, du plus au moins pertinent." },
-  { icon: "verified", title: "Vous vérifiez", text: "Chaque document renvoie à sa source officielle, avec sa date de validation." },
+  { icon: "verified", title: "Des sources de confiance", text: "Nous sélectionnons uniquement des sources officielles : EUR-Lex, SPF Emploi, ONSS, régions, secteurs." },
+  { icon: "task_alt", title: "Vous agissez", text: "Vous recevez les règles qui s'appliquent au poste, de la plus à la moins pertinente, prêtes à l'emploi." },
 ];
 
 const sources = ["Union européenne", "Fédéral", "Wallonie", "Flandre", "Bruxelles", "Commissions paritaires"];
@@ -25,7 +25,7 @@ export default function Home() {
           Ouvrir un poste, sans deviner les règles.
         </h1>
         <p className="max-w-2xl text-body-lg text-on-surface-variant">
-          Décrivez le poste, HR Compass retrouve les lois, barèmes et démarches qui s'appliquent, triés par pertinence.
+          Des lois, barèmes et démarches issus de sources officielles, sélectionnés pour votre poste. Une information fiable, sans recherche.
         </p>
         <Link
           to="/recherche"
@@ -53,7 +53,7 @@ export default function Home() {
       </section>
 
       <section className="flex flex-col items-center gap-space-sm text-center">
-        <p className="text-label-md text-outline">Sources couvertes</p>
+        <p className="text-label-md text-outline">Uniquement des sources officielles</p>
         <div className="flex flex-wrap justify-center gap-space-xs">
           {sources.map((source) => (
             <span

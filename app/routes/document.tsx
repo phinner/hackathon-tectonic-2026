@@ -105,7 +105,7 @@ export default function Document({ loaderData }: Route.ComponentProps) {
         <aside className="space-y-space-md">
           <div className="rounded-xl border border-outline-variant/40 bg-surface-container-lowest p-space-lg shadow-sm">
             <div className="flex items-center justify-between">
-              <h2 className="text-title-md text-primary">Provenance</h2>
+              <h2 className="text-title-md text-primary">Source officielle</h2>
               <Icon name="verified_user" size={20} className="text-secondary" />
             </div>
             <dl className="mt-space-md space-y-3">
