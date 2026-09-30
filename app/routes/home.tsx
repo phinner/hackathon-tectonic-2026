@@ -6,12 +6,12 @@ export function meta() {
 }
 
 const flow = [
-  { icon: "pin_drop", title: "Décrivez le poste", text: "Secteur, métier, région, régime, contrat. Six questions, une minute." },
-  { icon: "verified", title: "Des sources de confiance", text: "Nous sélectionnons uniquement des sources officielles : EUR-Lex, SPF Emploi, ONSS, régions, secteurs." },
-  { icon: "task_alt", title: "Vous agissez", text: "Vous recevez les règles qui s'appliquent au poste, de la plus à la moins pertinente, prêtes à l'emploi." },
+  { icon: "pin_drop", title: "Describe the position", text: "Sector, job, region, working time, contract. Six questions, one minute." },
+  { icon: "verified", title: "Trusted sources", text: "We only select official sources: EUR-Lex, SPF Employment, ONSS, regions, sectors." },
+  { icon: "task_alt", title: "You act", text: "You receive the rules that apply to the position, from most to least relevant, ready to use." },
 ];
 
-const sources = ["Union européenne", "Fédéral", "Wallonie", "Flandre", "Bruxelles", "Commissions paritaires"];
+const sources = ["European Union", "Federal", "Wallonia", "Flanders", "Brussels", "Joint commissions"];
 
 export default function Home() {
   return (
@@ -19,19 +19,19 @@ export default function Home() {
       <section className="mx-auto flex max-w-3xl flex-col items-center space-y-space-md py-space-lg text-center">
         <div className="inline-flex items-center gap-space-xs rounded-full border border-outline-variant/30 bg-surface-container px-3.5 py-1.5 text-label-md text-on-surface-variant shadow-sm">
           <Icon name="explore" size={16} className="text-secondary" />
-          Recrutement en Belgique
+          Recruitment in Belgium
         </div>
         <h1 className="text-[30px] leading-[38px] font-bold tracking-tight text-primary md:text-headline-xl">
-          Ouvrir un poste, sans deviner les règles.
+          Open a position without guessing the rules.
         </h1>
         <p className="max-w-2xl text-body-lg text-on-surface-variant">
-          Des lois, barèmes et démarches issus de sources officielles, sélectionnés pour votre poste. Une information fiable, sans recherche.
+          Laws, salary grids and procedures from official sources, selected for your position. Reliable information, no research needed.
         </p>
         <Link
           to="/recherche"
           className="inline-flex h-12 items-center gap-2 rounded-lg bg-primary px-space-xl text-label-md text-on-primary shadow-md transition-all hover:bg-primary-container active:scale-95"
         >
-          Définir le poste
+          Define the position
           <Icon name="arrow_forward" />
         </Link>
       </section>
@@ -53,7 +53,7 @@ export default function Home() {
       </section>
 
       <section className="flex flex-col items-center gap-space-sm text-center">
-        <p className="text-label-md text-outline">Uniquement des sources officielles</p>
+        <p className="text-label-md text-outline">Official sources only</p>
         <div className="flex flex-wrap justify-center gap-space-xs">
           {sources.map((source) => (
             <span

@@ -1,22 +1,22 @@
 [
   {
     "id": "flandre-taaldecreet-documents",
-    "title": "Néerlandais obligatoire et nullité des documents sociaux",
+    "title": "Mandatory Dutch and invalidity of employment documents",
     "category": "contrat",
     "importance": "legal",
-    "summary": "Le décret du 19 juillet 1973 impose le néerlandais pour les relations sociales et les documents du personnel relevant de son champ territorial. Un document contraire au décret risque la nullité.",
+    "summary": "The decree of July 19, 1973 imposes Dutch for social relations and personnel documents within its territorial scope. A document contrary to the decree risks invalidity.",
     "body": [
-      "Les articles 2 à 5 visent les employeurs ayant un siège d'exploitation dans la région linguistique néerlandaise. Vérifier le régime particulier des communes à facilités. L'article 4, § 4, couvre aussi les relations avec les candidats avant l'embauche, même sans contrat finalement conclu.",
-      "L'article 5 impose une version néerlandaise. Pour certains travailleurs exerçant leur libre circulation, une version contractuelle supplémentaire dans une langue officielle de l'UE ou de l'EEE comprise par les parties est admise. En cas de divergence, le néerlandais prévaut. Le § 5 permet de tester d'autres langues pendant la sélection.",
-      "Selon l'article 10, le juge constate la nullité d'office et ordonne le remplacement des pièces. La régularisation ne produit effet qu'à compter du remplacement selon les modalités prévues. La nullité ne peut léser le travailleur ; l'employeur répond du dommage causé. Les dates d'effet des articles sont indiquées dans le texte consolidé."
+      "Articles 2 to 5 target employers having a place of business in the Dutch-speaking region. Verify the special regime of municipalities with facilities. Article 4, § 4, also covers relations with candidates before hiring, even if no contract is ultimately concluded.",
+      "Article 5 imposes a Dutch version. For certain workers exercising freedom of movement, an additional contractual version in an official EU or EEA language understood by the parties is admitted. In case of divergence, Dutch prevails. Section 5 allows testing other languages during selection.",
+      "According to Article 10, the judge finds invalidity ex officio and orders replacement of documents. Regularization only takes effect from the replacement according to the provided terms. Invalidity cannot harm the worker; the employer is liable for damage caused. The effective dates of the articles are indicated in the consolidated text."
     ],
     "keywords": [
-      "taaldecreet",
-      "néerlandais",
-      "contrat de travail",
-      "nullité",
-      "langue",
-      "sollicitanten"
+      "Language Decree",
+      "Dutch",
+      "employment contract",
+      "invalidity",
+      "language",
+      "applicants"
     ],
     "scope": {
       "regions": [
@@ -27,29 +27,29 @@
     "url": "https://codex.vlaanderen.be/PrintDocument.ashx?geannoteerd=false&id=1000236",
     "owner": {
       "name": "Autorité flamande",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2024-01-01",
     "status": "valide"
   },
   {
     "id": "flandre-langue-annonces-entretiens",
-    "title": "Annonces publiques, annonces internes et entretiens",
+    "title": "Public job postings, internal postings, and interviews",
     "category": "offre",
     "importance": "guidance",
-    "summary": "Une annonce publique d'une entreprise privée n'est pas automatiquement soumise au néerlandais. La FAQ officielle distingue les annonces publiques des documents internes et des entretiens.",
+    "summary": "A public job posting by a private company is not automatically subject to Dutch. The official FAQ distinguishes public postings from internal documents and interviews.",
     "body": [
-      "L'autorité flamande autorise expressément une entreprise commerciale à publier une annonce de recrutement dans une autre langue dans un journal. Il ne faut donc pas transformer le Taaldecreet en interdiction générale des annonces publiques en français ou en anglais.",
-      "Une annonce diffusée en interne aux travailleurs est un document destiné au personnel et doit respecter la langue légalement prescrite. Pour une entreprise privée dans une commune linguistiquement homogène de Flandre, l'entretien se déroule en néerlandais ; une autre langue peut servir à tester les connaissances linguistiques du candidat.",
-      "Les annonces des services publics suivent la législation sur les langues administratives. Vérifier la nature de l'employeur, le siège concerné et le caractère public ou interne de la diffusion avant de choisir la langue."
+      "The Flemish authority explicitly allows a commercial company to publish a job posting in another language in a newspaper. Therefore, the Language Decree should not be transformed into a general prohibition of public announcements in French or English.",
+      "A posting circulated internally to workers is a document intended for personnel and must respect the legally prescribed language. For a private company in a linguistically homogeneous municipality in Flanders, the interview is conducted in Dutch; another language can be used to test the candidate's language skills.",
+      "Public service job postings follow legislation on administrative languages. Verify the nature of the employer, the office concerned, and the public or internal nature of the distribution before choosing the language."
     ],
     "keywords": [
       "offre d’emploi",
-      "vacaturebericht",
-      "langue",
-      "néerlandais",
-      "entretien",
-      "taalvrijheid"
+      "job posting",
+      "language",
+      "Dutch",
+      "interview",
+      "language freedom"
     ],
     "scope": {
       "regions": [
@@ -60,29 +60,29 @@
     "url": "https://www.vlaanderen.be/uw-overheid/over-vlaanderen/taalwetwijzer/veelgestelde-vragen",
     "owner": {
       "name": "Autorité flamande",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2024-12-02",
     "status": "valide"
   },
   {
     "id": "flandre-egalite-traitement",
-    "title": "Égalité de traitement dans les compétences flamandes",
+    "title": "Equal treatment in Flemish competencies",
     "category": "restrictions",
     "importance": "legal",
-    "summary": "Le décret du 10 juillet 2008 interdit les discriminations dans les matières relevant des compétences flamandes, notamment la formation et le placement. Il faut aussi examiner le décret du 8 mai 2002 lorsque celui-ci protège davantage la personne.",
+    "summary": "The decree of July 10, 2008 prohibits discrimination in matters falling under Flemish competencies, notably training and placement. The decree of May 8, 2002 must also be examined when it provides greater protection to the person.",
     "body": [
-      "Les articles 15 et 15bis couvrent les discriminations directes et indirectes, le harcèlement, les instructions de discriminer et le refus d'aménagements raisonnables. Les critères protégés comprennent notamment l'âge, le sexe, l'origine, le handicap, la langue et les responsabilités familiales.",
-      "L'article 20, dans sa version applicable depuis le 7 juin 2026, vise notamment les critères de sélection, l'accès à l'emploi, la formation professionnelle et le placement, dans les limites des compétences de la Communauté et de la Région flamandes. Ne pas présenter ce décret comme remplaçant toute la législation fédérale du travail.",
-      "Pour les situations soumises au décret, l'article 26bis impose de faciliter les demandes d'aménagements raisonnables et d'informer le demandeur de la suite donnée dans les 30 jours. Une prolongation exceptionnelle de 30 jours doit être motivée et annoncée dans le délai initial."
+      "Articles 15 and 15bis cover direct and indirect discrimination, harassment, instructions to discriminate, and refusal of reasonable accommodations. Protected criteria include notably age, sex, origin, disability, language, and family responsibilities.",
+      "Article 20, in its version applicable since June 7, 2026, targets in particular selection criteria, access to employment, vocational training, and placement, within the limits of the competencies of the Flemish Community and Region. Do not present this decree as replacing all federal labour legislation.",
+      "For situations subject to the decree, Article 26bis requires facilitating requests for reasonable accommodations and informing the applicant of follow-up within 30 days. An exceptional extension of 30 days must be justified and announced within the initial period."
     ],
     "keywords": [
       "discrimination",
-      "gelijke kansen",
-      "recrutement",
-      "handicap",
-      "aménagement raisonnable",
-      "égalité"
+      "equal opportunities",
+      "recruitment",
+      "disability",
+      "reasonable accommodation",
+      "equality"
     ],
     "scope": {
       "regions": [
@@ -93,29 +93,29 @@
     "url": "https://codex.vlaanderen.be/PrintDocument.ashx?geannoteerd=false&id=1017082",
     "owner": {
       "name": "Autorité flamande",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2026-06-07",
     "status": "valide"
   },
   {
     "id": "flandre-praktijktesten-sectoriels",
-    "title": "Tests sectoriels de discrimination annoncés en 2026",
+    "title": "Sectoral discrimination tests announced in 2026",
     "category": "offre",
     "importance": "guidance",
-    "summary": "Le programme annoncé le 29 juillet 2026 mesure les discriminations à l'embauche liées à l'origine et à l'âge avancé. Ces tests sectoriels ont un objectif de sensibilisation, sans fonction de sanction juridique individuelle.",
+    "summary": "The program announced on July 29, 2026 measures discrimination in hiring related to origin and advanced age. These sectoral tests have an awareness-raising objective, without individual legal sanctions.",
     "body": [
-      "Le marché public porte sur les 30 secteurs participant à la dixième génération de conventions sectorielles pour 2026-2028. Selon les pratiques de recrutement, les chercheurs utiliseront des candidatures fictives adressées à de vraies offres ou des appels téléphoniques fictifs.",
-      "La publication prévoit des résultats agrégés par secteur ; les noms des entreprises ne seront pas publiés et les résultats individuels resteront confidentiels. Pour préparer les recrutements, appliquer des critères cohérents et explicables à des candidats comparables.",
-      "Au 30 septembre 2026, cette source décrit un programme en préparation : attribution du marché attendue à l'automne, puis réalisation des tests, avec des rapports sectoriels prévus au printemps 2028. Elle ne prouve pas que les tests ont déjà commencé."
+      "The public tender covers the 30 sectors participating in the tenth generation of sectoral agreements for 2026-2028. Depending on recruitment practices, researchers will use fictitious applications sent to real offers or fictitious phone calls.",
+      "The publication provides for aggregated results by sector; company names will not be published and individual results will remain confidential. To prepare for recruitment, apply consistent and explainable criteria to comparable candidates.",
+      "As of September 30, 2026, this source describes a program in preparation: contract award expected in autumn, then test implementation, with sectoral reports expected in spring 2028. It does not prove that tests have already begun."
     ],
     "keywords": [
-      "praktijktesten",
+      "practical tests",
       "discrimination",
-      "âge",
-      "origine",
-      "candidatures fictives",
-      "recrutement"
+      "age",
+      "origin",
+      "fictitious applications",
+      "recruitment"
     ],
     "scope": {
       "regions": [
@@ -126,26 +126,26 @@
     "url": "https://www.vlaanderen.be/departement-wewis-werk-sociale-economie/wewis-lanceert-overheidsopdracht-voor-sectorale-praktijktesten",
     "owner": {
       "name": "Departement WEWIS",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2026-07-29",
     "status": "valide"
   },
   {
     "id": "flandre-reduction-jeunes-fin",
-    "title": "Fin de la réduction flamande pour jeunes peu qualifiés",
+    "title": "End of Flemish reduction for low-skilled youth",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Aucun droit nouveau à cette réduction ne s'ouvre pour une entrée en service après le 30 juin 2024. Les derniers droits transitoires s'arrêtent au premier trimestre 2026 inclus.",
+    "summary": "No new entitlement to this reduction opens for entry into service after June 30, 2024. The last transitional entitlements end in the first quarter of 2026 inclusive.",
     "body": [
-      "Les instructions ONSS 2026/3 concernent les travailleurs occupés dans une unité d'établissement flamande ou qui en dépendent. L'ancienne réduction pour jeunes peu qualifiés couvrait le trimestre d'embauche et les sept suivants, sous conditions.",
-      "L'ONSS précise que le code 6300 ne peut plus ouvrir un droit depuis le troisième trimestre 2024. Un droit ouvert au plus tard au deuxième trimestre 2024 pouvait encore être demandé jusqu'au premier trimestre 2026. Pour une embauche au 30 septembre 2026, ne pas intégrer cette ancienne réduction dans le coût salarial prévisionnel.",
-      "La réduction pour apprentis en alternance avait déjà été supprimée au 1er juillet 2023 sans transition. La disparition de ces réductions ne supprime pas, à elle seule, les obligations fédérales relatives à l'emploi des jeunes."
+      "ONSS 2026/3 instructions concern workers employed in a Flemish establishment unit or dependent on it. The old reduction for low-skilled youth covered the quarter of hiring and the following seven, under conditions.",
+      "ONSS clarifies that code 6300 can no longer open an entitlement since the third quarter of 2024. An entitlement opened no later than the second quarter of 2024 could still be requested until the first quarter of 2026. For hiring on September 30, 2026, do not include this old reduction in the projected salary cost.",
+      "The reduction for alternating apprentices was already abolished on July 1, 2023 without transition. The disappearance of these reductions does not by itself eliminate federal obligations relating to youth employment."
     ],
     "keywords": [
-      "doelgroepvermindering",
-      "jeunes",
-      "laaggeschoolden",
+      "target group reduction",
+      "young people",
+      "low-skilled",
       "ONSS",
       "6300",
       "aide à l’embauche"
@@ -159,26 +159,26 @@
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/nl/latest/instructions/deductions/structuralreduction_targetgroupreductions/youngworkers_vl.html",
     "owner": {
       "name": "ONSS / RSZ",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2024-07-01",
     "status": "valide"
   },
   {
     "id": "flandre-reduction-ages-fin",
-    "title": "Fin des réductions flamandes pour travailleurs âgés",
+    "title": "End of Flemish reductions for older workers",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "La réduction pour travailleurs âgés déjà occupés est supprimée depuis le 1er juillet 2025. La transition pour les anciens demandeurs d'emploi âgés embauchés avant juillet 2024 se termine au premier trimestre 2026.",
+    "summary": "The reduction for already employed older workers is abolished as of July 1, 2025. The transition for former older job seekers hired before July 2024 ends in the first quarter of 2026.",
     "body": [
-      "Les instructions ONSS distinguent les travailleurs âgés déjà en poste et les demandeurs d'emploi âgés recrutés. Pour ces derniers, une entrée en service après le 30 juin 2024 n'ouvre plus le droit ; les droits antérieurs pouvaient courir sur le trimestre d'embauche et les sept suivants.",
-      "Le code 6321 pouvait encore être demandé au titre de droits antérieurs jusqu'au premier trimestre 2026 inclus. La réduction des travailleurs déjà occupés, code 6320, a pris fin au troisième trimestre 2025. La page conserve une ancienne mention de 2028, mais la correction placée juste avant et le corps des instructions indiquent explicitement l'arrêt en 2025.",
-      "Pour un recrutement en septembre 2026 dans une unité flamande, ne promettre aucune de ces anciennes réductions liées à l'âge. Les régularisations de périodes antérieures doivent être appréciées selon le trimestre concerné."
+      "ONSS instructions distinguish already employed older workers from recruited older job seekers. For the latter, entry into service after June 30, 2024 no longer opens an entitlement; previous entitlements could run during the hiring quarter and the following seven.",
+      "Code 6321 could still be requested for previous entitlements until the first quarter of 2026 inclusive. The reduction for already employed workers, code 6320, ended in the third quarter of 2025. The page retains an old reference to 2028, but the correction just before and the body of the instructions explicitly indicate the end in 2025.",
+      "For recruitment in September 2026 in a Flemish unit, do not promise any of these old age-related reductions. Regularizations of prior periods must be assessed according to the quarter concerned."
     ],
     "keywords": [
-      "travailleurs âgés",
-      "oudere werknemers",
-      "doelgroepvermindering",
+      "older workers",
+      "older workers",
+      "target group reduction",
       "6320",
       "6321",
       "ONSS"
@@ -192,28 +192,28 @@
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/nl/latest/instructions/deductions/structuralreduction_targetgroupreductions/elderlyworkers_vl.html",
     "owner": {
       "name": "ONSS / RSZ",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2025-07-01",
     "status": "valide"
   },
   {
     "id": "flandre-vdab-publication-competent",
-    "title": "Publier une offre VDAB avec les métiers et compétences actuels",
+    "title": "Publish a VDAB offer with current occupations and skills",
     "category": "offre",
     "importance": "guidance",
-    "summary": "Depuis le 13 janvier 2026, la saisie des offres sur le portail employeurs utilise Competent 2.0. Le recruteur doit choisir les métiers et compétences dans cette nomenclature.",
+    "summary": "Since January 13, 2026, job posting entry on the employer portal uses Competent 2.0. The recruiter must select occupations and skills from this nomenclature.",
     "body": [
-      "Une offre encodée via werkgevers.vdab.be ne peut plus utiliser les données Competent 1.0 depuis le 13 janvier 2026. Vérifier le métier sélectionné et les compétences proposées lors de la création ou de la reprise d'une annonce.",
-      "Pour la Vacature Posting API, la source décrit une transition dont la date de fin n'est pas encore indiquée. Elle accepte l'une ou l'autre version pendant cette transition, mais interdit leur mélange dans une même offre : cette combinaison entraîne un rejet. Les anciennes données acceptées sont converties vers Competent 2.0 pour l'affichage."
+      "A posting entered via werkgevers.vdab.be can no longer use Competent 1.0 data since January 13, 2026. Verify the selected occupation and proposed skills when creating or updating a posting.",
+      "For the Vacature Posting API, the source describes a transition whose end date is not yet indicated. It accepts one version or the other during this transition, but prohibits mixing them in the same offer: this combination results in rejection. Old data accepted are converted to Competent 2.0 for display."
     ],
     "keywords": [
       "VDAB",
-      "publication offre",
-      "vacature",
+      "offer publication",
+      "vacancy",
       "Competent 2.0",
-      "compétences",
-      "recrutement"
+      "skills",
+      "recruitment"
     ],
     "scope": {
       "regions": [
@@ -224,7 +224,7 @@
     "url": "https://extranet.vdab.be/api-center-excellence-coe/overschakeling-naar-competent-20-standaard-voor-publiceren-van-vacatures",
     "owner": {
       "name": "VDAB",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2026-01-13",
     "status": "valide"
@@ -234,19 +234,19 @@
     "title": "IBO : convention, durée et engagement d’embauche",
     "category": "contrat",
     "importance": "legal",
-    "summary": "Les règles IBO applicables depuis le 1er janvier 2026 imposent une convention préalable et une embauche après la formation. Le dispositif concerne aussi les établissements bruxellois admissibles.",
+    "summary": "IBO rules applicable since January 1, 2026 require a prior agreement and hiring after training. The arrangement also covers eligible Brussels establishments.",
     "body": [
-      "Les articles 90 à 95 de l'arrêté du 5 juin 2009 exigent une convention signée par le VDAB, l'employeur et le stagiaire avant le début. Le candidat doit être inscrit au VDAB ; contrôler les restrictions concernant un emploi antérieur et une démission. L'employeur déclare l'IBO en Dimona avant son commencement.",
-      "L'article 97 fixe une durée de 4 à 26 semaines, au moins à mi-temps et au minimum 17,5 heures par semaine. Le plan de formation doit être approuvé. Selon l'article 93, prime et frais de déplacement sont payés au plus tard le septième jour du mois suivant.",
-      "L'article 107 prévoit un CDI dès le lendemain de la formation ; un CDD est admis si l'employeur démontre au VDAB qu'il correspond à sa politique habituelle d'embauche. L'emploi doit correspondre à la fonction apprise, avec au moins le même régime horaire, et durer au minimum autant que l'IBO."
+      "Articles 90 to 95 of the Decree of June 5, 2009 require an agreement signed by VDAB, the employer, and the trainee before the start. The candidate must be registered with VDAB; check restrictions concerning previous employment and resignation. The employer declares the IBO in Dimona before its start.",
+      "Article 97 sets a duration of 4 to 26 weeks, at least half-time and minimum 17.5 hours per week. The training plan must be approved. According to Article 93, bonus and travel expenses are paid no later than the seventh day of the following month.",
+      "Article 107 provides for a permanent contract starting the day after training; a fixed-term contract is allowed if the employer demonstrates to VDAB that it matches their usual hiring policy. The job must match the learned function, with at least the same schedule, and last at least as long as the IBO."
     ],
     "keywords": [
       "IBO",
-      "formation individuelle",
+      "individual training",
       "VDAB",
       "Dimona",
-      "embauche",
-      "convention"
+      "hiring",
+      "agreement"
     ],
     "scope": {
       "regions": [
@@ -258,29 +258,29 @@
     "url": "https://codex.vlaanderen.be/PrintDocument.ashx?geannoteerd=false&id=1018390",
     "owner": {
       "name": "Autorité flamande",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2026-01-01",
     "status": "valide"
   },
   {
     "id": "flandre-single-permit-moyennement-qualifies",
-    "title": "Permis unique pour une fonction moyennement qualifiée",
+    "title": "Single permit for a skilled occupation",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Pour une fonction de la liste migratoire exercée plus de 90 jours, l'employeur demande un permis unique via Working in Belgium. L'autorisation de cette catégorie est limitée à un an, même avec un CDI.",
+    "summary": "For a function on the migration list exercised for more than 90 days, the employer requests a single permit via Working in Belgium. Authorization for this category is limited to one year, even with a permanent contract.",
     "body": [
-      "Choisir la catégorie Migratielijst middengeschoolde functies et réunir les justificatifs d'identité, de séjour, d'assurance maladie et les autres pièces demandées, ainsi qu'un contrat daté et signé. La liste de pièces dépend de la situation du candidat ; déposer un dossier complet sur le guichet unique.",
-      "Le service régional examine le travail, puis l'Office des étrangers examine le séjour. Une décision favorable sur le travail seule ne constitue pas encore le permis unique. Vérifier l'ensemble des autorisations et documents de séjour avant l'entrée en fonction.",
-      "Pour cette catégorie, renouveler annuellement l'autorisation même si le contrat est à durée indéterminée. La page prescrit de déposer le renouvellement au moins deux mois et au maximum six mois avant l'expiration. Le travailleur arrivant de l'étranger doit s'inscrire à la commune dans les huit jours ouvrables après son arrivée."
+      "Select the Migratielijst middengeschoolde functies category and gather proof of identity, residence, health insurance, and other required documents, along with a dated and signed contract. The list of required documents depends on the candidate's situation; submit a complete file at the single counter.",
+      "The regional service examines the work, then the Immigration Office examines the residence. A favorable decision on work alone does not yet constitute the single permit. Verify all authorizations and residence documents before starting work.",
+      "For this category, renew authorization annually even if the contract is permanent. The page requires filing the renewal at least two months and at most six months before expiration. A worker coming from abroad must register with the municipality within eight business days after arrival."
     ],
     "keywords": [
       "single permit",
-      "permis unique",
+      "single permit",
       "Working in Belgium",
-      "middengeschoolde functie",
-      "renouvellement",
-      "migration économique"
+      "skilled occupation",
+      "renewal",
+      "economic migration"
     ],
     "scope": {
       "regions": [
@@ -291,29 +291,29 @@
     "url": "https://www.vlaanderen.be/werken/een-buitenlander-in-vlaanderen-tewerkstellen/categorieen/middengeschoolde-functie",
     "owner": {
       "name": "Departement WEWIS",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2026-09-30",
     "status": "valide"
   },
   {
     "id": "flandre-single-permit-redevance",
-    "title": "Redevance flamande de 180 € pour le permis unique",
+    "title": "Flemish fee of 180 € for single permit",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Depuis le 1er septembre 2026, une demande de permis unique destinée à la Flandre entraîne une redevance régionale de 180 €. Le paiement doit intervenir dans les 15 jours du dépôt.",
+    "summary": "Since September 1, 2026, a single permit application intended for Flanders entails a regional fee of €180. Payment must occur within 15 days of filing.",
     "body": [
-      "Le montant de 180 € s'applique aux premières demandes et aux renouvellements, en supplément de la redevance fédérale relative au séjour. Les demandes de carte de travail sont exclues. Le montant régional est indexé chaque 1er janvier ; ne pas réutiliser automatiquement celui de 2026 pour une année ultérieure.",
-      "Après l'envoi effectif du dossier dans le guichet unique, payer la demande associée au numéro de dossier. À défaut de paiement dans les 15 jours, le dossier est clôturé automatiquement. Le traitement ne commence que lorsque le dossier est complet et le paiement reçu et traité.",
-      "La redevance payée n'est pas remboursée, y compris en cas de refus, retrait ou annulation. Prévoir le paiement et les droits d'accès au guichet dans le calendrier de recrutement, particulièrement pour un renouvellement."
+      "The amount of €180 applies to initial applications and renewals, in addition to the federal fee for residence. Work card applications are excluded. The regional amount is indexed each January 1; do not automatically reuse the 2026 amount for a later year.",
+      "After effectively submitting the file to the single counter, pay the request associated with the file number. If not paid within 15 days, the file is automatically closed. Processing begins only when the file is complete and payment is received and processed.",
+      "The paid fee is not refunded, including in case of refusal, withdrawal, or cancellation. Plan for payment and single counter access rights in the recruitment timeline, particularly for renewal."
     ],
     "keywords": [
-      "permis unique",
-      "redevance",
-      "180 euros",
       "single permit",
-      "paiement",
-      "Flandre"
+      "fee",
+      "€180",
+      "single permit",
+      "payment",
+      "Flanders"
     ],
     "scope": {
       "regions": [
@@ -324,29 +324,29 @@
     "url": "https://www.vlaanderen.be/werken/een-buitenlander-in-vlaanderen-tewerkstellen/retributie-voor-gecombineerde-vergunning",
     "owner": {
       "name": "Departement WEWIS",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2026-09-24",
     "status": "valide"
   },
   {
     "id": "flandre-liste-migratoire-2026",
-    "title": "Liste migratoire des fonctions moyennement qualifiées",
+    "title": "Migration list of skilled occupations",
     "category": "restrictions",
     "importance": "guidance",
-    "summary": "La liste issue de l'arrêté ministériel du 1er décembre 2025 ouvre une procédure sans recherche préalable sur le marché local. Elle est distincte de la liste générale des métiers en pénurie du VDAB.",
+    "summary": "The list from the ministerial decree of December 1, 2025 opens a procedure without prior labour market testing. It is distinct from VDAB's general shortage occupation list.",
     "body": [
-      "Depuis le 1er janvier 2026, vérifier la fonction et ses tâches dans la liste migratoire actuelle. La page mentionne notamment les couvreurs, conducteurs d'engins de terrassement et aides-soignants. Une similitude d'intitulé ne suffit pas : certaines descriptions excluent expressément des activités voisines.",
-      "Les chauffeurs de poids lourds figurent parmi les fonctions retirées de cette procédure. Une autorisation existante peut être renouvelée pour la même fonction chez le même employeur. Un changement d'employeur exige d'examiner la catégorie Overige si le métier reste dans la liste VDAB.",
-      "L'employeur doit appliquer la commission paritaire et la classification correspondant à un travailleur exercé ou qualifié, jamais une classification non qualifiée pour ces fonctions. Le détachement et l'emploi par une entreprise étrangère ne sont pas admis dans cette catégorie."
+      "Since January 1, 2026, verify the function and its tasks in the current migration list. The page mentions in particular roofers, excavating machine operators, and nursing assistants. A similarity in title is not sufficient: some descriptions expressly exclude similar activities.",
+      "Truck drivers are among the functions removed from this procedure. An existing authorization can be renewed for the same function with the same employer. A change of employer requires examining the Overige category if the occupation remains on the VDAB list.",
+      "The employer must apply the joint commission and classification corresponding to an experienced or qualified worker, never an unqualified classification for these functions. Posting and employment by a foreign company are not allowed in this category."
     ],
     "keywords": [
-      "knelpuntberoepen",
-      "liste migratoire",
-      "middengeschoolde functies",
-      "permis",
-      "chauffeur poids lourd",
-      "couvreur"
+      "shortage occupations",
+      "migration list",
+      "skilled occupations",
+      "permit",
+      "truck driver",
+      "roofer"
     ],
     "scope": {
       "regions": [
@@ -357,29 +357,29 @@
     "url": "https://www.vlaanderen.be/werken/een-buitenlander-in-vlaanderen-tewerkstellen/categorieen/middengeschoolde-functie/lijst-middengeschoolde-functies",
     "owner": {
       "name": "Departement WEWIS",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2026-04-27",
     "status": "valide"
   },
   {
     "id": "flandre-migration-overige-marche-travail",
-    "title": "Migration économique : test du marché et offre publiée neuf semaines",
+    "title": "Economic migration: labour market test and posting for nine weeks",
     "category": "restrictions",
     "importance": "legal",
-    "summary": "Depuis le 1er janvier 2026, la voie générale de l'article 18 exige un métier en pénurie VDAB, une qualification de niveau 3 ou 4 et une publication préalable. Cette voie se distingue des catégories bénéficiant de règles particulières.",
+    "summary": "Since January 1, 2026, the general route of Article 18 requires a VDAB shortage occupation, level 3 or 4 qualification, and prior publication. This route is distinct from categories with special rules.",
     "body": [
-      "L'article 18, § 1, de l'arrêté du 7 décembre 2018 subordonne la recevabilité à une offre publiée sur les plateformes VDAB et EURES pendant au moins neuf semaines consécutives dans les quatre mois précédant la demande. Vérifier également l'inscription du métier sur la liste VDAB et le niveau de qualification requis.",
-      "L'administration présume qu'un candidat approprié est disponible si l'indicateur de tension local reste supérieur ou égal à 12 pendant toute cette période de quatre mois, si les exigences de l'offre sont disproportionnées ou si l'employeur ne coopère pas avec le VDAB. Documenter les recherches et la coopération au placement.",
-      "Le § 2 prévoit une présomption de pénurie pour les fonctions de la liste ministérielle. Ne pas imposer le test de neuf semaines indistinctement à toutes les catégories de permis ; identifier d'abord la voie juridique du recrutement."
+      "Article 18, § 1, of the Decree of December 7, 2018 makes admissibility conditional on an offer published on VDAB and EURES platforms for at least nine consecutive weeks in the four months preceding the application. Also verify the occupation is listed on the VDAB list and the required qualification level.",
+      "The administration presumes that an appropriate candidate is available if the local tension indicator remains 12 or higher throughout this four-month period, if the offer requirements are disproportionate, or if the employer does not cooperate with VDAB. Document the search and cooperation with placement.",
+      "Section 2 provides a presumption of shortage for occupations on the ministerial list. Do not apply the nine-week test indiscriminately to all permit categories; first identify the legal route for recruitment."
     ],
     "keywords": [
-      "migration économique",
-      "Overige",
+      "economic migration",
+      "Other",
       "VDAB",
       "EURES",
-      "neuf semaines",
-      "article 18"
+      "nine weeks",
+      "Article 18"
     ],
     "scope": {
       "regions": [
@@ -390,25 +390,25 @@
     "url": "https://codex.vlaanderen.be/PrintDocument.ashx?geannoteerd=false&id=1030031",
     "owner": {
       "name": "Autorité flamande",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2026-01-01",
     "status": "valide"
   },
   {
     "id": "flandre-vop-regime-transitoire",
-    "title": "VOP : seuls les dossiers antérieurs subsistent",
+    "title": "VOP: only previous files subsist",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "La Vlaamse ondersteuningspremie ne peut plus être demandée pour une nouvelle embauche depuis le 1er juillet 2023. Les primes déjà accordées subsistent pendant leur durée d'attribution ; les nouvelles demandes relèvent de l'individueel maatwerk.",
+    "summary": "The Vlaamse ondersteuningspremie can no longer be requested for new hiring since July 1, 2023. Bonuses already awarded subsist during their award period; new requests fall under individueel maatwerk.",
     "body": [
-      "Un employeur bénéficiaire au plus tard le 30 juin 2023 conserve la VOP pour la durée octroyée. Il consulte la décision et les calculs dans le WSE-loket. Depuis le 1er juillet 2023, aucune prolongation ni augmentation n'est accordée à l'intérieur du régime VOP.",
-      "Pour une VOP de cinq ans, demander l'évaluation dans le système individueel maatwerk au moins cinq mois avant son échéance. Pour une VOP de deux ans, le travailleur doit faire constater son besoin d'aide par le VDAB avant que l'employeur introduise la nouvelle demande.",
-      "Le service recalcule la prime sur la base de la DmfA. Signaler les changements d'entreprise, de compte ou de contact ; ne pas annoncer la VOP comme une aide ouverte aux recrutements de 2026. Cette fiche décrit un régime transitoire encore applicable aux dossiers existants."
+      "An employer benefiting no later than June 30, 2023 retains VOP for the awarded period. They check the decision and calculations in the WSE-loket. Since July 1, 2023, no extension or increase is granted within the VOP system.",
+      "For a five-year VOP, request evaluation in the individueel maatwerk system at least five months before its expiry. For a two-year VOP, the worker must have their support needs confirmed by VDAB before the employer submits the new request.",
+      "The service recalculates the bonus based on DmfA. Report changes of company, account, or contact; do not announce VOP as aid open for 2026 recruitment. This sheet describes a transitional system still applicable to existing files."
     ],
     "keywords": [
       "VOP",
-      "handicap",
+      "disability",
       "prime de soutien",
       "individueel maatwerk",
       "transition",
@@ -419,58 +419,58 @@
     "url": "https://www.vlaanderen.be/economie-en-ondernemen/personeel/vlaamse-ondersteuningspremie-vop-uitdovend-stelsel",
     "owner": {
       "name": "Departement WEWIS",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2026-07-30",
     "status": "valide"
   },
   {
     "id": "flandre-individueel-maatwerk",
-    "title": "Handicap : prime salariale et accompagnement individuel",
+    "title": "Disability: wage subsidy and individual support",
     "category": "demarches",
     "importance": "legal",
-    "summary": "L'individueel maatwerk soutient l'emploi de personnes dont le besoin d'aide est reconnu par le VDAB. Les conditions territoriales diffèrent entre la prime salariale et la prime d'accompagnement.",
+    "summary": "Individueel maatwerk supports employment of persons whose support needs are recognized by VDAB. Territorial conditions differ between the wage subsidy and support subsidy.",
     "body": [
-      "Le décret du 14 janvier 2022, applicable pour ces dispositions depuis le 1er juillet 2023, vise notamment les personnes domiciliées en Région flamande, ainsi que celles domiciliées dans un autre État de l'UE ou de l'EEE et travaillant en Flandre. Vérifier l'indication du VDAB avant de chiffrer l'aide.",
-      "Les articles 15 et 20 distinguent la prime salariale, qui peut notamment couvrir un emploi sur le territoire belge, de la prime d'accompagnement, réservée à un établissement en Région flamande. Un filtre fondé seulement sur le lieu de travail flamand exclurait donc certains bénéficiaires de la prime salariale.",
-      "Les articles 12 et 16 prévoient, pour les travailleurs handicapés, une durée maximale de cinq ans renouvelable après évaluation et une prime comprise entre 20 % et 75 % du salaire de référence plafonné. Pour les travailleurs extrêmement vulnérables, la durée maximale est de 24 mois et la fourchette de 20 % à 50 %. Le montant effectif dépend de la décision individuelle."
+      "The decree of January 14, 2022, applicable for these provisions since July 1, 2023, targets notably persons residing in the Flemish Region, as well as those residing in another EU or EEA state and working in Flanders. Verify VDAB's indication before calculating aid.",
+      "Articles 15 and 20 distinguish the wage subsidy, which can notably cover employment on Belgian territory, from the support subsidy, reserved for an establishment in the Flemish Region. A filter based only on the Flemish workplace would therefore exclude certain wage subsidy beneficiaries.",
+      "Articles 12 and 16 provide, for workers with disabilities, a maximum duration of five years renewable after evaluation and a subsidy between 20% and 75% of the capped reference wage. For extremely vulnerable workers, the maximum duration is 24 months and the range 20% to 50%. The actual amount depends on the individual decision."
     ],
     "keywords": [
       "individueel maatwerk",
-      "handicap",
-      "loonpremie",
-      "begeleidingspremie",
+      "disability",
+      "wage subsidy",
+      "support subsidy",
       "VDAB",
-      "aide salariale"
+      "wage subsidy"
     ],
     "scope": {},
     "source": "Autorité flamande · codex.vlaanderen.be",
     "url": "https://codex.vlaanderen.be/PrintDocument.ashx?geannoteerd=false&id=1036629",
     "owner": {
       "name": "Autorité flamande",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2023-07-01",
     "status": "valide"
   },
   {
     "id": "flandre-vdab-knelpuntberoepen-2026",
-    "title": "Métiers en pénurie VDAB : édition 2026",
+    "title": "VDAB shortage occupations: 2026 edition",
     "category": "offre",
     "importance": "guidance",
-    "summary": "L'étude VDAB publiée le 1er février 2026 identifie 227 métiers en pénurie. Elle permet d'adapter les recherches de candidats et les possibilités de formation au métier concerné.",
+    "summary": "The VDAB study published on February 1, 2026 identifies 227 shortage occupations. It helps adapt candidate searches and training opportunities to the occupation concerned.",
     "body": [
-      "Le rapport distingue le manque de candidats, l'écart entre leurs compétences et celles recherchées, et les conditions de travail qui rendent le poste moins attractif. Pour une offre difficile à pourvoir, examiner la cause indiquée avant de relever les exigences de diplôme ou d'expérience.",
-      "La liste inclut notamment les infirmiers, aides-soignants, comptables, développeurs, administrateurs systèmes, conseillers payroll et chauffeurs de poids lourds. Certaines entrées sont limitées à un contexte précis : pour les kinésithérapeutes, la pénurie vise l'emploi salarié dans les soins aux personnes âgées.",
-      "Le VDAB a changé sa structure des métiers en 2026 : le nombre total n'est pas directement comparable aux années précédentes. La liste décrit les difficultés de recrutement et sert notamment à orienter les formations ; elle ne dispense pas de vérifier les conditions légales d'accès à la profession."
+      "The report distinguishes the lack of candidates, the gap between their skills and those sought, and working conditions that make the position less attractive. For a difficult-to-fill offer, examine the stated cause before raising diploma or experience requirements.",
+      "The list includes notably nurses, nursing assistants, accountants, developers, system administrators, payroll advisors, and truck drivers. Some entries are limited to specific contexts: for physiotherapists, the shortage targets salaried employment in elderly care.",
+      "VDAB changed its occupation structure in 2026: the total number is not directly comparable to previous years. The list describes recruitment difficulties and helps guide training; it does not exempt from verifying legal conditions for access to the profession."
     ],
     "keywords": [
-      "knelpuntberoepen 2026",
+      "2026 shortage occupations",
       "VDAB",
-      "métiers en pénurie",
-      "recrutement",
-      "formation",
-      "compétences"
+      "shortage occupations",
+      "recruitment",
+      "training",
+      "skills"
     ],
     "scope": {
       "regions": [
@@ -481,28 +481,28 @@
     "url": "https://www.vdab.be/sites/default/files/media/files/Knelpuntberoepen2026.pdf",
     "owner": {
       "name": "VDAB",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2026-02-01",
     "status": "valide"
   },
   {
     "id": "flandre-etudiants-hors-ue",
-    "title": "Étudiants hors UE : séjour et plafond hebdomadaire",
+    "title": "Non-EU students: residence and weekly limit",
     "category": "restrictions",
     "importance": "guidance",
-    "summary": "Un étudiant étranger muni d'un titre de séjour valable portant accès limité au marché du travail peut travailler sans demande distincte d'autorisation, sous conditions. Pendant l'année scolaire, la limite est de 20 heures par semaine.",
+    "summary": "A foreign student with a valid residence title granting restricted labour market access can work without a separate authorization request, under conditions. During the school year, the limit is 20 hours per week.",
     "body": [
-      "La page flamande vise les étudiants étrangers étudiant dans un établissement belge et disposant d'un titre de séjour valide. Contrôler la carte A électronique et la mention arbeidsmarkt – beperkt, ainsi que sa date de validité, avant d'organiser les prestations.",
-      "Le travail doit rester compatible avec les études et ne pas dépasser 20 heures par semaine hors vacances scolaires. Le plafond de 20 heures ne s'applique pas pendant les vacances scolaires. Une offre de contrat étudiant ne suffit donc pas à établir le droit de travailler : conserver la vérification du statut et adapter l'horaire à la période concernée."
+      "The Flemish page targets foreign students studying in a Belgian establishment and holding a valid residence title. Check the electronic Card A and the arbeidsmarkt – beperkt mention, as well as its validity date, before organizing work.",
+      "Work must remain compatible with studies and not exceed 20 hours per week outside school holidays. The 20-hour limit does not apply during school holidays. A student contract offer alone is not sufficient to establish the right to work: keep verifying status and adapt hours to the period concerned."
     ],
     "keywords": [
-      "étudiant étranger",
-      "hors UE",
-      "carte A",
-      "20 heures",
-      "arbeidsmarkt beperkt",
-      "autorisation de travail"
+      "foreign student",
+      "non-EU",
+      "Card A",
+      "20 hours",
+      "labour market restricted",
+      "work authorization"
     ],
     "scope": {
       "regions": [
@@ -516,7 +516,7 @@
     "url": "https://www.vlaanderen.be/werken/een-buitenlander-in-vlaanderen-tewerkstellen/voor-wie",
     "owner": {
       "name": "Departement WEWIS",
-      "team": "Région flamande"
+      "team": "Flemish Region"
     },
     "lastValidated": "2026-09-04",
     "status": "valide"

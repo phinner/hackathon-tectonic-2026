@@ -1,65 +1,65 @@
 [
   {
     "id": "federal-demarches-identification-wide",
-    "title": "Premier recrutement : identification ONSS",
+    "title": "First recruitment: ONSS identification",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Avant le premier engagement, obtenir la qualité d'employeur auprès de l'ONSS via WIDE.",
+    "summary": "Before the first hiring, obtain employer status with ONSS via WIDE.",
     "body": [
-      "L'entreprise doit disposer d'un numéro BCE et demander son identification comme employeur. Cette obligation concerne aussi les personnes physiques, ASBL et administrations qui engagent leur premier travailleur.",
-      "Après traitement de WIDE, l'ONSS communique le numéro ONSS définitif, le code NACE et les catégories d'employeur. Vérifier ces données avec le gestionnaire de paie : l'inscription au répertoire des employeurs permet d'introduire Dimona et DmfA. Référence : instructions ONSS 2026/3."
+      "The company must have a BCE number and request employer identification. This obligation also applies to individuals, nonprofits, and administrations that hire their first worker.",
+      "After WIDE processing, ONSS communicates the definitive ONSS number, NACE code, and employer categories. Verify this data with the payroll manager: registration in the employer registry allows introduction of Dimona and DmfA. Reference: ONSS instructions 2026/3."
     ],
     "keywords": [
-      "premier engagement",
+      "first hiring",
       "WIDE",
-      "identification ONSS",
-      "numéro BCE"
+      "ONSS identification",
+      "BCE number"
     ],
     "scope": {},
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/employers/identification/new_employer.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-01",
     "status": "valide"
   },
   {
     "id": "federal-demarches-dimona-delais",
-    "title": "Dimona : déclarer l’entrée et la sortie",
+    "title": "Dimona: declare entry and exit",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Déclarer l'entrée au plus tard au début effectif des prestations et la sortie dans le délai ONSS.",
+    "summary": "Declare entry at the latest when work actually begins and exit within the ONSS timeframe.",
     "body": [
-      "La Dimona IN mentionne la date de début du lien contractuel, même si les premières prestations ont lieu plus tard. Elle doit être introduite au plus tard au moment où le travailleur commence effectivement à travailler.",
-      "La Dimona OUT doit parvenir au plus tard le premier jour ouvrable suivant la rupture du lien contractuel. Une date de fin déjà renseignée dispense d'une nouvelle OUT si elle reste exacte. Une suspension du contrat ou un passage à temps partiel ne constitue pas une sortie. Instructions ONSS 2026/3."
+      "Dimona IN states the date the contractual relationship begins, even if the first work occurs later. It must be submitted no later than when the worker actually begins working.",
+      "Dimona OUT must arrive no later than the first working day following the end of the contractual relationship. An end date already entered exempts you from a new OUT if it remains accurate. A contract suspension or shift to part-time does not constitute an exit. ONSS instructions 2026/3."
     ],
     "keywords": [
       "Dimona IN",
       "Dimona OUT",
-      "entrée en service",
-      "sortie de service"
+      "entry to work",
+      "exit from work"
     ],
     "scope": {},
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/obligations/obligations_nsso/dimona/declarations_modifications_cancellations.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-01",
     "status": "valide"
   },
   {
     "id": "federal-demarches-dimona-types",
-    "title": "Dimona : choisir OTH, STU, FLX ou EXT",
+    "title": "Dimona: choose OTH, STU, FLX or EXT",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Le type Dimona doit correspondre au régime réel de l'occupation et des cotisations.",
+    "summary": "The Dimona type must match the actual employment regime and contribution scheme.",
     "body": [
-      "Dans les instructions ONSS 2026/3, OTH couvre les travailleurs sans type particulier, notamment les étudiants sans cotisation de solidarité. STU vise les contrats étudiants auxquels cette cotisation s'applique. FLX désigne les flexi-jobs.",
-      "EXT concerne le travail occasionnel dans l'agriculture, l'horticulture, l'horeca, les pompes funèbres et l'intérim correspondant. Il peut aussi concerner un étudiant occasionnel sans cotisation de solidarité. Ne pas choisir EXT pour tout contrat court : contrôler d'abord les conditions du régime occasionnel."
+      "In ONSS instructions 2026/3, OTH covers workers without a specific type, notably students without solidarity contribution. STU targets student contracts subject to this contribution. FLX designates flexi-jobs.",
+      "EXT concerns occasional work in agriculture, horticulture, hospitality, funeral services, and corresponding temporary work. It may also apply to an occasional student without solidarity contribution. Do not choose EXT for every short contract: first check the conditions of the occasional work regime."
     ],
     "keywords": [
       "Dimona",
@@ -67,183 +67,183 @@
       "STU",
       "FLX",
       "EXT",
-      "type de travailleur"
+      "worker type"
     ],
     "scope": {},
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/obligations/obligations_nsso/dimona/principaldata.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-01",
     "status": "valide"
   },
   {
     "id": "federal-demarches-dmfa-trimestrielle",
-    "title": "DmfA : déclaration trimestrielle",
+    "title": "DmfA: quarterly declaration",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Préparer la DmfA avec les données d'occupation et de paie ; Dimona ne la remplace pas.",
+    "summary": "Prepare DmfA with employment and payroll data; Dimona does not replace it.",
     "body": [
-      "Les instructions ONSS 2026/3 fixent les échéances ordinaires au 30 avril, 31 juillet, 31 octobre et 31 janvier, respectivement pour les premier, deuxième, troisième et quatrième trimestres. L'employeur ou son mandataire transmet la déclaration dans le mois suivant le trimestre.",
-      "Les données servent au calcul des cotisations et à l'établissement des droits sociaux. Conserver les accusés de réception et corriger les erreurs dans le délai de prescription. L'ONSS peut encore contrôler et rectifier une déclaration déjà traitée."
+      "ONSS instructions 2026/3 set ordinary deadlines at April 30, July 31, October 31, and January 31, respectively for the first, second, third, and fourth quarters. The employer or their representative submits the declaration within the month following the quarter.",
+      "The data serves to calculate contributions and establish social rights. Keep receipts and correct errors within the prescription deadline. ONSS may still check and rectify a declaration already processed."
     ],
     "keywords": [
       "DmfA",
-      "déclaration trimestrielle",
-      "cotisations sociales",
-      "paie"
+      "quarterly declaration",
+      "social contributions",
+      "payroll"
     ],
     "scope": {},
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/obligations/obligations_nsso/dmfa/general.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-01",
     "status": "valide"
   },
   {
     "id": "federal-demarches-premiers-engagements-2026",
-    "title": "Premiers engagements : réduction depuis juillet 2026",
+    "title": "First hirings: reduction since July 2026",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Recalculer l'aide selon la date d'ouverture du droit et les règles entrées en vigueur le 1er juillet 2026.",
+    "summary": "Recalculate aid based on the date the right opens and rules effective July 1, 2026.",
     "body": [
-      "La loi-programme du 30 mai 2026 ramène le plafond du premier travailleur à 2 000 € par trimestre, sans limite de durée, y compris pour les réductions en cours. Pour les nouveaux droits dès le 1er juillet 2026, les deuxième à cinquième travailleurs ouvrent chacun une réduction maximale de 1 000 € pendant 12 trimestres, à choisir sur 20 trimestres. Ces maxima correspondent à des prestations à temps plein.",
-      "Vérifier les effectifs des 12 mois précédents et l'unité technique d'exploitation : une nouvelle entité juridique ne suffit pas. Les droits antérieurs suivent les dispositions transitoires détaillées par l'ONSS. Les flexi-jobs, extras horeca et étudiants sous solidarité ne comptent pas pour cette réduction. Faire valider le rang et le code DmfA avant d'intégrer l'aide au budget."
+      "The budget law of May 30, 2026 reduces the first employee ceiling to EUR 2,000 per quarter, without time limit, including for ongoing reductions. For new rights as of July 1, 2026, the second to fifth employees each open a maximum reduction of EUR 1,000 over 12 quarters, to be chosen over 20 quarters. These ceilings correspond to full-time work.",
+      "Verify staff numbers for the preceding 12 months and the technical operating unit: a new legal entity is not sufficient. Prior rights follow the transitional provisions detailed by ONSS. Flexi-jobs, hospitality extras, and students under solidarity do not count toward this reduction. Have the rank and DmfA code validated before including the aid in your budget."
     ],
     "keywords": [
-      "premiers engagements",
-      "réduction groupe-cible",
-      "premier travailleur",
-      "unité technique exploitation",
-      "aide embauche"
+      "first hirings",
+      "target-group reduction",
+      "first employee",
+      "technical operating unit",
+      "hiring aid"
     ],
     "scope": {},
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/deductions/structuralreduction_targetgroupreductions/firstengagments.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-01",
     "status": "valide"
   },
   {
     "id": "federal-demarches-flexi-secteurs-2026",
-    "title": "Flexi-jobs : secteurs ouverts et exclusions",
+    "title": "Flexi-jobs: open sectors and exclusions",
     "category": "restrictions",
     "importance": "guidance",
-    "summary": "Depuis le 1er juillet 2026, les secteurs privés et publics sont ouverts en principe ; vérifier les exclusions par activité et fonction.",
+    "summary": "As of July 1, 2026, private and public sectors are open in principle; check activity and function exclusions.",
     "body": [
-      "Les instructions ONSS excluent le personnel de maison CP 323, catégorie 037 ; les pompes funèbres CP 320, sauf ouvriers occasionnels déclarés E ; l'agriculture CP 144 ; l'horticulture CP 145, sauf parcs et jardins ; la pêche maritime CP 143, sauf personnel à terre catégorie 019 et des entrepôts catégorie 086. La vente de poissons catégorie 186 reste exclue.",
-      "Restent exclues les fonctions artistiques visées par la loi du 16 décembre 2022, les tâches relevant des professions de soins de santé de la loi coordonnée du 10 mai 2015 et les occupations visées par la loi du 3 mai 2024 relative au travail du sexe. Un établissement de santé ne peut donc pas utiliser un flexi-job pour des actes de soins réglementés.",
-      "En titres-services, le flexi-job est limité aux trois premiers mois après la première Dimona dans l'entreprise ; la poursuite exige ensuite un CDI ordinaire. L'instruction du 16 septembre 2026 confirme aussi un plafond annuel de 20 % du volume d'emploi pour l'accueil d'enfants flamand concerné : https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/intermediates."
+      "ONSS instructions exclude domestic staff (CP 323, category 037); funeral services (CP 320), except occasional workers declared E; agriculture (CP 144); horticulture (CP 145), except parks and gardens; maritime fishing (CP 143), except shore personnel (category 019) and warehouse staff (category 086). Fish sales (category 186) remain excluded.",
+      "Artistic functions covered by the law of December 16, 2022 remain excluded, as do tasks falling under health care professions in the coordinated law of May 10, 2015 and occupations covered by the law of May 3, 2024 on sex work. A health facility thus cannot use a flexi-job for regulated care acts.",
+      "In voucher services, flexi-jobs are limited to the first three months after the first Dimona in the company; continuation thereafter requires a standard open-ended contract. The instruction of September 16, 2026 also confirms a 20% annual ceiling on employment volume for the Flemish childcare sector concerned: https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/intermediates."
     ],
     "keywords": [
       "flexi-job",
-      "secteurs autorisés",
+      "authorized sectors",
       "opt-out",
-      "professions de santé",
-      "titres-services"
+      "health professions",
+      "voucher services"
     ],
     "scope": {
       "contractTypes": [
         "flexi-job"
       ]
     },
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/socialsecuritycontributions/calculationbase/flexi/scope.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-09-16",
     "status": "valide"
   },
   {
     "id": "federal-demarches-flexi-conditions-salaire",
-    "title": "Flexi-jobs : accès et salaire minimum",
+    "title": "Flexi-jobs: access and minimum wage",
     "category": "contrat",
     "importance": "guidance",
-    "summary": "Vérifier l'occupation antérieure ou la pension et appliquer le minimum salarial correspondant au secteur.",
+    "summary": "Check prior employment or pension status and apply the minimum wage corresponding to the sector.",
     "body": [
-      "Le travailleur doit avoir travaillé au moins à 4/5 chez d'autres employeurs en T-3. Les pensionnés légaux sont dispensés de ce critère. Le passage de 100 % en T-4 à 80 % en T-3 exclut les flexi-jobs en T et T+1. Contrôler aussi l'emploi ordinaire chez l'employeur, les entreprises liées et les indemnités de rupture, selon les exceptions ONSS.",
-      "Depuis le 1er septembre 2026, le minimum horaire horeca est de 12,11 € plus 0,93 € de pécule, soit 13,04 €. Ailleurs, respecter le barème de fonction ou, à défaut, le RMMMG converti en horaire. Le pécule est de 7,67 % ; la cotisation patronale de 28 % porte sur salaire et pécule.",
-      "Conclure le contrat-cadre écrit et les contrats flexi avant les prestations. En intérim, les mentions du cadre figurent dans le contrat intérimaire. Vérifier également le plafond salarial applicable sur la page ONSS.",
-      "L'instruction du 10 septembre 2026 précise qu'en intérim, les prestations ordinaires en T-3 auprès de la même agence ne comptent pas pour les 4/5, même avec un autre utilisateur : https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/intermediates."
+      "The worker must have worked at least 4/5 with other employers in T-3. Legal pensioners are exempt from this requirement. Moving from 100% in T-4 to 80% in T-3 excludes flexi-jobs in T and T+1. Also check ordinary employment with the employer, linked companies, and severance payments, according to ONSS exceptions.",
+      "As of September 1, 2026, the hospitality minimum hourly wage is EUR 12.11 plus EUR 0.93 holiday pay, totaling EUR 13.04. Elsewhere, respect the function schedule or, if absent, the RMMMG converted to hourly rate. Holiday pay is 7.67%; employer contribution is 28% on salary and holiday pay.",
+      "Conclude the written master contract and flexi contracts before work begins. In temporary work, the master provisions appear in the temporary work contract. Also check the applicable salary ceiling on the ONSS page.",
+      "The instruction of September 10, 2026 clarifies that in temporary work, ordinary work in T-3 with the same agency does not count toward the 4/5, even with another user: https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/intermediates."
     ],
     "keywords": [
-      "flexi-salaire",
+      "flexi-wage",
       "4/5",
-      "pensionné",
+      "pensioner",
       "T-3",
-      "pécule de vacances"
+      "holiday pay"
     ],
     "scope": {
       "contractTypes": [
         "flexi-job"
       ]
     },
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/socialsecuritycontributions/calculationbase/flexi/flexi_and_overtime_horeca.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-09-10",
     "status": "valide"
   },
   {
     "id": "federal-demarches-dimona-flx",
-    "title": "Flexi-job : Dimona FLX et réponse OK",
+    "title": "Flexi-job: Dimona FLX and OK response",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Une Dimona FLX correcte, ponctuelle et acceptée est indispensable au régime flexi.",
+    "summary": "A correct, timely, and accepted Dimona FLX is essential to the flexi regime.",
     "body": [
-      "Introduire FLX avant les prestations et vérifier la réponse OK. Les contrôles portent notamment sur les données de carrière de T-3 et la diminution du volume de travail. Une déclaration tardive ne permet pas de déclarer l'occupation comme flexi en DmfA.",
-      "Déclarer séparément chaque trimestre, même si le contrat continue. Pour un contrat oral, établir une Dimona journalière avec les heures de début et de fin réelles, y compris quand le service traverse minuit. Pour un contrat écrit, les prestations doivent aussi être enregistrées selon les modalités ONSS. Référence : instructions 2026/3."
+      "Submit FLX before work and verify the OK response. Checks focus notably on T-3 career data and reduction in work volume. Late declaration does not allow declaring occupation as flexi in DmfA.",
+      "Declare separately each quarter, even if the contract continues. For an oral contract, establish a daily Dimona with actual start and end times, including when the shift crosses midnight. For a written contract, work must also be recorded according to ONSS procedures. Reference: 2026/3 instructions."
     ],
     "keywords": [
       "Dimona FLX",
       "flexi-job",
       "OK NOK",
-      "contrat oral",
-      "enregistrement présences"
+      "oral contract",
+      "attendance recording"
     ],
     "scope": {
       "contractTypes": [
         "flexi-job"
       ]
     },
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/obligations/obligations_nsso/dimona/flexidimona.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-01",
     "status": "valide"
   },
   {
     "id": "federal-demarches-extras-horeca",
-    "title": "Extras horeca : limites de deux jours et contingents",
+    "title": "Hospitality extras: two-day limits and contingents",
     "category": "contrat",
     "importance": "guidance",
-    "summary": "Un extra horeca relève du travail occasionnel pour une occupation de deux jours consécutifs au maximum.",
+    "summary": "A hospitality extra falls under occasional work for occupation of maximum two consecutive days.",
     "body": [
-      "Le régime concerne les CDD ou travaux nettement définis, directement dans l'horeca ou via une agence d'intérim. Au-delà de deux jours consécutifs chez le même employeur ou utilisateur, toutes les prestations doivent relever du régime ordinaire.",
-      "Selon les instructions ONSS 2026/3, les cotisations forfaitaires sont limitées à 50 jours par année civile pour le travailleur et 200 jours pour l'employeur. Les deux contingents doivent encore contenir des jours. Il s'agit de limites du régime avantageux, pas d'une interdiction de travailler davantage.",
-      "Au troisième trimestre 2026, la base forfaitaire est de 11,52 € par heure commencée, plafonnée à 69,12 €, ou de 69,12 € par jour selon la Dimona. Ces bases de cotisations ne sont pas des salaires minima. Utiliser la déclaration occasionnelle et la DmfA correspondante."
+      "The regime applies to fixed-term contracts or clearly defined work, directly in hospitality or via a temporary agency. Beyond two consecutive days with the same employer or user, all work must fall under the standard regime.",
+      "According to ONSS instructions 2026/3, flat-rate contributions are limited to 50 days per calendar year for the worker and 200 days for the employer. Both contingents must still contain days. These are limits of the favorable regime, not a prohibition on working more.",
+      "In the third quarter of 2026, the flat rate is EUR 11.52 per hour started, capped at EUR 69.12, or EUR 69.12 per day according to Dimona. These contribution bases are not minimum wages. Use the occasional work declaration and corresponding DmfA."
     ],
     "keywords": [
-      "extra horeca",
-      "travail occasionnel",
-      "50 jours",
-      "200 jours",
+      "hospitality extra",
+      "occasional work",
+      "50 days",
+      "200 days",
       "Dimona EXT"
     ],
     "scope": {
@@ -255,30 +255,30 @@
         "interim"
       ]
     },
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/socialsecuritycontributions/calculationbase/occasionals_horeca.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-01",
     "status": "valide"
   },
   {
     "id": "federal-demarches-student-at-work-quota",
-    "title": "Étudiants : quota de 650 heures",
+    "title": "Students: 650-hour quota",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Consulter le solde Student at work avant de réserver les heures à cotisations réduites.",
+    "summary": "Check your Student at work balance before reserving hours with reduced contributions.",
     "body": [
-      "Depuis le 1er janvier 2025, le quota fédéral annuel est de 650 heures. La cotisation personnelle réduite est de 2,71 %, contre 13,07 % au régime ordinaire. My Student at work et l'application permettent à l'étudiant de suivre son solde.",
-      "Le dépassement du quota reste possible, mais les heures supplémentaires relèvent des cotisations ordinaires. Le contrat étudiant reste nécessaire si les conditions du statut sont remplies. Après 12 mois d'occupation ininterrompue chez le même employeur, un contrat étudiant n'est plus possible chez celui-ci. Les règles fiscales et les allocations familiales doivent être vérifiées séparément."
+      "Since January 1, 2025, the federal annual quota is 650 hours. The reduced personal contribution is 2.71%, versus 13.07% under the standard regime. My Student at work and the app allow the student to track their balance.",
+      "Exceeding the quota remains possible, but additional hours fall under standard contributions. A student contract remains necessary if status conditions are met. After 12 months of continuous work with the same employer, a student contract is no longer possible with that employer. Tax rules and family allowances must be checked separately."
     ],
     "keywords": [
       "Student at work",
-      "650 heures",
-      "job étudiant",
-      "cotisation solidarité"
+      "650 hours",
+      "student job",
+      "solidarity contribution"
     ],
     "scope": {
       "contractTypes": [
@@ -289,189 +289,189 @@
     "url": "https://www.studentatwork.be/fr/quota-heures-et-impact.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2025-01-01",
     "status": "valide"
   },
   {
     "id": "federal-demarches-dimona-stu",
-    "title": "Étudiants : réserver les heures en Dimona STU",
+    "title": "Students: reserve hours in Dimona STU",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Signer le contrat étudiant avant la Dimona STU et réserver les heures par trimestre.",
+    "summary": "Sign the student contract before Dimona STU and reserve hours by quarter.",
     "body": [
-      "La déclaration préalable STU doit reposer sur un contrat signé et mentionner les heures planifiées de chaque trimestre couvert. Chaque heure commencée compte comme une heure entière. Ne pas déclarer un trimestre sans prestation ni une réservation de zéro heure.",
-      "Sans STU préalable, la cotisation de solidarité est refusée même si le quota reste disponible. Ajuster les heures planifiées au plus tard le dernier jour du mois suivant le trimestre ; après introduction de la DmfA, une modification Dimona n'ajuste plus le contingent. Réserver au plus juste pour ne pas bloquer inutilement les heures disponibles. Référence : instructions ONSS 2026/3."
+      "The prior STU declaration must be based on a signed contract and state the planned hours for each quarter covered. Each hour started counts as one full hour. Do not declare a quarter without work or a zero-hour reservation.",
+      "Without prior STU, solidarity contribution is refused even if quota remains available. Adjust planned hours no later than the last day of the month following the quarter; after DmfA submission, a Dimona modification no longer adjusts the contingent. Reserve just enough to avoid unnecessarily blocking available hours. Reference: ONSS instructions 2026/3."
     ],
     "keywords": [
       "Dimona STU",
-      "réservation heures",
-      "contrat étudiant",
-      "contingent étudiant"
+      "hour reservation",
+      "student contract",
+      "student contingent"
     ],
     "scope": {
       "contractTypes": [
         "etudiant"
       ]
     },
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/obligations/obligations_nsso/dimona/studentdimona.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-01",
     "status": "valide"
   },
   {
     "id": "federal-demarches-permis-unique",
-    "title": "Travailleur étranger : permis unique et dispenses",
+    "title": "Foreign worker: single permit and exemptions",
     "category": "restrictions",
     "importance": "guidance",
-    "summary": "Vérifier le droit de travailler et de séjourner avant de fixer l'entrée en service d'un candidat étranger.",
+    "summary": "Verify work and residence rights before setting the start date for a foreign candidate.",
     "body": [
-      "Depuis le 3 janvier 2019, le permis unique réunit les autorisations de travail et de séjour pour le ressortissant non européen qui vient travailler plus de 90 jours. L'employeur dépose le dossier via le guichet unique ; la Région examine le travail et l'Office des étrangers le séjour. Certains cas, notamment les séjours professionnels de moins de 90 jours et les jeunes au pair, restent soumis à une autre procédure.",
-      "Les ressortissants de l'EEE et de Suisse sont dispensés d'autorisation de travail, comme le précise également https://www.belgium.be/fr/emploi/venir_travailler_en_belgique/permis_de_travail. Pour les autres candidats, examiner le titre de séjour et son accès au marché du travail : un accès illimité peut éviter une nouvelle autorisation liée à l'employeur. Un dépôt de demande ne suffit pas à autoriser les prestations.",
-      "Préparer les pièces de séjour demandées par l'Office : passeport, preuve de redevance, ressources, assurance maladie, certificat médical et, pour les majeurs, extrait de casier judiciaire. Ajouter les pièces professionnelles exigées par la Région compétente."
+      "Since January 3, 2019, the single permit combines work and residence authorizations for the non-EU national working more than 90 days. The employer files through the single window; the Region examines the work and the Immigration Office the residence. Some cases, notably professional stays under 90 days and au pair arrangements, remain subject to other procedures.",
+      "Nationals of the EEA and Switzerland are exempt from work authorization, as also specified at https://www.belgium.be/fr/emploi/venir_travailler_en_belgique/permis_de_travail. For other candidates, examine the residence title and its labor market access: unlimited access may avoid a new authorization tied to the employer. Filing a request does not authorize work.",
+      "Prepare the residence documents requested by the Immigration Office: passport, proof of payment, resources, health insurance, medical certificate, and for adults, judicial record extract. Add professional documents required by the competent Region."
     ],
     "keywords": [
-      "permis unique",
       "single permit",
-      "autorisation travail",
-      "EEE",
-      "titre séjour"
+      "single permit",
+      "work authorization",
+      "EEA",
+      "residence title"
     ],
     "scope": {},
-    "source": "Office des étrangers · dofi.ibz.be",
+    "source": "Immigration Office · dofi.ibz.be",
     "url": "https://dofi.ibz.be/fr/themas/onderdanen-van-derde-landen/werk/permis-unique",
     "owner": {
       "name": "SPF Intérieur, Office des étrangers",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2019-01-03",
     "status": "valide"
   },
   {
     "id": "federal-demarches-limosa-declaration",
-    "title": "Détachement : déclaration Limosa préalable",
+    "title": "Posting: prior Limosa declaration",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "L'employeur étranger doit déclarer l'occupation soumise à Limosa avant les prestations en Belgique.",
+    "summary": "The foreign employer must declare the work subject to Limosa before work begins in Belgium.",
     "body": [
-      "La déclaration préalable produit un accusé de réception L-1. L'employeur doit le transmettre pour présentation à l'utilisateur belge avant l'occupation ; les services de contrôle peuvent aussi le demander.",
-      "Le dispositif vise notamment les salariés qui travaillent temporairement ou partiellement en Belgique tout en relevant habituellement d'une occupation étrangère. Vérifier les exemptions sur le portail Limosa avant de conclure qu'une mission échappe à la déclaration. Limosa ne vaut pas autorisation de travail ni de séjour. Référence : instructions ONSS 2026/3."
+      "The prior declaration produces an L-1 receipt. The employer must transmit it for presentation to the Belgian user before the work; inspection services may also request it.",
+      "The system targets notably employees who work temporarily or part-time in Belgium while normally falling under foreign occupation. Check exemptions on the Limosa portal before concluding that a mission escapes declaration. Limosa is not work or residence authorization. Reference: ONSS instructions 2026/3."
     ],
     "keywords": [
       "Limosa",
       "L-1",
-      "détachement",
-      "employeur étranger"
+      "posting",
+      "foreign employer"
     ],
     "scope": {},
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/obligations/obligations_nsso/limosa/declaration.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-01",
     "status": "valide"
   },
   {
     "id": "federal-demarches-limosa-client-belge",
-    "title": "Client belge : contrôler le formulaire Limosa L-1",
+    "title": "Belgian client: check Limosa L-1 form",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Avant l'intervention d'un salarié détaché, demander sa preuve Limosa et signaler son absence à l'ONSS.",
+    "summary": "Before work by a posted employee, request proof of Limosa and report its absence to ONSS.",
     "body": [
-      "L'utilisateur final ou le donneur d'ordre belge contrôle la déclaration avant toute occupation directe ou en sous-traitance. Il demande l'accusé de réception L-1 au prestataire ou au travailleur concerné.",
-      "Si le document ne peut être présenté, le client ou son mandataire introduit la déclaration « absence du formulaire L-1 » via Limosa. Conserver l'accusé de réception : ce signalement légal décharge le client de sa responsabilité concernant cette obligation déclarative. Référence : instructions ONSS 2026/3."
+      "The final user or Belgian ordering party checks the declaration before any direct or subcontracted work. It requests the L-1 receipt from the service provider or worker involved.",
+      "If the document cannot be presented, the client or their representative submits the \"L-1 form absent\" declaration via Limosa. Keep the receipt: this legal notice relieves the client of responsibility for this declaration obligation. Reference: ONSS instructions 2026/3."
     ],
     "keywords": [
       "Limosa L-1",
-      "client belge",
-      "sous-traitance",
-      "travailleur détaché"
+      "Belgian client",
+      "subcontracting",
+      "posted worker"
     ],
     "scope": {},
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/obligations/obligations_nsso/limosa/belgianuserobligations.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-01",
     "status": "valide"
   },
   {
     "id": "federal-demarches-registre-personnel",
-    "title": "Registre du personnel et dispense Dimona",
+    "title": "Personnel register and Dimona exemption",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Déterminer si un registre reste requis pour les personnes recrutées et les lieux d'occupation.",
+    "summary": "Determine whether a register remains required for hired persons and work locations.",
     "body": [
-      "Depuis le 1er janvier 2003, l'employeur couvert par Dimona bénéficie de la dispense de registre général pour les travailleurs déclarés. Il doit néanmoins tenir un registre pour les travailleurs hors champ Dimona. Examiner aussi les obligations et dispenses relatives au registre spécial en cas de lieux de travail multiples.",
-      "Lorsqu'un registre est requis, numéroter les travailleurs dans l'ordre de leur mise au travail. Inscrire les données d'identité au plus tard à la prise de fonction et la date de fin du contrat dans les sept jours civils suivants. Organiser l'accès aux documents pour les contrôles sur les lieux concernés."
+      "Since January 1, 2003, the employer covered by Dimona benefits from the general register exemption for declared workers. They must nevertheless keep a register for workers outside Dimona scope. Also examine obligations and exemptions relating to the special register in case of multiple work locations.",
+      "When a register is required, number workers in the order they begin work. Enter identity data no later than when they start and the contract end date within seven calendar days thereafter. Arrange access to documents for inspections at the relevant locations."
     ],
     "keywords": [
-      "registre du personnel",
-      "registre spécial",
-      "documents sociaux",
+      "personnel register",
+      "special register",
+      "social documents",
       "Dimona"
     ],
     "scope": {},
-    "source": "SPF Emploi · emploi.belgique.be",
+    "source": "SPF Employment · emploi.belgique.be",
     "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/documents-sociaux/registre-du-personnel",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2003-01-01",
     "status": "valide"
   },
   {
     "id": "federal-demarches-compte-individuel",
-    "title": "Compte individuel : contenu et remise au salarié",
+    "title": "Individual account: content and delivery to employee",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Ouvrir le compte individuel dès l'engagement et planifier sa remise au travailleur.",
+    "summary": "Open the individual account upon hiring and plan its delivery to the worker.",
     "body": [
-      "Le compte retrace les prestations et la rémunération par période de paie, avec les retenues et totaux trimestriels et annuels. Il doit identifier l'employeur et le travailleur avant utilisation. Les éléments de rémunération sont inscrits au plus tard quand celle-ci est exigible. Le décompte de paie reste dû lors de chaque règlement définitif.",
-      "Remettre les données d'identification dans les deux mois suivant l'entrée en service. La copie annuelle complète est due avant le 1er mars de l'année suivante ; en cas de départ en cours d'année, dans les deux mois suivant la fin du trimestre du départ. Le cadre réglementaire est l'arrêté royal du 8 août 1980, publié le 27 août 1980 ; la page pratique consultée ne porte pas de date de mise à jour."
+      "The account records work and compensation by pay period, with deductions and quarterly and annual totals. It must identify the employer and worker before use. Compensation elements are entered no later than when they become due. A pay statement remains due at each final settlement.",
+      "Deliver identification data within two months of the worker's start. The complete annual copy is due before March 1 of the following year; if departure occurs during the year, within two months of the end of the quarter of departure. The regulatory framework is the Royal Decree of August 8, 1980, published August 27, 1980; the practical page consulted bears no update date."
     ],
     "keywords": [
-      "compte individuel",
-      "fiche de paie",
-      "documents sociaux",
-      "remise documents"
+      "individual account",
+      "pay stub",
+      "social documents",
+      "document delivery"
     ],
     "scope": {},
-    "source": "SPF Emploi · emploi.belgique.be",
+    "source": "SPF Employment · emploi.belgique.be",
     "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/documents-sociaux/compte-individuel",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "1980-08-27",
     "status": "valide"
   },
   {
     "id": "federal-demarches-checkinatwork",
-    "title": "Chantiers : enregistrer les présences Checkinatwork",
+    "title": "Construction sites: record attendance with Checkinatwork",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Prévoir l'enregistrement quotidien avant le travail sur les chantiers soumis à Checkinatwork.",
+    "summary": "Plan daily recording before work on construction sites subject to Checkinatwork.",
     "body": [
-      "Pour les travaux immobiliers, le seuil est de 500 000 € hors TVA. L'enregistrement concerne les personnes qui exécutent les travaux, y compris les indépendants ; l'entreprise et l'exécutant doivent s'assurer qu'il a été fait. Le dispositif couvre également certaines activités du secteur de la viande dans les établissements concernés par l'AFSCA.",
-      "Identifier le chantier et convenir de qui enregistre la présence avant le début des prestations de chaque jour. L'avis publié le 30 juillet 2026 annonce le passage des travaux immobiliers à Check in and out at Work au 1er avril 2027. Au 30 septembre 2026, cette bascule n'est pas encore applicable."
+      "For construction work, the threshold is EUR 500,000 excluding VAT. Recording concerns people executing the work, including the self-employed; the company and executor must ensure it has been done. The system also covers certain meat sector activities in establishments subject to AFSCA.",
+      "Identify the site and agree beforehand on who records attendance before the start of each day's work. The notice published July 30, 2026 announces the shift of construction work to Check in and out at Work on April 1, 2027. As of September 30, 2026, this shift is not yet applicable."
     ],
     "keywords": [
       "Checkinatwork",
-      "chantier",
-      "présence quotidienne",
+      "construction site",
+      "daily attendance",
       "500000 euros",
-      "secteur viande"
+      "meat sector"
     ],
     "scope": {
       "sectors": [
@@ -483,38 +483,38 @@
     "url": "https://www.socialsecurity.be/citizen/fr/static/applics/checkinatwork/index.htm",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-30",
     "status": "valide"
   },
   {
     "id": "federal-demarches-nettoyage-check-in-out",
-    "title": "Nettoyage : enregistrer les entrées, sorties et pauses",
+    "title": "Cleaning: record check-ins, check-outs and breaks",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Prévoir Check In and Out at Work pour les activités de nettoyage immobilier concernées.",
+    "summary": "Plan Check In and Out at Work for building cleaning activities involved.",
     "body": [
-      "Depuis le 1er septembre 2024, le travailleur enregistre sur place le début et la fin de l'activité ainsi que les pauses. L'obligation vise aussi les indépendants, intérimaires et stagiaires qui exécutent les activités entrant dans le champ du dispositif.",
-      "Le régime concerne le nettoyage de biens immobiliers pour le compte d'un tiers lorsque la déclaration relève des seuils applicables aux travaux immobiliers. Vérifier le champ de la déclaration de travaux avant de configurer les accès. Un simple relevé quotidien de présence ne remplace pas l'enregistrement des sorties et des pauses."
+      "Since September 1, 2024, the worker records on site the start and end of activity as well as breaks. The obligation also applies to self-employed, temporary workers, and interns executing activities within the system's scope.",
+      "The regime applies to cleaning real estate for a third party when the declaration falls under thresholds applicable to construction work. Check the scope of the construction declaration before configuring access. A simple daily attendance note does not replace the recording of check-outs and breaks."
     ],
     "keywords": [
-      "nettoyage",
+      "cleaning",
       "Check In and Out at Work",
-      "pauses",
-      "enregistrement temps",
-      "présences"
+      "breaks",
+      "time recording",
+      "attendance"
     ],
     "scope": {
       "sectors": [
         "nettoyage"
       ]
     },
-    "source": "ONSS, instructions administratives 2026/3 · socialsecurity.be",
+    "source": "ONSS, administrative instructions 2026/3 · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/obligations/obligations_nsso/Check_In_and_Out_at_Work.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2024-09-01",
     "status": "valide"

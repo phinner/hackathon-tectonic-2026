@@ -15,12 +15,12 @@ import {
 export const UNKNOWN = "inconnu";
 
 export const steps = [
-  { key: "sector", question: "Quel secteur ?", options: sectors },
-  { key: "role", question: "Quel métier ?", options: roles },
-  { key: "province", question: "Quelle zone ?", options: provinces },
-  { key: "workTime", question: "Quel régime ?", options: workTimes },
-  { key: "contract", question: "Quel contrat ?", options: contractTypes },
-  { key: "company", question: "Quelle entreprise ?", options: companies },
+  { key: "sector", question: "Which sector?", options: sectors },
+  { key: "role", question: "Which job?", options: roles },
+  { key: "province", question: "Which region?", options: provinces },
+  { key: "workTime", question: "Which working time?", options: workTimes },
+  { key: "contract", question: "Which contract?", options: contractTypes },
+  { key: "company", question: "Which company?", options: companies },
 ] as const;
 
 export type CriteriaKey = (typeof steps)[number]["key"];
@@ -32,7 +32,7 @@ export function readCriteria(params: URLSearchParams): Criteria {
     const value = params.get(key);
     if (value) criteria[key] = value;
   }
-  // Le métier détermine le secteur quand celui-ci n'est pas connu.
+  // Job determines sector when it is not known.
   const role = byId(roles, criteria.role);
   if (role && (!criteria.sector || criteria.sector === UNKNOWN)) criteria.sector = role.sector;
   return criteria;
@@ -53,12 +53,12 @@ const normalize = (s: string) =>
 const mentions = (text: string, keywords: string[]) =>
   keywords.some((k) => new RegExp(`\\b${normalize(k)}\\b`).test(text));
 
-/** Pré-remplit les critères à partir d'une question en langage naturel. */
+/** Pre-fills criteria from a natural language question. */
 export function parseQuery(query: string): Criteria {
   const text = normalize(query);
   const criteria: Criteria = {};
 
-  // Les mots-clés les plus longs d'abord : « expert comptable » avant « comptable ».
+  // Longest keywords first: "accountancy expert" before "accountant".
   const role = [...roles]
     .sort((a, b) => Math.max(...b.keywords.map((k) => k.length)) - Math.max(...a.keywords.map((k) => k.length)))
     .find((r) => mentions(text, r.keywords));
@@ -82,12 +82,12 @@ export function parseQuery(query: string): Criteria {
 export type Match = {
   doc: Doc;
   score: number;
-  matched: string[]; // critères qui ciblent précisément ce document
-  imprecise: string[]; // critères inconnus : pertinence non garantie
+  matched: string[]; // criteria that precisely target this document
+  imprecise: string[]; // unknown criteria: relevance not guaranteed
 };
 
-// Un document ciblé sur le métier est plus pertinent qu'un document ciblé sur la région, etc.
-const criterionWeight = { métier: 6, entreprise: 6, secteur: 4, contrat: 4, province: 3, région: 3, régime: 2 };
+// A document targeted to a job is more relevant than a document targeted to a region, etc.
+const criterionWeight = { job: 6, company: 6, sector: 4, contract: 4, province: 3, region: 3, "working time": 2 };
 
 export function matchDocuments(criteria: Criteria): Match[] {
   const province = byId(provinces, criteria.province);
@@ -96,13 +96,13 @@ export function matchDocuments(criteria: Criteria): Match[] {
   for (const doc of documents) {
     const { scope } = doc;
     const checks: [label: keyof typeof criterionWeight, allowed: string[] | undefined, value: string | undefined][] = [
-      ["secteur", scope.sectors, criteria.sector],
-      ["métier", scope.roles, criteria.role],
-      ["région", scope.regions, province?.region ?? criteria.province],
+      ["sector", scope.sectors, criteria.sector],
+      ["job", scope.roles, criteria.role],
+      ["region", scope.regions, province?.region ?? criteria.province],
       ["province", scope.provinces, criteria.province],
-      ["régime", scope.workTimes, criteria.workTime],
-      ["contrat", scope.contractTypes, criteria.contract],
-      ["entreprise", scope.companies, criteria.company],
+      ["working time", scope.workTimes, criteria.workTime],
+      ["contract", scope.contractTypes, criteria.contract],
+      ["company", scope.companies, criteria.company],
     ];
 
     const matched: string[] = [];
@@ -125,8 +125,8 @@ export function matchDocuments(criteria: Criteria): Match[] {
     results.push({ doc, score, matched, imprecise });
   }
 
-  // Obsolètes en dernier, puis le plus de critères ciblés, puis le moins de critères à confirmer,
-  // puis le poids des critères, l'importance et la fraîcheur.
+  // Obsolete last, then most targeted criteria, then fewest criteria to confirm,
+  // then criterion weight, importance and freshness.
   return results.sort(
     (a, b) =>
       Number(a.doc.status === "obsolete") - Number(b.doc.status === "obsolete") ||
@@ -139,11 +139,11 @@ export function matchDocuments(criteria: Criteria): Match[] {
 }
 
 export const levels = [
-  { id: "ue", label: "Union européenne" },
-  { id: "federal", label: "Fédéral" },
-  { id: "regional", label: "Régional" },
-  { id: "secteur", label: "Secteur" },
-  { id: "interne", label: "Interne" },
+  { id: "ue", label: "European Union" },
+  { id: "federal", label: "Federal" },
+  { id: "regional", label: "Regional" },
+  { id: "secteur", label: "Sector" },
+  { id: "interne", label: "Internal" },
 ] as const;
 
 export type LevelId = (typeof levels)[number]["id"];
@@ -151,8 +151,8 @@ export type LevelId = (typeof levels)[number]["id"];
 export function levelOf(doc: Doc): LevelId {
   if (!doc.url) return "interne";
   if (doc.owner.team.includes("Union")) return "ue";
-  if (/Région|Communauté/.test(doc.owner.team) || doc.scope.regions) return "regional";
-  if (doc.owner.team.startsWith("Secteur") || doc.scope.sectors || doc.scope.roles) return "secteur";
+  if (/Region|Community|Région|Communauté/.test(doc.owner.team) || doc.scope.regions) return "regional";
+  if (/^(Sector|Secteur)/.test(doc.owner.team) || doc.scope.sectors || doc.scope.roles) return "secteur";
   return "federal";
 }
 

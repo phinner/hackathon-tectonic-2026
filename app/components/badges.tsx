@@ -14,7 +14,7 @@ import {
   type Option,
 } from "~/data/taxonomy";
 
-/** Icône Material Symbols. La taille passe par `style` : la feuille de Google Fonts l'emporterait sur une classe Tailwind. */
+/** Material Symbols icon. Size is passed via `style`: the Google Fonts sheet would override a Tailwind class. */
 export function Icon({ name, size = 18, className = "" }: { name: string; size?: number; className?: string }) {
   return (
     <span aria-hidden className={`material-symbols-outlined shrink-0 select-none ${className}`} style={{ fontSize: size }}>
@@ -47,19 +47,19 @@ export function StatusBadges({ doc }: { doc: Doc }) {
       {doc.status === "valide" && (
         <span className={`${chip} border-emerald-200 bg-emerald-50 text-emerald-800`}>
           <Icon name="verified_user" size={14} />
-          Validé
+          Verified
         </span>
       )}
       {doc.status === "obsolete" && (
         <span className={`${chip} border-slate-300 bg-slate-200 text-slate-600`}>
           <Icon name="history" size={14} />
-          Obsolète
+          Obsolete
         </span>
       )}
       {doc.status === "a-verifier" && (
         <span className={`${chip} border-amber-200 bg-amber-50 text-amber-800`}>
           <Icon name="pending" size={14} />
-          À vérifier
+          To verify
         </span>
       )}
       {doc.conflictsWith?.length ? (
@@ -84,38 +84,38 @@ export function Keywords({ keywords }: { keywords: string[] }) {
   );
 }
 
-/** Petit titre en capitales au-dessus des titres de section. */
+/** Small uppercase title above section titles. */
 export function Eyebrow({ children, className = "text-secondary" }: { children: React.ReactNode; className?: string }) {
   return <span className={`text-label-sm font-semibold tracking-wider uppercase ${className}`}>{children}</span>;
 }
 
 export const formatDate = (iso: string) =>
-  new Date(iso).toLocaleDateString("fr-BE", { day: "numeric", month: "short", year: "numeric" });
+  new Date(iso).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
 
 const criterionChips: Record<string, { icon: string; value: (c: Criteria) => Option | undefined }> = {
-  métier: { icon: "badge", value: (c) => byId(roles, c.role) },
-  secteur: { icon: "domain", value: (c) => byId(sectors, c.sector) },
-  entreprise: { icon: "apartment", value: (c) => byId(companies, c.company) },
-  contrat: { icon: "description", value: (c) => byId(contractTypes, c.contract) },
+  job: { icon: "badge", value: (c) => byId(roles, c.role) },
+  sector: { icon: "domain", value: (c) => byId(sectors, c.sector) },
+  company: { icon: "apartment", value: (c) => byId(companies, c.company) },
+  contract: { icon: "description", value: (c) => byId(contractTypes, c.contract) },
   province: { icon: "pin_drop", value: (c) => byId(provinces, c.province) },
-  région: { icon: "map", value: (c) => byId(regions, byId(provinces, c.province)?.region) },
-  régime: { icon: "schedule", value: (c) => byId(workTimes, c.workTime) },
+  region: { icon: "map", value: (c) => byId(regions, byId(provinces, c.province)?.region) },
+  "working time": { icon: "schedule", value: (c) => byId(workTimes, c.workTime) },
 };
 
-/** Critères du poste que le document cible (vert) ou dont il dépend sans qu'ils soient précisés (ambre). */
+/** Position criteria that the document targets (green) or depends on without being specified (amber). */
 export function CriteriaChips({ matched, imprecise, criteria }: { matched: string[]; imprecise: string[]; criteria: Criteria }) {
   if (matched.length === 0 && imprecise.length === 0) {
     return (
       <span className={`${chip} border-slate-200 bg-slate-50 font-medium text-slate-500`}>
         <Icon name="public" size={14} />
-        Tous postes
+        All positions
       </span>
     );
   }
   return (
     <>
       {matched.map((label) => (
-        <span key={label} className={`${chip} border-emerald-200 bg-emerald-50 text-emerald-800`} title={`Ciblé : ${label}`}>
+        <span key={label} className={`${chip} border-emerald-200 bg-emerald-50 text-emerald-800`} title={`Targeted: ${label}`}>
           <Icon name={criterionChips[label]?.icon ?? "check"} size={14} />
           {criterionChips[label]?.value(criteria)?.label ?? label}
         </span>
@@ -124,7 +124,7 @@ export function CriteriaChips({ matched, imprecise, criteria }: { matched: strin
         <span
           key={label}
           className={`${chip} border-dashed border-amber-300 bg-amber-50 text-amber-800`}
-          title={`Dépend du critère « ${label} », non précisé`}
+          title={`Depends on criterion "${label}", not specified`}
         >
           <Icon name={criterionChips[label]?.icon ?? "help"} size={14} />
           {label.charAt(0).toUpperCase() + label.slice(1)} ?

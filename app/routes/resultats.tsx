@@ -52,7 +52,7 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
     <div className="space-y-space-lg">
       <div className="flex flex-col justify-between gap-space-sm md:flex-row md:items-end">
         <div>
-          <h1 className="text-headline-md text-primary md:text-headline-lg">Documents pour ce poste</h1>
+          <h1 className="text-headline-md text-primary md:text-headline-lg">Documents for this job</h1>
           <p className="mt-1 text-on-surface-variant">
             {filtering ? `${shown} sur ${total} documents` : `${total} documents`}
           </p>
@@ -62,7 +62,7 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
           className="inline-flex h-10 items-center gap-space-xs rounded-lg border border-slate-200 bg-surface-container-lowest px-space-md text-label-md text-on-surface transition-colors hover:border-slate-300 hover:bg-slate-50"
         >
           <Icon name="tune" size={16} />
-          Modifier
+          Change
         </Link>
       </div>
 
@@ -77,7 +77,7 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
         <p className="flex items-start gap-space-sm rounded-lg border border-amber-200 bg-amber-50 px-space-md py-2 text-body-sm text-amber-800">
           <Icon name="warning" size={18} />
           <span>
-            Non précisé : {missing.map((s) => s.question.replace(/ \?$/, "").toLowerCase()).join(", ")}.
+            Not specified: {missing.map((s) => s.question.replace(/ \?$/, "").toLowerCase()).join(", ")}.
           </span>
         </p>
       )}
@@ -85,7 +85,7 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
       <Form
         method="get"
         onChange={(e) => {
-          // Les filtres vides n'encombrent pas l'URL.
+          // Empty filters don't clutter the URL.
           const params = new URLSearchParams([...new FormData(e.currentTarget)].filter(([, v]) => v !== "") as [string, string][]);
           submit(params, { replace: true, preventScrollReset: true });
         }}
@@ -93,50 +93,50 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
       >
         {steps.map(({ key }) => criteria[key] && <input key={key} type="hidden" name={key} value={criteria[key]} />)}
         <label className="relative min-w-48 flex-1">
-          <span className="sr-only">Rechercher</span>
+          <span className="sr-only">Search</span>
           <Icon name="search" className="absolute top-1/2 left-3 -translate-y-1/2 text-outline" />
           <input
             type="search"
             name="q"
             defaultValue={filters.q}
-            placeholder="Filtrer par mot-clé"
+            placeholder="Filter by keyword"
             className={`${select} w-full pl-9`}
           />
         </label>
-        <select name="cat" defaultValue={filters.category ?? ""} className={select} aria-label="Catégorie">
-          <option value="">Toutes catégories</option>
+        <select name="cat" defaultValue={filters.category ?? ""} className={select} aria-label="Category">
+          <option value="">All categories</option>
           {categories.map((c) => (
             <option key={c.id} value={c.id}>{c.label}</option>
           ))}
         </select>
-        <select name="niveau" defaultValue={filters.level ?? ""} className={select} aria-label="Niveau">
-          <option value="">Tous niveaux</option>
+        <select name="niveau" defaultValue={filters.level ?? ""} className={select} aria-label="Level">
+          <option value="">All levels</option>
           {levels.map((l) => (
             <option key={l.id} value={l.id}>{l.label}</option>
           ))}
         </select>
         <select name="importance" defaultValue={filters.importance ?? ""} className={select} aria-label="Importance">
-          <option value="">Toute importance</option>
+          <option value="">All importance</option>
           {Object.entries(importanceLevels).map(([id, { label }]) => (
             <option key={id} value={id}>{label}</option>
           ))}
         </select>
-        <select name="tri" defaultValue={filters.sort ?? ""} className={select} aria-label="Tri">
-          <option value="">Tri : pertinence</option>
-          <option value="recent">Tri : plus récents</option>
+        <select name="tri" defaultValue={filters.sort ?? ""} className={select} aria-label="Sort">
+          <option value="">Sort: Relevance</option>
+          <option value="recent">Sort: Most recent</option>
         </select>
         <label className="inline-flex h-10 items-center gap-2 px-1 text-label-md text-on-surface">
           <input type="checkbox" name="cible" value="1" defaultChecked={filters.targeted} className="size-4 accent-secondary" />
-          Ciblés sur ce poste
+          Targeted to this position
         </label>
         {filtering && (
           <Link to={`/resultats${search}`} className="px-1 text-label-md text-secondary hover:underline">
-            Réinitialiser
+            Reset
           </Link>
         )}
       </Form>
 
-      {shown === 0 && <p className="text-body-md text-on-surface-variant">Aucun document ne correspond à ces filtres.</p>}
+      {shown === 0 && <p className="text-body-md text-on-surface-variant">No documents match these filters.</p>}
 
       <div className="grid gap-space-md md:grid-cols-2 lg:grid-cols-4">
         {groups.map((group, i) => {
@@ -152,7 +152,7 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
                 <div className="mb-space-sm flex items-center justify-between pt-1">
                   <span className="text-label-sm font-semibold text-outline">{String(i + 1).padStart(2, "0")}</span>
                   <span className="rounded-lg bg-surface-container px-2 py-0.5 text-label-sm font-semibold text-on-surface-variant">
-                    {group.matches.length} doc.
+                    {group.matches.length} docs
                   </span>
                 </div>
                 <h3 className="mb-2 text-title-md text-primary">{group.label}</h3>
@@ -170,7 +170,7 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
                 </ul>
               </div>
               <div className="mt-space-md flex items-center justify-between border-t border-outline-variant/20 pt-space-xs text-label-sm text-on-surface-variant">
-                <span>{legal > 0 ? `${legal} obligation${legal > 1 ? "s" : ""}` : ""}</span>
+                <span>{legal > 0 ? `${legal} requirement${legal > 1 ? "s" : ""}` : ""}</span>
                 <Icon name="south" size={14} className="text-secondary" />
               </div>
             </a>
@@ -193,9 +193,9 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
                 <summary className="flex h-12 cursor-pointer list-none items-center justify-center gap-space-xs rounded-xl border-2 border-dashed border-secondary/50 bg-surface-container-low text-label-md font-semibold text-secondary transition-colors hover:border-secondary hover:bg-surface-container [&::-webkit-details-marker]:hidden">
                   <Icon name="expand_more" className="transition-transform group-open:rotate-180" />
                   <span className="group-open:hidden">
-                    Voir les {group.matches.length - PREVIEW} autres documents
+                    See {group.matches.length - PREVIEW} other documents
                   </span>
-                  <span className="hidden group-open:inline">Masquer</span>
+                  <span className="hidden group-open:inline">Hide</span>
                 </summary>
                 <ol className="mt-space-sm space-y-space-sm">
                   {group.matches.slice(PREVIEW).map((match, rank) => (
@@ -246,7 +246,7 @@ function DocItem({
               <p className="text-body-sm text-on-surface-variant">{doc.summary}</p>
               <p className="flex items-center gap-1 text-label-sm text-outline">
                 <Icon name="verified_user" size={14} className="text-secondary" />
-                {doc.source} · {doc.owner.name} · validé le {formatDate(doc.lastValidated)}
+                {doc.source} · {doc.owner.name} · validated on {formatDate(doc.lastValidated)}
               </p>
               <div className="flex flex-wrap gap-space-xs">
                 <CriteriaChips matched={matched} imprecise={imprecise} criteria={criteria} />

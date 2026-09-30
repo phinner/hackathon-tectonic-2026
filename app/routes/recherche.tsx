@@ -5,13 +5,13 @@ import { regions, roles } from "~/data/taxonomy";
 import { parseQuery, readCriteria, steps, toSearch, UNKNOWN, type Criteria, type CriteriaKey } from "~/lib/search";
 
 export function meta() {
-  return [{ title: "Définir le poste · HR Compass" }];
+  return [{ title: "Define position · HR Compass" }];
 }
 
 export function loader({ request }: Route.LoaderArgs) {
   const url = new URL(request.url);
   const q = url.searchParams.get("q");
-  // Une question libre est convertie en critères, puis l'utilisateur les vérifie.
+  // A free question is converted into criteria, which the user then verifies.
   if (q) {
     const params = new URLSearchParams(toSearch(parseQuery(q)));
     params.set("from", q);
@@ -25,7 +25,7 @@ type StepOption = Step["options"][number];
 
 function withValue(criteria: Criteria, from: string | null, key: CriteriaKey, value?: string) {
   const next: Criteria = { ...criteria, [key]: value };
-  // Changer de secteur invalide le métier choisi.
+  // Changing sector invalidates the chosen job.
   if (key === "sector") delete next.role;
   const params = new URLSearchParams(toSearch(next));
   if (from) params.set("from", from);
@@ -40,7 +40,7 @@ function optionsFor(step: Step, criteria: Criteria): StepOption[] {
 }
 
 function labelOf(step: Step, value: string) {
-  if (value === UNKNOWN) return "Je ne sais pas";
+  if (value === UNKNOWN) return "I don't know";
   return step.options.find((o) => o.id === value)?.label ?? value;
 }
 
@@ -51,7 +51,7 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
 
   return (
     <div className="mx-auto max-w-4xl">
-      <h1 className="text-headline-md text-primary md:text-headline-lg">Définir le poste</h1>
+      <h1 className="text-headline-md text-primary md:text-headline-lg">Define position</h1>
 
       <Stepper criteria={criteria} currentIndex={currentIndex} />
 
@@ -59,8 +59,8 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
         <div className="mt-space-lg flex items-start gap-space-sm rounded-xl border border-outline-variant/30 bg-surface-container-low p-space-md">
           <Icon name="auto_awesome" size={20} className="text-secondary" />
           <div className="text-body-sm">
-            <p className="text-label-md text-secondary">Pré-rempli depuis votre question</p>
-            <p className="mt-1 text-on-surface italic">« {from} »</p>
+            <p className="text-label-md text-secondary">Pre-filled from your question</p>
+            <p className="mt-1 text-on-surface italic">"{from}"</p>
           </div>
         </div>
       )}
@@ -89,7 +89,7 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
                   </div>
                 </div>
                 <Link to={withValue(criteria, from, step.key)} className="text-label-md text-secondary hover:underline">
-                  Modifier
+                  Change
                 </Link>
               </li>
             );
@@ -119,10 +119,10 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
               <StepOptions step={step} criteria={criteria} from={from} />
               <div className="mt-space-md flex justify-between border-t border-outline-variant/20 pt-space-sm text-body-sm">
                 <Link to={withValue(criteria, from, step.key, UNKNOWN)} className="text-on-surface-variant hover:underline">
-                  Je ne sais pas
+                  I don't know
                 </Link>
                 <Link to={`/resultats${toSearch(criteria)}`} className="font-medium text-secondary hover:underline">
-                  Voir les documents →
+                  See documents →
                 </Link>
               </div>
             </li>
@@ -137,7 +137,7 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
             to={`/resultats${toSearch(criteria)}`}
             className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-lg bg-primary px-space-xl text-label-md text-on-primary shadow-md transition-all hover:bg-primary-container active:scale-95 sm:w-auto"
           >
-            Voir les documents
+            See documents
             <Icon name="arrow_forward" />
           </Link>
         </div>
@@ -156,15 +156,15 @@ const stepIcons: Record<CriteriaKey, string> = {
 };
 
 const stepLabels: Record<CriteriaKey, string> = {
-  sector: "Secteur",
-  role: "Métier",
-  province: "Zone",
-  workTime: "Régime",
-  contract: "Contrat",
-  company: "Entreprise",
+  sector: "Sector",
+  role: "Job",
+  province: "Region",
+  workTime: "Working time",
+  contract: "Contract",
+  company: "Company",
 };
 
-/** Barre de progression du parcours : étapes faites, en cours, à venir. */
+/** Progress bar of the journey: completed steps, current, upcoming. */
 function Stepper({ criteria, currentIndex }: { criteria: Criteria; currentIndex: number }) {
   return (
     <ol className="mt-space-lg flex items-start">
@@ -218,7 +218,7 @@ function StepOptions({ step, criteria, from }: { step: Step; criteria: Criteria;
     </Link>
   );
 
-  // Les provinces sont regroupées par région.
+  // Provinces are grouped by region.
   if (step.key === "province") {
     return (
       <div className="mt-space-md space-y-space-md">

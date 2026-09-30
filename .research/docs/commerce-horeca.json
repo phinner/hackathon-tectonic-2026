@@ -1,210 +1,210 @@
 [
   {
     "id": "commerce-horeca-cp201-baremes-2026",
-    "title": "CP 201 : barèmes du commerce indépendant",
+    "title": "Sector (CP 201): independent retail wages",
     "category": "contrat",
     "importance": "legal",
-    "summary": "Choisir le barème selon le groupe de l’entreprise, l’effectif, la fonction et l’expérience. La grille officielle applicable depuis mai 2026 évite d’annoncer un minimum salarial uniforme pour tous les commerces.",
+    "summary": "Choose the wage scale according to company group, workforce size, function, and experience. The official grid effective since May 2026 avoids announcing a uniform minimum wage for all retail.",
     "body": [
-      "La page est en vigueur au 1er mai 2026, après une indexation de 2 %. Pour le groupe 1, personnel de vente des entreprises de moins de 20 travailleurs, à zéro année d’expérience, les minima mensuels bruts sont de 2 037,81 € en catégorie 1, 2 094,97 € en catégorie 2, 2 126,02 € en catégorie 3 et 2 258,40 € en catégorie 4.",
-      "Identifier d’abord le groupe et la catégorie correspondant aux tâches réelles. Le personnel administratif dispose de tableaux distincts. Dans le tableau du groupe 1 visant le personnel de vente des entreprises à partir de 20 travailleurs, les employés de catégorie 1 passent en catégorie 2 après six mois d’ancienneté dans l’entreprise. Contrôler également le minimum mensuel moyen garanti applicable."
+      "The page is effective May 1, 2026, after a 2% indexation. For group 1, sales staff of companies with fewer than 20 workers, at zero years of experience, gross monthly minimums are 2,037.81 euros in category 1, 2,094.97 euros in category 2, 2,126.02 euros in category 3, and 2,258.40 euros in category 4.",
+      "First identify the group and category corresponding to actual tasks. Administrative staff have separate tables. In the group 1 table for sales staff of companies with 20 or more workers, category 1 employees move to category 2 after six months seniority in the company. Also check the applicable guaranteed average minimum monthly wage."
     ],
     "keywords": [
-      "CP 201",
-      "commerce indépendant",
-      "barème 2026",
-      "vendeur",
-      "caissier",
-      "minimumloon"
+      "Sector (CP 201)",
+      "independent retail",
+      "2026 wages",
+      "salesperson",
+      "cashier",
+      "minimum wage"
     ],
     "scope": {
       "sectors": [
         "commerce"
       ]
     },
-    "source": "SPF Emploi · salairesminimums.be",
+    "source": "SPF Employment · salairesminimums.be",
     "url": "https://www.salairesminimums.be/document.html?jcId=ef3a492211e9441ea34facd0978a312f",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-05-11",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-cp202-baremes-2026",
-    "title": "CP 202 : salaires du commerce alimentaire",
+    "title": "Sector (CP 202): food retail wages",
     "category": "contrat",
     "importance": "legal",
-    "summary": "Utiliser la grille de juillet 2026 et distinguer personnel de vente, personnel administratif, gérants et étudiants.",
+    "summary": "Use the July 2026 grid and distinguish between sales staff, administrative staff, managers, and students.",
     "body": [
-      "La grille officielle est en vigueur au 1er juillet 2026 après une indexation de 1 %. Dans le barème général B, personnel de vente du groupe 1, employés ordinaires sans ancienneté, les minima mensuels bruts sont de 2 099,26 € en catégorie I, 2 216,43 € en catégorie II, 2 322,79 € en catégorie III et 2 462,68 € en catégorie IV.",
-      "Le groupe 2 et les gérants ont leurs propres tableaux. Pour les étudiants du groupe 1, la grille de juillet 2026 applique notamment 75 % à 16 ans, 82,5 % à 17 ans et 87,5 % à 18 ans. Vérifier la commission ou sous-commission exacte avant de reprendre un montant dans une offre."
+      "The official grid is effective July 1, 2026 after a 1% indexation. In general scale B, sales staff of group 1, ordinary employees with no seniority, gross monthly minimums are 2,099.26 euros in category I, 2,216.43 euros in category II, 2,322.79 euros in category III, and 2,462.68 euros in category IV.",
+      "Group 2 and managers have their own tables. For group 1 students, the July 2026 grid applies notably 75% at age 16, 82.5% at age 17, and 87.5% at age 18. Check the exact committee or sub-committee before using an amount in a job offer."
     ],
     "keywords": [
-      "CP 202",
-      "commerce alimentaire",
-      "barème",
-      "gérant",
-      "étudiant",
-      "ancienneté"
+      "Sector (CP 202)",
+      "food retail",
+      "wage scale",
+      "manager",
+      "student",
+      "seniority"
     ],
     "scope": {
       "sectors": [
         "commerce"
       ]
     },
-    "source": "SPF Emploi · salairesminimums.be",
+    "source": "SPF Employment · salairesminimums.be",
     "url": "https://www.salairesminimums.be/document.html?jcId=426a1f7960dd44d7a1e1f1c4da29f7ae",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-07",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-cp311-baremes-2026",
-    "title": "CP 311 : salaires des grandes entreprises de vente",
+    "title": "Sector (CP 311): large retail business wages",
     "category": "contrat",
     "importance": "legal",
-    "summary": "La grille croise expérience professionnelle et ancienneté dans l’entreprise. Le salaire annoncé doit préciser la catégorie et le régime horaire.",
+    "summary": "The grid cross-references professional experience and company seniority. The stated wage must specify category and working hours regime.",
     "body": [
-      "La grille en vigueur au 1er juillet 2026 intègre une indexation de 2 % et présente un régime hebdomadaire de 35 heures. Pour un employé de 21 ans ou plus en catégorie I, sans expérience, le salaire mensuel brut à l’embauche est de 2 197,30 € ; la colonne d’une année d’ancienneté indique 2 217,89 €.",
-      "Les montants mensuels s’appliquent au temps partiel au prorata des prestations. Le SPF précise que ses calculs d’indexation peuvent différer légèrement des montants sectoriels calculés à partir des montants de base. Faire confirmer le calcul de paie correspondant à la fonction et à l’expérience reconnue."
+      "The grid effective July 1, 2026 incorporates 2% indexation and presents a 35-hour weekly regime. For an employee age 21 or older in category I, with no experience, the gross monthly starting wage is 2,197.30 euros; the one-year seniority column shows 2,217.89 euros.",
+      "Monthly amounts apply to part-time on a pro rata basis. The SPF clarifies that its indexation calculations may differ slightly from sector amounts calculated from base amounts. Confirm the payroll calculation corresponding to the function and recognized experience."
     ],
     "keywords": [
-      "CP 311",
-      "grande distribution",
-      "barème 2026",
-      "35 heures",
-      "expérience",
-      "temps partiel"
+      "Sector (CP 311)",
+      "large retail",
+      "2026 wages",
+      "35 hours",
+      "experience",
+      "part-time"
     ],
     "scope": {
       "sectors": [
         "commerce"
       ]
     },
-    "source": "SPF Emploi · salairesminimums.be",
+    "source": "SPF Employment · salairesminimums.be",
     "url": "https://www.salairesminimums.be/document.html?jcId=6439af9d3c664efab301fead723b94ba",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-16",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-cp312-baremes-2026",
-    "title": "CP 312 : barèmes des grands magasins",
+    "title": "Sector (CP 312): department store wages",
     "category": "contrat",
     "importance": "legal",
-    "summary": "Vérifier la catégorie, l’expérience et l’ancienneté avant de fixer le salaire. La CP 312 prévoit une formule propre pour convertir le barème au temps partiel.",
+    "summary": "Check category, experience, and seniority before setting wages. Sector (CP 312) provides a specific formula to convert the wage scale to part-time.",
     "body": [
-      "La grille en vigueur au 1er mai 2026 intègre une indexation de 2 %. Pour les employés d’exécution de catégorie 1, à partir de 21 ans, sans expérience, le minimum mensuel brut à l’embauche est de 2 238,97 €. La colonne d’une année d’ancienneté indique 2 256,54 €.",
-      "Pour le temps partiel, la page prévoit un salaire horaire égal au montant du barème de la catégorie divisé par 151,66. La rémunération mensuelle correspond au barème multiplié par les heures mensuelles, puis divisé par 151,66. Le SPF signale de possibles écarts légers liés à sa méthode d’indexation ; vérifier le montant sectoriel utilisé par la paie."
+      "The grid effective May 1, 2026 incorporates 2% indexation. For execution staff category 1, age 21 and over, with no experience, the gross monthly minimum at hiring is 2,238.97 euros. The one-year seniority column shows 2,256.54 euros.",
+      "For part-time, the page provides an hourly rate equal to the category wage scale amount divided by 151.66. Monthly compensation equals the wage scale multiplied by monthly hours, then divided by 151.66. The SPF notes possible slight variations due to its indexation method; verify the sector amount used in payroll."
     ],
     "keywords": [
-      "CP 312",
-      "grands magasins",
-      "salaire minimum",
-      "151,66",
-      "ancienneté"
+      "Sector (CP 312)",
+      "department stores",
+      "minimum wage",
+      "151.66",
+      "seniority"
     ],
     "scope": {
       "sectors": [
         "commerce"
       ]
     },
-    "source": "SPF Emploi · salairesminimums.be",
+    "source": "SPF Employment · salairesminimums.be",
     "url": "https://www.salairesminimums.be/document.html?jcId=bf051bd2fde745eb9daa6361743517b0",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-05-11",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-cp302-baremes-2026",
-    "title": "CP 302 : barèmes Horeca et salaires étudiants",
+    "title": "Sector (CP 302): Horeca wages and student wages",
     "category": "contrat",
     "importance": "legal",
-    "summary": "Classer le poste Horeca dans la catégorie de fonctions correcte avant d’annoncer le salaire. Le barème ordinaire et le salaire flexi sont des régimes distincts.",
+    "summary": "Classify the Horeca position in the correct job category before announcing the wage. Standard wages and flexi-job pay are separate regimes.",
     "body": [
-      "La fiche officielle en vigueur au 1er septembre 2026 présente les salaires ordinaires sur une base de 38 heures par semaine. À zéro année de fonction, les minima horaires bruts sont notamment de 15,2097 € pour les catégories I et II, 15,2977 € pour III, 15,9698 € pour IV et 16,8849 € pour V. Le minimum mensuel des catégories I et II à ce niveau est de 2 504,53 €.",
-      "Le salaire dépend ensuite des années de fonction. Pour un contrat étudiant, le pourcentage du barème de la catégorie est de 70 % à 15 ans, 80 % à 16 ans, 90 % à 17 ans et 100 % à 18 ans. Ces pourcentages ne dispensent pas de vérifier si les tâches et horaires sont autorisés pour le jeune."
+      "The official sheet effective September 1, 2026 presents standard wages on a 38-hour-per-week basis. At zero years of function, gross hourly minimums are notably 15.2097 euros for categories I and II, 15.2977 euros for III, 15.9698 euros for IV, and 16.8849 euros for V. The minimum monthly wage for categories I and II at this level is 2,504.53 euros.",
+      "Wages then depend on years of function. For a student contract, the percentage of the category wage scale is 70% at age 15, 80% at age 16, 90% at age 17, and 100% at age 18. These percentages do not exempt checking whether tasks and schedules are permitted for the young person."
     ],
     "keywords": [
-      "CP 302",
+      "Sector (CP 302)",
       "Horeca",
-      "barème 2026",
+      "2026 wages",
       "classification",
-      "étudiant",
-      "38 heures"
+      "student",
+      "38 hours"
     ],
     "scope": {
       "sectors": [
         "horeca"
       ]
     },
-    "source": "SPF Emploi · salairesminimums.be",
+    "source": "SPF Employment · salairesminimums.be",
     "url": "https://www.salairesminimums.be/document.html?jcId=ceaa4cb322cc4933bdb1b933335760ee",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-09-24",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-ouverture-commerces-reforme-2026",
-    "title": "Commerces : ouverture de 5 h à 21 h en 2026",
+    "title": "Retail: opening hours 5 AM to 9 PM in 2026",
     "category": "restrictions",
     "importance": "guidance",
-    "summary": "La page officielle actualisée en août 2026 autorise en principe les commerces à ouvrir de 5 h à 21 h, sept jours sur sept. Vérifier séparément les règles d’occupation du personnel.",
+    "summary": "The official page updated in August 2026 in principle authorizes retail stores to open from 5 AM to 9 PM, seven days a week. Separately check staff work rules.",
     "body": [
-      "La loi du 10 novembre 2006 a été modifiée par la loi du 20 juillet 2026. Selon la présentation actuelle du SPF Économie, la plupart des magasins peuvent ouvrir de 5 h à 21 h et rester ouverts sept jours sur sept. L’ancienne obligation générale de fermeture hebdomadaire du commerce ne doit donc plus être reprise comme règle actuelle.",
-      "Les magasins de nuit suivent en principe une plage de 18 h à 7 h et peuvent subir des restrictions communales. L’Horeca est exclu de cette législation sur les heures d’ouverture. Pour une activité mixte, le SPF indique une exclusion de l’ensemble de l’entreprise si l’activité Horeca atteint au moins 40 % du chiffre d’affaires annuel. L’ouverture au public ne suffit pas à autoriser le travail salarié du dimanche."
+      "The November 10, 2006 law was amended by the July 20, 2026 law. According to the current SPF Economy presentation, most stores can open from 5 AM to 9 PM and remain open seven days a week. The old general requirement for weekly store closure should no longer be cited as current rule.",
+      "Night stores typically follow a 6 PM to 7 AM window and may face municipal restrictions. Horeca is excluded from this opening-hours legislation. For mixed activity, the SPF indicates the entire business is excluded if Horeca activity reaches at least 40% of annual revenue. Public opening does not suffice to authorize paid Sunday work."
     ],
     "keywords": [
-      "heures d’ouverture",
-      "loi 10 novembre 2006",
-      "repos hebdomadaire",
-      "loi 20 juillet 2026",
-      "magasin de nuit"
+      "opening hours",
+      "November 10, 2006 law",
+      "weekly rest",
+      "July 20, 2026 law",
+      "night store"
     ],
     "scope": {
       "sectors": [
         "commerce"
       ]
     },
-    "source": "SPF Économie · economie.fgov.be",
+    "source": "SPF Economy · economie.fgov.be",
     "url": "https://economie.fgov.be/fr/themes/ventes/reglementation/heures-douverture-dans-le",
     "owner": {
       "name": "SPF Économie, P.M.E., Classes moyennes et Énergie",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-08-10",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-dimanche-repos-personnel",
-    "title": "Travail du dimanche et repos du personnel",
+    "title": "Sunday work and staff rest",
     "category": "contrat",
     "importance": "guidance",
-    "summary": "Identifier la dérogation autorisant le travail dominical et prévoir le repos compensatoire. Les règles du personnel sont distinctes de l’ouverture du magasin.",
+    "summary": "Identify the exemption permitting Sunday work and provide compensatory rest. Staff rules differ from store opening.",
     "body": [
-      "La loi du 16 mars 1971 interdit en principe le travail du dimanche, article 11. Son article 66 autorise notamment l’occupation dans les hôtels, restaurants et débits de boissons. Dans le commerce de détail, l’article 14 autorise en général le travail de 8 h à midi ; les prestations sur toute la journée nécessitent une autre dérogation, notamment celles de l’arrêté royal du 3 décembre 1987.",
-      "Le repos compensatoire est en principe accordé dans les six jours suivants. Selon l’article 16, il dure une journée si la prestation dépasse quatre heures et une demi-journée sinon. Les commerces des centres touristiques reconnus peuvent occuper chaque travailleur jusqu’à 39 dimanches par année civile, sous les conditions de l’article 14, § 2. Vérifier aussi les primes sectorielles et les restrictions propres aux mineurs."
+      "The March 16, 1971 law in principle prohibits Sunday work, article 11. Its article 66 notably authorizes employment in hotels, restaurants, and bars. In retail, article 14 generally permits work from 8 AM to noon; full-day services require another exemption, notably those of the December 3, 1987 royal order.",
+      "Compensatory rest is in principle granted within the following six days. Per article 16, it lasts a full day if the service exceeds four hours and a half-day otherwise. Retail in recognized tourist centers can employ each worker up to 39 Sundays per calendar year, under article 14, section 2 conditions. Also check sector bonuses and minor-specific restrictions."
     ],
     "keywords": [
-      "dimanche",
-      "repos compensatoire",
-      "commerce de détail",
+      "Sunday",
+      "compensatory rest",
+      "retail",
       "Horeca",
-      "centre touristique"
+      "tourist center"
     ],
     "scope": {
       "sectors": [
@@ -212,31 +212,31 @@
         "horeca"
       ]
     },
-    "source": "SPF Emploi · emploi.belgique.be",
+    "source": "SPF Employment · emploi.belgique.be",
     "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/duree-du-travail-et-temps-de-repos/repos-du-dimanche",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "1971-03-30",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-sce-suppression-reduction-2026",
-    "title": "Horeca : suppression de la réduction liée à la caisse",
+    "title": "Horeca: suppression of register-linked reduction",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Ne plus budgéter la réduction ONSS pour travailleurs fixes Horeca lors d’un recrutement depuis juillet 2026. L’ONSS confirme sa suppression sans transition.",
+    "summary": "No longer budget NSSO reduction for fixed Horeca workers from July 2026 recruitment. NSSO confirms elimination with no transition.",
     "body": [
-      "Les instructions ONSS 2026/3 annoncent la suppression de cette réduction groupe-cible à partir du 1er juillet 2026, par la loi-programme du 30 mai 2026 publiée le 1er juin. Les développements qui suivent sur la page décrivent l’ancien dispositif et ne constituent plus une aide ouverte pour le troisième trimestre 2026.",
-      "Le dispositif supprimé liait l’avantage à une caisse enregistreuse agréée dans les établissements concernés et à l’enregistrement quotidien du début et de la fin du travail, via SCE/GKS ou système alternatif. Il distinguait explicitement ces enregistrements de la Dimona, qui restait nécessaire. Ne pas présenter l’ancien pointage lié à cette réduction comme une formalité permettant encore d’obtenir l’aide."
+      "NSSO 2026/3 instructions announce the elimination of this target-group reduction as of July 1, 2026, per the program law of May 30, 2026 published June 1. Subsequent developments on the page describe the old system and no longer constitute aid available for the third quarter 2026.",
+      "The eliminated system tied the benefit to an approved register in the establishments concerned and daily recording of work start and end times via SCE/GKS or alternative system. It explicitly distinguished these records from Dimona, which remained necessary. Do not present the old timekeeping tied to this reduction as a formality still allowing aid access."
     ],
     "keywords": [
       "SCE",
       "GKS",
-      "caisse enregistreuse",
-      "réduction ONSS",
-      "travailleurs fixes",
+      "cash register",
+      "NSSO reduction",
+      "fixed workers",
       "Dimona"
     ],
     "scope": {
@@ -244,32 +244,32 @@
         "horeca"
       ]
     },
-    "source": "ONSS · socialsecurity.be",
+    "source": "NSSO · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/deductions/structuralreduction_targetgroupreductions/horecanew.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-08-27",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-extras-50-jours",
-    "title": "Extras Horeca : contingents et cotisations forfaitaires",
+    "title": "Horeca extras: contingents and flat-rate contributions",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Un extra est engagé pour au maximum deux jours consécutifs. Vérifier les contingents du travailleur et de l’employeur avant d’appliquer les forfaits ONSS.",
+    "summary": "An extra is hired for a maximum two consecutive days. Check worker and employer contingents before applying NSSO flat rates.",
     "body": [
-      "Les instructions ONSS 2026/3 réservent le travail occasionnel à un CDD ou à un travail nettement défini d’au maximum deux jours consécutifs chez l’employeur ou l’utilisateur Horeca. Au-delà, toutes les prestations concernées doivent être déclarées comme travail ordinaire. Le régime avantageux exige des jours disponibles dans les deux contingents : 50 jours par année civile pour le travailleur et 200 pour l’employeur.",
-      "À partir du troisième trimestre 2026, l’assiette forfaitaire est de 11,52 € par heure commencée, plafonnée à 69,12 € en Dimona horaire, ou de 69,12 € par jour en Dimona journalière. L’assiette est majorée de 8 % pour les ouvriers. Ces montants servent au calcul des cotisations, pas à fixer le salaire. Consulter Horeca@work et utiliser la déclaration adaptée ; le dépassement des contingents entraîne les cotisations ordinaires."
+      "NSSO 2026/3 instructions limit casual work to a fixed-term contract or clearly defined work of maximum two consecutive days with the Horeca employer or user. Beyond that, all related services must be declared as ordinary work. The favorable regime requires available days in both contingents: 50 days per calendar year for the worker and 200 for the employer.",
+      "From the third quarter 2026, the flat-rate basis is 11.52 euros per commenced hour, capped at 69.12 euros in hourly Dimona, or 69.12 euros per day in daily Dimona. The basis is increased by 8% for workers. These amounts serve to calculate contributions, not set wages. Consult Horeca@work and use adapted declaration; contingent excess triggers ordinary contributions."
     ],
     "keywords": [
       "extra",
-      "50 jours",
-      "200 jours",
+      "50 days",
+      "200 days",
       "Horeca@work",
       "Dimona EXT",
-      "forfait ONSS"
+      "NSSO flat rate"
     ],
     "scope": {
       "sectors": [
@@ -280,32 +280,32 @@
         "interim"
       ]
     },
-    "source": "ONSS · socialsecurity.be",
+    "source": "NSSO · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/socialsecuritycontributions/calculationbase/occasionals_horeca.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-08-27",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-flexi-jobs-conditions-salaires",
-    "title": "Flexi-jobs : contrôles et salaire en septembre 2026",
+    "title": "Flexi-jobs: controls and wages in September 2026",
     "category": "contrat",
     "importance": "guidance",
-    "summary": "Contrôler l’accès individuel au flexi-job et appliquer le salaire du secteur. Le montant Horeca de juillet 2026 est remplacé par celui de septembre.",
+    "summary": "Check individual flexi-job access and apply sector wages. The July 2026 Horeca amount is replaced by the September amount.",
     "body": [
-      "En principe, le candidat non pensionné doit avoir travaillé au moins à 80 % au trimestre T-3. Contrôler aussi les incompatibilités chez l’employeur et les entreprises liées, ainsi que l’exclusion temporaire après une réduction de 100 % à 80 %. Conclure le contrat-cadre requis puis le contrat flexi, déclarer en Dimona FLX et enregistrer les prestations. Les intérimaires suivent les modalités particulières décrites par l’ONSS.",
-      "Depuis le 1er septembre 2026, le minimum Horeca est de 12,11 €/h plus 0,93 € de pécule, soit 13,04 €/h. Le plafond Horeca indiqué est de 21 €/h hors pécule, soit 22,61 € avec pécule. Dans les autres secteurs, dont le commerce, le salaire de base respecte le barème de la fonction et son plafond est en principe de 150 % du minimum. Le plafond fiscal des non-pensionnés est de 18 440 € pour 2026."
+      "In principle, the non-pensioned candidate must have worked at least 80% in quarter T-3. Also check incompatibilities with employer and related businesses, as well as temporary exclusion after reduction from 100% to 80%. Conclude the required framework contract then the flexi contract, declare in Dimona FLX, and record services. Temps workers follow specific arrangements described by NSSO.",
+      "Since September 1, 2026, the Horeca minimum is 12.11 euros/hour plus 0.93 euros vacation allowance, equaling 13.04 euros/hour. The stated Horeca ceiling is 21 euros/hour excluding vacation allowance, or 22.61 euros with allowance. In other sectors, including retail, base pay respects the job wage scale and its ceiling is in principle 150% of minimum. The tax ceiling for non-pensioned is 18,440 euros for 2026."
     ],
     "keywords": [
       "flexi-job",
-      "CP 302",
+      "Sector (CP 302)",
       "commerce",
       "T-3",
       "Dimona FLX",
-      "flexisalaire"
+      "flexible wage"
     ],
     "scope": {
       "sectors": [
@@ -316,92 +316,92 @@
         "flexi-job"
       ]
     },
-    "source": "ONSS · socialsecurity.be",
+    "source": "NSSO · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/socialsecuritycontributions/calculationbase/flexi/flexi_and_overtime_horeca.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-09-10",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-pourboires-service-onss",
-    "title": "Pourboires et service : assiette ONSS",
+    "title": "Tips and service: NSSO basis",
     "category": "contrat",
     "importance": "guidance",
-    "summary": "La rémunération au pourboire impose un traitement de paie spécifique. Elle ne dispense pas l’employeur des déclarations et cotisations.",
+    "summary": "Tip-based compensation requires specific payroll treatment. It does not exempt the employer from declarations and contributions.",
     "body": [
-      "Les instructions ONSS 2026/3 prévoient des rémunérations forfaitaires journalières pour les ouvriers rémunérés entièrement ou partiellement au pourboire ou au service, dans les fonctions concernées. Les forfaits ont été adaptés au 1er juillet 2026. Pour une rémunération exclusivement au pourboire, multiplier les journées par le forfait applicable puis majorer l’assiette de 8 %.",
-      "En cas de rémunération mixte, comparer l’assiette forfaitaire aux sommes et avantages dus par l’employeur, portés à 108 %, selon les règles de la page. La prime de fin d’année reste soumise aux cotisations ordinaires. Identifier la fonction exacte et son code DmfA ; préciser au candidat la part fixe et le mode de répartition du service, sans présenter les pourboires comme automatiquement exonérés."
+      "NSSO 2026/3 instructions provide flat daily payments for workers compensated entirely or partially by tips or service in relevant functions. The flat rates were adjusted July 1, 2026. For exclusively tip-based compensation, multiply days by applicable flat rate then increase the basis by 8%.",
+      "For mixed compensation, compare the flat basis to sums and benefits owed by employer, increased by 8%, per page rules. Year-end bonus remains subject to ordinary contributions. Identify the exact function and its DmfA code; clarify to the candidate the fixed portion and service distribution method, without presenting tips as automatically exempt."
     ],
     "keywords": [
-      "pourboires",
+      "tips",
       "service",
-      "ouvrier",
-      "forfait journalier",
+      "worker",
+      "daily flat rate",
       "DmfA",
-      "CP 302"
+      "Sector (CP 302)"
     ],
     "scope": {
       "sectors": [
         "horeca"
       ]
     },
-    "source": "ONSS · socialsecurity.be",
+    "source": "NSSO · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/socialsecuritycontributions/calculationbase/tipremunerations.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-08-27",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-heures-supplementaires-450",
-    "title": "Horeca : 450 heures supplémentaires volontaires",
+    "title": "Horeca: 450 voluntary overtime hours",
     "category": "contrat",
     "importance": "guidance",
-    "summary": "Le régime Horeca applicable en 2026 prévoit jusqu’à 450 heures volontaires par année civile sous conditions. Il faut un accord préalable et une caisse enregistreuse déclarée.",
+    "summary": "The Horeca regime applicable in 2026 provides up to 450 voluntary hours per calendar year under conditions. Prior agreement and a declared cash register are required.",
     "body": [
-      "Le régime spécifique de l’article 31/1 de la loi du 16 novembre 2015, présenté par le SPF dans sa version actuelle, vise la CP 302 et exige un SCE déclaré au fisc dans chaque lieu d’exploitation. Depuis la réforme prenant effet au 1er avril 2026, le quota atteint 450 heures volontaires annuelles. Les limites restent de 11 heures par jour et 50 heures par semaine.",
-      "L’accord écrit préalable dure un an, avec reconduction tacite et résiliation écrite moyennant un mois de préavis. Ces heures ne donnent pas de repos compensatoire. Sur les 450 heures, 360 ne donnent pas de sursalaire et 90 y donnent droit. L’utilisation parallèle du crédit Horeca non récupérable ne permet pas de dépasser un total de 360 heures exonérées de sursalaire. Des conditions supplémentaires concernent le temps partiel."
+      "The specific regime of article 31/1 of the November 16, 2015 law, presented by SPF in its current version, targets Sector (CP 302) and requires an SCE declared to tax authorities at each place of business. Since the reform effective April 1, 2026, the quota reaches 450 annual voluntary hours. Limits remain 11 hours per day and 50 hours per week.",
+      "The prior written agreement lasts one year, with automatic renewal and written termination with one month notice. These hours do not generate compensatory rest. Of the 450 hours, 360 do not carry overtime pay and 90 do. Parallel use of the non-recoverable Horeca credit does not permit exceeding a total of 360 hours exempt from overtime pay. Additional conditions apply to part-time."
     ],
     "keywords": [
-      "heures supplémentaires",
-      "450 heures",
-      "360 heures",
+      "overtime hours",
+      "450 hours",
+      "360 hours",
       "SCE",
-      "accord écrit",
-      "CP 302"
+      "written agreement",
+      "Sector (CP 302)"
     ],
     "scope": {
       "sectors": [
         "horeca"
       ]
     },
-    "source": "SPF Emploi · emploi.belgique.be",
+    "source": "SPF Employment · emploi.belgique.be",
     "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/duree-du-travail-et-temps-de-repos/duree-du-travail-et-diminution",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-04-01",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-etudiants-contingent-650",
-    "title": "Étudiants : contingent ONSS de 650 heures",
+    "title": "Students: NSSO contingent of 650 hours",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Vérifier le solde étudiant avant de réserver les heures en Dimona. Le contingent social ne remplace ni le contrat étudiant ni le barème sectoriel.",
+    "summary": "Check student balance before reserving hours in Dimona. The social contingent does not replace student contract or sector wage scale.",
     "body": [
-      "Les instructions ONSS 2026/3 prévoient 650 heures par année civile pour l’application de la cotisation de solidarité. Le contingent porte sur les heures effectivement travaillées, tous employeurs confondus. Les heures rémunérées sans prestation effective, notamment les jours fériés ou de maladie, ne sont pas décomptées, mais leur rémunération reste soumise à la cotisation de solidarité.",
-      "Les heures sont réservées en Dimona STU sur la base d’un contrat signé. Faire consulter le solde avant un engagement simultané dans plusieurs magasins ou établissements. Le cumul avec les 50 jours occasionnels Horeca est prévu ; distinguer les déclarations STU et EXT et leurs assiettes de cotisations. Après un diplôme obtenu en juin, l’ONSS admet encore le régime étudiant jusqu’au 30 septembre si l’emploi reste réellement étudiant et ne constitue pas un essai déguisé."
+      "NSSO 2026/3 instructions provide 650 hours per calendar year for solidarity contribution application. The contingent covers actually worked hours, all employers combined. Hours paid without actual service, notably holidays or sick leave, are not counted, but their payment remains subject to solidarity contribution.",
+      "Hours are reserved in Dimona STU based on a signed contract. Have the balance checked before simultaneous engagement at multiple stores or establishments. Combination with 50 occasional Horeca days is provided; distinguish STU and EXT declarations and their contribution bases. After a diploma obtained in June, NSSO still admits student regime until September 30 if employment genuinely remains student and does not constitute a disguised trial."
     ],
     "keywords": [
-      "étudiant",
-      "650 heures",
+      "student",
+      "650 hours",
       "Student at work",
       "Dimona STU",
       "Horeca",
@@ -416,32 +416,32 @@
         "etudiant"
       ]
     },
-    "source": "ONSS · socialsecurity.be",
+    "source": "NSSO · socialsecurity.be",
     "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/persons/specific/students.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-08-27",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-contrat-etudiant-travaux-legers",
-    "title": "Contrat étudiant et travaux légers dès 15 ans",
+    "title": "Student contract and light work from age 15",
     "category": "contrat",
     "importance": "guidance",
-    "summary": "Formaliser chaque engagement étudiant par écrit au plus tard à l’entrée en service. Depuis mai 2026, certains jeunes de 15 ans encore soumis à l’obligation scolaire à temps plein peuvent effectuer des travaux légers.",
+    "summary": "Formalize each student engagement in writing no later than at start of service. Since May 2026, certain 15-year-olds still subject to full-time schooling obligation can perform light work.",
     "body": [
-      "Le contrat étudiant est un contrat à durée déterminée, individuel, établi en deux exemplaires et signé au plus tard à l’entrée en service. Il doit comporter les mentions obligatoires. Les trois premiers jours effectivement travaillés constituent la période d’essai. Après douze mois ininterrompus chez le même employeur, les règles du contrat ordinaire s’appliquent.",
-      "Depuis le 4 mai 2026, les jeunes de 15 ans encore soumis à l’obligation scolaire à temps plein peuvent être engagés uniquement pour les travaux légers autorisés. La liste comprend notamment l’aide à l’accueil, le réassort, l’assistance à la vente et certaines tâches légères de nettoyage, sans formation spécifique ni équipements mécaniques. Ne pas étendre cette liste à tous les postes de cuisine ou de service ; vérifier les conditions de l’article 7.15 de la loi sur le travail."
+      "A student contract is a fixed-term, individual contract, established in two copies and signed no later than at start of service. It must contain mandatory mentions. The first three actually worked days constitute the trial period. After 12 uninterrupted months with the same employer, ordinary contract rules apply.",
+      "Since May 4, 2026, young people age 15 still subject to full-time schooling obligation can be hired only for authorized light work. The list notably includes reception assistance, restocking, sales assistance, and certain light cleaning tasks, without specific training or mechanical equipment. Do not extend this list to all kitchen or service positions; check article 7.15 conditions of the labor law."
     ],
     "keywords": [
-      "contrat étudiant",
-      "15 ans",
-      "travaux légers",
-      "réassortisseur",
-      "accueil",
-      "période d’essai"
+      "student contract",
+      "age 15",
+      "light work",
+      "stocker",
+      "reception",
+      "trial period"
     ],
     "scope": {
       "sectors": [
@@ -452,32 +452,32 @@
         "etudiant"
       ]
     },
-    "source": "SPF Emploi · emploi.belgique.be",
+    "source": "SPF Employment · emploi.belgique.be",
     "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/contrats-de-travail-particuliers/contrat-doccupation-detudiants",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-05-04",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-hygiene-formation-personnel",
-    "title": "Horeca : former le personnel à l’hygiène alimentaire",
+    "title": "Horeca: training staff on food hygiene",
     "category": "restrictions",
     "importance": "guidance",
-    "summary": "Prévoir une formation ou des instructions adaptées aux tâches alimentaires dès l’accueil du personnel. Les responsables de l’autocontrôle doivent maîtriser les principes HACCP.",
+    "summary": "Provide training or instructions adapted to food tasks from staff onboarding. Those responsible for self-inspection must master HACCP principles.",
     "body": [
-      "Le guide G-023 publié sur le site de l’AFSCA, partie 1, section 21, reprend l’obligation du règlement européen 852/2004, annexe II, chapitre XII. Le personnel manipulant des aliments doit être encadré et recevoir des instructions et/ou une formation adaptées à son activité. Les responsables de la mise en œuvre du guide doivent recevoir une formation appropriée aux principes HACCP.",
-      "Pour recruter en cuisine ou en salle, vérifier les compétences d’hygiène et prévoir les consignes propres à l’établissement. Le guide recommande d’adapter la langue et le contenu au niveau des collaborateurs, de laisser les instructions accessibles et de compléter l’apprentissage par les corrections quotidiennes. Cette section n’impose pas à tout candidat un diplôme unique ni une durée universelle de formation."
+      "Guide G-023 published on the AFSCA website, part 1, section 21, incorporates the requirement of European regulation 852/2004, annex II, chapter XII. Food-handling staff must be supervised and receive instructions and/or training adapted to their activity. Those responsible for guide implementation must receive training appropriate to HACCP principles.",
+      "To hire kitchen or dining staff, verify hygiene competencies and plan establishment-specific instructions. The guide recommends adapting language and content to staff level, keeping instructions accessible, and supplementing learning with daily corrections. This section does not require every candidate have a single diploma or universal training duration."
     ],
     "keywords": [
       "AFSCA",
-      "hygiène alimentaire",
-      "formation",
+      "food hygiene",
+      "training",
       "HACCP",
       "G-023",
-      "cuisine"
+      "kitchen"
     ],
     "scope": {
       "sectors": [
@@ -493,29 +493,29 @@
     "url": "https://favv-afsca.be/sites/default/files/G-023_v2_fr_11-01-2024.pdf",
     "owner": {
       "name": "Agence fédérale pour la sécurité de la chaîne alimentaire",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2013-07-04",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-alcool-controle-age-client",
-    "title": "Vente d’alcool : vérifier l’âge du client",
+    "title": "Alcohol sales: verify customer age",
     "category": "restrictions",
     "importance": "guidance",
-    "summary": "Former les vendeurs et serveurs au contrôle de l’âge. Les seuils de vente au client ne doivent pas être confondus avec l’âge d’embauche du personnel.",
+    "summary": "Train sales and service staff in age verification. Sales age thresholds should not be confused with staff hiring age.",
     "body": [
-      "La page du SPF Santé publique, actualisée le 23 juin 2026, interdit de vendre, servir ou offrir de l’alcool aux moins de 18 ans. Les bières et vins sont autorisés dès 16 ans s’ils ne contiennent ni alcool fort ajouté ni arôme de boisson spiritueuse. Le professionnel doit vérifier l’âge avec une pièce officielle et refuser la vente en cas de doute.",
-      "Intégrer ces contrôles dans l’accueil des étudiants et du personnel de caisse ou de salle. Cette source traite de l’âge du destinataire de la boisson ; elle ne fournit pas une interdiction générale d’embaucher un serveur de moins de 18 ans. Pour affecter un mineur au service, vérifier séparément les tâches autorisées, les horaires et les règles de protection des jeunes travailleurs."
+      "The SPF Public Health page, updated June 23, 2026, prohibits selling, serving, or offering alcohol to those under 18. Beer and wine are permitted from age 16 if they contain no added spirits or spirit flavor. The professional must verify age with official ID and refuse sale if in doubt.",
+      "Incorporate these checks in onboarding students and checkout or service staff. This source addresses the recipient’s age; it does not provide a general prohibition on hiring servers under 18. To assign a minor to service, separately check permitted tasks, schedules, and young worker protection rules."
     ],
     "keywords": [
-      "alcool",
-      "mineurs",
-      "contrôle d’âge",
-      "serveur",
-      "caissier",
-      "16 ans",
-      "18 ans"
+      "alcohol",
+      "minors",
+      "age verification",
+      "server",
+      "cashier",
+      "age 16",
+      "age 18"
     ],
     "scope": {
       "sectors": [
@@ -529,32 +529,32 @@
         "serveur"
       ]
     },
-    "source": "SPF Santé publique · health.belgium.be",
+    "source": "SPF Public Health · health.belgium.be",
     "url": "https://www.health.belgium.be/fr/professionnels/administration-politique/produits-consommation/vente-dalcool",
     "owner": {
       "name": "SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-06-23",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-reception-hotel-travail-nuit",
-    "title": "Réception d’hôtel : organiser le travail de nuit",
+    "title": "Hotel reception: organizing night work",
     "category": "contrat",
     "importance": "guidance",
-    "summary": "Pour recruter un réceptionniste de nuit, définir l’horaire et vérifier la procédure d’introduction du travail de nuit dans l’hôtel.",
+    "summary": "To hire a night receptionist, define the schedule and verify the procedure for introducing night work at the hotel.",
     "body": [
-      "Depuis le 1er juin 2026, le travail de nuit est admis en principe dans les secteurs soumis à la loi sur le travail. Sa définition générale reste la période de 20 h à 6 h. Cette admission ne dispense pas du respect du règlement de travail, des repos, des CCT et des protections particulières.",
-      "Le régime comportant des prestations de nuit vise une occupation habituelle entre 20 h et 6 h avec toujours des prestations entre minuit et 5 h. L’article 38 prévoit une procédure particulière, comprenant la concertation préalable selon les modalités applicables. Avant de publier l’offre, vérifier le régime réel, le règlement de travail et les avantages sectoriels. Contrôler séparément les protections des jeunes travailleurs."
+      "Since June 1, 2026, night work is in principle permitted in sectors subject to labor law. Its general definition remains the 8 PM to 6 AM period. This permission does not excuse compliance with work rules, rest, CBAs, and special protections.",
+      "A regime with night services targets habitual work between 8 PM and 6 AM with always services between midnight and 5 AM. Article 38 provides for a special procedure, including prior consultation per applicable arrangements. Before publishing the offer, verify the actual regime, work rules, and sector benefits. Separately check protections for young workers."
     ],
     "keywords": [
-      "réceptionniste",
-      "hôtel",
-      "travail de nuit",
-      "minuit",
-      "règlement de travail",
-      "CP 302"
+      "receptionist",
+      "hotel",
+      "night work",
+      "midnight",
+      "work rules",
+      "Sector (CP 302)"
     ],
     "scope": {
       "sectors": [
@@ -564,32 +564,32 @@
         "receptionniste"
       ]
     },
-    "source": "SPF Emploi · emploi.belgique.be",
+    "source": "SPF Employment · emploi.belgique.be",
     "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/duree-du-travail-et-temps-de-repos/travail-de-nuit",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-06-01",
     "status": "valide"
   },
   {
     "id": "commerce-horeca-jeunes-horaires-repos",
-    "title": "Jeunes travailleurs : pauses et limites d’horaires",
+    "title": "Young workers: breaks and schedule limits",
     "category": "restrictions",
     "importance": "guidance",
-    "summary": "Vérifier les limites propres aux jeunes avant d’affecter un mineur à une fermeture de magasin ou à un service Horeca. Le planning doit aussi tenir compte des autres employeurs.",
+    "summary": "Check young worker limits before assigning a minor to store closing or Horeca service. The schedule must also account for other employers.",
     "body": [
-      "La fiche du SPF fixe en principe un maximum de huit heures par jour et de quarante heures par semaine, avec respect de la durée hebdomadaire de 38 heures effective ou moyenne. Le temps à disposition de plusieurs employeurs est additionné. Une pause de trente minutes est due si le travail dépasse quatre heures trente ; au-delà de six heures, le repos atteint en principe une heure.",
-      "Entre deux journées de travail, prévoir au moins douze heures consécutives de repos. Le travail entre 20 h et 6 h est interdit en principe ; les dérogations doivent être vérifiées pour l’activité et l’âge. Même lorsqu’une dérogation permet le dimanche, le jeune ne peut en principe travailler plus d’un dimanche sur deux sans autorisation préalable du Contrôle des lois sociales. Les jeunes de 15 ans encore soumis à l’obligation scolaire à temps plein relèvent de conditions supplémentaires spécifiques."
+      "The SPF sheet in principle sets a maximum of eight hours per day and forty hours per week, respecting 38 hours effective or average weekly duration. Time at multiple employers is added together. A 30-minute break is due if work exceeds 4.5 hours; beyond six hours, rest reaches in principle one hour.",
+      "Between two work days, provide at least 12 consecutive hours of rest. Work between 8 PM and 6 AM is in principle prohibited; exemptions must be verified for the activity and age. Even when an exemption permits Sunday, the young person in principle cannot work more than one Sunday in two without prior authorization from Labor Law Enforcement. Young people age 15 still subject to full-time schooling obligation are subject to specific additional conditions."
     ],
     "keywords": [
-      "jeunes travailleurs",
-      "mineurs",
-      "pause",
-      "repos",
-      "dimanche",
-      "horaires"
+      "young workers",
+      "minors",
+      "break",
+      "rest",
+      "Sunday",
+      "schedule"
     ],
     "scope": {
       "sectors": [
@@ -597,11 +597,11 @@
         "horeca"
       ]
     },
-    "source": "SPF Emploi · emploi.belgique.be",
+    "source": "SPF Employment · emploi.belgique.be",
     "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/jeunes-travailleurs?id=398",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "1971-03-30",
     "status": "valide"

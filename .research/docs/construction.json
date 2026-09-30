@@ -1,20 +1,20 @@
 [
   {
     "id": "construction-baremes-juillet-2026",
-    "title": "CP 124 : salaires minimums au 1er juillet 2026",
+    "title": "CP 124: minimum wages as of July 1, 2026",
     "category": "contrat",
     "importance": "legal",
-    "summary": "Fixer le salaire horaire brut selon la catégorie professionnelle et la responsabilité d’équipe. La grille officielle applicable au 1er juillet 2026 a été actualisée le 7 juillet 2026.",
+    "summary": "Set the gross hourly wage by occupational category and team responsibility. The official scale applicable as of July 1, 2026 was updated on July 7, 2026.",
     "body": [
-      "Pour le régime de 40 heures, minima horaires bruts publiés : catégorie I, 18,592 € ; IA, 19,517 € ; II, 19,820 € ; IIA, 20,810 € ; III, 21,078 € ; IV, 22,374 €. Ces barèmes concernent les ouvriers ; certaines activités, notamment le dragage et les centrales à béton livrant des tiers, ont des conventions distinctes.",
-      "Le chef d’équipe doit recevoir au moins 10 % au-dessus du salaire correspondant à sa qualification et du salaire conventionnel de la qualification la plus élevée de son équipe. La grille indique 23,186 €/h pour le chef d’équipe III, 24,597 €/h pour le chef d’équipe IV et 26,810 €/h pour le contremaître IV.",
-      "Au 1er juillet 2026, le supplément pour les heures dans une entreprise pétrochimique en activité est de 0,799 €/h. Les indemnités journalières publiées sont de 16,81 € pour le logement et 35,19 € pour la nourriture. Vérifier leurs conditions d’octroi avant de les annoncer."
+      "For the 40-hour regime, published gross hourly minima: category I, 18.592 €; IA, 19.517 €; II, 19.820 €; IIA, 20.810 €; III, 21.078 €; IV, 22.374 €. These scales apply to workers; certain activities, notably dredging and concrete plants supplying third parties, have separate agreements.",
+      "The crew leader must receive at least 10% above the wage corresponding to their qualification and the contractual wage of the highest qualification in their team. The scale indicates 23.186 €/h for crew leader III, 24.597 €/h for crew leader IV, and 26.810 €/h for foreman IV.",
+      "As of July 1, 2026, the supplement for hours in an active petrochemical company is 0.799 €/h. Published daily allowances are 16.81 € for lodging and 35.19 € for meals. Verify the conditions for granting them before announcing them."
     ],
     "keywords": [
       "CP 124",
-      "barèmes 2026",
-      "salaire horaire",
-      "chef d’équipe",
+      "2026 scales",
+      "hourly wage",
+      "crew leader",
       "minimumlonen"
     ],
     "scope": {
@@ -22,30 +22,30 @@
         "construction"
       ]
     },
-    "source": "SPF Emploi · salairesminimums.be",
+    "source": "SPF Employment · salairesminimums.be",
     "url": "https://www.salairesminimums.be/document.html?jcId=c206d961982d4ec6b997c7a485e0bf32",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Secteur (CP 124)"
+      "team": "Sector (CP 124)"
     },
     "lastValidated": "2026-07-07",
     "status": "valide"
   },
   {
     "id": "construction-timbres-fidelite-intemperies",
-    "title": "Timbres fidélité et intempéries : bénéficiaires et calcul",
+    "title": "Loyalty and weather stamps: beneficiaries and calculation",
     "category": "contrat",
     "importance": "legal",
-    "summary": "Les timbres fidélité et intempéries sont des avantages sectoriels distincts. Les étudiants sont exclus de cette CCT ; les intérimaires concernés y sont inclus.",
+    "summary": "Loyalty and weather stamps are distinct sectoral benefits. Students are excluded from this collective agreement; temporary workers covered are included.",
     "body": [
-      "La CCT du 12 septembre 2013, applicable depuis le 1er septembre 2013, prévoit des timbres fidélité de 9 % et des timbres intempéries de 2 % des rémunérations brutes à 100 %. Les articles 2 à 4 distinguent les cotisations patronales des avantages versés : 9,12 % pour fidélité et gestion ; 2,10 % pour intempéries et gestion.",
-      "Les timbres intempéries concernent les entreprises des catégories ONSS 024 et 054 et les intérimaires mis à leur disposition. Ne pas promettre cet avantage à tout salarié d’une entreprise de construction. L’exercice fidélité court du 1er juillet au 30 juin ; l’exercice intempéries du 1er janvier au 31 décembre.",
-      "Pour une offre, présenter ces avantages séparément du salaire horaire. Le régime des employeurs étrangers a été modifié par la CCT du 14 février 2019 et fait l’objet de la fiche construction-timbres-travailleurs-detaches."
+      "The collective agreement of September 12, 2013, applicable since September 1, 2013, provides for loyalty stamps at 9% and weather stamps at 2% of gross remuneration at 100%. Articles 2 to 4 distinguish employer contributions from benefits paid: 9.12% for loyalty and administration; 2.10% for weather and administration.",
+      "Weather stamps concern companies in ONSS categories 024 and 054 and temporary workers assigned to them. Do not promise this benefit to all employees of a construction company. The loyalty period runs from July 1 to June 30; the weather period from January 1 to December 31.",
+      "For a job offer, present these benefits separately from hourly wages. The regime for foreign employers was modified by the collective agreement of February 14, 2019 and is covered in the construction-timbres-travailleurs-detaches sheet."
     ],
     "keywords": [
-      "timbres fidélité",
-      "timbres intempéries",
-      "prime annuelle",
+      "loyalty stamps",
+      "weather stamps",
+      "annual bonus",
       "OPOC",
       "weerverletzegels",
       "getrouwheidszegels"
@@ -60,30 +60,30 @@
         "interim"
       ]
     },
-    "source": "SPF Emploi, registre des CCT · public-search.werk.belgie.be",
+    "source": "SPF Employment, collective agreement registry · public-search.werk.belgie.be",
     "url": "https://public-search.werk.belgie.be/website-download-service/joint-work-convention/124/124-2013-009510.pdf",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Secteur (CP 124)"
+      "team": "Sector (CP 124)"
     },
     "lastValidated": "2013-09-01",
     "status": "valide"
   },
   {
     "id": "construction-checkinatwork",
-    "title": "Checkinatwork : enregistrer la présence avant le travail",
+    "title": "Checkinatwork: register attendance before work",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Organiser l’enregistrement quotidien des personnes intervenant sur les chantiers soumis à Checkinatwork. L’enregistrement des sorties annoncé pour avril 2027 ne s’applique pas encore au 30 septembre 2026.",
+    "summary": "Organize daily registration of people working on sites subject to Checkinatwork. Exit registration announced for April 2027 does not yet apply as of September 30, 2026.",
     "body": [
-      "Pour les travaux immobiliers concernés, le seuil est de 500 000 € hors TVA pour le montant total des travaux. Le lieu doit figurer dans la Déclaration de travaux. L’employeur ou l’entrepreneur organise l’enregistrement des travailleurs, sous-traitants et indépendants ; ceux-ci peuvent aussi s’enregistrer eux-mêmes.",
-      "L’enregistrement doit intervenir chaque jour avant le commencement du travail. À l’accueil, préciser le moyen utilisé et la personne responsable de vérifier la présence enregistrée.",
-      "L’avis ONSS du 30 juillet 2026 annonce le passage à Check in and out at work le 1er avril 2027, en application des articles 124 à 131 de la loi-programme du 30 mai 2026. À cette date, les travaux immobiliers concernés ne pourront plus être enregistrés dans Checkinatwork. Préparer la migration sans anticiper l’obligation de sortie."
+      "For real estate work covered, the threshold is 500,000 € excluding VAT for the total work amount. The site must be listed in the Work Declaration. The employer or contractor organizes registration of workers, subcontractors, and self-employed; they can also register themselves.",
+      "Registration must take place each day before work begins. On arrival, specify the method used and the person responsible for verifying registered attendance.",
+      "The ONSS notice of July 30, 2026 announces the transition to Check in and out at work on April 1, 2027, under articles 124 to 131 of the program law of May 30, 2026. As of that date, covered real estate work can no longer be registered in Checkinatwork. Prepare the migration without anticipating the exit requirement."
     ],
     "keywords": [
       "Checkinatwork",
-      "enregistrement présences",
-      "chantier",
+      "attendance registration",
+      "worksite",
       "500000 euros",
       "ONSS",
       "aanwezigheidsregistratie"
@@ -97,27 +97,27 @@
     "url": "https://www.socialsecurity.be/site_fr/employer/applics/checkinatwork/index.htm",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-07-30",
     "status": "valide"
   },
   {
     "id": "construction-formation-securite-base",
-    "title": "Chantiers : formation de base en sécurité et VCA",
+    "title": "Worksites: basic safety training and VCA",
     "category": "restrictions",
     "importance": "guidance",
-    "summary": "Vérifier la formation de base en sécurité ou une preuve équivalente avant l’affectation au chantier. Une attestation VCA peut établir les connaissances requises, sans remplacer les formations propres au métier.",
+    "summary": "Verify basic safety training or equivalent proof before assignment to the worksite. A VCA certificate can establish required knowledge without replacing trade-specific training.",
     "body": [
-      "Depuis le 15 avril 2023, la règle fédérale vise les travailleurs, les indépendants et les employeurs travaillant eux-mêmes à la réalisation de l’ouvrage. La formation dure au moins huit heures et précède le début du travail ; si son organisation préalable est impossible, elle doit être suivie dans le mois suivant le début des travaux.",
-      "Les connaissances sont présumées acquises avec une attestation de formation équivalente, par exemple VCA, ou au moins cinq ans d’expérience sur chantier pendant les dix dernières années. Conserver les justificatifs. Les règles sectorielles plus sévères restent applicables, notamment pour l’intérim.",
-      "L’employeur doit toujours fournir, avant l’occupation, les informations sur les risques du chantier et vérifier leur compréhension. La formation de base ne dispense pas d’une formation à la conduite d’engins ou au désamiantage."
+      "Since April 15, 2023, the federal rule applies to workers, self-employed individuals, and employers performing the work themselves. Training lasts at least eight hours and precedes the start of work; if prior organization is impossible, it must be completed within the month following the start of work.",
+      "Knowledge is presumed acquired with an equivalent training certificate, for example VCA, or at least five years of worksite experience in the last ten years. Keep supporting documentation. Stricter sectoral rules remain applicable, notably for temporary work.",
+      "The employer must always provide information about site risks before work begins and verify understanding. Basic training does not exempt from training on machinery operation or asbestos removal."
     ],
     "keywords": [
-      "sécurité de base",
+      "basic safety",
       "VCA",
-      "formation huit heures",
-      "chantier",
+      "eight hour training",
+      "worksite",
       "basisveiligheid"
     ],
     "scope": {
@@ -125,31 +125,31 @@
         "construction"
       ]
     },
-    "source": "SPF Emploi · emploi.belgique.be",
+    "source": "SPF Employment · emploi.belgique.be",
     "url": "https://emploi.belgique.be/fr/themes/bien-etre-au-travail/lieux-de-travail/chantiers-temporaires-ou-mobiles/formation-de-base-en",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2023-04-15",
     "status": "valide"
   },
   {
     "id": "construction-chomage-intemperies-ec32",
-    "title": "Intempéries : chômage temporaire et carte eC3.2",
+    "title": "Weather conditions: temporary unemployment and eC3.2 card",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Appliquer la procédure ONEM propre à la construction et former le nouvel ouvrier à eC3.2. Le formulaire papier n’est plus le fonctionnement ordinaire depuis le 1er janvier 2025.",
+    "summary": "Apply the ONEM procedure specific to construction and train new workers on eC3.2. Paper forms are no longer the standard procedure since January 1, 2025.",
     "body": [
-      "Si l’ouvrier commence le travail puis l’interrompt à cause des intempéries, il a droit à une rémunération et ne peut être mis en chômage intempéries pour cette journée. Si le travail ne peut commencer dès son arrivée au chantier, le régime construction permet le chômage pour cette journée.",
-      "Communiquer mensuellement le premier jour effectif à l’ONEM le jour même ou le jour ouvrable suivant ; le jour ouvrable précédent est possible si le chômage est certain. Introduire la DRS scénario 2 lorsque nécessaire et la DRS scénario 5 après le mois.",
-      "L’ouvrier complète eC3.2 dès le premier jour de chaque mois, même sans chômage, et indique le travail avant de le commencer. Il transmet la carte en fin de mois s’il a connu du chômage temporaire. Le retour temporaire au papier nécessite l’accord de l’ONEM. Depuis le 1er mars 2026, l’inscription comme demandeur d’emploi intervient après les trois premiers mois de chômage temporaire."
+      "If a worker begins work and then interrupts it due to weather conditions, they are entitled to remuneration and cannot be placed on weather-related unemployment for that day. If work cannot begin upon arrival at the site, construction regulations permit unemployment for that day.",
+      "Report the first actual day to ONEM monthly on the same day or the next business day; the preceding business day is possible if unemployment is certain. Submit DRS scenario 2 when necessary and DRS scenario 5 after the month.",
+      "The worker completes eC3.2 starting on the first day of each month, even without unemployment, and indicates work before beginning it. They submit the card at month’s end if they experienced temporary unemployment. Temporary return to paper requires ONEM approval. From March 1, 2026, registration as a job seeker occurs after the first three months of temporary unemployment."
     ],
     "keywords": [
-      "intempéries",
+      "weather conditions",
       "eC3.2",
       "C3.2A construction",
-      "chômage temporaire",
+      "temporary unemployment",
       "DRS",
       "ONEM"
     ],
@@ -162,28 +162,28 @@
     "url": "https://www.onem.be/index.php/employeurs/chomage-temporaire/chomage-temporaire---secteur-de-la-construction---intemperies",
     "owner": {
       "name": "Office national de l’emploi",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-06-16",
     "status": "valide"
   },
   {
     "id": "construction-limosa-detachement",
-    "title": "Détachement : contrôler la preuve Limosa-1",
+    "title": "Posting: check Limosa-1 proof",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Avant le début d’une mission détachée, demander la preuve Limosa-1 et vérifier la période ainsi que le lieu d’occupation. Le client belge doit signaler l’absence de preuve.",
+    "summary": "Before starting a posting assignment, request Limosa-1 proof and verify the period and place of work. The Belgian client must report the absence of proof.",
     "body": [
-      "L’obligation Limosa est en vigueur depuis le 1er avril 2007. Elle concerne notamment les salariés envoyés travailler temporairement ou partiellement en Belgique et les indépendants détachés dans les secteurs à risque, dont la construction. Examiner les exemptions prévues selon l’activité et la durée ; la nationalité ne suffit pas à déterminer l’obligation.",
-      "La preuve Limosa-1 doit être présentée au client belge avant le commencement des activités. Si elle manque, celui-ci doit signaler cette non-présentation aux autorités. Adapter ou prolonger la déclaration si la mission change.",
-      "Le code QR de Limosa-1 peut servir à enregistrer la personne dans Checkinatwork. La déclaration Limosa et l’enregistrement quotidien des présences correspondent à deux démarches distinctes."
+      "The Limosa obligation has been in effect since April 1, 2007. It concerns notably employees sent to work temporarily or partially in Belgium and self-employed individuals posted in risk sectors, including construction. Examine exemptions provided by activity and duration; nationality alone is insufficient to determine the obligation.",
+      "Limosa-1 proof must be presented to the Belgian client before beginning activities. If it is missing, the client must report this non-presentation to the authorities. Adapt or extend the declaration if the assignment changes.",
+      "The Limosa-1 QR code can be used to register the person in Checkinatwork. Limosa declaration and daily attendance registration are two separate procedures."
     ],
     "keywords": [
       "Limosa",
-      "détachement",
+      "posting",
       "Limosa-1",
-      "travailleur étranger",
-      "chantier",
+      "foreign worker",
+      "worksite",
       "meldingsplicht"
     ],
     "scope": {
@@ -195,59 +195,59 @@
     "url": "https://www.workinginbelgium.fgov.be/fr/limosa.html",
     "owner": {
       "name": "Office national de sécurité sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2007-04-01",
     "status": "valide"
   },
   {
     "id": "construction-ar-chantiers-temporaires",
-    "title": "Chantiers temporaires : coordination et prévention",
+    "title": "Temporary worksites: coordination and prevention",
     "category": "restrictions",
     "importance": "legal",
-    "summary": "L’arrêté royal du 25 janvier 2001 encadre l’organisation de la sécurité des chantiers temporaires ou mobiles. Prévoir la coordination et les consignes avant de constituer les équipes.",
+    "summary": "The Royal Decree of January 25, 2001 governs the organization of safety on temporary or mobile worksites. Plan coordination and instructions before assembling teams.",
     "body": [
-      "L’article 2 couvre notamment la construction, la rénovation, le terrassement, la réparation et la démolition. Lorsque plusieurs entrepreneurs interviennent, simultanément ou successivement, vérifier les obligations de coordination en conception et en réalisation selon la configuration du chantier.",
-      "L’article 26 impose un plan de sécurité et de santé dans les cas qu’il définit, notamment certains travaux présentant des risques particuliers. L’article 30 organise son intégration aux documents du marché, avec les modalités et dispenses prévues par le texte. Une offre d’emploi ne remplace pas ces documents.",
-      "L’article 50 impose aux entrepreneurs les mesures de prévention concernant notamment les accès, la circulation, la manutention, l’entretien du matériel et les interactions entre entreprises. Pour recruter un chef de chantier, distinguer ses tâches de celles du coordinateur sécurité-santé, fonction soumise à ses propres conditions. Le PDF intègre notamment la modification du 7 avril 2023, publiée le 14 avril 2023."
+      "Article 2 covers notably construction, renovation, excavation, repair, and demolition. When multiple contractors are involved, simultaneously or successively, check coordination obligations in design and execution according to the site configuration.",
+      "Article 26 requires a health and safety plan in the cases it defines, notably certain work presenting particular risks. Article 30 organizes its integration into market documents, with procedures and exemptions provided by the text. A job offer does not replace these documents.",
+      "Article 50 requires contractors to implement prevention measures concerning notably access, circulation, handling, equipment maintenance, and interactions between companies. When recruiting a site manager, distinguish their tasks from those of the health and safety coordinator, a role subject to its own conditions. The PDF notably incorporates the amendment of April 7, 2023, published April 14, 2023."
     ],
     "keywords": [
-      "AR 25 janvier 2001",
-      "chantier temporaire",
-      "coordinateur sécurité",
-      "plan sécurité santé",
-      "chef de chantier"
+      "Royal Decree January 25, 2001",
+      "temporary worksite",
+      "safety coordinator",
+      "health and safety plan",
+      "site manager"
     ],
     "scope": {
       "sectors": [
         "construction"
       ]
     },
-    "source": "SPF Emploi · emploi.belgique.be",
+    "source": "SPF Employment · emploi.belgique.be",
     "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/AR_chant_TM_8%20(2).pdf",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2023-04-14",
     "status": "valide"
   },
   {
     "id": "construction-etudiants-travaux-dangereux",
-    "title": "Étudiants sur chantier : tâches interdites et dérogations",
+    "title": "Students on worksites: prohibited tasks and exemptions",
     "category": "restrictions",
     "importance": "legal",
-    "summary": "Un contrat étudiant ne permet pas d’affecter librement le jeune aux machines et travaux dangereux du chantier. Vérifier les tâches réelles avant de publier l’offre.",
+    "summary": "A student contract does not permit freely assigning young workers to dangerous machinery and work on the site. Verify actual tasks before publishing the offer.",
     "body": [
-      "Les articles X.3-3 et X.3-8 du Code imposent une analyse préalable des risques adaptée au manque d’expérience et interdisent les travaux dangereux, notamment ceux de l’annexe X.3-1. Renouveler l’analyse au moins annuellement et lors d’une modification importante du poste.",
-      "Pour un étudiant, l’article X.3-11 permet certaines dérogations seulement à partir de 18 ans, lorsque les études correspondent aux activités concernées. L’employeur doit garantir des mesures de prévention effectives, un contrôle et la présence d’un travailleur expérimenté ; demander préalablement l’avis du comité et du conseiller en prévention.",
-      "L’article X.3-11/1 prévoit une interdiction spécifique de commander les engins motorisés de manutention visés, avec des exceptions limitées pour certains chariots et transpalettes. Ne pas transformer la dérogation générale en autorisation de conduire toute machine. Le texte intègre la modification publiée le 10 juin 2024."
+      "Articles X.3-3 and X.3-8 of the Code require prior risk analysis adapted to lack of experience and prohibit dangerous work, notably those in Annex X.3-1. Renew the analysis at least annually and when there is a significant change to the position.",
+      "For a student, Article X.3-11 permits certain exemptions only from age 18, when studies correspond to the activities concerned. The employer must guarantee effective prevention measures, oversight, and the presence of an experienced worker; request prior opinion from the committee and prevention adviser.",
+      "Article X.3-11/1 provides a specific prohibition on operating motorized handling equipment, with limited exceptions for certain trolleys and hand pallet trucks. Do not transform the general exemption into authorization to operate any machine. The text incorporates the amendment published June 10, 2024."
     ],
     "keywords": [
-      "étudiant construction",
-      "jeunes au travail",
-      "travaux dangereux",
-      "engins motorisés",
+      "construction student",
+      "young workers",
+      "dangerous work",
+      "motorized equipment",
       "jobstudent"
     ],
     "scope": {
@@ -258,32 +258,32 @@
         "etudiant"
       ]
     },
-    "source": "SPF Emploi · emploi.belgique.be",
+    "source": "SPF Employment · emploi.belgique.be",
     "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/Code%20livre%20X%20titre%203%20Jeunes%20au%20travail.pdf",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2024-06-10",
     "status": "valide"
   },
   {
     "id": "construction-couvreurs-travail-hauteur",
-    "title": "Couvreurs : protections contre les chutes et échafaudages",
+    "title": "Roofers: fall protection and scaffolding",
     "category": "restrictions",
     "importance": "legal",
-    "summary": "Prévoir les protections et les formations adaptées au travail en hauteur. L’expérience du couvreur ne dispense pas l’employeur de sécuriser le poste.",
+    "summary": "Provide appropriate protections and training for work at height. A roofer’s experience does not exempt the employer from securing the worksite.",
     "body": [
-      "Les articles IV.5-1 à IV.5-3 imposent le choix d’équipements adaptés après analyse des risques. Donner priorité aux protections collectives contre les chutes, notamment garde-corps et plateformes, sur les protections individuelles. N’effectuer les travaux que si la météo permet de travailler sans compromettre la sécurité.",
-      "L’article IV.5-4 limite l’utilisation d’une échelle comme poste de travail aux situations de faible risque où un équipement plus sûr ne se justifie pas, compte tenu de la courte durée ou des caractéristiques du site. L’échelle ne constitue donc pas le poste normal pour tous travaux de toiture.",
-      "Pour les échafaudages, organiser la désignation d’une personne compétente, les vérifications et les formations adaptées à l’utilisation ou au montage, démontage et transformation. Vérifier ces compétences lors du recrutement. Le PDF intègre la modification publiée le 10 juin 2024."
+      "Articles IV.5-1 to IV.5-3 require selection of appropriate equipment after risk analysis. Prioritize collective fall protection, notably guardrails and platforms, over individual protection. Only perform work if weather permits safe work without compromising safety.",
+      "Article IV.5-4 limits the use of a ladder as a work position to low-risk situations where safer equipment is not justified, considering short duration or site characteristics. A ladder is therefore not the normal position for all roofing work.",
+      "For scaffolding, organize the designation of a competent person, checks, and training appropriate to use or assembly, disassembly, and modification. Verify these skills when recruiting. The PDF incorporates the amendment published June 10, 2024."
     ],
     "keywords": [
-      "couvreur",
-      "travail en hauteur",
-      "échafaudage",
-      "chute",
-      "garde-corps",
+      "roofer",
+      "work at height",
+      "scaffolding",
+      "fall",
+      "guardrail",
       "dakwerker"
     ],
     "scope": {
@@ -296,33 +296,33 @@
         "chef-chantier"
       ]
     },
-    "source": "SPF Emploi · emploi.belgique.be",
+    "source": "SPF Employment · emploi.belgique.be",
     "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/Code%20livre%20IV%20titre%205%20Equipements%20de%20travail%20pour%20des%20travaux%20temporaires%20en%20hauteur.pdf",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2024-06-10",
     "status": "valide"
   },
   {
     "id": "construction-engins-grues-formation",
-    "title": "Engins et grues : vérifier la formation à la conduite",
+    "title": "Equipment and cranes: verify operating training",
     "category": "restrictions",
     "importance": "legal",
-    "summary": "Demander des preuves de formation correspondant à l’engin réellement utilisé. Une attestation VCA générale ne démontre pas à elle seule la compétence de conduite.",
+    "summary": "Request training proof corresponding to the equipment actually used. A general VCA certificate does not alone demonstrate operating competence.",
     "body": [
-      "L’article IV.3-7, 1°, du Code réserve la conduite d’équipements mobiles automoteurs aux travailleurs ayant reçu une formation adéquate pour leur conduite sûre. L’employeur organise aussi la circulation et la protection des piétons dans la zone de travail.",
-      "Pour un grutier, préciser le type de grue et examiner la formation professionnelle, l’attestation ou le brevet correspondant. Le guide de Prévention et Intérim décrit ces formations, notamment auprès de centres reconnus par Constructiv, et l’aptitude médicale liée au poste de sécurité : https://www.fichepostedetravail.be/sites/default/files/2024-10/fiche_grutier_et_conducteur_d_engins_de_levage.pdf.",
-      "Les équipements de levage relèvent aussi du livre IV, titre 4. Distinguer la preuve de compétence du conducteur, les consignes propres au chantier et les contrôles de l’équipement. La version consolidée du Code utilisée est datée du 13 juin 2026."
+      "Article IV.3-7, 1° of the Code reserves operation of self-propelled mobile equipment to workers who have received appropriate training for safe operation. The employer also organizes circulation and pedestrian protection in the work area.",
+      "For a crane operator, specify the crane type and examine professional training, the corresponding certificate or credential. The Prevention and Temporary Work guide describes these trainings, notably from centers recognized by Constructiv, and medical fitness related to the safety position: https://www.fichepostedetravail.be/sites/default/files/2024-10/fiche_grutier_et_conducteur_d_engins_de_levage.pdf.",
+      "Lifting equipment also falls under Book IV, Title 4. Distinguish proof of operator competence, site-specific instructions, and equipment checks. The consolidated version of the Code used is dated June 13, 2026."
     ],
     "keywords": [
-      "conducteur d’engins",
-      "grutier",
-      "attestation grutier",
-      "formation conduite",
+      "equipment operator",
+      "crane operator",
+      "crane operator certificate",
+      "operating training",
       "VCA",
-      "levage"
+      "lifting"
     ],
     "scope": {
       "sectors": [
@@ -333,30 +333,30 @@
         "chef-chantier"
       ]
     },
-    "source": "SPF Emploi · emploi.belgique.be",
+    "source": "SPF Employment · emploi.belgique.be",
     "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/Code_du_bien-%C3%AAtre_au_travail.pdf",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Fédéral"
+      "team": "Federal"
     },
     "lastValidated": "2026-06-13",
     "status": "valide"
   },
   {
     "id": "construction-construbadge",
-    "title": "ConstruBadge : identification des ouvriers sur chantier",
+    "title": "ConstruBadge: identification of workers on worksites",
     "category": "demarches",
     "importance": "guidance",
-    "summary": "Vérifier la délivrance du ConstruBadge lors de l’accueil d’un ouvrier. Ce badge d’identification visuelle ne réalise un enregistrement de présence que s’il est relié à un système prévu à cet effet.",
+    "summary": "Verify ConstruBadge issuance when welcoming a worker. This visual identification badge only records attendance if connected to a system provided for that purpose.",
     "body": [
-      "Le régime sectoriel de délivrance résulte de la CCT du 11 septembre 2014, entrée en vigueur le 1er octobre 2014. Constructiv délivre les badges sur la base des données officielles Dimona, DmfA et Limosa. Sont notamment concernés les ouvriers des entreprises belges, les intérimaires et les ouvriers détachés par des employeurs étrangers.",
-      "Pour les travailleurs d’entreprises belges, Constructiv envoie le badge au domicile. Pour les employeurs étrangers, la délivrance passe par les formalités, le paiement et l’adresse belge de livraison. L’employeur consulte les badges émis et demande un remplacement dans l’application ConstruBadge.",
-      "À l’accueil, contrôler l’identité, le badge et la procédure de présence applicable. Constructiv précise que son utilisation pour notifier une présence dépend des possibilités du système de contrôle d’accès ou d’enregistrement employé."
+      "The sectoral issuance regime results from the collective agreement of September 11, 2014, effective October 1, 2014. Constructiv issues badges based on official data from Dimona, DmfA, and Limosa. This notably concerns workers from Belgian companies, temporary workers, and workers posted by foreign employers.",
+      "For employees of Belgian companies, Constructiv sends the badge to their home address. For foreign employers, issuance involves formalities, payment, and a Belgian delivery address. The employer checks issued badges and requests replacement in the ConstruBadge application.",
+      "On arrival, verify identity, badge, and applicable attendance procedure. Constructiv specifies that its use to record attendance depends on the capabilities of the access control or registration system used."
     ],
     "keywords": [
       "ConstruBadge",
-      "identification chantier",
-      "carte sociale",
+      "worksite identification",
+      "social card",
       "Constructiv",
       "Dimona",
       "Limosa"
@@ -370,28 +370,28 @@
     "url": "https://constructiv.be/fr/soutiens-aux-entreprises/construbadge/",
     "owner": {
       "name": "Constructiv",
-      "team": "Secteur (CP 124)"
+      "team": "Sector (CP 124)"
     },
     "lastValidated": "2014-10-01",
     "status": "valide"
   },
   {
     "id": "construction-interim-autorise-conditions",
-    "title": "Intérim dans la construction : motifs et conditions",
+    "title": "Temporary work in construction: reasons and conditions",
     "category": "contrat",
     "importance": "legal",
-    "summary": "L’intérim est autorisé dans la construction depuis 2002. La CCT du 4 décembre 2014 fixe trois motifs et des conditions sectorielles à vérifier avant la mission.",
+    "summary": "Temporary work has been authorized in construction since 2002. The collective agreement of December 4, 2014 sets three reasons and sectoral conditions to verify before the assignment.",
     "body": [
-      "L’article 3 autorise le remplacement d’un travailleur fixe en incapacité, l’accroissement temporaire du volume de travail et l’insertion en vue d’un engagement permanent. Les articles 5 et 6 encadrent l’accord ou l’information et la consultation de la délégation syndicale selon le motif.",
-      "Les articles 7 et 8 exigent une agence d’intérim construction agréée et une structure juridique distincte. Contrôler l’agrément requis et sa mention au contrat. L’article 3 impose une attestation de formation en sécurité construction d’au moins seize heures, sous réserve des équivalences et dispenses qu’il prévoit.",
-      "L’article 11 interdit les contrats journaliers et limite à six mois l’occupation d’un même intérimaire dans la même entreprise pour accroissement temporaire. L’article 12 interdit de remplacer, par l’intérim, le travail normalement réalisé par les salariés mis en chômage temporaire. La CCT est applicable depuis le 1er octobre 2014."
+      "Article 3 permits replacement of a permanent worker on leave, temporary increase in work volume, and placement for permanent hiring. Articles 5 and 6 govern agreement or information and consultation of the union delegation depending on the reason.",
+      "Articles 7 and 8 require an approved construction temporary work agency and a separate legal entity. Verify the required approval and its mention in the contract. Article 3 requires a construction safety training certificate of at least sixteen hours, subject to equivalences and exemptions it provides.",
+      "Article 11 prohibits daily contracts and limits assignment of the same temporary worker to the same company to six months for temporary increase. Article 12 prohibits replacing work normally performed by employees on temporary unemployment with temporary workers. The collective agreement applies since October 1, 2014."
     ],
     "keywords": [
-      "intérim construction",
+      "construction temporary work",
       "CP 124",
-      "CCT 4 décembre 2014",
-      "insertion",
-      "agrément",
+      "collective agreement December 4, 2014",
+      "placement",
+      "approval",
       "uitzendarbeid"
     ],
     "scope": {
@@ -402,32 +402,32 @@
         "interim"
       ]
     },
-    "source": "Moniteur belge, SPF Emploi · ejustice.just.fgov.be",
+    "source": "Belgian Official Journal, SPF Employment · ejustice.just.fgov.be",
     "url": "https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=15-11-24&numac=2015204214",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Secteur (CP 124)"
+      "team": "Sector (CP 124)"
     },
     "lastValidated": "2015-11-24",
     "status": "valide"
   },
   {
     "id": "construction-ouvriers-cp124-employes-cp200",
-    "title": "Construction : distinguer ouvriers CP 124 et employés CP 200",
+    "title": "Construction: distinguishing workers CP 124 and employees CP 200",
     "category": "contrat",
     "importance": "guidance",
-    "summary": "Une entreprise de construction peut employer des ouvriers CP 124 et des employés CP 200. Vérifier le statut et l’activité avant de choisir les barèmes et les avantages dans l’offre.",
+    "summary": "A construction company may employ workers CP 124 and employees CP 200. Verify status and activity before choosing scales and benefits in the offer.",
     "body": [
-      "La FAQ Pensio B définit les employés construction concernés comme les employés CP 200 d’une entreprise ou unité technique d’exploitation employant aussi des ouvriers CP 124, qui ne peuvent être affectés à une autre activité. En présence de plusieurs activités, elle retient le critère de prédominance. Ne pas appliquer automatiquement les barèmes horaires ouvriers au personnel employé.",
-      "Le régime de pension complémentaire des employés construction concerne les employeurs sans plan équivalent reconnu. L’affiliation passe par la DmfA ; vérifier les indices avec le secrétariat social. Depuis le 1er janvier 2026, le régime comporte un volet solidarité.",
-      "La FAQ distingue la contribution de pension portée à 1,80 % du salaire de référence au 1er janvier 2026 de la cotisation patronale globale de 2,23 %, qui finance aussi les composantes prévues par le régime. Pour présenter l’avantage au candidat, vérifier son affiliation effective."
+      "The Pensio B FAQ defines construction employees as CP 200 employees of a company or technical operating unit that also employs CP 124 workers, who cannot be assigned to another activity. When multiple activities are present, it retains the predominance criterion. Do not automatically apply worker hourly scales to salaried staff.",
+      "The supplementary pension scheme for construction employees applies to employers without a recognized equivalent plan. Affiliation occurs via DmfA; verify indices with payroll management. Since January 1, 2026, the scheme includes a solidarity component.",
+      "The FAQ distinguishes the pension contribution set at 1.80% of reference salary as of January 1, 2026 from the overall employer contribution of 2.23%, which also finances components provided for in the scheme. To present the benefit to candidates, verify their actual affiliation."
     ],
     "keywords": [
       "CP 124",
       "CP 200",
-      "ouvrier",
-      "employé construction",
-      "pension complémentaire",
+      "worker",
+      "construction employee",
+      "supplementary pension",
       "Pensio B"
     ],
     "scope": {
@@ -439,40 +439,40 @@
     "url": "https://pensiob.be/fr/harmonisation-des-pensions-complementaires/harmonisations-des-pensions-complementaires-faq/",
     "owner": {
       "name": "Pensio B et Fonds de sécurité d’existence pour les pensions complémentaires de la construction",
-      "team": "Secteur (CP 200)"
+      "team": "Sector (CP 200)"
     },
     "lastValidated": "2026-01-01",
     "status": "valide"
   },
   {
     "id": "construction-timbres-travailleurs-detaches",
-    "title": "Détachement : timbres et inscription à l’OPOC",
+    "title": "Posting: stamps and OPOC registration",
     "category": "demarches",
     "importance": "legal",
-    "summary": "Pour un employeur étranger, vérifier le régime des timbres et les éventuelles équivalences. La CCT de 2019 modifie la procédure prévue dans le texte de 2013.",
+    "summary": "For a foreign employer, verify the stamp regime and any equivalences. The 2019 collective agreement modifies the procedure provided in the 2013 text.",
     "body": [
-      "La CCT du 14 février 2019 modifie l’article 1er de la CCT du 12 septembre 2013. L’employeur étranger remplit son obligation d’inscription à l’OPOC par la déclaration Limosa. Contrôler cette déclaration avant le chantier.",
-      "Pour les timbres fidélité, l’exemption liée à des avantages équivalents dans le pays d’établissement répond aux conditions du texte et à l’examen de l’organisme de perception. Ne pas considérer une simple affirmation de l’employeur comme une preuve suffisante.",
-      "Les dispositions de perception, d’émission et de valorisation des timbres intempéries ne s’appliquent pas aux employeurs étrangers et aux ouvriers qu’ils détachent temporairement en Belgique. L’employeur reste tenu de payer le salaire journalier garanti complet en cas d’interruption de la journée pour intempéries. La modification est entrée en vigueur le 1er janvier 2019."
+      "The collective agreement of February 14, 2019 amends Article 1 of the collective agreement of September 12, 2013. The foreign employer fulfills its OPOC registration obligation through Limosa declaration. Check this declaration before the worksite.",
+      "For loyalty stamps, the exemption related to equivalent benefits in the country of establishment meets the conditions of the text and the examination by the collection entity. Do not consider a simple assertion by the employer as sufficient proof.",
+      "The provisions for collection, issuance, and valuation of weather stamps do not apply to foreign employers and workers they temporarily post in Belgium. The employer remains required to pay the full guaranteed daily wage if the day is interrupted due to weather. The amendment took effect on January 1, 2019."
     ],
     "keywords": [
-      "détachement construction",
+      "construction posting",
       "OPOC",
-      "timbres fidélité",
-      "timbres intempéries",
+      "loyalty stamps",
+      "weather stamps",
       "Limosa",
-      "employeur étranger"
+      "foreign employer"
     ],
     "scope": {
       "sectors": [
         "construction"
       ]
     },
-    "source": "SPF Emploi, registre des CCT · public-search.werk.belgie.be",
+    "source": "SPF Employment, collective agreement registry · public-search.werk.belgie.be",
     "url": "https://public-search.werk.belgie.be/website-download-service/joint-work-convention/124/124-2019-002082.pdf",
     "owner": {
       "name": "SPF Emploi, Travail et Concertation sociale",
-      "team": "Secteur (CP 124)"
+      "team": "Sector (CP 124)"
     },
     "lastValidated": "2019-01-01",
     "status": "valide"

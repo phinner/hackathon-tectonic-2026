@@ -32,7 +32,7 @@ export const links: Route.LinksFunction = () => [
 
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="fr">
+    <html lang="en">
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -68,10 +68,10 @@ export default function App() {
           </Link>
           <nav className="hidden items-center gap-space-xs md:flex">
             <NavLink to="/" end className={navClass}>
-              Accueil
+              Home
             </NavLink>
             <NavLink to="/recherche" className={navClass}>
-              Définir le poste
+              Define position
             </NavLink>
             <NavLink to="/resultats" className={navClass}>
               Documents
@@ -80,13 +80,13 @@ export default function App() {
           <div className="flex items-center gap-space-sm">
             <div className="hidden items-center gap-space-xs rounded-lg bg-amber-50 px-2.5 py-1 text-label-sm text-amber-800 sm:flex">
               <span className="size-1.5 animate-pulse rounded-full bg-amber-500" />
-              Démo
+              Demo
             </div>
             <Link
               to="/recherche"
               className="inline-flex h-10 items-center justify-center rounded-lg bg-primary-container px-space-md text-label-md text-on-primary transition-colors hover:bg-secondary"
             >
-              Définir un poste
+              Define a position
             </Link>
           </div>
         </div>
@@ -97,7 +97,7 @@ export default function App() {
       <footer className="w-full bg-surface-container-lowest shadow-[0_-1px_6px_rgba(0,0,0,0.02)]">
         <div className="mx-auto flex max-w-[1360px] flex-col gap-space-md px-gutter py-space-lg">
           <p className="text-label-sm text-outline">
-            Informations issues de sources officielles sélectionnées par HR Compass. © 2026 HR Compass
+            Information from official sources selected by HR Compass. © 2026 HR Compass
           </p>
         </div>
       </footer>
