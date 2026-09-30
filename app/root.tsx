@@ -3,6 +3,7 @@ import {
   Link,
   Links,
   Meta,
+  NavLink,
   Outlet,
   Scripts,
   ScrollRestoration,
@@ -10,6 +11,7 @@ import {
 
 import type { Route } from "./+types/root";
 import "./app.css";
+import { Icon } from "./components/badges";
 
 export const links: Route.LinksFunction = () => [
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
@@ -20,7 +22,11 @@ export const links: Route.LinksFunction = () => [
   },
   {
     rel: "stylesheet",
-    href: "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+    href: "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Manrope:wght@600;700&display=swap",
+  },
+  {
+    rel: "stylesheet",
+    href: "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=block",
   },
 ];
 
@@ -42,23 +48,64 @@ export function Layout({ children }: { children: React.ReactNode }) {
   );
 }
 
+const navClass = ({ isActive }: { isActive: boolean }) =>
+  `rounded-lg px-space-sm py-1.5 transition-colors ${
+    isActive
+      ? "bg-surface-container font-semibold text-on-surface"
+      : "text-on-surface-variant hover:bg-surface-container-low hover:text-on-surface"
+  }`;
+
 export default function App() {
   return (
-    <div className="min-h-screen">
-      <header className="border-b border-slate-200 bg-white">
-        <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
-          <Link to="/" className="flex items-center gap-2 font-semibold">
-            <span className="grid size-8 place-items-center rounded-lg bg-brand text-white">🧭</span>
-            Boussole RH
+    <div className="flex min-h-screen flex-col">
+      <header className="sticky top-0 z-50 w-full bg-surface-container-lowest/95 shadow-[0_1px_8px_rgba(0,0,0,0.04)] backdrop-blur-md">
+        <div className="mx-auto flex h-16 max-w-[1360px] items-center justify-between gap-space-md px-gutter">
+          <Link to="/" className="flex items-center gap-space-sm">
+            <span className="grid size-8 place-items-center rounded-xl bg-primary-container text-on-primary">
+              <Icon name="explore" size={20} />
+            </span>
+            <span className="font-display text-title-md tracking-tight text-primary">HR Compass</span>
           </Link>
-          <span className="rounded-full bg-amber-100 px-3 py-1 text-xs font-medium text-amber-800">
-            Démo · données fictives
-          </span>
+          <nav className="hidden items-center gap-space-xs md:flex">
+            <NavLink to="/" end className={navClass}>
+              Accueil
+            </NavLink>
+            <NavLink to="/recherche" className={navClass}>
+              Définir le poste
+            </NavLink>
+            <NavLink to="/resultats" className={navClass}>
+              Tous les documents
+            </NavLink>
+          </nav>
+          <div className="flex items-center gap-space-sm">
+            <div className="hidden items-center gap-space-xs rounded-lg bg-amber-50 px-2.5 py-1 text-label-sm text-amber-800 sm:flex">
+              <span className="size-1.5 animate-pulse rounded-full bg-amber-500" />
+              Démo · données fictives
+            </div>
+            <Link
+              to="/recherche"
+              className="inline-flex h-10 items-center justify-center rounded-lg bg-primary-container px-space-md text-label-md text-on-primary transition-colors hover:bg-secondary"
+            >
+              Préparer un recrutement
+            </Link>
+          </div>
         </div>
       </header>
-      <main className="mx-auto max-w-5xl px-6 py-10">
+      <main className="mx-auto w-full max-w-[1360px] flex-1 px-gutter py-space-xl">
         <Outlet />
       </main>
+      <footer className="w-full bg-surface-container-lowest shadow-[0_-1px_6px_rgba(0,0,0,0.02)]">
+        <div className="mx-auto flex max-w-[1360px] flex-col gap-space-md px-gutter py-space-lg">
+          <div className="flex items-start gap-space-sm rounded-xl bg-surface-container-low p-space-md sm:items-center">
+            <Icon name="verified_user" size={20} className="text-secondary" />
+            <p className="text-body-sm text-on-surface-variant">
+              HR Compass indique les documents pertinents pour votre situation, pas un avis juridique. Vérifiez
+              toujours la source avant d'agir.
+            </p>
+          </div>
+          <p className="text-label-sm text-outline">© 2026 HR Compass · Tectonic Hackathon</p>
+        </div>
+      </footer>
     </div>
   );
 }

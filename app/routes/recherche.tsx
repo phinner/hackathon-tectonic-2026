@@ -1,10 +1,11 @@
 import { Link, redirect } from "react-router";
 import type { Route } from "./+types/recherche";
+import { Eyebrow, Icon } from "~/components/badges";
 import { regions, roles } from "~/data/taxonomy";
 import { parseQuery, readCriteria, steps, toSearch, UNKNOWN, type Criteria, type CriteriaKey } from "~/lib/search";
 
 export function meta() {
-  return [{ title: "Définir le poste · Boussole RH" }];
+  return [{ title: "Définir le poste · HR Compass" }];
 }
 
 export function loader({ request }: Route.LoaderArgs) {
@@ -49,30 +50,48 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
   const done = currentIndex === -1;
 
   return (
-    <div className="mx-auto max-w-2xl">
-      <h1 className="text-2xl font-bold">Définir le poste à ouvrir</h1>
-      <p className="mt-1 text-slate-600">Chaque réponse affine les règles qui s'appliquent.</p>
+    <div className="mx-auto max-w-4xl">
+      <Eyebrow>Votre recrutement</Eyebrow>
+      <h1 className="mt-1 text-headline-md text-primary md:text-headline-lg">Définir le poste à ouvrir</h1>
+      <p className="mt-1 text-on-surface-variant">Chaque réponse affine les règles qui s'appliquent.</p>
+
+      <Stepper criteria={criteria} currentIndex={currentIndex} />
 
       {from && (
-        <div className="mt-6 rounded-xl border border-brand/20 bg-brand-soft p-4 text-sm">
-          <p className="font-medium text-brand">Pré-rempli depuis votre question</p>
-          <p className="mt-1 italic text-slate-700">« {from} »</p>
-          <p className="mt-1 text-slate-600">Vérifiez les réponses et complétez celles qui manquent.</p>
+        <div className="mt-space-lg flex items-start gap-space-sm rounded-xl border border-outline-variant/30 bg-surface-container-low p-space-md">
+          <Icon name="auto_awesome" size={20} className="text-secondary" />
+          <div className="text-body-sm">
+            <p className="text-label-md text-secondary">Pré-rempli depuis votre question</p>
+            <p className="mt-1 text-on-surface italic">« {from} »</p>
+            <p className="mt-1 text-on-surface-variant">Vérifiez les réponses et complétez celles qui manquent.</p>
+          </div>
         </div>
       )}
 
-      <ol className="mt-8 space-y-3">
+      <ol className="mt-space-lg space-y-space-sm">
         {steps.map((step, i) => {
           const value = criteria[step.key];
 
           if (value) {
             return (
-              <li key={step.key} className="flex items-center justify-between rounded-xl border border-slate-200 bg-white px-5 py-3">
-                <div>
-                  <p className="text-xs text-slate-500">{step.question}</p>
-                  <p className={value === UNKNOWN ? "font-medium text-slate-400" : "font-medium"}>{labelOf(step, value)}</p>
+              <li
+                key={step.key}
+                className="flex items-center justify-between rounded-xl border border-outline-variant/40 bg-surface-container-lowest px-space-lg py-3 shadow-sm"
+              >
+                <div className="flex items-center gap-space-md">
+                  <Icon
+                    name={value === UNKNOWN ? "help" : "check_circle"}
+                    size={20}
+                    className={value === UNKNOWN ? "text-outline" : "text-on-tertiary-container"}
+                  />
+                  <div>
+                    <p className="text-label-sm text-outline">{step.question}</p>
+                    <p className={value === UNKNOWN ? "font-medium text-outline" : "font-semibold text-primary"}>
+                      {labelOf(step, value)}
+                    </p>
+                  </div>
                 </div>
-                <Link to={withValue(criteria, from, step.key)} className="text-sm text-brand hover:underline">
+                <Link to={withValue(criteria, from, step.key)} className="text-label-md text-secondary hover:underline">
                   Modifier
                 </Link>
               </li>
@@ -81,21 +100,31 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
 
           if (i !== currentIndex) {
             return (
-              <li key={step.key} className="rounded-xl border border-dashed border-slate-200 px-5 py-3 text-slate-400">
+              <li
+                key={step.key}
+                className="flex items-center gap-space-md rounded-xl border border-dashed border-outline-variant px-space-lg py-3 text-outline"
+              >
+                <span className="text-label-sm font-semibold">{String(i + 1).padStart(2, "0")}</span>
                 {step.question}
               </li>
             );
           }
 
           return (
-            <li key={step.key} className="rounded-xl border-2 border-brand bg-white p-5 shadow-sm">
-              <p className="font-semibold">{step.question}</p>
+            <li key={step.key} className="rounded-xl border border-outline-variant/40 bg-surface-container-lowest p-space-lg shadow-md">
+              <div className="flex items-center justify-between border-b border-outline-variant/20 pb-space-sm">
+                <div>
+                  <span className="text-label-sm font-semibold text-outline">ÉTAPE {String(i + 1).padStart(2, "0")}</span>
+                  <p className="font-display text-headline-sm text-primary">{step.question}</p>
+                </div>
+                <Icon name={stepIcons[step.key]} size={22} className="text-secondary" />
+              </div>
               <StepOptions step={step} criteria={criteria} from={from} />
-              <div className="mt-4 flex justify-between text-sm">
-                <Link to={withValue(criteria, from, step.key, UNKNOWN)} className="text-slate-500 hover:underline">
+              <div className="mt-space-md flex justify-between border-t border-outline-variant/20 pt-space-sm text-body-sm">
+                <Link to={withValue(criteria, from, step.key, UNKNOWN)} className="text-on-surface-variant hover:underline">
                   Je ne sais pas
                 </Link>
-                <Link to={`/resultats${toSearch(criteria)}`} className="text-slate-500 hover:underline">
+                <Link to={`/resultats${toSearch(criteria)}`} className="font-medium text-secondary hover:underline">
                   Voir les documents maintenant →
                 </Link>
               </div>
@@ -105,13 +134,80 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
       </ol>
 
       {done && (
-        <div className="mt-8 flex justify-end">
-          <Link to={`/resultats${toSearch(criteria)}`} className="rounded-lg bg-brand px-5 py-2.5 font-medium text-white hover:bg-brand/90">
+        <div className="mt-space-lg flex flex-col items-center justify-between gap-space-md rounded-xl border border-outline-variant/40 bg-surface-container-lowest p-space-md shadow-sm sm:flex-row">
+          <p className="flex items-center gap-space-xs text-body-sm text-on-surface-variant">
+            <span className="size-2 rounded-full bg-on-tertiary-container" />
+            Tous les critères sont renseignés.
+          </p>
+          <Link
+            to={`/resultats${toSearch(criteria)}`}
+            className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-lg bg-primary px-space-xl text-label-md text-on-primary shadow-md transition-all hover:bg-primary-container active:scale-95 sm:w-auto"
+          >
             Voir les documents
+            <Icon name="arrow_forward" />
           </Link>
         </div>
       )}
     </div>
+  );
+}
+
+const stepIcons: Record<CriteriaKey, string> = {
+  sector: "domain",
+  role: "work",
+  province: "location_on",
+  workTime: "schedule",
+  contract: "badge",
+  company: "apartment",
+};
+
+const stepLabels: Record<CriteriaKey, string> = {
+  sector: "Secteur",
+  role: "Métier",
+  province: "Zone",
+  workTime: "Régime",
+  contract: "Contrat",
+  company: "Entreprise",
+};
+
+/** Barre de progression du parcours : étapes faites, en cours, à venir. */
+function Stepper({ criteria, currentIndex }: { criteria: Criteria; currentIndex: number }) {
+  return (
+    <ol className="mt-space-lg flex items-start">
+      {steps.map((step, i) => {
+        const done = Boolean(criteria[step.key]);
+        const current = i === currentIndex;
+        return (
+          <li key={step.key} className="flex flex-1 flex-col gap-space-xs last:flex-none">
+            <div className="flex w-full items-center">
+              <span
+                className={`grid size-8 shrink-0 place-items-center rounded-full text-label-md ${
+                  done
+                    ? "bg-primary-container text-on-primary"
+                    : current
+                      ? "bg-surface-container-lowest text-secondary ring-2 ring-secondary ring-offset-2"
+                      : "bg-slate-200 text-slate-400"
+                }`}
+              >
+                {done ? <Icon name="check" size={18} /> : i + 1}
+              </span>
+              {i < steps.length - 1 && (
+                <span
+                  className={`mx-1 h-0 flex-1 border-t-2 ${done ? "border-primary-container" : "border-dashed border-slate-300"}`}
+                />
+              )}
+            </div>
+            <span
+              className={`hidden w-8 justify-center self-start text-label-sm whitespace-nowrap sm:flex ${
+                current ? "font-semibold text-on-surface" : "text-outline"
+              }`}
+            >
+              {stepLabels[step.key]}
+            </span>
+          </li>
+        );
+      })}
+    </ol>
   );
 }
 
@@ -121,20 +217,20 @@ function StepOptions({ step, criteria, from }: { step: Step; criteria: Criteria;
     <Link
       key={option.id}
       to={withValue(criteria, from, step.key, option.id)}
-      className="rounded-lg border border-slate-200 px-3 py-2 text-left hover:border-brand hover:bg-brand-soft"
+      className="rounded-lg border border-outline-variant/30 bg-surface-container-lowest px-3 py-2 text-left text-body-sm text-on-surface transition-all hover:border-secondary/40 hover:bg-surface-container"
     >
-      <span className="block font-medium">{option.label}</span>
-      {option.hint && <span className="block text-xs text-slate-500">{option.hint}</span>}
+      <span className="block font-semibold">{option.label}</span>
+      {option.hint && <span className="block text-label-sm text-outline">{option.hint}</span>}
     </Link>
   );
 
   // Les provinces sont regroupées par région.
   if (step.key === "province") {
     return (
-      <div className="mt-3 space-y-3">
+      <div className="mt-space-md space-y-space-md">
         {regions.map((region) => (
-          <div key={region.id}>
-            <p className="mb-1 text-xs font-semibold uppercase tracking-wide text-slate-500">{region.label}</p>
+          <div key={region.id} className="rounded-lg border border-outline-variant/30 bg-surface-container-low p-space-md">
+            <p className="mb-space-sm text-title-md text-primary">{region.label}</p>
             <div className="grid grid-cols-2 gap-2 sm:grid-cols-3">
               {options.filter((o) => "region" in o && o.region === region.id).map(button)}
             </div>
@@ -144,5 +240,9 @@ function StepOptions({ step, criteria, from }: { step: Step; criteria: Criteria;
     );
   }
 
-  return <div className="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-3">{options.map(button)}</div>;
+  return (
+    <div className="mt-space-md grid grid-cols-2 gap-2 rounded-lg border border-outline-variant/30 bg-surface-container-low p-space-md sm:grid-cols-3">
+      {options.map(button)}
+    </div>
+  );
 }
