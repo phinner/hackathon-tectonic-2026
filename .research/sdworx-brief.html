@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tectonic Hackathon: SD Worx Challenge Brief</title>
+<style>
+  :root {
+    --blue: #1a73e8; --ink: #111; --muted: #555; --bg: #f7f8fa; --card: #fff;
+    --line: #e3e6ea; --accent: #ff3b1f; --soft: #e6f1fd;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ink); background: var(--bg); }
+  header { background: linear-gradient(160deg, #000 0%, #3a0a00 55%, var(--accent) 100%); color: #fff; padding: 48px 24px 40px; }
+  header .wrap, main { max-width: 960px; margin: 0 auto; }
+  header small { letter-spacing: .15em; text-transform: uppercase; opacity: .8; }
+  header h1 { font-size: 2.6rem; margin: 8px 0 4px; line-height: 1.15; }
+  header h2 { font-weight: 500; color: #9cc7ff; margin: 0 0 20px; }
+  header blockquote { margin: 0; padding: 14px 18px; background: rgba(255,255,255,.1); border-left: 4px solid #9cc7ff; border-radius: 6px; font-size: 1.1rem; }
+  nav { position: sticky; top: 0; background: #fff; border-bottom: 1px solid var(--line); z-index: 10; }
+  nav .wrap { max-width: 960px; margin: 0 auto; display: flex; gap: 18px; overflow-x: auto; padding: 10px 24px; }
+  nav a { color: var(--muted); text-decoration: none; white-space: nowrap; font-size: .92rem; }
+  nav a:hover { color: var(--blue); }
+  main { padding: 24px; }
+  section { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 24px 28px; margin: 20px 0; }
+  section > h2 { margin-top: 0; color: var(--blue); }
+  h3 { margin-bottom: 4px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
+  .card { border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; background: #fcfcfd; }
+  .card h3 { margin-top: 0; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 16px 0; }
+  .stat { background: var(--soft); border-radius: 8px; padding: 12px; text-align: center; }
+  .stat b { display: block; font-size: 1.5rem; color: var(--blue); }
+  .callout { background: var(--soft); border-left: 4px solid var(--blue); padding: 12px 16px; border-radius: 6px; margin: 16px 0; }
+  .warn { background: #fff3ef; border-left-color: var(--accent); }
+  ul.check { list-style: none; padding-left: 0; }
+  ul.check li { padding: 6px 0 6px 30px; position: relative; border-bottom: 1px dashed var(--line); }
+  ul.check li:last-child { border-bottom: 0; }
+  ul.check input { position: absolute; left: 0; top: 10px; transform: scale(1.2); }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { text-align: left; padding: 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { background: #fafbfc; }
+  code { background: #f1f3f5; padding: 1px 5px; border-radius: 4px; font-size: .9em; word-break: break-all; }
+  a { color: var(--blue); }
+  footer { text-align: center; color: var(--muted); padding: 30px 24px 50px; font-size: .9rem; }
+  @media print { nav { display: none; } section { break-inside: avoid; } }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <small>Tectonic Hackathon · 30 Sep 2026 · SD Worx case</small>
+    <h1>Unlock the Knowledge Within</h1>
+    <h2>Find it. Understand it. Trust it.</h2>
+    <blockquote>"How might we turn fragmented organisational knowledge into a trusted shared resource?"</blockquote>
+  </div>
+</header>
+
+<nav><div class="wrap">
+  <a href="#tldr">TL;DR</a>
+  <a href="#sdworx">Who is SD Worx?</a>
+  <a href="#problem">The problem</a>
+  <a href="#stories">Real stories</a>
+  <a href="#challenge">Challenge</a>
+  <a href="#inspiration">Inspiration</a>
+  <a href="#deliverables">Deliverables</a>
+  <a href="#judging">Judging</a>
+  <a href="#aikido">Aikido</a>
+  <a href="#partners">Credits</a>
+  <a href="#rules">Rules</a>
+</div></nav>
+
+<main>
+
+<section id="tldr">
+  <h2>TL;DR</h2>
+  <ul>
+    <li><b>Build:</b> a focused proof of concept that makes organisational knowledge easier to <b>find</b>, <b>trust</b> or <b>share</b>. Pick <b>one</b> meaningful problem; you don't need to solve everything.</li>
+    <li><b>The core issue is trust:</b> go from "I found something" to "I understand why I can rely on it." Make trust visible, explainable and useful. Avoid hiding it in a black box.</li>
+    <li><b>Keep it focused:</b> one role, one workflow, one knowledge source or one trust signal.</li>
+    <li><b>Submit on Builderbase:</b> a short description, a demo video under 3 minutes, a public GitHub repo with a README, and Aikido screenshots before and after fixes.</li>
+    <li><b>Scoring:</b> Creativity, Technical ability, Fit and Security. The Aikido audit counts for <b>10%</b>.</li>
+  </ul>
+</section>
+
+<section id="welcome">
+  <h2>1. Welcome to the challenge</h2>
+  <p>Every large organisation holds the combined knowledge of its people. That knowledge only creates value when others can use it with confidence. Too often, it is scattered, duplicated, outdated or confined to systems, teams and individual experience.</p>
+  <p>At this hackathon, your task is to explore how technology, design and human insight can turn that complexity into confidence. Build a focused proof of concept that could help employees find, understand and trust what they need.</p>
+</section>
+
+<section id="sdworx">
+  <h2>2. Who is SD Worx?</h2>
+  <p>SD Worx helps organisations across Europe manage HR, payroll and workforce operations, keeping people employed, paid and supported. The company has been doing this for more than 80 years. Its operations span Europe, with payroll reach in more than 100 countries. That scale creates extensive expertise and makes knowledge harder to navigate.</p>
+  <div class="stats">
+    <div class="stat"><b>80+</b>years in business</div>
+    <div class="stat"><b>10,000+</b>employees</div>
+    <div class="stat"><b>100,000+</b>customers</div>
+    <div class="stat"><b>6M+</b>payslips supported</div>
+    <div class="stat"><b>100+</b>countries of payroll reach</div>
+  </div>
+</section>
+
+<section id="problem">
+  <h2>3. The hidden problem inside large organisations</h2>
+  <p>Inside SD Worx, knowledge lives in:</p>
+  <div class="grid">
+    <div class="card"><h3>Documents</h3>Policies, manuals, procedures, checklists, analyses</div>
+    <div class="card"><h3>Conversations</h3>Emails, chats, Teams channels, shared files</div>
+    <div class="card"><h3>Systems</h3>Workflows, business applications, operational data</div>
+    <div class="card"><h3>People</h3>Knowledge held only by experts and experienced colleagues</div>
+  </div>
+  <div class="callout">Finding information is only the first step. A search can return ten answers, and an AI assistant can summarise them. The harder question is whether an answer is <b>reliable, current and relevant</b> to this customer, country or situation.</div>
+
+  <h2>4. Why this matters</h2>
+  <p>People across the organisation rely on knowledge and expertise every day to support customers, build products, improve services and make informed decisions. Uncertainty slows decisions, leads to repeated work and makes valuable expertise hard to reuse. As organisations grow, more knowledge becomes available, but it becomes harder to know what to trust.</p>
+  <div class="callout warn"><b>This is fundamentally a trust problem.</b> A useful solution should give people an answer and show why they can trust it, where uncertainty remains and who can help when documents are not enough.</div>
+</section>
+
+<section id="stories">
+  <h2>5. Real stories, real friction</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Scenario A: The urgent customer question</h3>
+      <p>An employee needs an answer now. An AI assistant finds three documents: one recently updated, one without an owner, and one that may apply to another country. Then a colleague shares contradictory information from a Teams conversation. The employee has found information but still cannot act with confidence.</p>
+    </div>
+    <div class="card">
+      <h3>Scenario B: The inherited portfolio</h3>
+      <p>A payroll consultant inherits a client portfolio. Years ago, the handover might have been one document and a one-hour conversation. Today, that knowledge may be spread across documents, chats, workflows, applications, business data and experts in different teams.</p>
+    </div>
+  </div>
+  <p><i>The information exists. Confidence does not come automatically.</i></p>
+</section>
+
+<section id="challenge">
+  <h2>6. Your challenge</h2>
+  <p>Build a focused proof of concept that makes organisational knowledge easier to find, trust or share. Choose one meaningful problem. You do not need to solve everything.</p>
+  <p>The challenge centres on these questions:</p>
+  <ul>
+    <li>What is <b>reliable</b>?</li>
+    <li>What is <b>current</b>?</li>
+    <li>What <b>applies in this context</b>?</li>
+    <li>Where are the <b>gaps</b>?</li>
+    <li>Who has <b>relevant expertise</b>?</li>
+    <li>Which answer should a person <b>trust</b>?</li>
+  </ul>
+</section>
+
+<section id="inspiration">
+  <h2>7. Inspiration areas</h2>
+  <div class="grid">
+    <div class="card"><h3>Trust</h3>How can people tell whether information is relevant and reliable?</div>
+    <div class="card"><h3>Capture</h3>How can valuable knowledge be shared beyond inboxes, documents and isolated teams?</div>
+    <div class="card"><h3>Detect</h3>How can we identify conflicting, duplicated, missing or outdated knowledge?</div>
+    <div class="card"><h3>Connect</h3>How can people find the right expertise when documents are not enough?</div>
+  </div>
+  <p class="callout">Use these as inspiration, not as a checklist. <b>Do not start with prescribed technology.</b> Start with the moment of doubt, friction or uncertainty that you want to change.</p>
+
+  <h2>8. Build something bold</h2>
+  <p>Focus on <b>one role, one workflow, one knowledge source or one trust signal</b>. Show a concrete moment of doubt. Then show how your proof of concept helps someone move from <i>"I found something"</i> to <i>"I understand why I can rely on it."</i> A strong concept makes trust visible, explainable and useful.</p>
+  <p>Be curious and challenge assumptions. Combine technical ingenuity with a deep understanding of human behaviour. The strongest ideas won't hide complexity behind a black box.</p>
+</section>
+
+<section id="deliverables">
+  <h2>Deliverables checklist</h2>
+  <p>Have one team member submit your team's single project through <b>Builderbase</b>. Fill in the fields under <i>Overview</i>.</p>
+  <ul class="check">
+    <li><input type="checkbox"> Short project description</li>
+    <li><input type="checkbox"> Demo video, <b>under 3 minutes</b></li>
+    <li><input type="checkbox"> GitHub repo link. The repo must stay <b>public</b> and accessible until judging is complete.</li>
+    <li><input type="checkbox"> Short <b>README</b> explaining the project, how to run it and anything unfinished</li>
+    <li><input type="checkbox"> Aikido screenshot <b>before</b> fixes (baseline scan)</li>
+    <li><input type="checkbox"> Aikido screenshot <b>after</b> fixes (issues marked resolved)</li>
+    <li><input type="checkbox"> All links checked and accessible to judges (repo, demo, other materials)</li>
+    <li><input type="checkbox"> No passwords, API keys or confidential data in the repo</li>
+  </ul>
+  <div class="callout warn"><b>Final means final.</b> After your final submission, no code changes or submission edits are allowed. Judges assess that version.</div>
+</section>
+
+<section id="judging">
+  <h2>Judging criteria</h2>
+  <table>
+    <tr><th>Criterion</th><th>Question</th><th>What it means for the SD Worx case</th></tr>
+    <tr><td><b>Creativity</b></td><td>How original is your idea?</td><td>Go beyond "a RAG chatbot over documents". Find a new angle on trust, capture, detection or connecting people.</td></tr>
+    <tr><td><b>Technical ability</b></td><td>Does it work?</td><td>Demonstrate a working flow for your chosen scenario.</td></tr>
+    <tr><td><b>Fit</b></td><td>Did you solve the challenge?</td><td>Show how someone moves from "I found something" to "I can rely on it."</td></tr>
+    <tr><td><b>Security</b></td><td>How secure is it?</td><td>Based on the Aikido AI Code Audit, weighted at <b>10%</b> of the assessment.</td></tr>
+  </table>
+</section>
+
+<section id="aikido">
+  <h2>Aikido security audit (required, 10%)</h2>
+  <p>The Aikido AI Code Audit reasons about your code's actual logic and access patterns. It checks for:</p>
+  <ul>
+    <li><b>Business logic flaws:</b> ways to bypass or abuse the app's intended rules or workflows</li>
+    <li><b>IDOR:</b> access to other users' data by manipulating IDs or references</li>
+    <li><b>Authentication:</b> weaknesses in how users are verified</li>
+    <li><b>Authorization:</b> weak permission checks that let users take actions or view data beyond their role</li>
+  </ul>
+  <h3>Process</h3>
+  <ol>
+    <li>Go to <a href="https://app.aikido.dev/ai-pentests/discounts/hackathon-tectonic-aikido" target="_blank">app.aikido.dev/ai-pentests/discounts/hackathon-tectonic-aikido</a> and click <b>Continue with GitHub</b>.</li>
+    <li>Connect your hackathon repo.</li>
+    <li>Run the AI Code Audit (credits provided). This is your baseline, so <b>take a screenshot</b>.</li>
+    <li>Fix the issues and mark them as resolved.</li>
+    <li>Your score is based on the remaining issues. <b>Take the "after" screenshot</b>.</li>
+  </ol>
+  <div class="callout">Tip: role-based access matters because the challenge includes who can access which knowledge. Build in authentication and authorization from the start.</div>
+</section>
+
+<section id="partners">
+  <h2>Technical partners and credits</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Cursor</h3>
+      <p>AI coding agent.</p>
+      <ol>
+        <li>Join <a href="https://discord.gg/5UwpfTF7M" target="_blank">discord.gg/5UwpfTF7M</a></li>
+        <li>Go to <code>#coupon-codes</code></li>
+        <li>Click "Start Redemption"</li>
+        <li>Select the event and fill out the form with your registration email</li>
+        <li>The bot sends your coupon code</li>
+      </ol>
+    </div>
+    <div class="card">
+      <h3>ElevenLabs</h3>
+      <p>Text-to-speech and synthetic voices.</p>
+      <ol>
+        <li>Join <a href="https://discord.com/invite/VnBvbbcdEC" target="_blank">discord.com/invite/VnBvbbcdEC</a></li>
+        <li>Go to <code>#coupon-codes</code></li>
+        <li>Click "Start Redemption"</li>
+        <li>Select the event and fill out the form with your registration email</li>
+        <li>The bot sends your coupon code</li>
+      </ol>
+    </div>
+    <div class="card">
+      <h3>Google Cloud</h3>
+      <p>Cloud infrastructure.</p>
+      <ol>
+        <li>Copy your team's link from Builderbase</li>
+        <li>Open the link and enter your email to get your GCP credentials</li>
+      </ol>
+      <p><b>Credentials are valid for 1 week only.</b></p>
+    </div>
+    <div class="card">
+      <h3>Aikido</h3>
+      <p>Security audit required. See <a href="#aikido">audit instructions</a>.</p>
+    </div>
+  </div>
+</section>
+
+<section id="rules">
+  <h2>Rules and fair play</h2>
+  <ul>
+    <li><b>Build within the time limit.</b> Build your project during the official hackathon time slot.</li>
+    <li><b>Submit on time.</b> Submit one project per team through the official platform, with all required links.</li>
+    <li><b>Final means final.</b> After your final submission, no code changes or submission edits are allowed.</li>
+    <li><b>Keep the GitHub repo public</b> and accessible until judging is complete.</li>
+    <li><b>Include a short README</b> that explains the project, how to run it, and anything unfinished.</li>
+    <li><b>Check your links.</b> Judges must be able to access the repo, demo and other materials.</li>
+    <li><b>Work as a team.</b> Collaborate with your registered teammates and share responsibility for the project.</li>
+    <li><b>Protect private information.</b> Never upload passwords, API keys or confidential data.</li>
+    <li><b>Respect everyone.</b> Harassment, discrimination, plagiarism and cheating are not acceptable.</li>
+    <li><b>Follow the organisers' instructions.</b> Judges' decisions are final. Rule violations may lead to disqualification.</li>
+  </ul>
+</section>
+
+</main>
+
+<footer>Good luck with your build.<br>Source: Tectonic Hackathon Participants Guide</footer>
+
+</body>
+</html>
