@@ -1,4 +1,17 @@
-.react-router
-build
-node_modules
+.env
+.env.local
+/node_modules/
+
+/.react-router/
+/build/
+/node_modules/.vite/
+
+.idea/
+.vscode/
+.DS_Store
+
+# Docker
+
 README.md
+.git
+.research/
