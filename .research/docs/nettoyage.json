@@ -1,0 +1,563 @@
+[
+  {
+    "id": "nettoyage-baremes-juillet-2026",
+    "title": "CP 121 : barèmes horaires de juillet 2026",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Barèmes horaires bruts applicables depuis le 1er juillet 2026, pour 37 heures hebdomadaires.",
+    "body": [
+      "En €/h : 1A nettoyage habituel 17,1660 ; 1B spécial 17,7010 ; 1C 17,8690 ; 1D 18,2305 ; 2A mi-lourd 18,2775 ; 2B 18,8010 ; 2C 19,0140 ; 2D 18,8010 ; 2E désinfection 18,9890 ; 2F 17,4920.",
+      "Déchets : 3A 19,5145 ; 3B 19,3775 ; 3C 20,5325 ; 3D 21,0555 ; 3E 21,7190. Laveurs de vitres qualifiés : 4A 19,3775 à l'entrée ; 4B 19,8540 dès 8 mois ; 4C 20,1875 dès 12 mois ; 4D 20,5235 dès 18 mois dans la profession.",
+      "Catégorie 5 : appliquer la CP du métier, avec minimum 1A ; chauffeur exclusivement affecté au transport du personnel 17,4160. Catégorie 6 car-wash 18,6565. Ramonage : 7A 19,3775 ; 7B 19,8540 dès 9 mois ; 7C 20,1875 dès 17 mois ; 7D 20,5235 dès 25 mois.",
+      "Nettoyage industriel : 8 sans formation 18,8680 ; 8A 20,0980 ; 8B et 8B1 20,4630 ; 8B2 21,0290 ; 8B3 21,5435 ; 8B4 22,1215 ; 8C 22,9920 ; 8F 21,0290. Les catégories 8D/8E suivent la CP 112, avec minimum 8A."
+    ],
+    "keywords": [
+      "CP 121",
+      "barème 2026",
+      "schoonmaak",
+      "salaire horaire",
+      "laveur de vitres",
+      "catégorie 1A"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ]
+    },
+    "source": "SPF Emploi · salairesminimums.be",
+    "url": "https://www.salairesminimums.be/document.html?jcId=20510841d8cf4cb2aea2af7c490522fb",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Secteur (CP 121)"
+    },
+    "lastValidated": "2026-07-29",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-temps-partiel-minimum",
+    "title": "CP 121 : minima de travail et exceptions",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Les minima sectoriels sont de 18 heures par semaine et de 3 heures par jour. Les catégories 1A et 1B bénéficient de dérogations ; le seuil général n'est pas de 19 heures.",
+    "body": [
+      "La fiche cite l'article 18 de la CCT du 2 juillet 2026 sur la durée et l'organisation du travail, enregistrée sous le numéro 200883/CO/121, avec effet au 1er janvier 2026. Elle indique des prestations minimales de trois heures par jour et dix-huit heures par semaine.",
+      "Les travaux correspondant aux catégories 1A et 1B échappent au minimum hebdomadaire. Pour ces catégories, la fiche relève aussi une dérogation à la durée minimale de trois heures de l'article 21 de la loi du 16 mars 1971 et à la règle du tiers-temps de l'article 11bis de la loi du 3 juillet 1978. Vérifier la classification avant de fixer un petit horaire.",
+      "Cette fiche pratique constitue une source secondaire. La date indiquée correspond à l'entrée en vigueur de la CCT qu'elle cite ; utiliser cette référence lors de la validation du contrat par le service paie."
+    ],
+    "keywords": [
+      "temps partiel",
+      "18 heures",
+      "1A",
+      "1B",
+      "durée minimale",
+      "deeltijds"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ],
+      "workTimes": [
+        "temps-partiel"
+      ]
+    },
+    "source": "Fiche2Paie · fiche2paie.be",
+    "url": "https://fiche2paie.be/cp/121-nettoyage",
+    "owner": {
+      "name": "Fiche2Paie",
+      "team": "Guide pratique"
+    },
+    "lastValidated": "2026-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-horaires-variables",
+    "title": "CP 121 : prévenir des changements d'horaire",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Les horaires variables à temps partiel exigent un délai de communication. L'exception sectorielle liée à une nécessité imprévue suppose l'accord du travailleur.",
+    "body": [
+      "Depuis le 20 novembre 2022, le délai légal de principe est de sept jours ouvrables. Une CCT rendue obligatoire peut prévoir un autre délai, normalement d'au moins trois jours ouvrables. Reporter le délai applicable dans le règlement de travail.",
+      "Les articles 3 et 4 de la loi du 3 octobre 2022 maintiennent certaines anciennes dérogations sectorielles jusqu'à leur terme. Pour la CP 121, la dérogation à un délai inférieur à trois jours ne concerne que la nécessité imprévue avec accord du travailleur. Vérifier la CCT applicable avant de promettre une disponibilité immédiate dans une offre."
+    ],
+    "keywords": [
+      "horaires variables",
+      "préavis horaire",
+      "nécessité imprévue",
+      "CP 121"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ],
+      "workTimes": [
+        "temps-partiel"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/travail-temps-partiel/horaires-de-travail-variables/regles",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2022-11-20",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-prime-fin-annee",
+    "title": "CP 121 : prime de fin d'année",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Le Fonds social calcule la prime de fin d'année sur une période allant de juillet à juin. Vérifier les jours ouvrant le droit et les assimilations avant de chiffrer l'avantage.",
+    "body": [
+      "La fiche FGTB mise à jour le 2 mars 2026 prévoit notamment l'accès après au moins 60 jours effectifs ou assimilés pendant la période du 1er juillet de l'année précédente au 30 juin de l'année concernée. Une autre voie repose sur un montant de salaire brut ; le seuil affiché concerne 2025 et ne permet pas d'affirmer le seuil 2026.",
+      "La page sectorielle FGTB https://www.accg.be/fr/secteur/nettoyage/salaires-et-indemnites/ouvriers/primes/prime-de-fin-d-annee confirme le taux normal de 9 % du salaire de référence et un paiement en décembre. Pour la prime 2026, la période de référence correspond donc au 1er juillet 2025 au 30 juin 2026.",
+      "Depuis la prime 2024, le repos d'accouchement est assimilé dans la limite de 114 jours par congé, sous condition de prestations effectives pendant la période de référence. Le Fonds calcule la prime ; les nouveaux affiliés doivent suivre la procédure de remise du titre de paiement à leur organisation syndicale."
+    ],
+    "keywords": [
+      "prime fin d'année",
+      "9 %",
+      "fonds social",
+      "période de référence",
+      "eindejaarspremie"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ]
+    },
+    "source": "FGTB Centrale Générale · support.accg.be",
+    "url": "https://support.accg.be/hc/fr-be/articles/25267444921501-Nettoyage-Ai-je-droit-%C3%A0-une-prime-de-fin-d-ann%C3%A9e-dans-le-nettoyage",
+    "owner": {
+      "name": "FGTB Centrale Générale",
+      "team": "Secteur (CP 121)"
+    },
+    "lastValidated": "2026-03-02",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-fonds-garde-enfants",
+    "title": "Fonds social : intervention pour la garde d'enfants",
+    "category": "demarches",
+    "importance": "legal",
+    "summary": "La CP 121 prévoit une intervention du Fonds social dans les frais de garde d'enfants. Informer les recrues de cet avantage et des pièces à conserver.",
+    "body": [
+      "La CCT du 29 novembre 2023, rendue obligatoire par l'arrêté royal du 25 octobre 2024 publié le 11 décembre 2024, ajoute le complément de garde d'enfants aux avantages du Fonds social. Les articles 42 à 47 insérés dans la CCT de base ouvrent le droit pour les frais depuis le 1er janvier 2024, avec un premier paiement en 2025.",
+      "Le complément est de 2 euros brut par jour de garde entamé et par enfant, pour au maximum 150 jours par année civile. Il couvre les enfants jusqu'à l'année de leurs 12 ans. Le travailleur doit avoir effectué des prestations en CP 121 durant l'année concernée.",
+      "Une attestation fiscale doit justifier la garde dans un établissement ou accueil extrascolaire agréé. Le versement annuel repose sur les frais de l'année précédente ; le délai de prescription est de trois ans après la fin de l'année concernée."
+    ],
+    "keywords": [
+      "fonds social nettoyage",
+      "garde d'enfants",
+      "FSEND",
+      "attestation fiscale"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ]
+    },
+    "source": "SPF Emploi / Moniteur belge · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=24-12-11&numac=2024205267",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Secteur (CP 121)"
+    },
+    "lastValidated": "2024-12-11",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-hauteur-cordes",
+    "title": "Lavage de vitres : travail en hauteur et sur cordes",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "L'employeur doit justifier le choix du moyen d'accès par l'analyse des risques. Un poste de laveur de vitres sur cordes nécessite une organisation de secours et une formation adaptée.",
+    "body": [
+      "Le livre IV, titre 5, impose un équipement adapté et la priorité aux protections collectives. Les articles IV.5-16 et IV.5-17 interdisent en principe le travail systématique ou répétitif sur cordes. Les exceptions exigent de démontrer que l'accès par un équipement plus sûr est impossible ou plus risqué, ou que sa mise en place présente davantage de risques.",
+      "L'article IV.5-18 impose notamment deux cordes ancrées séparément, un harnais relié au dispositif antichute et une formation spécifique comprenant le sauvetage. Aucun travailleur ne peut intervenir seul : une autre personne doit pouvoir alerter rapidement et connaître les procédures de sauvetage. Une personne compétente désignée par l'employeur surveille l'installation et les travaux.",
+      "Pour recruter, préciser les techniques réellement nécessaires et vérifier les compétences correspondantes. La dernière modification mentionnée dans ce titre a été publiée le 10 juin 2024."
+    ],
+    "keywords": [
+      "laveur de vitres",
+      "cordiste",
+      "travail en hauteur",
+      "harnais",
+      "sauvetage"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ],
+      "roles": [
+        "laveur-vitres"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://www.emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/Code%20livre%20IV%20titre%205%20Equipements%20de%20travail%20pour%20des%20travaux%20temporaires%20en%20hauteur.pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2024-06-10",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-nacelles-controles",
+    "title": "Lavage de vitres : nacelles et contrôles de levage",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Vérifier que le matériel de levage convient au transport de personnes et que les contrôles requis ont été réalisés. Un équipement destiné aux seules charges ne constitue pas un moyen normal d'accès aux vitres.",
+    "body": [
+      "Le livre IV, titre 4, du Code du bien-être encadre le levage. L'utilisation d'un appareil conçu pour les charges afin de lever des personnes n'est admise que dans des circonstances exceptionnelles, avec une analyse des risques et les mesures réglementaires correspondantes.",
+      "Selon les articles 280 et 281 du RGPT rappelés par le SPF Emploi, les appareils répondant à la définition réglementaire des appareils de levage doivent subir un contrôle avant mise en service puis des contrôles trimestriels par un service externe de contrôle technique. Avant l'affectation sur site, demander les rapports applicables à la nacelle.",
+      "La date de référence est celle de la publication du Code du bien-être, le 2 juin 2017 ; la page de guidance ne fournit pas de date de mise à jour."
+    ],
+    "keywords": [
+      "nacelle",
+      "levage de personnes",
+      "SECT",
+      "contrôle trimestriel"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ],
+      "roles": [
+        "laveur-vitres"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/bien-etre-au-travail/equipements-de-travail/levage-de-charges?id=624",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2017-06-02",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-produits-chimiques",
+    "title": "Produits d'entretien : risques et formation",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "L'employeur doit analyser l'exposition aux produits avant d'affecter le personnel. Fournir des consignes et les protections adaptées aux produits réellement utilisés chez le client.",
+    "body": [
+      "Les articles VI.1-6 à VI.1-10 du Code imposent une analyse des risques chimiques. Elle doit considérer les propriétés dangereuses, les informations du fournisseur, les voies et durées d'exposition ainsi que les conditions de travail. Intégrer les produits d'entretien et de désinfection du poste.",
+      "Les articles VI.1-15 et VI.1-16 donnent priorité à la suppression ou au remplacement du produit dangereux, puis aux mesures techniques et collectives. Les équipements de protection individuelle interviennent lorsque les autres moyens ne suffisent pas.",
+      "L'article VI.1-27 impose information et formation, avec accès aux fiches de données de sécurité. L'article VI.1-28 traite de l'identification des produits dans les récipients. Organiser cet accueil avant l'utilisation des produits ; la consolidation citée mentionne une modification publiée le 10 juin 2024."
+    ],
+    "keywords": [
+      "produits d'entretien",
+      "agents chimiques",
+      "fiche de sécurité",
+      "désinfection",
+      "analyse des risques"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/Code%20livre%20VI%20titre%201%20Agents%20chimiques.pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2024-06-10",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-etudiants-securite",
+    "title": "Étudiants : vérifier les tâches de nettoyage autorisées",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Le statut étudiant n'autorise pas automatiquement les tâches dangereuses. Examiner les produits, machines et risques de chute avant de proposer le poste.",
+    "body": [
+      "L'analyse des risques propre aux jeunes doit précéder le travail, être renouvelée chaque année et lors d'une modification du poste. Prévoir l'accueil, l'information et l'accompagnement nécessaires, en tenant compte du manque d'expérience.",
+      "Les articles X.3-8 et X.3-11 du Code encadrent les travaux dangereux. Pour un étudiant, la dérogation exige notamment au moins 18 ans, des études correspondant aux activités, des mesures de prévention effectives et la présence d'un travailleur expérimenté. L'avis préalable du conseiller en prévention et du comité est également requis.",
+      "Ne pas confier un nettoyage dangereux à un étudiant sur la seule base de sa majorité. La date retenue correspond à la dernière modification mentionnée par le titre du Code lié à cette guidance, publiée le 10 juin 2024."
+    ],
+    "keywords": [
+      "étudiant nettoyage",
+      "jeunes au travail",
+      "travaux dangereux",
+      "prévention"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ],
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/bien-etre-au-travail/organisation-de-travail-et-categories-specifiques-du-travailleurs-1",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2024-06-10",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-etudiants-contrat",
+    "title": "Étudiants : contrat écrit avant la prise de poste",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Vérifier que les études constituent l'activité principale du candidat. Un remplacement étudiant dans le nettoyage exige un contrat individuel écrit avant l'entrée en service.",
+    "body": [
+      "Le contrat d'occupation d'étudiant est conclu pour une durée déterminée en deux exemplaires et signé au plus tard à l'entrée en service. Il doit contenir les mentions obligatoires du régime étudiant. Les études doivent constituer l'activité principale et le travail rester accessoire.",
+      "Une occupation ininterrompue d'au moins douze mois auprès du même employeur exclut le recours ultérieur au contrat étudiant dans cette relation. Vérifier aussi les exclusions liées au type d'enseignement et aux stages. Les formalités Dimona et les obligations de sécurité restent à traiter séparément.",
+      "La date indiquée est celle de publication de la loi du 3 juillet 1978 relative aux contrats de travail, qui contient le régime du contrat étudiant, soit le 22 août 1978 ; la page ne donne pas de date d'actualisation."
+    ],
+    "keywords": [
+      "contrat étudiant",
+      "nettoyage",
+      "contrat écrit",
+      "Dimona"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ],
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/contrats-de-travail-particuliers/contrat-doccupation-detudiants",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "1978-08-22",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-ciao-pointage",
+    "title": "Nettoyage chez le client : pointage des présences",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Depuis le 1er septembre 2024, les prestations de nettoyage immobilier concernées exigent un enregistrement des débuts, fins et pauses. Préparer l'accès au système dès l'accueil du travailleur.",
+    "body": [
+      "Check In and Out at Work concerne le nettoyage d'un bien immobilier pour un tiers, sous les conditions de déclaration des travaux. Toutes les activités de la CP 121 ne sont donc pas automatiquement visées. L'employeur informe le personnel des sites concernés et lui fournit les moyens d'enregistrement.",
+      "Le travailleur enregistre sa présence en temps réel sur le lieu de prestation : IN au début, OUT à la fin, OUT au départ en pause puis IN à la reprise. L'employeur ne peut pas enregistrer les présences à l'avance.",
+      "Une correction exige une demande de l'employeur à l'ONSS, appuyée par des justificatifs, dans les trente jours suivant l'enregistrement. La base légale figure aux articles 22 à 49 de la loi-programme du 26 décembre 2022. La page comporte une actualité datée du 30 juillet 2026."
+    ],
+    "keywords": [
+      "Check In and Out",
+      "CIaO",
+      "pointage",
+      "présences",
+      "pauses"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ]
+    },
+    "source": "ONSS · socialsecurity.be",
+    "url": "https://www.socialsecurity.be/citizen/fr/static/applics/check-in-and-out-at-work/index.htm",
+    "owner": {
+      "name": "Office national de sécurité sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-07-30",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-ciao-seuils",
+    "title": "Nettoyage : seuils de déclaration et de pointage",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Le montant du contrat principal et la sous-traitance déterminent l'obligation. La FAQ ONSS précise les seuils et la procédure lors d'une reprise de contrat.",
+    "body": [
+      "La FAQ employeurs du 15 octobre 2025 confirme les seuils applicables : 30 000 euros sans sous-traitant, 5 000 euros avec un sous-traitant et déclaration même sous 5 000 euros avec au moins deux sous-traitants. Ces seuils s'apprécient hors TVA pour les travaux immobiliers du contrat principal.",
+      "Le pointage CIaO s'applique aux activités de nettoyage couvertes par le contrat lorsqu'une déclaration de travaux est requise, ou lorsque le nettoyage est ajouté à une déclaration existante. Vérifier le contrat principal plutôt que le seul montant de la mission du nettoyeur.",
+      "Lorsqu'une entreprise reprend le contrat d'un client, une nouvelle déclaration doit être déposée. Communiquer son numéro aux travailleurs, par exemple au moyen d'un nouveau code QR, afin d'éviter un pointage sous l'ancien employeur."
+    ],
+    "keywords": [
+      "déclaration travaux",
+      "30bis",
+      "30000 euros",
+      "5000 euros",
+      "sous-traitance",
+      "CIaO"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ]
+    },
+    "source": "ONSS · socialsecurity.be",
+    "url": "https://www.socialsecurity.be/site_fr/employer/applics/check-in-and-out-at-work/documents/pdf/faq_ciao_fr.pdf",
+    "owner": {
+      "name": "Office national de sécurité sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2025-10-15",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-controle-social-permis",
+    "title": "Nettoyage : documents pour les contrôles sociaux",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "La checklist SIRS du 13 février 2026 détaille les pièces contrôlées en entreprise et sur site. Vérifier le droit au travail et préparer les justificatifs avant l'affectation.",
+    "body": [
+      "Préparer l'identification BCE et ONSS, la Dimona, le règlement de travail, les données de rémunération et les contrats avec leurs avenants. Pour les temps partiels, les horaires et écarts doivent pouvoir être vérifiés ; conserver les références de déclaration de chantier et les enregistrements CIaO.",
+      "Selon la situation du travailleur étranger, vérifier les autorisations de travail et de séjour applicables. En cas de détachement, préparer la déclaration Limosa L1 et l'attestation A1. Pour un indépendant non européen, vérifier également la carte professionnelle lorsqu'elle est exigée.",
+      "Sur le site du client, le personnel doit pouvoir identifier son employeur, son statut, son horaire et sa rémunération. Organiser l'accès aux documents utiles au contrôle, y compris pour les étudiants et les intérimaires."
+    ],
+    "keywords": [
+      "fraude sociale",
+      "permis de travail",
+      "Limosa",
+      "A1",
+      "contrôle nettoyage",
+      "SIRS"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ]
+    },
+    "source": "SIRS · sirs.belgique.be",
+    "url": "https://www.sirs.belgique.be/fr/flipbook-wrapper/secteur-du-nettoyage",
+    "owner": {
+      "name": "Service d'information et de recherche sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-02-13",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-responsabilite-retenues",
+    "title": "Sous-traitants : vérifier les dettes avant paiement",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Le nettoyage immobilier relève des contrôles de dettes fiscales et sociales des cocontractants. Le non-respect des retenues peut engager la responsabilité solidaire.",
+    "body": [
+      "Le SPF Finances demande de contrôler l'obligation de retenue lors de la conclusion du contrat puis lors de chaque paiement de facture. Utiliser Check Obligation de retenue pour l'entreprise qui exécute les travaux de nettoyage ou d'entretien.",
+      "Lorsque le contrôle impose une retenue, celle-ci s'élève à 15 % du montant hors TVA pour les dettes fiscales et à 35 % pour les dettes ONSS. Verser les sommes à l'administration concernée conformément à la procédure. Transmettre cette vérification au service chargé des fournisseurs avant le paiement.",
+      "La page officielle, mise à jour le 7 mars 2017 selon ses métadonnées, explique que le respect des retenues protège contre la responsabilité solidaire dans les conditions légales. Ces taux concernent le fisc et l'ONSS ; ils ne décrivent pas le dispositif distinct relatif aux dettes d'indépendants."
+    ],
+    "keywords": [
+      "responsabilité solidaire",
+      "retenue facture",
+      "dettes ONSS",
+      "sous-traitant",
+      "nettoyage"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ]
+    },
+    "source": "SPF Finances · finances.belgium.be",
+    "url": "https://finances.belgium.be/fr/E-services/check-obligation-de-retenue",
+    "owner": {
+      "name": "SPF Finances",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2017-03-07",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-mise-disposition-client",
+    "title": "Chez le client : éviter la mise à disposition illégale",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Un client de nettoyage ne peut pas exercer librement l'autorité de l'employeur sur les agents. Définir dans le contrat de prestation les instructions qu'il peut donner.",
+    "body": [
+      "Les consignes du client relatives au bien-être et à la sécurité sont admises. Les autres instructions doivent être explicitement détaillées dans une convention écrite avec le prestataire et ne peuvent pas porter atteinte à son autorité patronale. La pratique doit respecter cette convention.",
+      "L'utilisateur doit informer les organes de concertation concernés et fournir, sur demande, la partie de la convention relative aux instructions. L'arrêté royal du 17 juillet 2013 organise cette information dans le cadre de l'article 31 de la loi du 24 juillet 1987.",
+      "Une mise à disposition illégale peut créer un CDI entre l'utilisateur et les travailleurs dès le début des prestations. L'utilisateur et le prestataire répondent solidairement des cotisations, salaires, indemnités et avantages concernés. Pour le recrutement, identifier clairement l'employeur et le responsable hiérarchique."
+    ],
+    "keywords": [
+      "mise à disposition",
+      "client nettoyage",
+      "autorité patronale",
+      "sous-traitance",
+      "responsabilité solidaire"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/mise-disposition-de-travailleurs",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2013-07-29",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-titres-services-distinction",
+    "title": "Nettoyage et titres-services : choisir la bonne commission",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Un poste d'aide ménagère sous titres-services ne relève pas automatiquement de la CP 121. Vérifier l'agrément, l'activité de l'employeur et le type de contrat avant de publier le salaire.",
+    "body": [
+      "Le contrat titres-services se conclut avec une entreprise agréée par la Région compétente. Pour une entreprise employant uniquement des travailleurs titres-services, les rémunérations de ces travailleurs relèvent de la SCP 322.01. Les travailleurs titres-services d'une agence d'intérim suivent également cette SCP.",
+      "Une section sui generis d'une entreprise ayant une autre activité peut relever des barèmes de la commission compétente pour cette entreprise. Le personnel administratif d'une entreprise titres-services ne relève pas automatiquement de la SCP 322.01. L'intitulé « nettoyage » ne suffit donc pas pour choisir le barème.",
+      "La limite hebdomadaire de la SCP 322.01 est de 38 heures selon cette page. La date retenue est la publication de la loi fondatrice des titres-services, le 11 août 2001, faute de date d'actualisation affichée par la guidance."
+    ],
+    "keywords": [
+      "titres-services",
+      "CP 121",
+      "SCP 322.01",
+      "aide ménagère",
+      "dienstencheques"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/contrats-de-travail-particuliers/contrat-de-travail-titres-services?id=42422",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2001-08-11",
+    "status": "valide"
+  },
+  {
+    "id": "nettoyage-primes-horaires-2026",
+    "title": "CP 121 : primes du samedi, dimanche et de nuit",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Le salaire de base ne couvre pas toutes les prestations décalées. La CCT du 5 février 2026 fixe les sursalaires à prévoir dans le budget du poste.",
+    "body": [
+      "Les articles 4 et 5 prévoient une prime de 100 % du salaire normal pour le travail du dimanche ou d'un jour férié et de 25 % pour le samedi. La prime du samedi ne s'applique pas aux heures supplémentaires déjà majorées en vertu de la CCT sur la durée du travail.",
+      "L'article 3 prévoit une prime pour le travail entre 22 heures et 6 heures. Si ces prestations comprennent au moins six heures et sont précédées ou suivies de deux heures de travail, ces deux heures ouvrent également droit à la prime. La catégorie 8 comporte un régime spécifique à vérifier.",
+      "La CCT entre en vigueur le 1er janvier 2026 et expire le 30 juin 2027, sous réserve de sa disposition particulière sur le champ d'application. Les montants horaires de primes sont indexables : utiliser leur valeur à la date des prestations."
+    ],
+    "keywords": [
+      "prime samedi",
+      "dimanche",
+      "travail de nuit",
+      "sursalaire",
+      "CP 121"
+    ],
+    "scope": {
+      "sectors": [
+        "nettoyage"
+      ]
+    },
+    "source": "SPF Emploi · public-search.emploi.belgique.be",
+    "url": "https://public-search.emploi.belgique.be/website-download-service/joint-work-convention/121/121-2026-001833.pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Secteur (CP 121)"
+    },
+    "lastValidated": "2026-01-01",
+    "status": "valide"
+  }
+]

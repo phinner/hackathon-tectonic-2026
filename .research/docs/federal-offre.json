@@ -1,0 +1,427 @@
+[
+  {
+    "id": "federal-offre-loi-antidiscrimination",
+    "title": "Discrimination dans les annonces et la sélection",
+    "category": "offre",
+    "importance": "legal",
+    "summary": "La loi du 10 mai 2007 protège les candidats dès l’offre d’emploi. Les critères de sélection doivent respecter les interdictions de discrimination et les règles sur les aménagements raisonnables.",
+    "body": [
+      "L’article 5, § 2, vise notamment les annonces, les conditions d’accès et les critères de recrutement. Les critères protégés de l’article 4 comprennent notamment l’âge, l’orientation sexuelle, les convictions, la langue, l’état de santé, le handicap et l’origine ou la condition sociale. Le champ fédéral réserve les compétences des Communautés et Régions.",
+      "L’article 14 interdit les discriminations directes et indirectes, l’injonction de discriminer, le harcèlement et le refus d’aménagements raisonnables pour une personne handicapée. Il couvre aussi les discriminations cumulées et intersectionnelles. Prévoir une procédure permettant d’adapter les épreuves de sélection.",
+      "Les justifications varient selon le critère. L’article 8 encadre les exigences professionnelles essentielles et déterminantes ; l’article 12 prévoit un régime particulier pour l’âge. Une préférence du client ne dispense pas le recruteur de vérifier ces conditions."
+    ],
+    "keywords": [
+      "discrimination",
+      "recrutement",
+      "âge",
+      "handicap",
+      "aménagement raisonnable",
+      "discriminatie"
+    ],
+    "scope": {},
+    "source": "SPF Justice · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?cn=2007051035&la=F&language=fr&table_name=loi",
+    "owner": {
+      "name": "SPF Justice",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-03-13",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-loi-genre",
+    "title": "Égalité de genre dès l’offre d’emploi",
+    "category": "offre",
+    "importance": "legal",
+    "summary": "La loi Genre du 10 mai 2007 s’applique aux annonces, aux critères de sélection et à la rémunération. Une grossesse ou des responsabilités familiales ne peuvent servir à écarter une candidature.",
+    "body": [
+      "L’article 4 protège notamment le sexe, la grossesse, la procréation médicalement assistée, la maternité, les responsabilités familiales, l’identité et l’expression de genre, les caractéristiques sexuelles et la transition médicale ou sociale. L’article 6, § 2, couvre explicitement les offres d’emploi et la fixation de la rémunération.",
+      "L’article 13 limite les distinctions directes fondées sur le sexe aux exigences professionnelles essentielles et déterminantes dans les conditions légales. Décrire les tâches et contraintes réelles plutôt que rechercher un homme ou une femme pour des raisons stéréotypées.",
+      "Pour la rédaction, le guide de l’Institut pour l’égalité des femmes et des hommes, édition septembre 2025, recommande des titres neutres et la mention M/F/X. Pour une offre portant H/F/X, appliquer également ces principes de neutralité. Cette mention ne remplace pas une sélection non discriminatoire. Guide vérifié : https://igvm-iefh.belgium.be/fr/documentation/egalite-dacces-lemploi-informations-et-conseils-pratiques-pour-les-employeurs"
+    ],
+    "keywords": [
+      "loi Genre",
+      "grossesse",
+      "H/F/X",
+      "M/F/X",
+      "responsabilités familiales",
+      "identité de genre"
+    ],
+    "scope": {},
+    "source": "SPF Justice · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/loi/2007/05/10/2007002098/justel",
+    "owner": {
+      "name": "SPF Justice",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-03-13",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-loi-antiracisme",
+    "title": "Origine et nationalité dans le recrutement",
+    "category": "offre",
+    "importance": "legal",
+    "summary": "La loi du 30 juillet 1981 interdit la discrimination raciale dans l’accès à l’emploi. Le recruteur doit aussi refuser les consignes discriminatoires d’un client.",
+    "body": [
+      "Les articles 4 et 5 couvrent la nationalité, la prétendue race, la couleur de peau, l’ascendance et l’origine nationale ou ethnique, ainsi que les annonces et critères de recrutement. Vérifier le droit de travailler sans transformer ce contrôle en préférence générale pour une origine.",
+      "L’article 12 interdit notamment les discriminations directes, indirectes et les injonctions de discriminer. Pour les critères raciaux autres que la nationalité, l’article 8 encadre strictement les exigences professionnelles essentielles et déterminantes ; les justifications liées à la nationalité relèvent notamment de l’article 7.",
+      "Une exigence apparemment neutre doit également être examinée pour ses effets. Demander une compétence linguistique utile au poste plutôt qu’une origine ou une langue maternelle évite un filtre qui peut exclure indirectement certains candidats."
+    ],
+    "keywords": [
+      "racisme",
+      "origine",
+      "nationalité",
+      "sélection",
+      "discrimination indirecte"
+    ],
+    "scope": {},
+    "source": "SPF Justice · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/loi/1981/07/30/1981001359/justel",
+    "owner": {
+      "name": "SPF Justice",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-03-13",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-cct38",
+    "title": "CCT n° 38 : recrutement et sélection",
+    "category": "offre",
+    "importance": "legal",
+    "summary": "La CCT n° 38 encadre les frais, les documents et l’égalité de traitement. Elle comporte aussi des règles de conduite sur le contenu des offres, la vie privée et la confidentialité.",
+    "body": [
+      "Les articles 2 bis à 6 prévoient notamment l’égalité de traitement, la prise en charge des tests ordonnés par l’employeur et l’interdiction d’exiger des copies certifiées conformes. Une copie ordinaire suffit ; l’original peut être présenté en cas de doute. L’article 4 prévoit une attestation sur demande pour le candidat soumis au contrôle du chômage.",
+      "Le chapitre IV distingue les engagements des signataires quant aux règles de conduite. L’article 8 énumère la fonction, les exigences, le lieu sauf impossibilité, l’éventuelle réserve de recrutement et le mode de candidature. L’article 9 prévoit une réponse écrite dans un délai raisonnable aux candidats répondant aux exigences mais non retenus.",
+      "Les articles 11 et 12 limitent les questions privées à ce qui est pertinent pour le poste et prévoient la confidentialité. L’article 7 engage les signataires à promouvoir ces règles auprès de leurs membres. Version coordonnée modifiée en dernier lieu par la CCT n° 38 sexies, entrée en vigueur le 10 octobre 2008."
+    ],
+    "keywords": [
+      "CCT 38",
+      "offre d’emploi",
+      "frais de sélection",
+      "confidentialité",
+      "diplôme"
+    ],
+    "scope": {},
+    "source": "Conseil national du travail · cnt-nar.be",
+    "url": "https://cnt-nar.be/sites/default/files/documents/fr/cct-038.pdf",
+    "owner": {
+      "name": "Conseil national du travail",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2008-10-10",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-tests-et-questions",
+    "title": "Tests pratiques et questions d’entretien",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Le SPF Emploi rappelle les limites des tests d’embauche et des questions privées. Le test doit seulement permettre d’apprécier les compétences nécessaires au poste.",
+    "body": [
+      "Le SPF précise qu’un test de sélection ne fait pas, à lui seul, naître un contrat et ne doit pas être rémunéré. Sa durée ne peut toutefois dépasser ce qui est nécessaire pour apprécier la compétence. Cette règle ne permet pas de faire exécuter une prestation de travail ordinaire sous couvert de sélection.",
+      "Les frais des épreuves ordonnées par l’employeur lui incombent. Les déplacements restent en principe à charge du candidat, mais la procédure doit les limiter autant que possible.",
+      "Les questions sur la vie privée doivent avoir un lien avec la nature et les conditions du poste. Une grossesse ne relève normalement pas de l’entretien ; les situations légalement dangereuses pour la mère ou l’enfant demandent un traitement spécifique respectant l’égalité. Page non datée : la date retenue correspond à la dernière modification de la CCT n° 38 citée."
+    ],
+    "keywords": [
+      "entretien",
+      "test pratique",
+      "vie privée",
+      "grossesse",
+      "frais"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/conclusion-du-contrat-de-travail/droits-et-obligations-des-parties-avant",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2008-10-10",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-unia-langue-maternelle",
+    "title": "Remplacer l’exigence de langue maternelle",
+    "category": "offre",
+    "importance": "guidance",
+    "summary": "Unia analyse l’exigence de langue maternelle comme un risque de discrimination indirecte liée à l’origine nationale ou ethnique. Décrire le niveau linguistique requis pour les tâches.",
+    "body": [
+      "L’avis vise notamment les mentions « langue maternelle français » et « English native speaker ». Elles utilisent une caractéristique liée au parcours d’origine plutôt que la maîtrise effective d’une langue et peuvent écarter des personnes possédant les compétences nécessaires.",
+      "Le recruteur doit rattacher les exigences linguistiques au travail réel et évaluer la maîtrise demandée. Unia précise que son analyse porte sur l’origine nationale ou ethnique, car son mandat ne couvre pas directement le critère de la langue. L’avis est daté du 1er janvier 2017."
+    ],
+    "keywords": [
+      "langue maternelle",
+      "native speaker",
+      "compétences linguistiques",
+      "origine",
+      "moedertaal"
+    ],
+    "scope": {},
+    "source": "Unia · unia.be",
+    "url": "https://www.unia.be/fr/connaissances-recommandations/avis-critere-de-langue-maternelle-offres-demploi-2017",
+    "owner": {
+      "name": "Unia",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2017-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-unia-age",
+    "title": "Limites d’âge dans les annonces",
+    "category": "offre",
+    "importance": "guidance",
+    "summary": "Unia rappelle qu’une limite d’âge dans une annonce doit pouvoir être justifiée. Rechercher une compétence précise plutôt qu’une tranche d’âge.",
+    "body": [
+      "Une annonce réservée à une tranche d’âge ou une consigne donnée à une agence d’intérim exclut directement d’autres candidats. La page rappelle qu’une limite sans raison légitime, appropriée et raisonnable est interdite.",
+      "Unia distingue les limites prévues par un dispositif légal, comme certaines conditions d’une convention de premier emploi. Vérifier le dispositif applicable avant de reprendre une limite dans l’annonce ; les exceptions ne permettent pas un filtre d’âge général.",
+      "La fiche renvoie à la loi antidiscrimination du 10 mai 2007 et à son régime particulier de justification de l’âge. Page sans date de mise à jour affichée : la date retenue est l’entrée en vigueur de cette loi, le 9 juin 2007."
+    ],
+    "keywords": [
+      "âge",
+      "âgisme",
+      "limite d’âge",
+      "annonce",
+      "leeftijd"
+    ],
+    "scope": {},
+    "source": "Unia · unia.be",
+    "url": "https://www.unia.be/fr/discrimination-%25C3%25A2ge",
+    "owner": {
+      "name": "Unia",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2007-06-09",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-vie-privee-references",
+    "title": "Données des candidats et prises de références",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "L’APD demande de limiter les données collectées aux besoins du poste. Les références, les données sensibles et les antécédents judiciaires ne se contrôlent pas librement.",
+    "body": [
+      "Adapter le questionnaire à la fonction. Les opinions politiques, convictions et appartenances syndicales sont des données sensibles, en principe protégées contre le traitement. Les questions sur le désir d’enfant ou la grossesse sont normalement exclues.",
+      "Pour contacter un ancien employeur ou un client, l’APD demande l’information préalable du candidat et une autorisation libre et suffisamment précise. Une référence indiquée dans le CV peut tenir lieu d’accord pour cette référence. Un refus de consentir ne doit pas entraîner automatiquement l’arrêt de la sélection.",
+      "Le passé judiciaire est soumis à un régime particulier. Une obligation légale professionnelle peut justifier le contrôle ; le consentement ne suffit pas. L’APD déconseille de conserver l’extrait après vérification sans nécessité légale. Page non datée : date de référence retenue, entrée en vigueur du RGPD le 24 mai 2016, applicable depuis le 25 mai 2018."
+    ],
+    "keywords": [
+      "RGPD",
+      "vie privée",
+      "références",
+      "casier judiciaire",
+      "données sensibles"
+    ],
+    "scope": {},
+    "source": "Autorité de protection des données · autoriteprotectiondonnees.be",
+    "url": "https://www.autoriteprotectiondonnees.be/professionnel/themes/vie-privee-sur-le-lieu-de-travail/recrutement-des-candidats",
+    "owner": {
+      "name": "Autorité de protection des données",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2016-05-24",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-examens-medicaux-2003",
+    "title": "Examens médicaux à l’embauche",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "La loi du 28 janvier 2003 limite les investigations médicales aux aptitudes actuelles et aux caractéristiques du poste. Le recruteur ne peut organiser un dépistage médical général.",
+    "body": [
+      "L’article 2 couvre les candidats du secteur privé et du secteur public. L’article 3, § 1er, encadre les tests, examens et questions destinés à recueillir des informations médicales ou héréditaires. Il interdit notamment les examens génétiques prévisionnels et le dépistage du VIH, sous réserve des exceptions réglementaires prévues à l’article 5.",
+      "L’article 3, § 2, prévoit une information par lettre confidentielle recommandée dix jours avant l’examen, portant sur les informations recherchées, l’examen et ses raisons. Selon le § 3, seuls les conseillers en prévention-médecins du travail compétents peuvent demander ou exécuter ces examens.",
+      "L’employeur et le candidat reçoivent la décision au moyen de la fiche médicale prévue. La motivation écrite d’une inaptitude est transmise au médecin désigné par l’intéressé. L’article 4 impose d’informer des affections susceptibles d’être aggravées par le poste. Date retenue : publication au Moniteur belge du 9 avril 2003."
+    ],
+    "keywords": [
+      "médecine du travail",
+      "examen médical",
+      "VIH",
+      "test génétique",
+      "aptitude"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/loi28_01_2003.pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2003-04-09",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-surveillance-sante",
+    "title": "Quand organiser l’évaluation de santé préalable",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "La surveillance médicale dépend des risques du poste. Pour un poste concerné, l’évaluation préalable doit intervenir avant l’affectation effective.",
+    "body": [
+      "Le titre 4 du livre Ier du Code du bien-être encadre la surveillance de santé. L’analyse des risques, avec le conseiller en prévention-médecin du travail et l’intervention du comité compétent, permet de déterminer les postes concernés. Le travail sur écran n’entraîne pas automatiquement une surveillance obligatoire.",
+      "Selon l’article I.4-26, l’évaluation peut précéder la signature du contrat si elle constitue la dernière étape de sélection et si le contrat aboutit effectivement lorsque le candidat est déclaré apte. Elle peut aussi suivre la signature, mais doit précéder l’exposition au risque.",
+      "L’article I.4-13 interdit les examens supplémentaires en dehors du cadre prévu. L’aptitude s’apprécie pour un poste déterminé au moment de l’examen. La page n’affiche pas de date de mise à jour ; la date retenue est celle de l’entrée en vigueur du Code, le 12 juin 2017."
+    ],
+    "keywords": [
+      "surveillance de santé",
+      "évaluation préalable",
+      "poste à risque",
+      "médecin du travail"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/bien-etre-au-travail/la-surveillance-de-la-sante-des-travailleurs",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2017-06-12",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-cct25-egalite-salariale",
+    "title": "CCT n° 25 : égalité des rémunérations",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "La CCT n° 25 impose l’égalité de rémunération entre femmes et hommes pour un même travail ou un travail de valeur égale. Le salaire proposé à l’embauche doit respecter ce principe.",
+    "body": [
+      "L’article 2 délimite le champ par référence à la loi du 5 décembre 1968 sur les CCT. L’article 3 exige l’élimination des discriminations fondées sur le sexe dans les éléments et conditions de rémunération.",
+      "Les systèmes d’évaluation doivent utiliser des critères, une pondération et une conversion en rémunération respectant l’égalité. Les secteurs et entreprises doivent évaluer leurs classifications et les corriger si nécessaire. Pour préparer une offre, vérifier la classe de fonction et justifier les différences salariales par des critères professionnels.",
+      "L’article 4 couvre notamment le salaire en espèces, les avantages évaluables en argent et certaines prestations complémentaires. Contrôler donc l’ensemble de l’offre salariale. Version coordonnée modifiée par la CCT n° 25 ter du 9 juillet 2008."
+    ],
+    "keywords": [
+      "CCT 25",
+      "égalité salariale",
+      "classification",
+      "avantages",
+      "gelijk loon"
+    ],
+    "scope": {},
+    "source": "Conseil national du travail · cnt-nar.be",
+    "url": "https://cnt-nar.be/sites/default/files/documents/fr/Cct%20n%C2%B0%2025%20(Version%20coordonn%C3%A9e).pdf",
+    "owner": {
+      "name": "Conseil national du travail",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2008-07-09",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-langues-bruxelles",
+    "title": "Langue des documents du personnel à Bruxelles",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "À Bruxelles, l’article 52 des lois coordonnées du 18 juillet 1966 règle la langue des documents du personnel des entreprises industrielles, commerciales ou financières. Il faut tenir compte de la langue du travailleur.",
+    "body": [
+      "L’article 52, § 1er, vise les actes et documents imposés par la loi ou les règlements ainsi que ceux destinés au personnel. À Bruxelles-Capitale, les documents destinés au personnel francophone sont rédigés en français et ceux destinés au personnel néerlandophone en néerlandais. Le siège d’exploitation est déterminant.",
+      "Le § 2 autorise des traductions supplémentaires lorsque la composition du personnel le justifie, sans remplacer la version requise. L’article 59 prévoit le remplacement des documents irréguliers.",
+      "Pour préparer l’engagement, vérifier la langue des documents individuels et du contrat. L’article 52 ne constitue pas, à lui seul, une obligation générale de publier toute annonce privée dans les deux langues. Les services publics suivent d’autres dispositions de ces lois."
+    ],
+    "keywords": [
+      "Bruxelles",
+      "langue du contrat",
+      "article 52",
+      "français",
+      "néerlandais",
+      "taalwetgeving"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "SPF Justice · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/loi/1966/07/18/1966071850/justel",
+    "owner": {
+      "name": "SPF Justice",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2016-05-09",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-casier-judiciaire",
+    "title": "Demander le bon extrait de casier judiciaire",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Le SPF Justice décrit la procédure pour les employeurs autorisés à demander un extrait. La demande doit correspondre à l’activité et reposer sur la réglementation applicable.",
+    "body": [
+      "Le recruteur complète le formulaire destiné au candidat et indique le type d’extrait approprié. Il distingue les activités réglementées et celles relevant de l’éducation, de la guidance psycho-médico-sociale, de l’aide à la jeunesse, de la protection infantile ou de l’encadrement de mineurs, visées à l’article 596, alinéa 2, du Code d’instruction criminelle.",
+      "Le candidat présente ensuite le formulaire à sa commune, ou au Casier judiciaire central lorsqu’il n’a pas de domicile ou de résidence en Belgique. L’administration date et signe le formulaire et remet l’extrait au candidat.",
+      "Le document demandé ne contient que les informations pertinentes pour l’activité concernée. Cette procédure ne donne pas à tout employeur une autorisation générale de contrôler les antécédents de chaque candidat. Communication publiée le 28 juin 2017."
+    ],
+    "keywords": [
+      "casier judiciaire",
+      "article 596",
+      "mineurs",
+      "activité réglementée",
+      "formulaire"
+    ],
+    "scope": {},
+    "source": "SPF Justice · justice.belgium.be",
+    "url": "https://www.justice.belgium.be/fr/nouvelles/autres_communiques/extrait_de_casier_judiciaire_pour_employeur_association_ou",
+    "owner": {
+      "name": "SPF Justice",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2017-06-28",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-transposition-salariale-2026",
+    "title": "Transparence salariale : état fédéral en septembre 2026",
+    "category": "offre",
+    "importance": "guidance",
+    "summary": "Une analyse publiée le 17 septembre 2026 constate l’absence de transposition fédérale de la directive 2023/970. Ne pas présenter son échéance comme une nouvelle obligation générale déjà applicable à tous les employeurs privés belges.",
+    "body": [
+      "Le cabinet PKF BOFIDI Legal indique qu’au 17 septembre 2026 aucun projet de loi fédéral n’avait été déposé. L’échéance européenne était le 7 juin 2026. Cette source documente un état daté de la transposition ; elle ne permet pas d’affirmer qu’aucun changement ultérieur n’est possible.",
+      "L’analyse distingue les nouvelles obligations de transparence, notamment l’information du candidat prévue à l’article 5, des droits déjà applicables. Une directive ne crée pas, à elle seule, des obligations directement opposables entre particuliers. Le secteur public et les transpositions des entités fédérées demandent une vérification distincte.",
+      "Le recruteur doit déjà respecter la loi Genre et l’égalité de rémunération. Préparer des critères salariaux objectifs reste utile, mais une notice destinée au secteur privé ne doit pas annoncer une obligation fédérale universelle de fourchette salariale sur la seule base de la directive."
+    ],
+    "keywords": [
+      "transparence salariale",
+      "transposition",
+      "2023/970",
+      "fourchette salariale",
+      "septembre 2026"
+    ],
+    "scope": {},
+    "source": "PKF BOFIDI Legal · pkfbofidi.com",
+    "url": "https://pkfbofidi.com/fr/transparence-salariale-belgique-sans-loi-de-transposition/",
+    "owner": {
+      "name": "PKF BOFIDI Legal",
+      "team": "Guide pratique"
+    },
+    "lastValidated": "2026-09-17",
+    "status": "valide"
+  },
+  {
+    "id": "federal-offre-be-magic-classifications",
+    "title": "Préparer des classifications salariales neutres",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Le SPF Emploi présente l’analyse BE-MAGIC consacrée aux classifications et à la directive sur la transparence des rémunérations. Elle aide à préparer les grilles utilisées dans les offres salariales.",
+    "body": [
+      "La publication du 29 septembre 2025 distingue le principe d’égalité salariale déjà inscrit dans le droit européen et belge des adaptations nécessaires pour transposer la directive. Elle ne constitue pas un texte de transposition.",
+      "Le projet vise à fournir aux partenaires sociaux des outils d’évaluation et de classification des fonctions neutres du point de vue du genre, dans le cadre de l’article 4, paragraphe 2, de la directive. Pour le recrutement, rattacher la rémunération proposée à la fonction évaluée et vérifier la neutralité des critères.",
+      "L’analyse porte aussi sur les classifications sectorielles et les autres avantages salariaux. Elle est utile pour réviser une grille, mais ne suffit pas à établir le calendrier des nouvelles obligations fédérales en septembre 2026 ; consulter la notice sur la transposition."
+    ],
+    "keywords": [
+      "BE-MAGIC",
+      "classification de fonctions",
+      "neutralité de genre",
+      "rémunération",
+      "transparence"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/actualites/projet-be-magic-analyse-juridico-technique-de-limpact-de-la-directive-sur-la",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2025-09-29",
+    "status": "valide"
+  }
+]

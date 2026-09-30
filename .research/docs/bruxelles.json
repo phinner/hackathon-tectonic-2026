@@ -1,0 +1,454 @@
+[
+  {
+    "id": "bruxelles-code-egalite-2024",
+    "title": "Recrutement sans discrimination : Code bruxellois",
+    "category": "offre",
+    "importance": "legal",
+    "summary": "Le Code bruxellois de 2024 est la référence actuelle dans le champ des compétences bruxelloises. Les critères de sélection doivent respecter les interdictions de discrimination et les règles relatives aux aménagements raisonnables.",
+    "body": [
+      "Le décret et ordonnance conjoints du 4 avril 2024, publié le 16 avril et entré en vigueur le 16 octobre 2024, couvre notamment l’emploi et les relations de travail dans les limites de compétence précisées à l’article 6. Les articles 5 et 7 protègent notamment l’âge, le sexe, l’origine, le handicap, la langue, les responsabilités familiales et l’état de santé. Ils interdisent les discriminations directes, indirectes et intersectionnelles, ainsi que l’injonction de discriminer.",
+      "Pour rédiger une offre et comparer les candidatures, rattacher chaque exigence aux tâches du poste. Les articles 8, 10, 13 et 14 encadrent les justifications possibles, notamment l’exigence professionnelle essentielle et déterminante, dont l’objectif doit être légitime et l’exigence proportionnée.",
+      "Les articles 11 et 12 imposent de traiter les demandes d’aménagement liées au handicap. Un refus doit être motivé lorsque l’aménagement serait déraisonnable ; une charge suffisamment compensée par les aides publiques n’est pas disproportionnée. L’article 203 abroge l’ordonnance du 4 septembre 2008 sur la discrimination en matière d’emploi."
+    ],
+    "keywords": [
+      "discrimination",
+      "égalité de traitement",
+      "offre d’emploi",
+      "aménagement raisonnable",
+      "critères protégés"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "Région de Bruxelles-Capitale, COCOM et COCOF · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/decret/2024/04/04/2024003443/justel",
+    "owner": {
+      "name": "Région de Bruxelles-Capitale, COCOM et COCOF",
+      "team": "level: Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2024-04-16",
+    "status": "valide"
+  },
+  {
+    "id": "bruxelles-ordonnance-discrimination-2008-abrogee",
+    "title": "Ordonnance antidiscrimination de 2008 : texte abrogé",
+    "category": "offre",
+    "importance": "legal",
+    "summary": "L’ordonnance du 4 septembre 2008 relative à la discrimination en matière d’emploi est abrogée. Pour une nouvelle offre, utiliser le Code bruxellois de 2024.",
+    "body": [
+      "La fiche Justel de l’ordonnance du 4 septembre 2008, publiée le 16 septembre 2008, indique expressément que le texte est abrogé. Cette fiche permet d’identifier les références anciennes encore présentes dans certains guides et documents internes.",
+      "Ne pas présenter les anciens articles comme la base juridique actuelle d’un recrutement. Le Code bruxellois du 4 avril 2024 reprend le cadre de l’égalité et de la non-discrimination ; son article 203 vise expressément l’abrogation de cette ordonnance."
+    ],
+    "keywords": [
+      "ordonnance 2008",
+      "discrimination à l’embauche",
+      "abrogation",
+      "Code bruxellois"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "Région de Bruxelles-Capitale · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/09/04/2008031460/justel",
+    "owner": {
+      "name": "Région de Bruxelles-Capitale",
+      "team": "level: Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2024-07-24",
+    "status": "obsolete",
+    "replacedBy": "bruxelles-code-egalite-2024"
+  },
+  {
+    "id": "bruxelles-tests-discrimination-inspection",
+    "title": "Tests de discrimination par l’inspection bruxelloise",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "L’inspection peut utiliser des candidatures comparables et des appels mystères pour détecter une discrimination. Le dispositif instauré en 2017 a été élargi en 2023.",
+    "body": [
+      "L’article 4/3 de l’ordonnance du 30 avril 2009, inséré par l’ordonnance du 16 novembre 2017 puis modifié en 2023, autorise les tests sous identité d’emprunt. Le test de situation compare des candidatures ne différant que par un critère potentiellement discriminant ; l’appel mystère vérifie la réaction de l’employeur à une demande discriminante d’un client.",
+      "Dans la version mise à jour le 29 juin 2023, une plainte n’est plus la seule porte d’entrée. Le paragraphe 4 permet aussi des tests fondés sur une suspicion raisonnable issue d’une enquête, de données sociales ou d’analyses sectorielles. Les cas sectoriels visés aux points c et d nécessitent l’accord exprès préalable de l’auditeur du travail ou du procureur du Roi. Le test ne peut provoquer la discrimination.",
+      "Les actions et résultats sont consignés dans un rapport. Un résultat positif peut faire présumer une discrimination. Le recruteur doit appliquer des critères cohérents aux candidatures et refuser une consigne discriminante, y compris lorsqu’elle provient d’un client."
+    ],
+    "keywords": [
+      "test de situation",
+      "appel mystère",
+      "inspection emploi",
+      "discrimination",
+      "mystery call"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "Région de Bruxelles-Capitale · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/04/30/2009031244/justel",
+    "owner": {
+      "name": "Région de Bruxelles-Capitale",
+      "team": "level: Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2023-06-29",
+    "status": "valide"
+  },
+  {
+    "id": "bruxelles-langue-documents-personnel",
+    "title": "Langue des documents du personnel à Bruxelles",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "À Bruxelles, les documents individuels visés par la loi sont rédigés en français pour le personnel francophone et en néerlandais pour le personnel néerlandophone. Le bilinguisme de la région n’impose pas deux versions de chaque document individuel.",
+    "body": [
+      "L’article 52 des lois coordonnées du 18 juillet 1966 règle les actes et documents légalement imposés et ceux destinés au personnel des entreprises industrielles, commerciales ou financières. Le critère territorial est le siège d’exploitation. Dans Bruxelles-Capitale, choisir le français ou le néerlandais selon la langue du membre du personnel concerné.",
+      "Pour un document collectif destiné à un personnel francophone et néerlandophone, prévoir les deux versions. L’article 52, paragraphe 2, permet d’ajouter une traduction aux avis, communications, actes, certificats et formulaires lorsque la composition du personnel le justifie. Une traduction ne dispense pas d’établir le document dans la langue légalement requise.",
+      "Selon l’article 59, un document irrégulier doit être remplacé spontanément ou sur injonction. Sans suite dans le mois, le juge de paix peut ordonner l’adjonction d’une traduction assermentée aux frais de l’entreprise. Le remplacement produit effet à la date du document remplacé. Version Justel mise à jour le 9 mai 2016."
+    ],
+    "keywords": [
+      "langue du contrat",
+      "français",
+      "néerlandais",
+      "siège d’exploitation",
+      "article 52",
+      "taalgebruik"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "État belge · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/loi/1966/07/18/1966071850/justel",
+    "owner": {
+      "name": "État belge",
+      "team": "level: Fédéral"
+    },
+    "lastValidated": "2016-05-09",
+    "status": "valide"
+  },
+  {
+    "id": "bruxelles-activa-abrogation-transition-2026",
+    "title": "Activa.brussels : fermeture et transition en 2026",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Depuis le 15 juillet 2026, activa.brussels ne finance plus les nouveaux engagements. Actiris prévoit une transition pour les contrats déjà débutés, jusqu’au 31 décembre 2026.",
+    "body": [
+      "L’avis aux employeurs vise activa.brussels, activa.brussels plus et activa.brussels aptitude réduite. Pour un recrutement réalisé après la fermeture du 15 juillet 2026, ne pas déduire une allocation activa du coût salarial prévisionnel.",
+      "Actiris précise que la déduction continue pour les contrats débutés avant le 15 juillet 2026, jusqu’au 31 décembre 2026. Dès le 1er janvier 2027, l’employeur doit supporter l’intégralité du salaire sans cette déduction. Vérifier la date effective de début du contrat dans les dossiers transitoires.",
+      "La prime handicap et l’incitant à la formation ne sont plus accessibles. Les parcours tels que Stage First ou FPIE ne donnent plus accès à une attestation activa. La page annonce un travail sur des mesures de remplacement sans encore en fixer les conditions."
+    ],
+    "keywords": [
+      "activa.brussels",
+      "aide à l’embauche",
+      "abrogation 2026",
+      "prime handicap",
+      "coût salarial"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "Actiris · actiris.brussels",
+    "url": "https://www.actiris.brussels/fr/employeurs/detail-d-une-news/20736-abrogation-de-la-mesure-activa-brussels-emp",
+    "owner": {
+      "name": "Actiris",
+      "team": "level: Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2026-07-15",
+    "status": "valide"
+  },
+  {
+    "id": "bruxelles-activa-montants-drs-2026",
+    "title": "Activa : montants et déclaration des dossiers transitoires",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Les instructions DRS du troisième trimestre 2026 indiquent les montants maximaux des allocations bruxelloises et leur calcul. Leur utilisation suppose un droit encore ouvert pendant la transition activa.",
+    "body": [
+      "Pour la période 2026/3, le tableau du scénario 8 indique 350 ou 800 euros pour le type 020, demandeurs d’emploi bruxellois de longue durée, et 600 ou 750 euros pour le type 021, aptitude réduite et groupe cible des jeunes ou travailleurs âgés. Appliquer le montant correspondant à la décision d’octroi et à la phase du dossier, sans promettre ces sommes pour une nouvelle embauche.",
+      "Le calcul se fait par occupation déclarée à partir des heures rémunérées et du facteur S multiplié par quatre. Additionner les montants calculés pour déterminer la déduction mensuelle, puis respecter le plafond applicable lors de la déduction du salaire net. Les instructions distinguent ce plafonnement du montant à déclarer.",
+      "Lire ces instructions avec la fiche bruxelles-activa-abrogation-transition-2026 : les nouveaux engagements sont exclus depuis le 15 juillet 2026 et la déduction transitoire prend fin le 31 décembre 2026. La date retenue correspond au début du troisième trimestre 2026 couvert par les instructions."
+    ],
+    "keywords": [
+      "DRS scénario 8",
+      "activa",
+      "allocation de travail",
+      "350 euros",
+      "800 euros",
+      "salaire net"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "ONEM · socialsecurity.be",
+    "url": "https://www.socialsecurity.be/employer/instructions/drs/fr/latest/instructions/onemrva/scenario_08/what.html",
+    "owner": {
+      "name": "ONEM",
+      "team": "level: Fédéral"
+    },
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "bruxelles-actiris-publication-offres",
+    "title": "Publier et suivre une offre sur My Actiris",
+    "category": "offre",
+    "importance": "guidance",
+    "summary": "Les conditions d’utilisation d’Actiris imposent des offres réelles, une description précise et un suivi des candidatures. Les services sont gratuits et l’employeur reste responsable du contenu publié.",
+    "body": [
+      "Les conditions mises à jour le 26 juin 2024 exigent un numéro BCE et le respect des obligations légales de l’employeur. Selon l’article 1, les offres en gestion autonome peuvent être publiées en français, néerlandais ou anglais ; celles gérées par Actiris sont rédigées en français et/ou néerlandais, avec un cadre distinct pour l’international.",
+      "Les articles 2 et 3 demandent de publier uniquement des postes effectivement à pourvoir, de décrire précisément le travail et de respecter notamment la CCT no 38 et les règles antidiscrimination. Suivre les candidatures dans un délai raisonnable et clôturer les offres périmées. En gestion Actiris, communiquer aussi le résultat des candidatures proposées.",
+      "L’article 4 réserve les données des candidats à la procédure de recrutement et interdit leur communication à des tiers. Actiris peut suspendre une offre et bloquer un compte en cas de non-respect des conditions, conformément à l’article 5."
+    ],
+    "keywords": [
+      "My Actiris",
+      "offre d’emploi",
+      "publication",
+      "candidatures",
+      "RGPD",
+      "BCE"
+    ],
+    "scope": {},
+    "source": "Actiris · my.actiris.brussels",
+    "url": "https://my.actiris.brussels/employer/assets/documents/ConditionsGenerales-3.pdf",
+    "owner": {
+      "name": "Actiris",
+      "team": "level: Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2024-06-26",
+    "status": "valide"
+  },
+  {
+    "id": "bruxelles-stage-first-regles-2026",
+    "title": "Stage First : conditions et indemnités en 2026",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Le Stage First est un stage de première expérience professionnelle encadré par une convention avec Actiris. Depuis le 27 mars 2026, l’inscription préalable minimale prévue par le texte est de 26 jours.",
+    "body": [
+      "L’article 4 de l’arrêté du 29 septembre 2016, modifié en mars 2026, exige au début du stage moins de 30 ans, au maximum un diplôme ou certificat du secondaire supérieur, un domicile bruxellois et au moins 26 jours d’inscription comme demandeur d’emploi inoccupé auprès d’Actiris. Faire vérifier l’admissibilité avant de conclure la convention.",
+      "Les articles 2, 3, 5 et 6 prévoient une convention entre stagiaire, fournisseur de stage et Actiris, assortie d’un plan d’accompagnement. Le stage dure de 3 à 6 mois et suit le régime à temps plein applicable à la fonction dans le secteur. Il ne faut pas le présenter comme un contrat de travail ordinaire.",
+      "Les articles 11 et 12 fixent une allocation journalière de 26,82 euros et une indemnité mensuelle de 500 euros à charge du fournisseur. Le montant de 500 euros s’applique aux conventions conclues depuis le 1er juillet 2024. Avant le début, souscrire les assurances accidents du travail, trajet et responsabilité civile prévues à l’article 9 ; établir l’évaluation finale prévue à l’article 10."
+    ],
+    "keywords": [
+      "Stage First",
+      "première expérience",
+      "convention de stage",
+      "26 jours",
+      "500 euros",
+      "jeunes"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ],
+      "workTimes": [
+        "temps-plein"
+      ]
+    },
+    "source": "Région de Bruxelles-Capitale · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/arrete/2016/09/29/2016031660/justel",
+    "owner": {
+      "name": "Région de Bruxelles-Capitale",
+      "team": "level: Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2026-03-31",
+    "status": "valide"
+  },
+  {
+    "id": "bruxelles-permis-travail-guichet-unique-2026",
+    "title": "Autorisation de travail : dépôt au guichet unique",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Vérifier la situation de séjour et la catégorie du candidat avant de demander une autorisation bruxelloise. Depuis le 4 mai 2026, les demandes pour ressortissants non européens passent par le guichet unique fédéral.",
+    "body": [
+      "Bruxelles Économie et Emploi propose une orientation par situation : travailleur hautement qualifié, profession en pénurie, carte bleue, stagiaire, travail saisonnier ou autre cas. Utiliser la catégorie correspondant réellement à l’emploi et vérifier les éventuelles dispenses ainsi que la rémunération minimale applicable.",
+      "À compter du 4 mai 2026, les formulaires PDF ne sont plus utilisés et les demandes par courriel ne sont plus acceptées. Si un mandataire intervient, l’employeur et ce mandataire doivent suivre la procédure de procuration.",
+      "Une autorisation de travail délivrée par la Région ne vaut pas automatiquement permis unique. La décision de séjour relève de l’Office des étrangers, selon les articles 61/25-1 et suivants de la loi du 15 décembre 1980. Les titulaires d’un titre de séjour spécial doivent joindre la preuve du renoncement à leur statut privilégié."
+    ],
+    "keywords": [
+      "permis unique",
+      "autorisation de travail",
+      "guichet unique",
+      "ressortissant non européen",
+      "mandataire"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "Bruxelles Économie et Emploi · economie-emploi.brussels",
+    "url": "https://economie-emploi.brussels/autorisation-travail-votre-situation",
+    "owner": {
+      "name": "Bruxelles Économie et Emploi",
+      "team": "level: Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2026-05-04",
+    "status": "valide"
+  },
+  {
+    "id": "bruxelles-profession-penurie-autorisation",
+    "title": "Profession en pénurie : choisir l’autorisation de travail",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Le classement en pénurie ne dispense pas de demander l’autorisation appropriée. Bruxelles distingue la durée de travail et le fait de séjourner ou non en Belgique.",
+    "body": [
+      "La page officielle renvoie à la liste des professions en pénurie publiée le 1er juillet 2026 et à l’article 14, paragraphe 2, 1°, de l’arrêté du 16 mai 2024. Comparer les tâches et l’intitulé du poste avec cette liste avant d’utiliser la catégorie de migration économique correspondante.",
+      "Pour plus de 90 jours de travail avec séjour en Belgique, demander un permis unique. Pour plus de 90 jours sans séjour en Belgique, notamment le cas indiqué de frontalier ou de télétravail hors de Belgique, la page oriente vers une autorisation de longue durée. Jusqu’à 90 jours, elle oriente vers une autorisation de courte durée ; les occupations successives sont prises en compte dans ce calcul."
+    ],
+    "keywords": [
+      "profession en pénurie",
+      "permis unique",
+      "90 jours",
+      "migration économique",
+      "knelpuntberoep"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "Bruxelles Économie et Emploi · economie-emploi.brussels",
+    "url": "https://economie-emploi.brussels/autorisation-travail-profession-penurie",
+    "owner": {
+      "name": "Bruxelles Économie et Emploi",
+      "team": "level: Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "bruxelles-liste-professions-penurie-juillet-2026",
+    "title": "Professions en pénurie : liste du 1er juillet 2026",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "La liste diffusée par Bruxelles Économie et Emploi identifie les professions en pénurie au 1er juillet 2026. Vérifier l’intitulé exact avant de constituer un dossier de migration économique.",
+    "body": [
+      "La liste comprend notamment comptable, expert-comptable, chef de chantier, conducteur d’engins de chantier, maçon, couvreur de toits inclinés et couvreur de toits plats. Dans les soins et l’action sociale figurent notamment aide-soignant, infirmier et éducateur-accompagnateur.",
+      "Pour l’informatique, le document vise notamment analyste-développeur TIC, Business Analyst TIC et administrateur de base de données. Dans l’horeca, il mentionne chef de cuisine ; dans le transport, conducteur de poids lourd avec permis CE. Un intitulé voisin ou un secteur entier ne suffit donc pas à établir l’appartenance à la liste.",
+      "Conserver la version du 1er juillet 2026 avec le dossier de recrutement et vérifier la correspondance de la fonction réelle. Pour les formalités liées au candidat étranger, utiliser ensuite la procédure indiquée dans la fiche bruxelles-profession-penurie-autorisation."
+    ],
+    "keywords": [
+      "liste pénurie 2026",
+      "comptable",
+      "infirmier",
+      "chef de chantier",
+      "analyste-développeur",
+      "permis CE"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "Bruxelles Économie et Emploi · economie-emploi.brussels",
+    "url": "https://economie-emploi.brussels/media/1492/download?attachment",
+    "owner": {
+      "name": "Bruxelles Économie et Emploi / Actiris",
+      "team": "level: Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "bruxelles-fonctions-critiques-panorama",
+    "title": "Fonctions critiques : adapter les exigences du recrutement",
+    "category": "offre",
+    "importance": "guidance",
+    "summary": "Les fonctions critiques correspondent à des difficultés de recrutement qui peuvent avoir plusieurs causes. Actiris invite à examiner les qualifications demandées et les possibilités de formation.",
+    "body": [
+      "La page Panorama d’Actiris, mise à jour le 10 juillet 2026, explique que les exigences de diplôme, d’expérience, de langues ou de flexibilité peuvent réduire le nombre de candidats disponibles. Pour préparer une offre, distinguer les compétences nécessaires dès l’entrée de celles qui peuvent être acquises en emploi.",
+      "Actiris cite la reprise d’études, la formation et la validation des compétences parmi les pistes d’accès aux métiers qui recrutent. Utiliser les fiches métiers pour préparer la recherche de candidats ; l’absence d’une fonction dans cette sélection ne signifie pas qu’aucune opportunité n’existe."
+    ],
+    "keywords": [
+      "fonctions critiques",
+      "Panorama",
+      "compétences",
+      "formation",
+      "exigences linguistiques",
+      "recrutement"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "Actiris · panorama.actiris.brussels",
+    "url": "https://panorama.actiris.brussels/fr/news/quels-sont-les-metiers-qui-recrutent/",
+    "owner": {
+      "name": "Actiris / view.brussels",
+      "team": "level: Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2026-07-10",
+    "status": "valide"
+  },
+  {
+    "id": "bruxelles-phare-prime-insertion",
+    "title": "PHARE : prime d’insertion pour un travailleur handicapé",
+    "category": "demarches",
+    "importance": "legal",
+    "summary": "La prime d’insertion PHARE peut compenser une perte de rendement liée au handicap. La demande est conjointe entre le travailleur et l’employeur et nécessite une décision du service.",
+    "body": [
+      "Les articles 71 à 78 de l’arrêté COCOF du 7 mai 2015 encadrent cette aide. Pour un travailleur relevant du dispositif PHARE, l’intervention porte sur la rémunération brute majorée des cotisations patronales ; la rémunération de base est plafonnée à trois fois le revenu minimum mensuel moyen garanti. Les règles présentées figurent dans le texte consolidé au 19 février 2024.",
+      "Pour un CDI ou un CDD de plus de trois mois, le taux dépend de la perte de rendement évaluée et ne peut dépasser 50 %. L’octroi est limité à un an, renouvelable si la perte persiste. Pour un contrat de trois mois au plus, le taux est de 30 %, avec une limite de six mois d’aide sur douze chez le même employeur.",
+      "Faire signer la demande par les deux parties et fournir les états de prestations, fiches de paie et déclarations ONSS. L’article 72 exclut notamment les doubles interventions destinées à compenser la même perte de rendement et certains employeurs publics n’atteignant pas leur quota obligatoire."
+    ],
+    "keywords": [
+      "PHARE",
+      "handicap",
+      "prime d’insertion",
+      "perte de rendement",
+      "COCOF",
+      "aide à l’emploi"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "Commission communautaire française / Service PHARE · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/arrete/2015/05/07/2015031492/justel",
+    "owner": {
+      "name": "Commission communautaire française / Service PHARE",
+      "team": "level: Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2024-02-19",
+    "status": "valide"
+  },
+  {
+    "id": "bruxelles-plans-diversite-financement",
+    "title": "Plan de diversité : financement et label Actiris",
+    "category": "demarches",
+    "importance": "legal",
+    "summary": "L’employeur peut faire approuver un plan de diversité avec Actiris et demander un financement. Le label nécessite une évaluation favorable d’un plan global ou thématique.",
+    "body": [
+      "Les articles 7 et 8 de l’arrêté du 7 mai 2009 prévoient une structure porteuse, l’intervention des organes de concertation compétents et un accompagnement par un consultant diversité d’Actiris. Le dossier analyse notamment recrutement, gestion du personnel, communication interne et positionnement externe, puis fixe des objectifs et un calendrier.",
+      "Dans le régime entré en vigueur le 1er janvier 2020, l’article 9 plafonne le mini-plan à 5 000 euros. Le plan global et le plan thématique peuvent recevoir un cofinancement maximal de 10 000 euros couvrant au plus la moitié des frais éligibles. La période maximale est de 24 mois, sous réserve des crédits disponibles ; les salaires ordinaires des travailleurs ne sont pas éligibles.",
+      "Les articles 11 et 14 conditionnent le solde aux justificatifs, au rapport d’activités et à une évaluation favorable. L’article 15 permet alors de demander le label pour les implantations concernées par un plan global ou thématique. Ne pas annoncer l’obtention du label dès le dépôt du plan."
+    ],
+    "keywords": [
+      "plan de diversité",
+      "Actiris",
+      "mini-plan",
+      "label diversité",
+      "cofinancement",
+      "diversiteitsplan"
+    ],
+    "scope": {
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "Région de Bruxelles-Capitale · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/arrete/2009/05/07/2009031279/justel",
+    "owner": {
+      "name": "Région de Bruxelles-Capitale",
+      "team": "level: Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2019-06-05",
+    "status": "valide"
+  }
+]

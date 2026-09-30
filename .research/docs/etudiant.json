@@ -1,0 +1,577 @@
+[
+  {
+    "id": "etudiant-contrat-essai-preavis",
+    "title": "Contrat écrit, essai et préavis étudiant",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Signer le contrat avant la prise de poste. Le titre VII de la loi du 3 juillet 1978 prévoit un essai et des préavis spécifiques.",
+    "body": [
+      "Les articles 123 et 124 imposent un écrit individuel au plus tard à l'entrée en service, avec dates de début et de fin. L'article 126 permet à l'étudiant de partir sans préavis ni indemnité en cas de défaut d'écrit conforme ou de déclaration obligatoire ; certaines omissions soumettent l'employeur aux règles du CDI.",
+      "Article 127 : les trois premiers jours de travail constituent l'essai, avec rupture sans préavis ni indemnité. Des contrats étudiants successifs pour la même fonction ne permettent pas de répéter l'essai.",
+      "Article 130 : pour un engagement ne dépassant pas un mois, le préavis est de trois jours pour l'employeur et d'un jour pour l'étudiant ; au-delà, sept et trois jours. Il commence le lundi suivant la notification. Article 129 : après plus de sept jours d'incapacité, l'employeur peut rompre moyennant l'indemnité correspondant au préavis restant."
+    ],
+    "keywords": [
+      "contrat étudiant",
+      "période d’essai",
+      "préavis",
+      "studentenovereenkomst"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "SPF Justice · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/loi/1978/07/03/1978070303/justel",
+    "owner": {
+      "name": "SPF Justice",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-15",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-mentions-obligatoires",
+    "title": "Mentions à intégrer au contrat étudiant",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Le contrat doit décrire le poste, la rémunération, le temps de travail et les informations pratiques de sécurité.",
+    "body": [
+      "Indiquer l'identité, la naissance et le domicile des parties, les dates du contrat, le lieu, la fonction, les durées journalière et hebdomadaire, la rémunération ou son calcul, sa date de paiement, la commission paritaire et le logement éventuellement fourni. Mentionner l'application de la loi protégeant la rémunération ainsi que la durée et les modalités de l'essai.",
+      "Ajouter les horaires et repos, les premiers secours, les contacts des représentants du personnel, du service de prévention et du Contrôle des lois sociales. Les mentions correspondant aux points 12° à 19° de l'article 124 peuvent faire l'objet d'un renvoi explicite au règlement de travail qui les contient. L'information sur l'essai est obligatoire depuis le 10 novembre 2022."
+    ],
+    "keywords": [
+      "mentions obligatoires",
+      "horaires",
+      "rémunération",
+      "règlement de travail"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "SPF Emploi, Travail et Concertation sociale · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/contrats-de-travail-particuliers/contrat-doccupation-detudiants-0",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2022-11-10",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-age-minimum-travaux-legers",
+    "title": "Dès 15 ans : conditions et travaux légers",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Depuis le 4 mai 2026, certains jeunes de 15 ans encore soumis à la scolarité à temps plein peuvent effectuer des travaux légers.",
+    "body": [
+      "Le travail des enfants reste interdit en principe. À 15 ans, la fin des deux premières années du secondaire permet de sortir de l'obligation scolaire à temps plein ; celle-ci prend fin au plus tard à 16 ans. Avant 15 ans, un job étudiant ordinaire n'est pas autorisé.",
+      "Pour les jeunes de 15 ans encore soumis à cette obligation, seules les activités légères autorisées conviennent : accueil, vestiaire, réassort, aide à la vente, certaines opérations logistiques, nettoyage léger et distribution ou débarrassage de repas dans les soins. Elles ne peuvent nécessiter une formation spécifique ni l'usage d'équipements mécaniques.",
+      "Vérifier les tâches réelles avant de publier l'offre. Elles doivent préserver la santé, le développement et la scolarité ; travailler pendant les cours est exclu. L'analyse préalable des risques prévue par l'article X.3-3 du Code du bien-être reste obligatoire."
+    ],
+    "keywords": [
+      "âge minimum",
+      "15 ans",
+      "travaux légers",
+      "obligation scolaire",
+      "minderjarigen"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "SPF Emploi, Travail et Concertation sociale · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/la-reglementation-du-travail-des-enfants?id=401",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-05-04",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-contingent-650-heures",
+    "title": "650 heures par année civile",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "En 2026, le contingent social pérennisé est de 650 heures, tous employeurs confondus.",
+    "body": [
+      "Travailler toute l'année est permis, hors cours obligatoires. Le compteur repart à 650 heures chaque janvier. Seules les heures effectivement travaillées sont décomptées ; les cotisations ordinaires commencent à la 651e heure.",
+      "Conserver une preuve d'inscription scolaire actuelle : une carte étudiante seule ne suffit pas. Après un diplôme obtenu en juin, l'ONSS accepte encore le régime jusqu'au 30 septembre, sans essai déguisé d'un emploi ordinaire."
+    ],
+    "keywords": [
+      "650 heures",
+      "contingent",
+      "année scolaire",
+      "vacances",
+      "fin des études"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "Office national de sécurité sociale · socialsecurity.be",
+    "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/persons/specific/students.html",
+    "owner": {
+      "name": "Office national de sécurité sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-cotisation-solidarite",
+    "title": "Cotisation de solidarité étudiante",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Budgéter la cotisation patronale et retenir la part étudiante lorsque les conditions du régime réduit sont réunies.",
+    "body": [
+      "Les instructions ONSS 2026/3 fixent la cotisation de solidarité à 8,13 % de la rémunération : 5,42 % à charge de l'employeur et 2,71 % à charge de l'étudiant. Une Dimona STU préalable et le respect des conditions d'exclusion de l'assujettissement ordinaire sont indispensables.",
+      "La cotisation patronale au Fonds amiante de 0,01 % s'ajoute lorsqu'elle est due. La page indique une perception en principe aux premier et deuxième trimestres, sous réserve de décision royale différente. Ne pas présenter 5,42 % comme le coût patronal total garanti pour toute période."
+    ],
+    "keywords": [
+      "cotisation de solidarité",
+      "2,71 %",
+      "5,42 %",
+      "ONSS",
+      "solidariteitsbijdrage"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "Office national de sécurité sociale · socialsecurity.be",
+    "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/special_contributions/students.html",
+    "owner": {
+      "name": "Office national de sécurité sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-student-at-work-attestation",
+    "title": "Student at work : vérifier le solde disponible",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Demander une attestation pour consulter les heures disponibles avant de planifier une occupation à cotisations réduites.",
+    "body": [
+      "Le contingent de référence est de 650 heures depuis le 1er janvier 2025. L'étudiant télécharge son attestation PDF dans My Student at work. Le code transmis à l'employeur permet de consulter le solde pendant trois mois ; les autres emplois et les données détaillées restent invisibles.",
+      "Les heures réservées par les employeurs diminuent déjà le solde, même avant prestation. Corriger les réservations erronées via Dimona. L'attestation reste facultative et ne remplace pas la vérification du statut étudiant. En intérim, l'agence peut consulter directement le solde avec l'accord écrit de l'étudiant."
+    ],
+    "keywords": [
+      "Student at work",
+      "attestation",
+      "heures réservées",
+      "code d’accès",
+      "intérim"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "Office national de sécurité sociale · studentatwork.be",
+    "url": "https://www.studentatwork.be/fr/service-en-ligne-et-app.html",
+    "owner": {
+      "name": "Office national de sécurité sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2025-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-dimona-stu",
+    "title": "Déclarer les heures en Dimona STU",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "La déclaration STU doit précéder le travail et reposer sur un contrat étudiant déjà signé.",
+    "body": [
+      "Les instructions ONSS 2026/3 demandent une Dimona IN par trimestre couvert par le contrat, avec les heures prévues. Ne pas déclarer un trimestre sans prestation ni zéro heure. Chaque heure commencée compte comme une heure entière en Dimona et DmfA.",
+      "Sans Dimona STU préalable, le régime de solidarité est refusé pour la période déclarée tardivement, même si le contingent reste disponible. Modifier les heures prévues au plus tard le dernier jour du mois suivant le trimestre ; après introduction de la DmfA, cette modification n'adapte plus le contingent.",
+      "Déclarer l'adresse effective du premier lieu de travail lorsqu'elle diffère du siège. Dans la construction, les instructions demandent aussi les deux numéros de carte C3.2 chaque trimestre."
+    ],
+    "keywords": [
+      "Dimona STU",
+      "DmfA",
+      "déclaration préalable",
+      "trimestre",
+      "réservation"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "Office national de sécurité sociale · socialsecurity.be",
+    "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/obligations/obligations_nsso/dimona/studentdimona.html",
+    "owner": {
+      "name": "Office national de sécurité sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-alternance",
+    "title": "Statut étudiant, alternance et exclusions",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Verifier le programme et les horaires de formation avant tout engagement.",
+    "body": [
+      "L'ONSS 2026/3 admet l'alternance reconnue, hors cours et formation pratique, sans chômage ni allocation d'insertion. L'employeur étudiant doit normalement être différent du maître de formation.",
+      "Exception en juillet et août lorsque le contrat d'alternance est inactif : le même employeur est admis. Une formation uniquement théorique à temps partiel n'autorise le job étudiant que pendant les vacances scolaires. Les autres cours du soir ou à horaire réduit sont exclus.",
+      "Après douze mois ininterrompus chez le même employeur, les règles du contrat ordinaire s'appliquent."
+    ],
+    "keywords": [
+      "alternance",
+      "apprentissage",
+      "maître de stage",
+      "juillet août"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "Office national de sécurité sociale · socialsecurity.be",
+    "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/persons/specific/students.html",
+    "owner": {
+      "name": "Office national de sécurité sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-salaire-minimum-age",
+    "title": "Salaire étudiant et pourcentages selon l’âge",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Appliquer d’abord la CCT sectorielle ; la dégressivité étudiante liée à l’âge n’a pas disparu de manière générale.",
+    "body": [
+      "À défaut de CCT sectorielle applicable, le SPF publie les minima interprofessionnels au 1er juillet 2026 : 2 233,61 € mensuels à 21 ans, 2 010,25 € à 20 ans, 1 898,57 € à 19 ans, 1 764,55 € à 18 ans, 1 630,54 € à 17 ans et 1 496,52 € à 16 ans.",
+      "Les pourcentages correspondants sont 100, 90, 85, 79, 73 et 67 %. Identifier la commission paritaire avant de chiffrer l'offre ; le tableau général ne remplace pas son barème. Le SPF indique des équivalents horaires pour 38 heures hebdomadaires, dont 13,5644 € à 21 ans."
+    ],
+    "keywords": [
+      "salaire minimum",
+      "âge",
+      "barème étudiant",
+      "RMMMG",
+      "dégressivité"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "SPF Emploi, Travail et Concertation sociale · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/contrats-de-travail-particuliers/contrat-doccupation-detudiants",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-prevention-surveillance-sante",
+    "title": "Travaux dangereux et surveillance médicale",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "Analyser les risques avant l’arrivée de l’étudiant et organiser la surveillance de santé requise.",
+    "body": [
+      "Le livre X, titre 3 du Code du bien-être constitue la référence actuelle pour la protection des jeunes. Article X.3-3 : analyse avant le travail, adaptée au moins annuellement et lors d'un changement important. L'article X.3-8 et l'annexe X.3-1 interdisent notamment des expositions dangereuses, procédés et machines.",
+      "Article X.3-11 : la dérogation pour un étudiant exige notamment 18 ans, des études correspondant à l'activité, des mesures contrôlées, un travailleur expérimenté présent et l'avis préalable du conseiller en prévention et du comité. Les engins motorisés de manutention ont un régime particulier à l'article X.3-11/1 ; ne pas affecter automatiquement un étudiant à un chariot élévateur.",
+      "L’article X.3-12 organise la surveillance de santé. Prévoir l'évaluation préalable requise notamment pour les mineurs, le travail de nuit et les travaux normalement interdits autorisés par dérogation. Les postes de sécurité, de vigilance ou à risque défini relèvent aussi de la surveillance appropriée."
+    ],
+    "keywords": [
+      "travaux dangereux",
+      "AR 3 mai 1999",
+      "surveillance de santé",
+      "mineurs",
+      "chariot élévateur"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "SPF Emploi, Travail et Concertation sociale · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/Code%20livre%20X%20titre%203%20Jeunes%20au%20travail.pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2024-06-10",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-horaires-mineurs-dimanche",
+    "title": "Mineurs : horaires, nuit et dimanche",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Les moins de 18 ans bénéficient de limites supplémentaires, même lorsque le secteur fonctionne le soir ou le dimanche.",
+    "body": [
+      "Pour les jeunes travailleurs hors obligation scolaire à temps plein, prévoir au maximum huit heures par jour et 40 heures par semaine, avec 38 heures effectives ou en moyenne depuis le 1er janvier 2003. Additionner les prestations chez plusieurs employeurs et la formation obligatoire à temps partiel.",
+      "Pause de 30 minutes au-delà de 4 h 30 ; au-delà de six heures, une heure dont 30 minutes consécutives, sous réserve de dérogations. Le repos entre journées atteint au moins douze heures. Le travail entre 20 h et 6 h est en principe interdit ; les dérogations sont encadrées et ne permettent jamais le travail entre minuit et 4 h.",
+      "Le dimanche et les jours fériés sont en principe interdits. La page prévoit notamment une dérogation pour les magasins de détail et renvoie aux arrêtés propres à l'horeca. Même avec dérogation, dépasser un dimanche sur deux exige l'autorisation préalable du Contrôle des lois sociales. Organiser les repos compensatoires."
+    ],
+    "keywords": [
+      "jeunes travailleurs",
+      "travail de nuit",
+      "dimanche",
+      "commerce de détail",
+      "repos"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "SPF Emploi, Travail et Concertation sociale · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/jeunes-travailleurs?id=398",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2003-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-allocations-wallonie",
+    "title": "Wallonie : travail et allocations familiales",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Pour un étudiant relevant du régime wallon, distinguer les 650 heures étudiantes des 240 heures trimestrielles à cotisations ordinaires.",
+    "body": [
+      "La fiche FAMIWAL mise à jour le 17 juin 2026 maintient le droit sans condition jusqu'au 31 août de l'année des 18 ans. Ensuite, l'activité et la situation du jeune doivent respecter les conditions de maintien du droit.",
+      "Les 650 heures annuelles à cotisations réduites ne bloquent pas les allocations. Au-delà, un quota supplémentaire de 240 heures par trimestre s'applique au travail soumis aux cotisations ordinaires. Seules les prestations effectives comptent, pas les jours fériés rémunérés. Vérifier le régime de résidence de l'étudiant ; cette fiche concerne les allocations wallonnes, pas celles de la Communauté germanophone."
+    ],
+    "keywords": [
+      "allocations familiales",
+      "FAMIWAL",
+      "650 heures",
+      "240 heures",
+      "Wallonie"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ],
+      "regions": [
+        "wallonie"
+      ]
+    },
+    "source": "FAMIWAL · allocationsfamiliales.wallonie.be",
+    "url": "https://allocationsfamiliales.wallonie.be/jeunes/vous-travaillez",
+    "owner": {
+      "name": "FAMIWAL",
+      "team": "Région wallonne"
+    },
+    "lastValidated": "2026-06-17",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-groeipakket-flandre",
+    "title": "Flandre : 650 heures et plafond mensuel",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Le Groeipakket distingue le contingent étudiant du plafond mensuel applicable aux autres prestations.",
+    "body": [
+      "Pour les étudiants de 18 à 25 ans, le plafond étudiant est de 650 heures par année à cotisations réduites. Le passage à 650 heures produit ses effets depuis le 1er janvier 2025. Jusqu'à 80 heures par mois peuvent s'y ajouter sous cotisations ordinaires.",
+      "Les heures dépassant le contingent étudiant entrent dans ces 80 heures. Si ce plafond mensuel est dépassé, le Groeipakket est perdu pour le mois concerné. Le maintien suppose aussi les autres conditions du régime, notamment concernant les allocations sociales. Prévenir la caisse de tout changement de situation professionnelle."
+    ],
+    "keywords": [
+      "Groeipakket",
+      "Flandre",
+      "80 heures",
+      "650 heures",
+      "kinderbijslag"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ],
+      "regions": [
+        "flandre"
+      ]
+    },
+    "source": "Autorité flamande · vlaanderen.be",
+    "url": "https://www.vlaanderen.be/vlaams-groeipakket-behouden-voor-wie-werkt-en-studeert",
+    "owner": {
+      "name": "Autorité flamande",
+      "team": "Région flamande"
+    },
+    "lastValidated": "2025-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-allocations-bruxelles",
+    "title": "Bruxelles : plafond de 240 heures par trimestre",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Le contingent social de 650 heures ne garantit pas le maintien des allocations familiales bruxelloises.",
+    "body": [
+      "Dans le régime bruxellois entré en vigueur en janvier 2020, le droit est inconditionnel jusqu'au 31 août de l'année des 18 ans. Ensuite, un étudiant de moins de 25 ans peut travailler sans perdre ses allocations si son activité ne dépasse pas 240 heures par trimestre.",
+      "Un dépassement fait perdre les allocations pour tout le trimestre. Au troisième trimestre, de juillet à septembre, le plafond ne s'applique pas si le jeune poursuit ses études après l'été. Vérifier cette reprise avant de promettre à un étudiant diplômé un travail d'été sans incidence."
+    ],
+    "keywords": [
+      "Bruxelles",
+      "Famiris",
+      "240 heures",
+      "troisième trimestre",
+      "allocations familiales"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ],
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "Famiris / Iriscare · famiris.brussels",
+    "url": "https://famiris.brussels/fr/faq/etudiants-demandeurs-emploi/mon-enfant-travaille/",
+    "owner": {
+      "name": "Famiris / Iriscare",
+      "team": "Région de Bruxelles-Capitale"
+    },
+    "lastValidated": "2020-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-fiscalite-revenus-2026",
+    "title": "Revenus 2026 : impôt et charge fiscale des parents",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Les seuils fiscaux sont distincts du contingent social.",
+    "body": [
+      "Pour les revenus 2026, Student at work indique 15 971,43 € pour ne pas payer d'impôt et 22 385 € pour rester fiscalement à charge. Il s'agit de montants bruts après déduction des cotisations sociales, pas du brut contractuel.",
+      "Ces repères supposent uniquement des revenus de job étudiant et les frais professionnels forfaitaires. Avec d'autres ressources ou des frais réels, faire recalculer la situation par le SPF Finances. L'étudiant doit remplir sa déclaration même sous le seuil d'imposition."
+    ],
+    "keywords": [
+      "impôts",
+      "revenus 2026",
+      "enfant à charge",
+      "ressources",
+      "déclaration fiscale"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "Office national de sécurité sociale · studentatwork.be",
+    "url": "https://www.studentatwork.be/fr/quota-heures-et-impact.html",
+    "owner": {
+      "name": "Office national de sécurité sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-etudiants-etrangers",
+    "title": "Étudiants hors EEE : séjour et limite de travail",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Le droit au travail dépend du séjour. La règle des 20 heures s’applique dans les trois régions aux séjours étudiants concernés.",
+    "body": [
+      "Le SPF distingue les autorisations fédérales liées au séjour des autorisations régionales de migration économique. Les ressortissants de l'EEE et de Suisse sont autorisés à travailler. Pour un ressortissant de pays tiers admis au séjour comme étudiant avec un titre limité valable, contrôler le document de séjour avant l'engagement.",
+      "L'arrêté royal du 2 septembre 2018 permet les prestations pendant les vacances scolaires ; hors vacances, elles ne peuvent dépasser vingt heures par semaine et doivent rester compatibles avec les études. Ne pas confondre cette limite avec le contingent social annuel. Les étudiants admis dans le cadre d'une mobilité européenne sont également visés sous les conditions de séjour indiquées par la page."
+    ],
+    "keywords": [
+      "étudiant étranger",
+      "hors EEE",
+      "20 heures",
+      "titre de séjour",
+      "permis de travail"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "SPF Emploi, Travail et Concertation sociale · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/international/travailleurs-etrangers/occupation-de-travailleurs-etrangers-en-situation?id=4888",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2018-12-24",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-construction-bareme-2026",
+    "title": "CP 124 : minimum étudiant depuis juillet 2026",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Le tableau officiel de juillet 2026 fixe un minimum horaire étudiant propre à la construction.",
+    "body": [
+      "La rubrique 6 du barème CP 124, en vigueur au 1er juillet 2026 et actualisé le 7 juillet, indique 16,1755 € brut par heure pour les étudiants. Réserver ce barème aux ouvriers relevant de cette commission paritaire.",
+      "La CCT du 19 mars 2026, liée à la page, remplace l'article 10 de la CCT du 12 juin 2014 : base de 16 € au 1er avril 2026, quelle que soit la période d'occupation, indexée chaque 1er juillet. La note introductive évoquant encore l'alignement sur la catégorie I depuis 2024 ne décrit pas ce nouveau régime. Utiliser la rubrique étudiante actualisée et la CCT modificative."
+    ],
+    "keywords": [
+      "CP 124",
+      "construction",
+      "barème étudiant",
+      "16,1755",
+      "CCT"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ],
+      "sectors": [
+        "construction"
+      ]
+    },
+    "source": "SPF Emploi, Travail et Concertation sociale · salairesminimums.be",
+    "url": "https://www.salairesminimums.be/document.html?date=01/07/2026&jcId=c206d961982d4ec6b997c7a485e0bf32",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Secteur (CP 124)"
+    },
+    "lastValidated": "2026-07-07",
+    "status": "valide"
+  },
+  {
+    "id": "etudiant-horeca-contingents",
+    "title": "Horeca : combiner étudiant et travail occasionnel",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Les deux contingents peuvent se combiner sans cumuler leurs avantages sur une même prestation.",
+    "body": [
+      "Le régime de 650 heures instauré en 2025 reste distinct des 50 jours annuels de travail occasionnel horeca. L'étudiant et l'employeur conviennent du régime utilisé.",
+      "Le travail occasionnel limite le contrat à deux jours successifs et calcule les cotisations sur un forfait. Consulter Horeca@work pour les jours disponibles et Student at work pour les heures étudiantes. Le contrat étudiant reste requis si ses conditions sont réunies."
+    ],
+    "keywords": [
+      "horeca",
+      "50 jours",
+      "650 heures",
+      "Horeca at work"
+    ],
+    "scope": {
+      "contractTypes": [
+        "etudiant"
+      ],
+      "sectors": [
+        "horeca"
+      ]
+    },
+    "source": "Office national de sécurité sociale · studentatwork.be",
+    "url": "https://www.studentatwork.be/fr/quota-heures-et-impact.html",
+    "owner": {
+      "name": "Office national de sécurité sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2025-01-01",
+    "status": "valide"
+  }
+]

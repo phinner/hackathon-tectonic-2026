@@ -1,22 +1,44 @@
-import { Link } from "react-router";
+import { Form, Link, useSubmit } from "react-router";
 import type { Route } from "./+types/resultats";
-import { Eyebrow, formatDate, Icon, ImportanceBadge, importanceStyles, Keywords, StatusBadges } from "~/components/badges";
-import { groupByCategory, matchDocuments, readCriteria, steps, toSearch, UNKNOWN } from "~/lib/search";
+import { formatDate, Icon, ImportanceBadge, importanceStyles, Keywords, StatusBadges } from "~/components/badges";
+import { categories, importanceLevels } from "~/data/taxonomy";
+import {
+  applyFilters,
+  groupByCategory,
+  levels,
+  matchDocuments,
+  readCriteria,
+  readFilters,
+  steps,
+  toSearch,
+  UNKNOWN,
+  type Match,
+} from "~/lib/search";
 
 export function meta() {
   return [{ title: "Documents · HR Compass" }];
 }
 
 export function loader({ request }: Route.LoaderArgs) {
-  const criteria = readCriteria(new URL(request.url).searchParams);
+  const params = new URL(request.url).searchParams;
+  const criteria = readCriteria(params);
+  const filters = readFilters(params);
   const matches = matchDocuments(criteria);
-  return { criteria, groups: groupByCategory(matches), total: matches.length };
+  const filtered = applyFilters(matches, filters);
+  return { criteria, filters, groups: groupByCategory(filtered), shown: filtered.length, total: matches.length };
 }
+
+const PREVIEW = 5;
+
+const select =
+  "h-10 rounded-lg border border-slate-200 bg-surface-container-lowest px-3 text-label-md text-on-surface hover:border-slate-300";
 
 const phaseBars = ["bg-primary", "bg-secondary", "bg-on-tertiary-container", "bg-outline", "bg-outline-variant"];
 
 export default function Resultats({ loaderData }: Route.ComponentProps) {
-  const { criteria, groups, total } = loaderData;
+  const { criteria, filters, groups, shown, total } = loaderData;
+  const submit = useSubmit();
+  const filtering = Boolean(filters.q || filters.category || filters.level || filters.importance || filters.targeted || filters.sort);
   const search = toSearch(criteria);
   const missing = steps.filter((s) => !criteria[s.key] || criteria[s.key] === UNKNOWN);
   const labels = steps.flatMap((step) => {
@@ -29,23 +51,24 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
     <div className="space-y-space-lg">
       <div className="flex flex-col justify-between gap-space-sm md:flex-row md:items-end">
         <div>
-          <Eyebrow>Synthèse</Eyebrow>
-          <h1 className="mt-0.5 text-headline-md text-primary md:text-headline-lg">Documents pour ce poste</h1>
-          <p className="mt-1 text-on-surface-variant">{total} documents, classés par catégorie puis par importance.</p>
+          <h1 className="text-headline-md text-primary md:text-headline-lg">Documents pour ce poste</h1>
+          <p className="mt-1 text-on-surface-variant">
+            {filtering ? `${shown} sur ${total} documents` : `${total} documents`}
+          </p>
         </div>
         <Link
           to={`/recherche${search}`}
           className="inline-flex h-10 items-center gap-space-xs rounded-lg border border-slate-200 bg-surface-container-lowest px-space-md text-label-md text-on-surface transition-colors hover:border-slate-300 hover:bg-slate-50"
         >
           <Icon name="tune" size={16} />
-          Modifier les critères
+          Modifier
         </Link>
       </div>
 
       {labels.length > 0 && (
         <div className="inline-flex flex-wrap items-center gap-space-xs rounded-lg border border-outline-variant/30 bg-surface-container px-3 py-1.5 text-label-md text-primary">
           <Icon name="alt_route" className="text-secondary" />
-          Votre parcours : {labels.join(" • ")}
+          {labels.join(" • ")}
         </div>
       )}
 
@@ -53,11 +76,66 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
         <p className="flex items-start gap-space-sm rounded-lg border border-amber-200 bg-amber-50 px-space-md py-2 text-body-sm text-amber-800">
           <Icon name="warning" size={18} />
           <span>
-            Critères non précisés : {missing.map((s) => s.question.replace(/ \?$/, "").toLowerCase()).join(", ")}. Certains
-            documents peuvent ne pas s'appliquer.
+            Non précisé : {missing.map((s) => s.question.replace(/ \?$/, "").toLowerCase()).join(", ")}.
           </span>
         </p>
       )}
+
+      <Form
+        method="get"
+        onChange={(e) => {
+          // Les filtres vides n'encombrent pas l'URL.
+          const params = new URLSearchParams([...new FormData(e.currentTarget)].filter(([, v]) => v !== "") as [string, string][]);
+          submit(params, { replace: true, preventScrollReset: true });
+        }}
+        className="flex flex-wrap items-center gap-space-sm rounded-xl border border-outline-variant/30 bg-surface-container-low p-space-sm"
+      >
+        {steps.map(({ key }) => criteria[key] && <input key={key} type="hidden" name={key} value={criteria[key]} />)}
+        <label className="relative min-w-48 flex-1">
+          <span className="sr-only">Rechercher</span>
+          <Icon name="search" className="absolute top-1/2 left-3 -translate-y-1/2 text-outline" />
+          <input
+            type="search"
+            name="q"
+            defaultValue={filters.q}
+            placeholder="Filtrer par mot-clé"
+            className={`${select} w-full pl-9`}
+          />
+        </label>
+        <select name="cat" defaultValue={filters.category ?? ""} className={select} aria-label="Catégorie">
+          <option value="">Toutes catégories</option>
+          {categories.map((c) => (
+            <option key={c.id} value={c.id}>{c.label}</option>
+          ))}
+        </select>
+        <select name="niveau" defaultValue={filters.level ?? ""} className={select} aria-label="Niveau">
+          <option value="">Tous niveaux</option>
+          {levels.map((l) => (
+            <option key={l.id} value={l.id}>{l.label}</option>
+          ))}
+        </select>
+        <select name="importance" defaultValue={filters.importance ?? ""} className={select} aria-label="Importance">
+          <option value="">Toute importance</option>
+          {Object.entries(importanceLevels).map(([id, { label }]) => (
+            <option key={id} value={id}>{label}</option>
+          ))}
+        </select>
+        <select name="tri" defaultValue={filters.sort ?? ""} className={select} aria-label="Tri">
+          <option value="">Tri : pertinence</option>
+          <option value="recent">Tri : plus récents</option>
+        </select>
+        <label className="inline-flex h-10 items-center gap-2 px-1 text-label-md text-on-surface">
+          <input type="checkbox" name="cible" value="1" defaultChecked={filters.targeted} className="size-4 accent-secondary" />
+          Ciblés sur ce poste
+        </label>
+        {filtering && (
+          <Link to={`/resultats${search}`} className="px-1 text-label-md text-secondary hover:underline">
+            Réinitialiser
+          </Link>
+        )}
+      </Form>
+
+      {shown === 0 && <p className="text-body-md text-on-surface-variant">Aucun document ne correspond à ces filtres.</p>}
 
       <div className="grid gap-space-md md:grid-cols-2 lg:grid-cols-4">
         {groups.map((group, i) => {
@@ -91,7 +169,7 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
                 </ul>
               </div>
               <div className="mt-space-md flex items-center justify-between border-t border-outline-variant/20 pt-space-xs text-label-sm text-on-surface-variant">
-                <span>{legal > 0 ? `${legal} obligation${legal > 1 ? "s" : ""}` : "Pas d'obligation"}</span>
+                <span>{legal > 0 ? `${legal} obligation${legal > 1 ? "s" : ""}` : ""}</span>
                 <Icon name="south" size={14} className="text-secondary" />
               </div>
             </a>
@@ -105,51 +183,70 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
             <h2 className="text-headline-sm text-primary">{group.label}</h2>
             <p className="text-body-sm text-on-surface-variant">{group.description}</p>
             <ol className="mt-space-md space-y-space-sm">
-              {group.matches.map(({ doc, matched, imprecise }, rank) => (
-                <li key={doc.id}>
-                  <Link
-                    to={`/documents/${doc.id}${search}`}
-                    className={`block rounded-xl border border-l-4 border-outline-variant/40 bg-surface-container-lowest p-space-md shadow-sm transition-shadow hover:border-slate-300 hover:shadow-md ${
-                      importanceStyles[doc.importance].bar
-                    } ${doc.status === "obsolete" ? "opacity-60" : ""}`}
-                  >
-                    <div className="flex items-start justify-between gap-space-md">
-                      <div className="flex items-start gap-3">
-                        <span className="mt-0.5 grid size-6 shrink-0 place-items-center rounded-full bg-surface-container text-label-md text-primary">
-                          {rank + 1}
-                        </span>
-                        <div className="space-y-2">
-                          <div className="flex flex-wrap items-center gap-space-xs">
-                            <ImportanceBadge importance={doc.importance} />
-                            <StatusBadges doc={doc} />
-                          </div>
-                          <p className={`text-title-md text-primary ${doc.status === "obsolete" ? "line-through" : ""}`}>
-                            {doc.title}
-                          </p>
-                          <p className="text-body-sm text-on-surface-variant">{doc.summary}</p>
-                          <p className="flex items-center gap-1 text-label-sm text-outline">
-                            <Icon name="verified_user" size={14} className="text-secondary" />
-                            {doc.source} · {doc.owner.name} · validé le {formatDate(doc.lastValidated)}
-                          </p>
-                          {(matched.length > 0 || imprecise.length > 0) && (
-                            <p className="text-label-sm text-outline italic">
-                              {matched.length > 0 && <>Ciblé sur : {matched.join(", ")}. </>}
-                              {imprecise.length > 0 && <>Dépend de : {imprecise.join(", ")} (non précisé).</>}
-                            </p>
-                          )}
-                        </div>
-                      </div>
-                      <div className="hidden max-w-44 sm:block">
-                        <Keywords keywords={doc.keywords} />
-                      </div>
-                    </div>
-                  </Link>
-                </li>
+              {group.matches.slice(0, filters.category ? undefined : PREVIEW).map((match, rank) => (
+                <DocItem key={match.doc.id} match={match} rank={rank} search={search} />
               ))}
             </ol>
+            {!filters.category && group.matches.length > PREVIEW && (
+              <details className="group mt-space-sm">
+                <summary className="cursor-pointer list-none text-label-md text-secondary hover:underline">
+                  <span className="group-open:hidden">Voir les {group.matches.length - PREVIEW} autres</span>
+                  <span className="hidden group-open:inline">Masquer</span>
+                </summary>
+                <ol className="mt-space-sm space-y-space-sm">
+                  {group.matches.slice(PREVIEW).map((match, rank) => (
+                    <DocItem key={match.doc.id} match={match} rank={rank + PREVIEW} search={search} />
+                  ))}
+                </ol>
+              </details>
+            )}
           </section>
         ))}
       </div>
     </div>
+  );
+}
+
+function DocItem({ match: { doc, matched, imprecise }, rank, search }: { match: Match; rank: number; search: string }) {
+  return (
+    <li>
+      <Link
+        to={`/documents/${doc.id}${search}`}
+        className={`block rounded-xl border border-l-4 border-outline-variant/40 bg-surface-container-lowest p-space-md shadow-sm transition-shadow hover:border-slate-300 hover:shadow-md ${
+          importanceStyles[doc.importance].bar
+        } ${doc.status === "obsolete" ? "opacity-60" : ""}`}
+      >
+        <div className="flex items-start justify-between gap-space-md">
+          <div className="flex items-start gap-3">
+            <span className="mt-0.5 grid size-6 shrink-0 place-items-center rounded-full bg-surface-container text-label-md text-primary">
+              {rank + 1}
+            </span>
+            <div className="space-y-2">
+              <div className="flex flex-wrap items-center gap-space-xs">
+                <ImportanceBadge importance={doc.importance} />
+                <StatusBadges doc={doc} />
+              </div>
+              <p className={`text-title-md text-primary ${doc.status === "obsolete" ? "line-through" : ""}`}>
+                {doc.title}
+              </p>
+              <p className="text-body-sm text-on-surface-variant">{doc.summary}</p>
+              <p className="flex items-center gap-1 text-label-sm text-outline">
+                <Icon name="verified_user" size={14} className="text-secondary" />
+                {doc.source} · {doc.owner.name} · validé le {formatDate(doc.lastValidated)}
+              </p>
+              {(matched.length > 0 || imprecise.length > 0) && (
+                <p className="text-label-sm text-outline italic">
+                  {matched.length > 0 && <>Pour : {matched.join(", ")}. </>}
+                  {imprecise.length > 0 && <>À confirmer : {imprecise.join(", ")}.</>}
+                </p>
+              )}
+            </div>
+          </div>
+          <div className="hidden max-w-44 sm:block">
+            <Keywords keywords={doc.keywords} />
+          </div>
+        </div>
+      </Link>
+    </li>
   );
 }

@@ -43,14 +43,14 @@ export default function Document({ loaderData }: Route.ComponentProps) {
   const provenance = [
     { icon: "account_balance", label: "Source", value: doc.source },
     { icon: "person", label: "Responsable", value: doc.owner.name, detail: doc.owner.team },
-    { icon: "schedule", label: "Dernière validation", value: formatDate(doc.lastValidated) },
+    { icon: "schedule", label: "Validé le", value: formatDate(doc.lastValidated) },
   ];
 
   return (
     <div>
       <Link to={`/resultats${search}`} className="inline-flex items-center gap-1 text-label-md text-secondary hover:underline">
         <Icon name="arrow_back" size={16} />
-        Retour aux documents
+        Documents
       </Link>
 
       <div className="mt-space-md grid gap-space-lg lg:grid-cols-[1fr_320px]">
@@ -73,7 +73,7 @@ export default function Document({ loaderData }: Route.ComponentProps) {
             <div className="mt-space-md flex items-start gap-space-sm rounded-lg border border-slate-200 bg-slate-100 p-3 text-body-sm">
               <Icon name="history" className="text-slate-500" />
               <p>
-                Ce document est obsolète. Version en vigueur :{" "}
+                Obsolète. Version en vigueur :{" "}
                 <Link to={`/documents/${replacedBy.id}${search}`} className="font-semibold text-secondary hover:underline">
                   {replacedBy.title}
                 </Link>
@@ -84,7 +84,7 @@ export default function Document({ loaderData }: Route.ComponentProps) {
             <div className="mt-space-md flex items-start gap-space-sm rounded-lg border border-red-200 bg-error-container p-3 text-body-sm text-on-error-container">
               <Icon name="report_problem" />
               <p>
-                Ce document contredit :{" "}
+                Contredit :{" "}
                 {conflicts.map((c) => (
                   <Link key={c.id} to={`/documents/${c.id}${search}`} className="font-semibold underline">
                     {c.title}
@@ -100,9 +100,6 @@ export default function Document({ loaderData }: Route.ComponentProps) {
               <p key={paragraph}>{paragraph}</p>
             ))}
           </div>
-          <p className="mt-space-lg border-t border-outline-variant/20 pt-space-sm text-label-sm text-outline italic">
-            Vérifiez toujours la source avant d'agir.
-          </p>
         </article>
 
         <aside className="space-y-space-md">
@@ -125,6 +122,17 @@ export default function Document({ loaderData }: Route.ComponentProps) {
                 </div>
               ))}
             </dl>
+            {doc.url && (
+              <a
+                href={doc.url}
+                target="_blank"
+                rel="noreferrer"
+                className="mt-space-md inline-flex items-center gap-1 text-label-md text-secondary hover:underline"
+              >
+                Consulter la source
+                <Icon name="open_in_new" size={16} />
+              </a>
+            )}
           </div>
 
           <div className="rounded-xl border border-outline-variant/40 bg-surface-container-lowest p-space-lg shadow-sm">
@@ -146,7 +154,7 @@ export default function Document({ loaderData }: Route.ComponentProps) {
             )}
             {match && (match.matched.length > 0 || match.imprecise.length > 0) && (
               <p className="mt-space-sm rounded-lg bg-surface-container-low p-3 text-body-sm text-on-surface-variant">
-                {match.matched.length > 0 && <>Correspond à votre {match.matched.join(", ")}. </>}
+                {match.matched.length > 0 && <>Correspond : {match.matched.join(", ")}. </>}
                 {match.imprecise.length > 0 && <>À confirmer : {match.imprecise.join(", ")}.</>}
               </p>
             )}

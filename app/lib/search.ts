@@ -15,12 +15,12 @@ import {
 export const UNKNOWN = "inconnu";
 
 export const steps = [
-  { key: "sector", question: "Dans quel secteur ?", options: sectors },
+  { key: "sector", question: "Quel secteur ?", options: sectors },
   { key: "role", question: "Quel métier ?", options: roles },
-  { key: "province", question: "Quelle zone géographique ?", options: provinces },
-  { key: "workTime", question: "Quel régime de travail ?", options: workTimes },
-  { key: "contract", question: "Quel type de contrat ?", options: contractTypes },
-  { key: "company", question: "Pour quelle entreprise ?", options: companies },
+  { key: "province", question: "Quelle zone ?", options: provinces },
+  { key: "workTime", question: "Quel régime ?", options: workTimes },
+  { key: "contract", question: "Quel contrat ?", options: contractTypes },
+  { key: "company", question: "Quelle entreprise ?", options: companies },
 ] as const;
 
 export type CriteriaKey = (typeof steps)[number]["key"];
@@ -86,13 +86,16 @@ export type Match = {
   imprecise: string[]; // critères inconnus : pertinence non garantie
 };
 
+// Un document ciblé sur le métier est plus pertinent qu'un document ciblé sur la région, etc.
+const criterionWeight = { métier: 6, entreprise: 6, secteur: 4, contrat: 4, province: 3, région: 3, régime: 2 };
+
 export function matchDocuments(criteria: Criteria): Match[] {
   const province = byId(provinces, criteria.province);
   const results: Match[] = [];
 
   for (const doc of documents) {
     const { scope } = doc;
-    const checks: [label: string, allowed: string[] | undefined, value: string | undefined][] = [
+    const checks: [label: keyof typeof criterionWeight, allowed: string[] | undefined, value: string | undefined][] = [
       ["secteur", scope.sectors, criteria.sector],
       ["métier", scope.roles, criteria.role],
       ["région", scope.regions, province?.region ?? criteria.province],
@@ -105,25 +108,75 @@ export function matchDocuments(criteria: Criteria): Match[] {
     const matched: string[] = [];
     const imprecise: string[] = [];
     let excluded = false;
+    let score = importanceLevels[doc.importance].weight * 2;
 
     for (const [label, allowed, value] of checks) {
       if (!allowed) continue;
-      if (!value || value === UNKNOWN) imprecise.push(label);
-      else if (allowed.includes(value)) matched.push(label);
-      else excluded = true;
+      if (!value || value === UNKNOWN) {
+        imprecise.push(label);
+        score -= 2;
+      } else if (allowed.includes(value)) {
+        matched.push(label);
+        score += criterionWeight[label];
+      } else excluded = true;
     }
     if (excluded) continue;
 
-    const score =
-      importanceLevels[doc.importance].weight * 10 +
-      matched.length * 2 -
-      imprecise.length * 3 -
-      (doc.status === "obsolete" ? 100 : 0);
+    if (doc.status === "obsolete") score -= 100;
+    if (doc.status === "a-verifier") score -= 3;
 
     results.push({ doc, score, matched, imprecise });
   }
 
-  return results.sort((a, b) => b.score - a.score);
+  return results.sort((a, b) => b.score - a.score || b.doc.lastValidated.localeCompare(a.doc.lastValidated));
+}
+
+export const levels = [
+  { id: "ue", label: "Union européenne" },
+  { id: "federal", label: "Fédéral" },
+  { id: "regional", label: "Régional" },
+  { id: "secteur", label: "Secteur" },
+  { id: "interne", label: "Interne" },
+] as const;
+
+export type LevelId = (typeof levels)[number]["id"];
+
+export function levelOf(doc: Doc): LevelId {
+  if (!doc.url) return "interne";
+  if (doc.owner.team.includes("Union")) return "ue";
+  if (/Région|Communauté/.test(doc.owner.team) || doc.scope.regions) return "regional";
+  if (doc.owner.team.startsWith("Secteur") || doc.scope.sectors || doc.scope.roles) return "secteur";
+  return "federal";
+}
+
+export type Filters = { q?: string; category?: string; level?: string; importance?: string; targeted?: boolean; sort?: "recent" };
+
+export function readFilters(params: URLSearchParams): Filters {
+  return {
+    q: params.get("q")?.trim() || undefined,
+    category: params.get("cat") || undefined,
+    level: params.get("niveau") || undefined,
+    importance: params.get("importance") || undefined,
+    targeted: params.get("cible") === "1",
+    sort: params.get("tri") === "recent" ? "recent" : undefined,
+  };
+}
+
+export function applyFilters(matches: Match[], filters: Filters): Match[] {
+  const words = filters.q ? normalize(filters.q).split(/\s+/) : [];
+  const result = matches.filter(({ doc, matched }) => {
+    if (filters.category && doc.category !== filters.category) return false;
+    if (filters.level && levelOf(doc) !== filters.level) return false;
+    if (filters.importance && doc.importance !== filters.importance) return false;
+    if (filters.targeted && matched.length === 0) return false;
+    if (words.length) {
+      const text = normalize([doc.title, doc.summary, doc.source, ...doc.keywords].join(" "));
+      if (!words.every((w) => text.includes(w))) return false;
+    }
+    return true;
+  });
+  if (filters.sort === "recent") result.sort((a, b) => b.doc.lastValidated.localeCompare(a.doc.lastValidated));
+  return result;
 }
 
 export function groupByCategory(matches: Match[]) {

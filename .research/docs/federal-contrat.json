@@ -1,0 +1,509 @@
+[
+  {
+    "id": "federal-contrat-cdd-ecrit-successifs",
+    "title": "CDD : écrit obligatoire et contrats successifs",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Faire signer chaque CDD au plus tard à l’entrée en service. Vérifier l’historique des contrats avant tout renouvellement.",
+    "body": [
+      "Les articles 9 à 11 de la loi du 3 juillet 1978 imposent un écrit individuel précisant le terme ou le travail nettement défini. Sans cet écrit, les conditions du CDI s’appliquent, sauf exception sectorielle autorisée. La loi a été publiée le 22 août 1978.",
+      "La succession sans interruption attribuable au travailleur est présumée constituer un CDI, sauf justification par la nature du travail ou un motif légitime. L’article 10bis autorise au maximum quatre CDD, chacun d’au moins trois mois, sur deux ans au total. Avec autorisation préalable du Contrôle des lois sociales, chaque CDD doit durer au moins six mois et l’ensemble ne peut dépasser trois ans.",
+      "Le CDD expire normalement sans préavis. La poursuite du travail après son terme entraîne en principe l’application des règles du CDI. Une succession mêlant CDD et contrats de remplacement doit aussi faire l’objet d’un contrôle distinct."
+    ],
+    "keywords": [
+      "CDD",
+      "contrat écrit",
+      "contrats successifs",
+      "article 10bis",
+      "bepaalde duur"
+    ],
+    "scope": {
+      "contractTypes": [
+        "cdd"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/contrats-de-travail-particuliers/contrat-de-travail-conclu-pour-une",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "1978-08-22",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-essai-suppression",
+    "title": "Période d’essai : suppression et exceptions",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Ne pas insérer de période d’essai dans un contrat ordinaire. Les contrats étudiants et intérimaires conservent des règles particulières.",
+    "body": [
+      "Depuis le 1er janvier 2014, une clause d’essai dans un nouveau contrat ordinaire est nulle. Cette suppression résulte de la loi du 26 décembre 2013 relative au statut unique, notamment son article 71.",
+      "Pour un étudiant, les trois premiers jours de travail effectif constituent l’essai, avec rupture sans préavis ni indemnité. Un nouvel essai est interdit lors de contrats étudiants successifs pour la même fonction, conformément à l’article 127 de la loi du 3 juillet 1978.",
+      "En travail temporaire ou intérimaire, les trois premiers jours effectifs constituent normalement l’essai. Les parties peuvent le supprimer ou adapter sa durée, qui doit rester proportionnée au contrat et au travail. Les essais successifs sont interdits. Base : article 5 de la loi du 24 juillet 1987."
+    ],
+    "keywords": [
+      "période d’essai",
+      "clause nulle",
+      "étudiant",
+      "intérim",
+      "proeftijd"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/execution-du-contrat-de-travail/la-periode-dessai",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2014-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-preavis-licenciement-2026",
+    "title": "Licenciement : préavis selon la date d’engagement",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Choisir le tableau de préavis selon la date de début du contrat et l’ancienneté. Deux changements s’appliquent aux nouveaux contrats en 2026.",
+    "body": [
+      "Pour les contrats débutant à partir du 1er août 2026, le préavis de licenciement est d’une semaine avant six mois d’ancienneté, six semaines de six à moins de neuf mois, puis sept semaines de neuf à moins de douze mois. Le tableau est commun aux ouvriers et employés.",
+      "Pour les contrats commencés depuis le 1er janvier 2014 mais avant le 1er août 2026, les tranches initiales restent différentes : une semaine avant trois mois, trois semaines de trois à moins de quatre mois, quatre semaines de quatre à moins de cinq mois et cinq semaines de cinq à moins de six mois.",
+      "Pour les contrats débutant à partir du 1er juin 2026, le préavis est plafonné à 52 semaines dès dix-sept ans d’ancienneté. Ce plafond ne concerne pas les contrats antérieurs. Les contrats commencés avant 2014 nécessitent les règles transitoires distinctes."
+    ],
+    "keywords": [
+      "licenciement",
+      "préavis",
+      "ancienneté",
+      "statut unique",
+      "opzegtermijn"
+    ],
+    "scope": {
+      "contractTypes": [
+        "cdi"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/fin-du-contrat-de-travail/fin-du-contrat-duree-indeterminee-11",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-08-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-preavis-demission-2026",
+    "title": "Démission : durée du préavis",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Vérifier le préavis du candidat avant de fixer sa disponibilité. La règle des six premiers mois change pour les contrats débutant à partir du 1er août 2026.",
+    "body": [
+      "Pour ces nouveaux contrats, le travailleur doit une semaine de préavis avant six mois d’ancienneté. Pour les contrats commencés auparavant, il doit une semaine avant trois mois et deux semaines de trois à moins de six mois.",
+      "Ensuite, les délais sont de trois semaines de six à moins de douze mois, quatre de douze à moins de dix-huit mois, cinq de dix-huit à moins de vingt-quatre mois et six de deux à moins de quatre ans.",
+      "Le tableau prévoit sept semaines de quatre à moins de cinq ans, neuf de cinq à moins de six ans, dix de six à moins de sept ans et douze de sept à moins de huit ans. À partir de huit ans, le maximum est de treize semaines. Ces délais concernent aussi bien les ouvriers que les employés."
+    ],
+    "keywords": [
+      "démission",
+      "disponibilité",
+      "préavis",
+      "ancienneté",
+      "ontslag"
+    ],
+    "scope": {
+      "contractTypes": [
+        "cdi"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/fin-du-contrat-de-travail/fin-du-contrat-duree-indeterminee-1",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-08-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-temps-partiel-ecrit",
+    "title": "Temps partiel : contenu du contrat écrit",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Le temps partiel exige un écrit individuel dès le début du travail. Préciser le régime hebdomadaire et l’horaire convenus.",
+    "body": [
+      "L’article 11bis de la loi du 3 juillet 1978 impose un écrit au plus tard lors du commencement de l’exécution. Le contrat distingue la durée hebdomadaire, appelée régime, des jours et heures de prestation, appelés horaire. Les mentions doivent être adaptées au caractère fixe ou variable de chacun.",
+      "En l’absence d’écrit conforme, le travailleur peut choisir le régime et l’horaire les plus favorables parmi ceux appliqués dans l’entreprise. Ce défaut ne crée pas, à lui seul, un droit au statut à temps plein.",
+      "Conserver une copie ou un extrait signé du contrat à l’endroit où le règlement de travail est consultable, conformément aux règles de publicité de la loi-programme du 22 décembre 1989. Depuis le 1er juin 2026, la limite hebdomadaire générale est d’un dixième du temps plein de référence, sous réserve des dérogations."
+    ],
+    "keywords": [
+      "temps partiel",
+      "contrat écrit",
+      "article 11bis",
+      "régime de travail",
+      "deeltijdse arbeid"
+    ],
+    "scope": {
+      "workTimes": [
+        "temps-partiel"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/contrats-de-travail-particuliers/contrat-de-travail-temps-partiel",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-temps-partiel-minimum-2026",
+    "title": "Temps partiel : minimum réduit au dixième en juin 2026",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "La règle générale du tiers-temps a été remplacée par celle du dixième-temps le 1er juin 2026. Adapter les modèles d’offres et de contrats.",
+    "body": [
+      "La loi du 18 mai 2026 portant des dispositions diverses relatives au travail, publiée le 1er juin 2026, réduit la durée hebdomadaire minimale du temps partiel de 1/3 à 1/10 de celle des travailleurs à temps plein. Cette modification figure aux articles 5 à 9 et 27.",
+      "Pour un recrutement prenant effet depuis le 1er juin 2026, ne pas présenter le tiers-temps comme minimum légal général. Vérifier les dérogations applicables, la loi maintenant la possibilité de déroger par arrêté royal pour certains secteurs, entreprises ou travailleurs. Cette réforme du volume hebdomadaire ne dispense pas de vérifier les autres règles sur les prestations et les horaires."
+    ],
+    "keywords": [
+      "temps partiel",
+      "minimum hebdomadaire",
+      "tiers-temps",
+      "dixième-temps",
+      "réforme 2026"
+    ],
+    "scope": {
+      "workTimes": [
+        "temps-partiel"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/actualites/modernisation-du-droit-du-travail-partir-du-1er-juin-2026-nouvelles-mesures-mettant-en",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-horaires-variables-publicite",
+    "title": "Temps partiel variable : notification et conservation des horaires",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Prévoir un cadre spécifique dans le règlement de travail et communiquer chaque horaire à l’avance. Une simple mention « horaires flexibles » ne suffit pas.",
+    "body": [
+      "L’écrit indique la durée hebdomadaire fixe ou la durée moyenne avec sa période de référence, ainsi que le caractère variable de l’horaire. Le règlement fixe les jours possibles, les plages horaires, les durées minimales et maximales et les modalités de notification.",
+      "Notifier un avis écrit, daté et individuel au moins sept jours ouvrables à l’avance. Une CCT rendue obligatoire peut réduire ce délai, en principe jusqu’à trois jours ouvrables minimum ; vérifier les exceptions sectorielles signalées par le SPF.",
+      "Conserver l’avis à l’endroit où le règlement est consultable pendant son application, puis pendant un an. Enregistrer les dérogations aux horaires. Bases : article 11bis de la loi du 3 juillet 1978 et articles 157, 159 et 160 à 169 de la loi-programme du 22 décembre 1989. Le cadre général d’horaires permis depuis juin 2026 ne remplace pas ce cadre spécifique."
+    ],
+    "keywords": [
+      "horaires variables",
+      "sept jours ouvrables",
+      "publicité des horaires",
+      "temps partiel",
+      "variabele werkroosters"
+    ],
+    "scope": {
+      "workTimes": [
+        "temps-partiel"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/travail-temps-partiel/travail-temps-partiel-horaires-de-travail",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-temps-partiel-prestations-controle",
+    "title": "Temps partiel : prestations minimales et contrôle",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Vérifier la durée de chaque prestation et assurer la traçabilité des horaires. Le minimum hebdomadaire réduit en 2026 ne supprime pas la règle générale des trois heures par prestation.",
+    "body": [
+      "Chaque prestation dure en principe au moins trois heures, à temps plein comme à temps partiel. Un arrêté royal ou une CCT peut prévoir une dérogation. Depuis le 1er juin 2026, le minimum hebdomadaire du temps partiel est d’un dixième du temps plein de la même catégorie dans l’entreprise, ou à défaut du secteur. Des dérogations restent possibles. Si le contrat prévoit moins que le minimum autorisé, le salaire reste dû sur cette base minimale.",
+      "Conserver le contrat ou son extrait signé à l’endroit où le règlement de travail peut être consulté. Enregistrer les écarts à l’horaire annoncé dans un système fiable de suivi du temps ou dans le document réglementaire. Le défaut de publicité des horaires ou d’enregistrement des dérogations entraîne une présomption réfragable de prestations à temps plein."
+    ],
+    "keywords": [
+      "temps partiel",
+      "trois heures",
+      "durée minimale",
+      "contrôle des horaires",
+      "deeltijdse arbeid"
+    ],
+    "scope": {
+      "workTimes": [
+        "temps-partiel"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/travail-temps-partiel",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-duree-travail-38-heures",
+    "title": "Temps plein : 38 heures et repos compensatoires",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Vérifier la durée sectorielle avant d’annoncer un temps plein. Distinguer les heures effectivement prestées de la moyenne obtenue grâce aux repos compensatoires.",
+    "body": [
+      "Le cadre général prévoit huit heures par jour et quarante heures par semaine, sous réserve des dérogations. Depuis le 1er janvier 2003, la réduction à 38 heures hebdomadaires s’applique aux entreprises concernées. Elle peut être effective ou obtenue en moyenne par des repos compensatoires.",
+      "Le SPF donne l’exemple de quarante heures effectives avec douze jours de repos compensatoire par an pour atteindre 38 heures en moyenne annuelle. Ce nombre ne doit pas être transposé automatiquement à tout régime. Vérifier la CCT et les règles d’acquisition applicables.",
+      "Les limites conventionnelles remplacent les limites légales pour les dérogations, repos et sursalaires selon l’article 28 de la loi du 16 mars 1971. L’article 19 définit le travail comme le temps à disposition de l’employeur. Vérifier aussi les exclusions du champ d’application, notamment certaines fonctions de direction ou de confiance."
+    ],
+    "keywords": [
+      "38 heures",
+      "durée du travail",
+      "repos compensatoire",
+      "RTT",
+      "arbeidsduur"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/duree-du-travail-et-temps-de-repos/duree-du-travail-et-diminution",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2003-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-reglement-travail",
+    "title": "Règlement de travail : remise, contenu et dépôt",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Préparer le règlement applicable avant l’arrivée du salarié et lui en remettre une copie. L’obligation existe indépendamment de l’effectif de l’employeur soumis à la loi.",
+    "body": [
+      "La loi du 8 avril 1965 encadre le contenu et la procédure. L’article 6 prévoit notamment les horaires ou leur cadre autorisé, le paiement de la rémunération, les règles de rupture, les congés et les références aux CCT applicables. Depuis juin 2026, certains horaires peuvent s’inscrire dans un cadre général de durée normale du travail.",
+      "Remettre une copie à chaque entrée en service et lors des modifications ; garder la preuve de remise. Une copie doit rester consultable sans intermédiaire sur chaque lieu de travail, y compris les chantiers temporaires.",
+      "Déposer le règlement au Contrôle des lois sociales dans les huit jours de son entrée en vigueur, éventuellement en ligne. Sans conseil d’entreprise, le projet est affiché et les travailleurs disposent de quinze jours pour formuler des observations. Respecter la procédure de concertation avant de modifier les conditions annoncées au candidat."
+    ],
+    "keywords": [
+      "règlement de travail",
+      "entrée en service",
+      "dépôt",
+      "horaires",
+      "arbeidsreglement"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/reglement-de-travail",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-rmmmg-avril-2026",
+    "title": "RMMMG : 2 189,81 € depuis avril 2026",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Le CNT indique un RMMMG de 2 189,81 € par mois depuis le 1er avril 2026. Vérifier d’abord le minimum sectoriel applicable au poste.",
+    "body": [
+      "La CCT n° 43 du 2 mai 1988 encadre le revenu minimum mensuel moyen garanti. L’étape d’augmentation du 1er avril 2026 est réalisée par la CCT n° 43/18. Le montant publié par le CNT concerne les travailleurs de 18 ans et plus relevant de ce régime.",
+      "Le RMMMG ne correspond pas nécessairement au seul salaire mensuel de base : certaines rémunérations annuelles, comme un treizième mois, entrent dans la vérification. Un contrat individuel ne peut descendre sous le minimum fixé par la CCT sectorielle applicable.",
+      "Ne pas appliquer indistinctement ce montant aux étudiants de 18 à 20 ans : ils relèvent du minimum réduit de la CCT n° 50. La CCT n° 43 ne couvre pas non plus les jeunes de 16 et 17 ans ni les jeunes en formation en alternance. Pour le temps partiel, vérifier les modalités de la CCT n° 35."
+    ],
+    "keywords": [
+      "RMMMG",
+      "salaire minimum",
+      "CCT 43",
+      "GGMMI",
+      "barème"
+    ],
+    "scope": {},
+    "source": "Conseil national du travail · cnt-nar.be",
+    "url": "https://cnt-nar.be/fr/dossiers-thematiques/salaire-minimum",
+    "owner": {
+      "name": "Conseil national du travail",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-04-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-index-centimes-2026",
+    "title": "Indexation : limitation au-delà de 4 000 € en 2026",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Contrôler le mécanisme d’indexation sectoriel et la nouvelle modération avant de chiffrer une évolution salariale. L’« index centimes » s’applique depuis le 1er juin 2026.",
+    "body": [
+      "La loi-programme du 30 mai 2026, titre 3, chapitre 1er, limite l’indexation de la partie du salaire de référence dépassant 4 000 € bruts jusqu’à l’application d’une modération de 2 %. Jusqu’à 4 000 € inclus, l’indexation reste entière. La date concrète dépend du mécanisme d’indexation applicable.",
+      "Le seuil porte sur le salaire mensuel brut fixe de base, barémique ou contractuel, ramené au temps plein. Les heures supplémentaires, chèques-repas, primes de prestation ou de fin d’année, écochèques, primes bénéficiaires et majorations de nuit ou de week-end en sont exclus.",
+      "Les parties ne peuvent pas écarter cette limitation par un accord particulier. Pour préparer l’offre et le budget, identifier la CCT d’indexation et faire vérifier le salaire de référence par la paie. La source annonce une seconde application à partir du 1er janvier 2028, date encore susceptible de report."
+    ],
+    "keywords": [
+      "indexation",
+      "index centimes",
+      "indice santé",
+      "4 000 euros",
+      "centenindex"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/remuneration/indexation-automatique-des-salaires/index-centimes",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-interim-motifs",
+    "title": "Intérim : motifs autorisés et contrat écrit",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Justifier le recours à l’intérim par un motif légal et vérifier la procédure correspondante. L’agence reste l’employeur juridique.",
+    "body": [
+      "La loi du 24 juillet 1987 et la CCT n° 108 encadrent six motifs : remplacement, surcroît temporaire, travail exceptionnel, insertion en vue d’un engagement permanent, certaines prestations artistiques et trajet régional de mise au travail. La durée maximale et les consultations requises varient selon le motif.",
+      "Le contrat doit être écrit au plus tard à l’entrée en service. Depuis le 1er juin 2026, la déclaration d’intention préalable distincte est supprimée ; l’écrit du contrat reste obligatoire. L’utilisateur doit transmettre les informations nécessaires à l’agence.",
+      "L’utilisateur répond de l’application des règles de durée du travail et de sécurité sur son site. Un recours en dehors des cas autorisés peut faire naître un CDI entre lui et l’intérimaire. Ne pas utiliser l’intérim comme simple période d’essai sans motif admissible."
+    ],
+    "keywords": [
+      "intérim",
+      "motif de recours",
+      "remplacement",
+      "surcroît temporaire",
+      "insertion",
+      "uitzendarbeid"
+    ],
+    "scope": {
+      "contractTypes": [
+        "interim"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/travail-interimaire",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-non-concurrence-seuils-2026",
+    "title": "Non-concurrence : seuils et conditions en 2026",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Vérifier le salaire, la fonction et la CCT avant d’insérer une clause de non-concurrence. Les seuils s’apprécient au moment de la rupture.",
+    "body": [
+      "Depuis le 1er janvier 2026, la rémunération annuelle brute doit dépasser 44 447 €. Jusqu’à 88 895 €, une CCT doit désigner les fonctions concernées. Au-delà de 88 895 €, la condition salariale permet la clause, sauf fonctions exclues par CCT ; les autres conditions restent obligatoires.",
+      "La clause doit être écrite, viser des activités similaires et une zone de concurrence réelle limitée à la Belgique. Sa durée ne peut dépasser douze mois. Prévoir une indemnité d’au moins la moitié de la rémunération brute correspondant à cette durée, sauf renonciation de l’employeur dans les quinze jours de la cessation.",
+      "Ces conditions sont cumulatives. La clause ordinaire ne produit notamment pas d’effet lors d’une rupture pendant les six premiers mois ou d’un licenciement sans faute grave du travailleur. Les articles 65 et 86 de la loi du 3 juillet 1978 encadrent ce régime ; certaines clauses internationales et les représentants de commerce suivent des règles particulières."
+    ],
+    "keywords": [
+      "non-concurrence",
+      "44 447 euros",
+      "88 895 euros",
+      "indemnité",
+      "concurrentiebeding"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/fin-du-contrat-de-travail/clause-de-non-concurrence",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-cheques-repas-2026",
+    "title": "Chèques-repas : conditions ONSS et plafond 2026",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Vérifier la CCT ou la convention individuelle avant de promettre des chèques-repas. L’exonération dépend de plusieurs conditions cumulatives.",
+    "body": [
+      "Depuis le 1er janvier 2026, l’intervention patronale maximale exonérée est de 8,91 € par titre ; la participation du travailleur est d’au moins 1,09 €. Le plafond patronal découle de l’arrêté royal du 10 novembre 2025, publié le 17 novembre 2025.",
+      "L’octroi doit reposer sur une CCT sectorielle ou d’entreprise. Une convention individuelle écrite n’est admise que dans les situations prévues, notamment en l’absence de délégation syndicale. Vérifier aussi les limites de la CCT sectorielle. La substitution à une rémunération existante est en principe exclue ; le remplacement d’écochèques bénéficie d’une exception.",
+      "Le principe est un titre par journée effectivement prestée, y compris à temps partiel, sous réserve du comptage alternatif autorisé. Les titres sont électroniques et valables douze mois. Les jours de congé ou de maladie ne donnent normalement pas droit à un titre. Les conditions détaillées figurent dans les instructions ONSS 2026/3."
+    ],
+    "keywords": [
+      "chèques-repas",
+      "titres-repas",
+      "8,91 euros",
+      "ONSS",
+      "maaltijdcheques"
+    ],
+    "scope": {},
+    "source": "ONSS · socialsecurity.be",
+    "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/salary/particularcases/lunchcheques/salaryfeatures.html",
+    "owner": {
+      "name": "Office national de sécurité sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-ecocheques",
+    "title": "Écochèques : droit, plafonds et liste 2026",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Les écochèques ne constituent pas un avantage automatiquement dû à tous. Vérifier la CCT applicable ou la convention individuelle autorisée.",
+    "body": [
+      "La CCT n° 98 fixe le cadre minimal du secteur privé et les achats admis. L’exonération impose notamment une valeur maximale de 10 € par chèque et un total maximal de 250 € par travailleur et par an. La durée de validité est de vingt-quatre mois.",
+      "La CCT sectorielle ou d’entreprise précise le montant et les modalités. Une convention individuelle est possible dans les cas autorisés, notamment sans délégation syndicale. Pour une entrée ou une sortie en cours d’année, le calcul doit au moins tenir compte de la période sous contrat et des assimilations prévues.",
+      "La liste des achats admis a été modifiée par la CCT n° 98/12 du 24 février 2026, entrée en vigueur le 1er juin 2026. Utiliser cette liste pour décrire l’avantage. Les conditions sociales relèvent notamment de l’article 19quater de l’arrêté royal du 28 novembre 1969."
+    ],
+    "keywords": [
+      "écochèques",
+      "CCT 98",
+      "250 euros",
+      "avantages",
+      "ecocheques"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/remuneration/ecocheque",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-01",
+    "status": "valide"
+  },
+  {
+    "id": "federal-contrat-teletravail-cct85",
+    "title": "Télétravail régulier : convention écrite et frais",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Le télétravail structurel est volontaire et doit être formalisé individuellement. La CCT n° 85 encadre les conditions à annoncer et à contractualiser.",
+    "body": [
+      "Les articles 2 et 5 visent le travail régulier hors des locaux, au moyen des technologies de l’information, qui pourrait être réalisé dans l’entreprise. Le régime ne couvre pas le simple travail mobile. Le télétravail peut être convenu dès l’embauche ou ultérieurement.",
+      "L’article 6 impose un écrit au plus tard au début du télétravail, ou un avenant au contrat existant. Mentionner sa fréquence, les disponibilités et moyens de contact, le support technique, les frais, les modalités de retour et les lieux choisis. Sans écrit, le travailleur peut intégrer ou réintégrer les locaux.",
+      "Les articles 7 à 10 garantissent des conditions comparables et imposent à l’employeur les équipements, leur entretien et les coûts de connexion et communication. Si le salarié utilise son matériel, fixer la prise en charge des frais liés au télétravail avant son début. La version coordonnée intègre la CCT n° 85 bis, entrée en vigueur le 27 février 2008."
+    ],
+    "keywords": [
+      "télétravail",
+      "CCT 85",
+      "avenant",
+      "frais de connexion",
+      "telewerk"
+    ],
+    "scope": {},
+    "source": "Conseil national du travail · cnt-nar.be",
+    "url": "https://cnt-nar.be/sites/default/files/documents/fr/CCT%20n%C2%B0%2085%20(Version%20coordonn%C3%A9e).pdf",
+    "owner": {
+      "name": "Conseil national du travail",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2008-02-27",
+    "status": "valide"
+  }
+]

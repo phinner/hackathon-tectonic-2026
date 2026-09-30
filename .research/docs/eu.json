@@ -1,0 +1,504 @@
+[
+  {
+    "id": "eu-transparence-salariale-candidats",
+    "title": "Transparence salariale avant le recrutement",
+    "category": "offre",
+    "importance": "guidance",
+    "summary": "La directive 2023/970 prévoit une information sur la rémunération initiale et interdit les questions sur les salaires antérieurs. La publication dans l’annonce est une possibilité, pas l’unique mode de communication prévu.",
+    "body": [
+      "L’article 5 prévoit que le candidat reçoive la rémunération initiale ou sa fourchette, établie selon des critères objectifs non sexistes, ainsi que les dispositions conventionnelles pertinentes. L’information doit permettre une négociation éclairée, par exemple dans l’annonce ou avant l’entretien. Préparer une fourchette documentée pour chaque poste.",
+      "Le texte interdit de demander l’historique des rémunérations et impose des annonces et intitulés non sexistes. Retirer ces questions des formulaires et des scripts d’entretien. L’article 34 fixe la transposition au 7 juin 2026. Pour la situation belge, consulter la fiche eu-transparence-salariale-transposition-belge ; cette échéance ne démontre pas à elle seule l’existence d’une loi belge applicable à tous les employeurs privés."
+    ],
+    "keywords": [
+      "transparence salariale",
+      "fourchette salariale",
+      "historique salarial",
+      "offre d’emploi",
+      "loontransparantie"
+    ],
+    "scope": {},
+    "source": "Conseil de l’Union européenne · consilium.europa.eu",
+    "url": "https://www.consilium.europa.eu/en/policies/pay-transparency/",
+    "owner": {
+      "name": "Conseil de l’Union européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2026-04-14",
+    "status": "valide"
+  },
+  {
+    "id": "eu-transparence-salariale-transposition-belge",
+    "title": "Transparence salariale : transposition belge incomplète",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Les sources consultées au 30 septembre 2026 ne permettent pas de constater une transposition fédérale générale achevée pour le secteur privé. La demande belge de six mois concernait la procédure d’infraction, sans modifier l’échéance européenne.",
+    "body": [
+      "Dans sa réponse du 15 juin 2026, point 03.10 du compte rendu, le ministre de l’Emploi confirme que les travaux se poursuivent et qu’aucun calendrier précis ne peut être annoncé. Il distingue une demande de suspension du délai de procédure d’infraction pendant six mois d’un report du délai de transposition.",
+      "Le ministre rappelle que la législation belge sur les discriminations et l’écart salarial demeure applicable. Il précise qu’une directive non transposée ne crée en principe pas directement d’obligations entre parties privées. Ne pas présenter ce retard comme une autorisation de discrimination ni généraliser cette analyse aux employeurs publics.",
+      "Une analyse du 17 septembre 2026 indique encore l’absence de projet fédéral et souligne les effets possibles de l’interprétation conforme : https://pkfbofidi.com/loontransparantie-belgie-zonder-omzettingswet/. Des mesures partielles ont été notifiées par des entités fédérées ; elles ne prouvent pas une transposition fédérale complète. Avant d’affirmer qu’une nouvelle obligation belge s’impose à un client, vérifier le texte publié et son champ d’application."
+    ],
+    "keywords": [
+      "transposition belge",
+      "transparence salariale",
+      "7 juin 2026",
+      "secteur privé",
+      "égalité salariale"
+    ],
+    "scope": {},
+    "source": "Chambre des représentants · dekamer.be",
+    "url": "https://www.dekamer.be/doc/CCRI/pdf/56/ic386.pdf",
+    "owner": {
+      "name": "Chambre des représentants de Belgique",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-15",
+    "status": "valide"
+  },
+  {
+    "id": "eu-conditions-transparentes-directive-2019-1152",
+    "title": "Conditions de travail transparentes et prévisibles",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "La directive 2019/1152 impose une information écrite sur l’emploi et des garanties de prévisibilité. Ses exigences minimales doivent être lues avec les règles belges de transposition.",
+    "body": [
+      "Les articles 3 à 5 exigent notamment l’identité des parties, le poste, le lieu, la date de début, la durée éventuelle, la rémunération et le temps de travail. Le socle européen prévoit une transmission des principales informations au plus tard le septième jour calendaire et des autres dans le mois. Le format électronique doit permettre l’accès, l’enregistrement et l’impression, avec preuve de transmission ou de réception.",
+      "Les articles 9, 10 et 13 encadrent les restrictions au cumul d’emplois, les missions à horaire imprévisible et la gratuité des formations obligatoires. Pour un recrutement belge, appliquer les délais nationaux, notamment l’information individuelle dès le premier jour, présentée dans la fiche eu-information-embauche-belgique. Le plafond européen des périodes d’essai ne constitue pas une autorisation d’insérer une clause d’essai en Belgique."
+    ],
+    "keywords": [
+      "conditions prévisibles",
+      "information écrite",
+      "horaire variable",
+      "formation obligatoire",
+      "2019/1152"
+    ],
+    "scope": {},
+    "source": "Office des publications de l’Union européenne · eur-lex.europa.eu",
+    "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:02019L1152-20190711",
+    "owner": {
+      "name": "Union européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2019-07-11",
+    "status": "valide"
+  },
+  {
+    "id": "eu-information-embauche-belgique",
+    "title": "Belgique : informations à remettre dès l’embauche",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Le SPF Emploi explique la transposition belge de la directive 2019/1152 par la loi du 7 octobre 2022. Préparer les informations individuelles pour le premier jour de travail.",
+    "body": [
+      "Communiquer notamment les parties, le lieu, la fonction, la date de début, la fin ou durée d’un CDD, les composantes de rémunération et les informations d’horaire. Les éléments collectifs, dont les CCT applicables et l’organe paritaire compétent, figurent en principe dans le règlement de travail.",
+      "Le contrat ou un document distinct peut servir de support. La transmission électronique suppose un document accessible, enregistrable et imprimable, ainsi que la conservation d’une preuve d’envoi ou de réception. Les informations individuelles doivent parvenir au travailleur au plus tard le premier jour. Communiquer leurs modifications au plus tard à leur prise d’effet, sauf simple modification des textes auxquels il est renvoyé. La loi a été publiée le 31 octobre 2022."
+    ],
+    "keywords": [
+      "information à l’embauche",
+      "contrat écrit",
+      "règlement de travail",
+      "commission paritaire",
+      "2019/1152"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/informations-sur-la-relation-de-travail",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2022-10-31",
+    "status": "valide"
+  },
+  {
+    "id": "eu-egalite-origine-raciale-2000-43",
+    "title": "Recrutement sans discrimination raciale ou ethnique",
+    "category": "offre",
+    "importance": "legal",
+    "summary": "La directive 2000/43 interdit les discriminations raciales ou ethniques dans l’accès à l’emploi. Les critères de sélection et les conditions de recrutement sont expressément couverts.",
+    "body": [
+      "Les articles 2 et 3 couvrent les discriminations directes et indirectes, le harcèlement et les instructions de discriminer, dans le secteur public comme privé. Examiner les annonces, les critères de tri et les demandes du client pour éviter qu’ils excluent des candidats en raison de leur origine raciale ou ethnique.",
+      "L’article 4 n’autorise une différence que dans les conditions strictes d’une exigence professionnelle essentielle et déterminante, poursuivant un objectif légitime et proportionné. Une préférence générale de clientèle ne suffit pas à établir une telle exigence. L’article 3, paragraphe 2, distingue ce régime des règles de nationalité, d’entrée et de séjour : vérifier le droit de travailler séparément de l’origine du candidat."
+    ],
+    "keywords": [
+      "discrimination raciale",
+      "origine ethnique",
+      "égalité de traitement",
+      "critères de sélection",
+      "2000/43"
+    ],
+    "scope": {},
+    "source": "Office des publications de l’Union européenne · eur-lex.europa.eu",
+    "url": "https://eur-lex.europa.eu/eli/dir/2000/43/oj?locale=fr",
+    "owner": {
+      "name": "Union européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2000-07-19",
+    "status": "valide"
+  },
+  {
+    "id": "eu-egalite-emploi-2000-78",
+    "title": "Âge, handicap et convictions : égalité à l’embauche",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "La directive 2000/78 protège les candidats contre les discriminations fondées sur les convictions, l’âge, le handicap ou l’orientation sexuelle. Prévoir les aménagements raisonnables nécessaires à la sélection.",
+    "body": [
+      "La Commission rappelle que les interdictions concernent les critères de sélection, le recrutement, la formation et les conditions d’emploi. Elles visent aussi la discrimination indirecte, le harcèlement et les instructions de discriminer. Utiliser des critères liés aux tâches et conserver les raisons professionnelles des décisions.",
+      "L’article 5 impose des aménagements raisonnables pour permettre l’accès à l’emploi aux personnes handicapées, sauf charge disproportionnée. Évaluer concrètement les adaptations de l’entretien, des tests ou du poste ; tenir compte des aides disponibles avant de conclure à une charge excessive. La protection concerne les emplois publics et privés. La directive a été publiée le 2 décembre 2000."
+    ],
+    "keywords": [
+      "handicap",
+      "aménagement raisonnable",
+      "discrimination âge",
+      "convictions",
+      "orientation sexuelle",
+      "2000/78"
+    ],
+    "scope": {},
+    "source": "Commission européenne · employment-social-affairs.ec.europa.eu",
+    "url": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/rights-work/tackling-discrimination-work/legislation-employment-equality-directive-200078ec_en?prefLang=hu",
+    "owner": {
+      "name": "Commission européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2000-12-02",
+    "status": "valide"
+  },
+  {
+    "id": "eu-egalite-femmes-hommes-2006-54",
+    "title": "Égalité femmes-hommes dans la sélection et le salaire",
+    "category": "offre",
+    "importance": "legal",
+    "summary": "La directive 2006/54 interdit les discriminations liées au sexe dans le recrutement et impose l’égalité de rémunération pour un travail égal ou de même valeur. Une grossesse ne peut justifier un traitement défavorable.",
+    "body": [
+      "L’article 14 vise les conditions d’accès à l’emploi et les critères de sélection à tous les niveaux. L’article 2 inclut le harcèlement sexuel et le traitement moins favorable lié à la grossesse ou au congé de maternité. Retirer les critères sexués sans justification légale et évaluer les compétences nécessaires au poste.",
+      "L’article 4 couvre tous les éléments de rémunération et les classifications professionnelles utilisées pour les fixer. Comparer les postes selon des critères communs aux femmes et aux hommes. L’exception de l’article 14, paragraphe 2, suppose une caractéristique constituant une exigence professionnelle essentielle et déterminante, avec un objectif légitime et une exigence proportionnée."
+    ],
+    "keywords": [
+      "égalité femmes hommes",
+      "grossesse",
+      "égalité salariale",
+      "classification de fonctions",
+      "2006/54"
+    ],
+    "scope": {},
+    "source": "Office des publications de l’Union européenne · eur-lex.europa.eu",
+    "url": "https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX:32006L0054",
+    "owner": {
+      "name": "Union européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2006-07-26",
+    "status": "valide"
+  },
+  {
+    "id": "eu-cdd-directive-1999-70",
+    "title": "CDD : égalité de traitement et renouvellements",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "La directive 1999/70 protège les travailleurs en CDD contre les différences injustifiées et les renouvellements abusifs. Les limites concrètes de succession doivent être vérifiées dans le droit belge.",
+    "body": [
+      "La Commission explique que le seul caractère temporaire du contrat ne justifie pas des conditions moins favorables que celles d’un travailleur permanent comparable. Toute différence doit reposer sur des raisons objectives. Contrôler les avantages annoncés et les conditions proposées pour le CDD.",
+      "Pour prévenir les abus, les États doivent prévoir une ou plusieurs mesures : raisons objectives du renouvellement, durée totale maximale ou nombre maximal de renouvellements. La directive ne fixe pas un nombre uniforme de CDD autorisés dans toute l’Union. Vérifier la succession contractuelle avant de proposer un nouveau CDD. Le texte, publié le 10 juillet 1999, couvre aussi les travailleurs saisonniers relevant de son champ."
+    ],
+    "keywords": [
+      "CDD",
+      "contrats successifs",
+      "renouvellement",
+      "non-discrimination",
+      "1999/70"
+    ],
+    "scope": {
+      "contractTypes": [
+        "cdd"
+      ]
+    },
+    "source": "Commission européenne · employment-social-affairs.ec.europa.eu",
+    "url": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/rights-work/labour-law/working-conditions/fixed-term-work_fr",
+    "owner": {
+      "name": "Commission européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "1999-07-10",
+    "status": "valide"
+  },
+  {
+    "id": "eu-temps-partiel-97-81",
+    "title": "Temps partiel : droits et accès aux postes",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "La directive 97/81 interdit de défavoriser un travailleur du seul fait de son temps partiel. Les droits proportionnels doivent être distingués des exclusions injustifiées.",
+    "body": [
+      "La clause 4 de l’accord-cadre interdit des conditions moins favorables que celles d’un travailleur à temps plein comparable, sauf raisons objectives. Le principe du prorata temporis s’applique lorsque c’est approprié. Indiquer le régime proposé et vérifier la méthode de calcul du salaire et des avantages.",
+      "La clause 5 invite les employeurs, autant que possible, à examiner les demandes de passage entre temps plein et temps partiel et à informer des postes disponibles. Le refus d’un travailleur de changer de régime ne constitue pas, à lui seul, un motif valable de licenciement. Ces prescriptions européennes, publiées le 20 janvier 1998, ne remplacent pas les formalités belges propres aux contrats et horaires à temps partiel."
+    ],
+    "keywords": [
+      "temps partiel",
+      "prorata temporis",
+      "égalité de traitement",
+      "deeltijdse arbeid",
+      "97/81"
+    ],
+    "scope": {
+      "workTimes": [
+        "temps-partiel"
+      ]
+    },
+    "source": "Office des publications de l’Union européenne · eur-lex.europa.eu",
+    "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:31997L0081",
+    "owner": {
+      "name": "Union européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "1998-01-20",
+    "status": "valide"
+  },
+  {
+    "id": "eu-jeunes-travailleurs-94-33",
+    "title": "Moins de 18 ans : accès au travail et horaires",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "La directive 94/33 protège les jeunes travailleurs, quel que soit leur type de contrat. Vérifier l’âge, l’obligation scolaire et les risques du poste avant de recruter un mineur.",
+    "body": [
+      "Les articles 1 à 4 posent l’interdiction du travail des enfants, avec des exceptions encadrées à mettre en œuvre nationalement. Un adolescent, au sens du texte, a au moins 15 ans, moins de 18 ans et n’est plus soumis à l’obligation scolaire à temps plein. Une exception européenne ne dispense pas de vérifier l’autorisation correspondante en Belgique.",
+      "Dans la version consolidée du 26 juillet 2019, les articles 8 à 12 prévoient en principe pour les adolescents 8 heures par jour, 40 heures par semaine, 12 heures consécutives de repos quotidien et une pause d’au moins 30 minutes lorsque le travail dépasse 4 heures et demie. Le travail de nuit est encadré. Les articles 6 et 7 exigent une évaluation préalable des risques et interdisent certains travaux dangereux. Vérifier les règles belges plus protectrices et les dérogations précises."
+    ],
+    "keywords": [
+      "jeunes travailleurs",
+      "mineur",
+      "obligation scolaire",
+      "travaux dangereux",
+      "travail de nuit",
+      "94/33"
+    ],
+    "scope": {},
+    "source": "Office des publications de l’Union européenne · eur-lex.europa.eu",
+    "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:01994L0033-20190726",
+    "owner": {
+      "name": "Union européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2019-07-26",
+    "status": "valide"
+  },
+  {
+    "id": "eu-rgpd-recrutement-candidats",
+    "title": "RGPD : CV, références et tests de recrutement",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "L’Autorité de protection des données précise comment appliquer le RGPD au recrutement. Limiter la collecte aux données nécessaires à la fonction et encadrer les références ainsi que les décisions automatisées.",
+    "body": [
+      "Les questionnaires et entretiens doivent respecter la vie privée du candidat. Ne pas recueillir systématiquement des données de santé ou des informations pénales. L’APD rappelle que le consentement ne suffit pas à autoriser le traitement des données pénales relevant de l’article 10 du règlement 2016/679.",
+      "Pour une enquête de référence, l’APD demande une information préalable et une autorisation libre précisant les personnes consultées, les données, les motifs et la période. Le refus ne doit pas automatiquement interrompre la sélection. Une référence indiquée dans le CV peut tenir lieu de consentement.",
+      "Un recrutement ne doit pas être décidé uniquement par un test automatisé produisant un effet significatif, hors exception légale et garanties applicables. Prévoir un examen humain et la possibilité de faire valoir son point de vue. Pour les CV conservés après la sélection, documenter finalité, base juridique, durée nécessaire et information du candidat, conformément aux articles 5, 6 et 13 du RGPD ; cette page ne fixe aucun délai universel de conservation. Le RGPD est applicable depuis le 25 mai 2018."
+    ],
+    "keywords": [
+      "RGPD",
+      "CV",
+      "données personnelles",
+      "références",
+      "tests automatisés",
+      "recrutement",
+      "2016/679"
+    ],
+    "scope": {},
+    "source": "Autorité de protection des données · autoriteprotectiondonnees.be",
+    "url": "https://www.autoriteprotectiondonnees.be/professionnel/themes/vie-privee-sur-le-lieu-de-travail/recrutement-des-candidats",
+    "owner": {
+      "name": "Autorité de protection des données",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2016-05-04",
+    "status": "valide"
+  },
+  {
+    "id": "eu-carte-bleue-2021-1883",
+    "title": "Carte bleue européenne : recrutement hautement qualifié",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "La directive 2021/1883 facilite le recrutement de travailleurs hautement qualifiés de pays tiers. Vérifier les qualifications, l’offre et le seuil salarial belge applicable au lieu d’emploi.",
+    "body": [
+      "La Commission présente les exigences du régime révisé, entré en vigueur le 27 novembre 2021 : contrat ou offre ferme d’au moins six mois et qualifications supérieures ou compétences professionnelles admises. Le seuil salarial à fixer nationalement se situe entre 1 et 1,6 fois le salaire annuel brut moyen ; il ne s’agit ni d’un salaire maximal ni d’un montant belge uniforme.",
+      "L’expérience professionnelle peut être reconnue dans certains cas, notamment en informatique. Après 12 mois dans le premier État membre, une mobilité simplifiée vers un autre État est possible. Elle exige les démarches prévues dans le pays d’accueil. Pour une embauche en Belgique, contrôler le titre, les conditions régionales et le seuil en vigueur à la date de la demande avant de garantir une date d’entrée en fonction."
+    ],
+    "keywords": [
+      "carte bleue européenne",
+      "travailleur hautement qualifié",
+      "ressortissant pays tiers",
+      "qualifications",
+      "2021/1883"
+    ],
+    "scope": {},
+    "source": "Commission européenne · home-affairs.ec.europa.eu",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/work/eu-blue-card-attracting-highly-qualified-talent-eu_en?prefLang=de",
+    "owner": {
+      "name": "Commission européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2021-11-27",
+    "status": "valide"
+  },
+  {
+    "id": "eu-permis-unique-2024-1233",
+    "title": "Permis unique : nouveau cadre européen",
+    "category": "demarches",
+    "importance": "legal",
+    "summary": "La directive 2024/1233 refond la procédure de permis unique et renforce les droits des travailleurs de pays tiers. Son délai de transposition est arrivé à échéance le 21 mai 2026.",
+    "body": [
+      "L’article 5 fixe une décision dans les 90 jours suivant la demande complète, y compris l’examen du marché du travail. L’article 8 permet une prolongation exceptionnelle de 30 jours dûment justifiée par la complexité du dossier. Une demande de pièces complémentaires peut suspendre le délai. Si l’employeur dépose la demande, il doit informer le candidat de son avancement et de son résultat.",
+      "L’article 11 organise le changement d’employeur sous conditions nationales et protège certaines périodes de chômage. Les articles 18 à 20 fixent la transposition au 21 mai 2026 et l’abrogation de la directive 2011/98 au 22 mai 2026. Ces délais européens ne constituent pas une autorisation de commencer à travailler : vérifier la procédure belge effectivement applicable et les autorisations de séjour et de travail avant l’entrée en service."
+    ],
+    "keywords": [
+      "permis unique",
+      "single permit",
+      "travailleur étranger",
+      "délai de décision",
+      "2024/1233"
+    ],
+    "scope": {},
+    "source": "Office des publications de l’Union européenne · eur-lex.europa.eu",
+    "url": "https://eur-lex.europa.eu/eli/dir/2024/1233/oj/fra/pdf",
+    "owner": {
+      "name": "Union européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2024-04-30",
+    "status": "valide"
+  },
+  {
+    "id": "eu-temps-travail-2003-88",
+    "title": "Temps de travail : repos et limites européennes",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "La directive 2003/88 fixe des minima de repos et des limites de durée du travail. Pour rédiger une offre belge, vérifier aussi les règles nationales et sectorielles.",
+    "body": [
+      "La Commission rappelle le plafond moyen de 48 heures par semaine, heures supplémentaires comprises, et les repos minimaux de 11 heures consécutives par période de 24 heures et de 24 heures par semaine auxquelles s’ajoute le repos quotidien. Une pause est prévue lorsque le travail dépasse 6 heures et le congé annuel payé atteint au moins 4 semaines.",
+      "Le calcul de la moyenne dépend de la période de référence légalement autorisée. Des dérogations et des régimes spécifiques existent, notamment dans les transports. Ces prescriptions, issues du texte publié le 18 novembre 2003, ne permettent pas de présenter 48 heures comme la durée normale du travail en Belgique. Contrôler l’horaire annoncé, les repos et les règles de nuit avant de publier."
+    ],
+    "keywords": [
+      "durée du travail",
+      "repos quotidien",
+      "heures supplémentaires",
+      "travail de nuit",
+      "2003/88"
+    ],
+    "scope": {},
+    "source": "Commission européenne · employment-social-affairs.ec.europa.eu",
+    "url": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/rights-work/labour-law/working-conditions/working-time-directive_fr",
+    "owner": {
+      "name": "Commission européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2003-11-18",
+    "status": "valide"
+  },
+  {
+    "id": "eu-plateformes-2024-2831",
+    "title": "Travail via une plateforme : statut et algorithmes",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "La directive 2024/2831 prévoit une présomption réfragable de relation de travail et encadre la gestion algorithmique. Au 30 septembre 2026, son échéance de transposition reste à venir.",
+    "body": [
+      "La Commission explique que les États doivent faciliter la requalification lorsque le statut déclaré ne correspond pas au travail réellement effectué. Avant de proposer des missions comme indépendant, examiner l’organisation concrète par la plateforme, notamment l’attribution des tâches, les prix et le contrôle. La directive ne transforme pas automatiquement tous les prestataires en salariés.",
+      "Le texte renforce la transparence sur les algorithmes et la possibilité de contester les décisions affectant les conditions de travail. Il prévoit aussi une meilleure traçabilité du travail via les plateformes. La directive a été publiée le 11 novembre 2024 ; la transposition est requise au plus tard le 2 décembre 2026, selon l’article 29. Distinguer ces exigences européennes des règles belges déjà applicables."
+    ],
+    "keywords": [
+      "plateforme numérique",
+      "faux indépendant",
+      "présomption de salariat",
+      "gestion algorithmique",
+      "2024/2831"
+    ],
+    "scope": {},
+    "source": "Commission européenne · employment-social-affairs.ec.europa.eu",
+    "url": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/rights-work/future-work_en?prefLang=ro",
+    "owner": {
+      "name": "Commission européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2024-11-11",
+    "status": "valide"
+  },
+  {
+    "id": "eu-ia-recrutement-annexe-iii",
+    "title": "IA de recrutement : classification à haut risque",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "L’annexe III du règlement 2024/1689 vise les outils d’IA de ciblage des annonces, de tri des candidatures et d’évaluation des candidats. Classer chaque usage avant de choisir ou de déployer un outil.",
+    "body": [
+      "Le point 4 de l’annexe III couvre le recrutement et la sélection, mais aussi certaines décisions sur les conditions de travail, la promotion, la rupture et l’évaluation des travailleurs. Cette catégorie concerne les recruteurs de tous les secteurs ; elle n’est pas limitée aux entreprises informatiques.",
+      "L’article 6 prévoit des exceptions encadrées pour certains usages ne présentant pas de risque significatif ; un système de l’annexe III réalisant du profilage demeure à haut risque. Demander au fournisseur sa justification écrite de classification. Texte reproduit par le service officiel de la Commission : https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-6. Le calendrier a été modifié en juillet 2026 ; consulter eu-ia-calendrier-omnibus-2026 avant de présenter les obligations à haut risque comme déjà applicables."
+    ],
+    "keywords": [
+      "intelligence artificielle",
+      "tri de CV",
+      "annexe III",
+      "haut risque",
+      "profilage",
+      "AI Act"
+    ],
+    "scope": {},
+    "source": "Commission européenne, AI Act Service Desk · ai-act-service-desk.ec.europa.eu",
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-3",
+    "owner": {
+      "name": "Parlement européen et Conseil de l’Union européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2024-07-12",
+    "status": "valide"
+  },
+  {
+    "id": "eu-ia-recruteur-obligations-deployeur",
+    "title": "IA à haut risque : obligations de l’employeur utilisateur",
+    "category": "demarches",
+    "importance": "legal",
+    "summary": "L’article 26 de l’AI Act définit les obligations des utilisateurs professionnels d’IA à haut risque. Préparer la supervision humaine, l’information des personnes et la traçabilité selon le calendrier révisé.",
+    "body": [
+      "L’employeur utilisateur doit suivre les instructions du fournisseur, désigner des personnes compétentes disposant de l’autorité nécessaire pour superviser l’outil et surveiller son fonctionnement. Lorsqu’il maîtrise les données d’entrée, celles-ci doivent être pertinentes et suffisamment représentatives. L’article 26 prévoit la conservation des journaux sous son contrôle pendant une durée appropriée d’au moins six mois, sauf autre règle applicable.",
+      "Informer les représentants des travailleurs et les travailleurs concernés avant l’utilisation au travail ; informer également les personnes soumises à une décision assistée par un système de l’annexe III. Prévoir les procédures d’alerte et l’analyse d’impact RGPD lorsqu’elle est requise. Pour les outils de recrutement de l’annexe III, les obligations à haut risque sont reportées au 2 décembre 2027 par le calendrier présenté dans eu-ia-calendrier-omnibus-2026."
+    ],
+    "keywords": [
+      "AI Act",
+      "employeur utilisateur",
+      "supervision humaine",
+      "journaux",
+      "information des candidats",
+      "article 26"
+    ],
+    "scope": {},
+    "source": "Commission européenne, AI Act Service Desk · ai-act-service-desk.ec.europa.eu",
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-26",
+    "owner": {
+      "name": "Parlement européen et Conseil de l’Union européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2024-07-12",
+    "status": "valide"
+  },
+  {
+    "id": "eu-ia-calendrier-omnibus-2026",
+    "title": "AI Act : calendrier modifié en juillet 2026",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "La Commission confirme l’entrée en vigueur de l’AI Omnibus le 27 juillet 2026. Les règles relatives aux systèmes à haut risque de l’annexe III s’appliqueront à partir du 2 décembre 2027.",
+    "body": [
+      "La page officielle, mise à jour le 31 juillet 2026, distingue deux échéances : 2 décembre 2027 pour les systèmes de l’annexe III, dont le recrutement, et 2 août 2028 pour les systèmes à haut risque intégrés aux produits de l’annexe I. Actualiser les calendriers internes qui retiennent encore août 2026 pour les obligations à haut risque des outils de sélection.",
+      "Le paquet simplifie également les dispositions sur la maîtrise de l’IA et certaines obligations administratives. Éviter de réutiliser sans vérification les guides fondés uniquement sur la version initiale de 2024. Le report des règles à haut risque ne suspend pas le RGPD ni les interdictions de discrimination applicables au recrutement."
+    ],
+    "keywords": [
+      "AI Omnibus",
+      "calendrier AI Act",
+      "2 décembre 2027",
+      "annexe III",
+      "recrutement automatisé"
+    ],
+    "scope": {},
+    "source": "Commission européenne · digital-strategy.ec.europa.eu",
+    "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
+    "owner": {
+      "name": "Commission européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2026-07-31",
+    "status": "valide"
+  }
+]

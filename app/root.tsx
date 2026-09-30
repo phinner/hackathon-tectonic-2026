@@ -74,19 +74,19 @@ export default function App() {
               Définir le poste
             </NavLink>
             <NavLink to="/resultats" className={navClass}>
-              Tous les documents
+              Documents
             </NavLink>
           </nav>
           <div className="flex items-center gap-space-sm">
             <div className="hidden items-center gap-space-xs rounded-lg bg-amber-50 px-2.5 py-1 text-label-sm text-amber-800 sm:flex">
               <span className="size-1.5 animate-pulse rounded-full bg-amber-500" />
-              Démo · données fictives
+              Démo
             </div>
             <Link
               to="/recherche"
               className="inline-flex h-10 items-center justify-center rounded-lg bg-primary-container px-space-md text-label-md text-on-primary transition-colors hover:bg-secondary"
             >
-              Préparer un recrutement
+              Définir un poste
             </Link>
           </div>
         </div>
@@ -96,14 +96,9 @@ export default function App() {
       </main>
       <footer className="w-full bg-surface-container-lowest shadow-[0_-1px_6px_rgba(0,0,0,0.02)]">
         <div className="mx-auto flex max-w-[1360px] flex-col gap-space-md px-gutter py-space-lg">
-          <div className="flex items-start gap-space-sm rounded-xl bg-surface-container-low p-space-md sm:items-center">
-            <Icon name="verified_user" size={20} className="text-secondary" />
-            <p className="text-body-sm text-on-surface-variant">
-              HR Compass indique les documents pertinents pour votre situation, pas un avis juridique. Vérifiez
-              toujours la source avant d'agir.
-            </p>
-          </div>
-          <p className="text-label-sm text-outline">© 2026 HR Compass · Tectonic Hackathon</p>
+          <p className="text-label-sm text-outline">
+            Pas un avis juridique : vérifiez la source avant d'agir. © 2026 HR Compass
+          </p>
         </div>
       </footer>
     </div>

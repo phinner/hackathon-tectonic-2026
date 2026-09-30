@@ -1,6 +1,7 @@
-// Documents fictifs. Le contenu imite des sources internes (intranet, Teams, e-mails)
-// mais n'a aucune valeur juridique.
+// Documents de référence : sources publiques (sources.ts, générées par .research/merge.py)
+// et règles internes des clients, fictives pour la démo.
 
+import { sourceDocuments } from "./sources";
 import type { CategoryId, Importance, RegionId } from "./taxonomy";
 
 export type Doc = {
@@ -23,6 +24,7 @@ export type Doc = {
   };
   // Signaux de confiance
   source: string;
+  url?: string;
   owner: { name: string; team: string };
   lastValidated: string; // ISO date
   status: "valide" | "obsolete" | "a-verifier";
@@ -30,258 +32,7 @@ export type Doc = {
   conflictsWith?: string[];
 };
 
-export const documents: Doc[] = [
-  // --- Contenu de l'offre -------------------------------------------------
-  {
-    id: "offre-mentions-obligatoires",
-    title: "Mentions obligatoires d'une offre d'emploi",
-    category: "offre",
-    importance: "legal",
-    summary: "Liste des informations à faire figurer dans toute annonce : fonction, lieu, régime de travail, type de contrat.",
-    body: [
-      "Toute offre doit indiquer clairement l'intitulé de la fonction, le lieu de travail, le régime (temps plein ou partiel) et la nature du contrat.",
-      "Le salaire n'est pas obligatoire mais fortement recommandé ; s'il est mentionné, il doit respecter le barème sectoriel applicable.",
-    ],
-    keywords: ["annonce", "mentions", "offre"],
-    scope: {},
-    source: "Intranet · Base de connaissances RH",
-    owner: { name: "Claire Dubois", team: "Legal & Compliance BE" },
-    lastValidated: "2026-06-12",
-    status: "valide",
-  },
-  {
-    id: "offre-non-discrimination",
-    title: "Rédiger une annonce non discriminante",
-    category: "offre",
-    importance: "legal",
-    summary: "Critères interdits (âge, genre, origine…) et formulations à éviter dans une annonce.",
-    body: [
-      "Une annonce ne peut pas mentionner de critère protégé : âge, genre, origine, état de santé, conviction, etc.",
-      "Utiliser l'écriture inclusive ou la mention (H/F/X). Éviter « jeune diplômé » : préférer « première expérience ».",
-    ],
-    keywords: ["discrimination", "H/F/X", "annonce"],
-    scope: {},
-    source: "Intranet · Base de connaissances RH",
-    owner: { name: "Claire Dubois", team: "Legal & Compliance BE" },
-    lastValidated: "2026-03-02",
-    status: "valide",
-  },
-  {
-    id: "offre-langue-wallonie",
-    title: "Langue de l'offre et des documents : Wallonie",
-    category: "offre",
-    importance: "legal",
-    summary: "En région de langue française, l'offre et les documents sociaux sont rédigés en français.",
-    body: [
-      "Pour un siège d'exploitation situé en région de langue française, les documents destinés au personnel sont établis en français.",
-      "Une traduction peut être jointe, mais la version française fait foi.",
-    ],
-    keywords: ["langue", "français", "décret"],
-    scope: { regions: ["wallonie"] },
-    source: "Intranet · Wiki Legal",
-    owner: { name: "Claire Dubois", team: "Legal & Compliance BE" },
-    lastValidated: "2025-11-20",
-    status: "valide",
-  },
-  {
-    id: "offre-langue-flandre",
-    title: "Taal van de vacature en documenten: Vlaanderen",
-    category: "offre",
-    importance: "legal",
-    summary: "En Flandre, les documents destinés au personnel sont établis en néerlandais.",
-    body: ["Voor een exploitatiezetel in het Nederlandse taalgebied worden documenten voor het personeel in het Nederlands opgesteld."],
-    keywords: ["taal", "nederlands"],
-    scope: { regions: ["flandre"] },
-    source: "Intranet · Wiki Legal",
-    owner: { name: "Pieter Claes", team: "Legal & Compliance BE" },
-    lastValidated: "2026-01-15",
-    status: "valide",
-  },
-  {
-    id: "offre-modele-finance",
-    title: "Modèle d'annonce : profils comptables",
-    category: "offre",
-    importance: "guidance",
-    summary: "Gabarit d'annonce éprouvé pour comptables et experts-comptables, avec exemples de missions.",
-    body: [
-      "Structure recommandée : contexte du cabinet, missions (tenue, clôtures, conseil), profil, conditions.",
-      "Pour un expert-comptable, préciser le titre professionnel attendu et le portefeuille de clients.",
-    ],
-    keywords: ["modèle", "template", "comptable"],
-    scope: { sectors: ["finance"] },
-    source: "Teams · #recrutement-finance",
-    owner: { name: "Julie Lambert", team: "Recruitment Services Wallonie" },
-    lastValidated: "2025-09-04",
-    status: "valide",
-  },
-
-  // --- Restrictions & conditions d'accès -----------------------------------
-  {
-    id: "acces-titre-expert-comptable",
-    title: "Titre protégé : expert-comptable",
-    category: "restrictions",
-    importance: "legal",
-    summary: "Le titre d'expert-comptable est protégé : le candidat doit être inscrit auprès de l'institut professionnel.",
-    body: [
-      "Seules les personnes inscrites au tableau de l'institut professionnel peuvent porter le titre d'expert-comptable.",
-      "Vérifier le numéro d'inscription avant l'engagement. Un stagiaire ne peut pas être présenté comme expert-comptable.",
-    ],
-    keywords: ["titre protégé", "institut", "inscription"],
-    scope: { roles: ["expert-comptable"] },
-    source: "Intranet · Wiki Legal",
-    owner: { name: "Claire Dubois", team: "Legal & Compliance BE" },
-    lastValidated: "2026-05-30",
-    status: "valide",
-  },
-  {
-    id: "acces-comptable-diplome",
-    title: "Conditions de diplôme : comptable",
-    category: "restrictions",
-    importance: "guidance",
-    summary: "Pas de titre protégé pour « comptable », mais un bachelier en comptabilité est la norme du marché.",
-    body: ["Le poste de comptable n'exige pas d'agrément ; évitez néanmoins l'intitulé « expert-comptable » si le candidat n'est pas inscrit."],
-    keywords: ["diplôme", "bachelier"],
-    scope: { roles: ["comptable", "controleur-gestion"] },
-    source: "Teams · #recrutement-finance",
-    owner: { name: "Julie Lambert", team: "Recruitment Services Wallonie" },
-    lastValidated: "2025-10-10",
-    status: "valide",
-  },
-  {
-    id: "acces-visa-infirmier",
-    title: "Visa et enregistrement : infirmier·ère",
-    category: "restrictions",
-    importance: "legal",
-    summary: "Un·e infirmier·ère doit disposer d'un visa et d'un enregistrement valides avant sa prise de fonction.",
-    body: ["Demander la preuve du visa lors de l'entretien et la conserver dans le dossier du personnel."],
-    keywords: ["visa", "enregistrement", "santé"],
-    scope: { roles: ["infirmier"] },
-    source: "Intranet · Wiki Legal",
-    owner: { name: "Claire Dubois", team: "Legal & Compliance BE" },
-    lastValidated: "2026-02-18",
-    status: "valide",
-  },
-  {
-    id: "acces-etudiant-construction",
-    title: "Travail étudiant sur chantier : restrictions",
-    category: "restrictions",
-    importance: "legal",
-    summary: "Certaines tâches dangereuses sur chantier sont interdites aux jeunes travailleurs.",
-    body: ["Consulter l'analyse de risques avant d'affecter un étudiant à un chantier."],
-    keywords: ["étudiant", "sécurité", "chantier"],
-    scope: { sectors: ["construction"], contractTypes: ["etudiant"] },
-    source: "Intranet · Prévention & sécurité",
-    owner: { name: "Marc Renard", team: "Prévention" },
-    lastValidated: "2025-12-01",
-    status: "valide",
-  },
-
-  // --- Contrat & rémunération ----------------------------------------------
-  {
-    id: "bareme-cp200-2026",
-    title: "Barèmes CP 200 : janvier 2026 (après indexation)",
-    category: "contrat",
-    importance: "legal",
-    summary: "Grille salariale minimale des employés de la CP 200, indexée au 1er janvier 2026.",
-    body: [
-      "Les barèmes minimums ont été indexés au 1er janvier 2026.",
-      "Classe C (profils comptables expérimentés) : minimum fictif de 3 450 € bruts/mois à temps plein.",
-    ],
-    keywords: ["barème", "indexation", "CP 200", "salaire"],
-    scope: { sectors: ["finance", "it"] },
-    source: "Intranet · Base Paie BE",
-    owner: { name: "Sophie Maes", team: "Payroll Expertise Center" },
-    lastValidated: "2026-01-08",
-    status: "valide",
-    conflictsWith: ["bareme-cp200-teams"],
-  },
-  {
-    id: "bareme-cp200-2025",
-    title: "Barèmes CP 200 : 2025",
-    category: "contrat",
-    importance: "legal",
-    summary: "Ancienne grille salariale CP 200, remplacée par la version indexée de 2026.",
-    body: ["Classe C : minimum fictif de 3 380 € bruts/mois à temps plein."],
-    keywords: ["barème", "CP 200", "salaire"],
-    scope: { sectors: ["finance", "it"] },
-    source: "SharePoint · Paie/Archives",
-    owner: { name: "Sophie Maes", team: "Payroll Expertise Center" },
-    lastValidated: "2025-01-10",
-    status: "obsolete",
-    replacedBy: "bareme-cp200-2026",
-  },
-  {
-    id: "bareme-cp200-teams",
-    title: "« Le minimum classe C c'est 3 380 € » : message Teams",
-    category: "contrat",
-    importance: "guidance",
-    summary: "Réponse d'un collègue sur Teams, antérieure à l'indexation, qui contredit la grille actuelle.",
-    body: ["« Pour un comptable classe C en CP 200, tu peux partir sur 3 380 € brut, c'est le minimum. » (message du 14/11/2025)"],
-    keywords: ["barème", "Teams"],
-    scope: { sectors: ["finance"] },
-    source: "Teams · #paie-wallonie",
-    owner: { name: "Thomas Leroy", team: "Payroll Consultant Namur" },
-    lastValidated: "2025-11-14",
-    status: "a-verifier",
-    conflictsWith: ["bareme-cp200-2026"],
-  },
-  {
-    id: "contrat-temps-plein",
-    title: "Durée du travail à temps plein et horaires",
-    category: "contrat",
-    importance: "legal",
-    summary: "Durée hebdomadaire de référence, mentions d'horaire et règlement de travail.",
-    body: ["L'horaire doit figurer dans le règlement de travail. Vérifier la durée hebdomadaire sectorielle."],
-    keywords: ["horaire", "règlement de travail"],
-    scope: { workTimes: ["temps-plein"] },
-    source: "Intranet · Base Paie BE",
-    owner: { name: "Sophie Maes", team: "Payroll Expertise Center" },
-    lastValidated: "2026-04-03",
-    status: "valide",
-  },
-  {
-    id: "contrat-temps-partiel",
-    title: "Contrat à temps partiel : mentions écrites",
-    category: "contrat",
-    importance: "legal",
-    summary: "Le contrat à temps partiel doit être écrit et mentionner le régime et l'horaire convenus.",
-    body: ["À défaut d'écrit, le travailleur peut choisir le régime le plus favorable."],
-    keywords: ["temps partiel", "horaire"],
-    scope: { workTimes: ["temps-partiel"] },
-    source: "Intranet · Base Paie BE",
-    owner: { name: "Sophie Maes", team: "Payroll Expertise Center" },
-    lastValidated: "2026-04-03",
-    status: "valide",
-  },
-  {
-    id: "contrat-cdd-succession",
-    title: "Succession de CDD : règles",
-    category: "contrat",
-    importance: "legal",
-    summary: "Limites à l'enchaînement de contrats à durée déterminée.",
-    body: ["Au-delà des limites, le contrat est réputé à durée indéterminée."],
-    keywords: ["CDD", "succession"],
-    scope: { contractTypes: ["cdd"] },
-    source: "Intranet · Wiki Legal",
-    owner: { name: "Claire Dubois", team: "Legal & Compliance BE" },
-    lastValidated: "2026-02-01",
-    status: "valide",
-  },
-  {
-    id: "contrat-modele-cdi-employe",
-    title: "Modèle de contrat CDI : employé",
-    category: "contrat",
-    importance: "guidance",
-    summary: "Modèle de contrat à durée indéterminée pour employés, clauses standard incluses.",
-    body: ["Inclut : fonction, rémunération, lieu, horaire, clause de confidentialité optionnelle."],
-    keywords: ["modèle", "CDI", "contrat"],
-    scope: { contractTypes: ["cdi"] },
-    source: "SharePoint · Modèles juridiques",
-    owner: { name: "Claire Dubois", team: "Legal & Compliance BE" },
-    lastValidated: "2024-06-20",
-    status: "valide",
-  },
-
+const internalDocuments: Doc[] = [
   // --- Règles internes -----------------------------------------------------
   {
     id: "interne-fiduciaire-meuse-grille",
@@ -340,49 +91,6 @@ export const documents: Doc[] = [
     status: "valide",
   },
 
-  // --- Démarches & aides ---------------------------------------------------
-  {
-    id: "demarche-dimona",
-    title: "Déclaration Dimona avant l'entrée en service",
-    category: "demarches",
-    importance: "legal",
-    summary: "L'entrée en service doit être déclarée au plus tard le jour du début du travail.",
-    body: ["La déclaration se fait électroniquement ; SD Worx peut la réaliser pour le client."],
-    keywords: ["Dimona", "déclaration"],
-    scope: {},
-    source: "Intranet · Base Paie BE",
-    owner: { name: "Sophie Maes", team: "Payroll Expertise Center" },
-    lastValidated: "2026-05-05",
-    status: "valide",
-  },
-  {
-    id: "aide-wallonie-embauche",
-    title: "Aides régionales à l'embauche : Wallonie",
-    category: "demarches",
-    importance: "guidance",
-    summary: "Aperçu des aides wallonnes possibles selon le profil du candidat.",
-    body: ["Vérifier l'éligibilité du candidat avant la signature du contrat : certaines aides ne sont pas rétroactives."],
-    keywords: ["aide", "subside", "Wallonie"],
-    scope: { regions: ["wallonie"] },
-    source: "Teams · #paie-wallonie",
-    owner: { name: "Thomas Leroy", team: "Payroll Consultant Namur" },
-    lastValidated: "2025-06-30",
-    status: "valide",
-  },
-  {
-    id: "aide-bruxelles-embauche",
-    title: "Aides régionales à l'embauche : Bruxelles",
-    category: "demarches",
-    importance: "guidance",
-    summary: "Aperçu des aides bruxelloises possibles selon le profil du candidat.",
-    body: ["Vérifier l'éligibilité avant la signature du contrat."],
-    keywords: ["aide", "Bruxelles"],
-    scope: { regions: ["bruxelles"] },
-    source: "Teams · #paie-bruxelles",
-    owner: { name: "Karim El Idrissi", team: "Payroll Consultant Bruxelles" },
-    lastValidated: "2026-02-28",
-    status: "valide",
-  },
   {
     id: "demarche-namur-permanence",
     title: "Permanence juridique : bureau de Namur",
@@ -398,5 +106,7 @@ export const documents: Doc[] = [
     status: "valide",
   },
 ];
+
+export const documents: Doc[] = [...sourceDocuments, ...internalDocuments];
 
 export const getDocument = (id: string) => documents.find((d) => d.id === id);

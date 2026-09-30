@@ -1,0 +1,480 @@
+[
+  {
+    "id": "construction-baremes-juillet-2026",
+    "title": "CP 124 : salaires minimums au 1er juillet 2026",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Fixer le salaire horaire brut selon la catégorie professionnelle et la responsabilité d’équipe. La grille officielle applicable au 1er juillet 2026 a été actualisée le 7 juillet 2026.",
+    "body": [
+      "Pour le régime de 40 heures, minima horaires bruts publiés : catégorie I, 18,592 € ; IA, 19,517 € ; II, 19,820 € ; IIA, 20,810 € ; III, 21,078 € ; IV, 22,374 €. Ces barèmes concernent les ouvriers ; certaines activités, notamment le dragage et les centrales à béton livrant des tiers, ont des conventions distinctes.",
+      "Le chef d’équipe doit recevoir au moins 10 % au-dessus du salaire correspondant à sa qualification et du salaire conventionnel de la qualification la plus élevée de son équipe. La grille indique 23,186 €/h pour le chef d’équipe III, 24,597 €/h pour le chef d’équipe IV et 26,810 €/h pour le contremaître IV.",
+      "Au 1er juillet 2026, le supplément pour les heures dans une entreprise pétrochimique en activité est de 0,799 €/h. Les indemnités journalières publiées sont de 16,81 € pour le logement et 35,19 € pour la nourriture. Vérifier leurs conditions d’octroi avant de les annoncer."
+    ],
+    "keywords": [
+      "CP 124",
+      "barèmes 2026",
+      "salaire horaire",
+      "chef d’équipe",
+      "minimumlonen"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ]
+    },
+    "source": "SPF Emploi · salairesminimums.be",
+    "url": "https://www.salairesminimums.be/document.html?jcId=c206d961982d4ec6b997c7a485e0bf32",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Secteur (CP 124)"
+    },
+    "lastValidated": "2026-07-07",
+    "status": "valide"
+  },
+  {
+    "id": "construction-timbres-fidelite-intemperies",
+    "title": "Timbres fidélité et intempéries : bénéficiaires et calcul",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Les timbres fidélité et intempéries sont des avantages sectoriels distincts. Les étudiants sont exclus de cette CCT ; les intérimaires concernés y sont inclus.",
+    "body": [
+      "La CCT du 12 septembre 2013, applicable depuis le 1er septembre 2013, prévoit des timbres fidélité de 9 % et des timbres intempéries de 2 % des rémunérations brutes à 100 %. Les articles 2 à 4 distinguent les cotisations patronales des avantages versés : 9,12 % pour fidélité et gestion ; 2,10 % pour intempéries et gestion.",
+      "Les timbres intempéries concernent les entreprises des catégories ONSS 024 et 054 et les intérimaires mis à leur disposition. Ne pas promettre cet avantage à tout salarié d’une entreprise de construction. L’exercice fidélité court du 1er juillet au 30 juin ; l’exercice intempéries du 1er janvier au 31 décembre.",
+      "Pour une offre, présenter ces avantages séparément du salaire horaire. Le régime des employeurs étrangers a été modifié par la CCT du 14 février 2019 et fait l’objet de la fiche construction-timbres-travailleurs-detaches."
+    ],
+    "keywords": [
+      "timbres fidélité",
+      "timbres intempéries",
+      "prime annuelle",
+      "OPOC",
+      "weerverletzegels",
+      "getrouwheidszegels"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ],
+      "contractTypes": [
+        "cdi",
+        "cdd",
+        "interim"
+      ]
+    },
+    "source": "SPF Emploi, registre des CCT · public-search.werk.belgie.be",
+    "url": "https://public-search.werk.belgie.be/website-download-service/joint-work-convention/124/124-2013-009510.pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Secteur (CP 124)"
+    },
+    "lastValidated": "2013-09-01",
+    "status": "valide"
+  },
+  {
+    "id": "construction-checkinatwork",
+    "title": "Checkinatwork : enregistrer la présence avant le travail",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Organiser l’enregistrement quotidien des personnes intervenant sur les chantiers soumis à Checkinatwork. L’enregistrement des sorties annoncé pour avril 2027 ne s’applique pas encore au 30 septembre 2026.",
+    "body": [
+      "Pour les travaux immobiliers concernés, le seuil est de 500 000 € hors TVA pour le montant total des travaux. Le lieu doit figurer dans la Déclaration de travaux. L’employeur ou l’entrepreneur organise l’enregistrement des travailleurs, sous-traitants et indépendants ; ceux-ci peuvent aussi s’enregistrer eux-mêmes.",
+      "L’enregistrement doit intervenir chaque jour avant le commencement du travail. À l’accueil, préciser le moyen utilisé et la personne responsable de vérifier la présence enregistrée.",
+      "L’avis ONSS du 30 juillet 2026 annonce le passage à Check in and out at work le 1er avril 2027, en application des articles 124 à 131 de la loi-programme du 30 mai 2026. À cette date, les travaux immobiliers concernés ne pourront plus être enregistrés dans Checkinatwork. Préparer la migration sans anticiper l’obligation de sortie."
+    ],
+    "keywords": [
+      "Checkinatwork",
+      "enregistrement présences",
+      "chantier",
+      "500000 euros",
+      "ONSS",
+      "aanwezigheidsregistratie"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ]
+    },
+    "source": "ONSS · socialsecurity.be",
+    "url": "https://www.socialsecurity.be/site_fr/employer/applics/checkinatwork/index.htm",
+    "owner": {
+      "name": "Office national de sécurité sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-07-30",
+    "status": "valide"
+  },
+  {
+    "id": "construction-formation-securite-base",
+    "title": "Chantiers : formation de base en sécurité et VCA",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Vérifier la formation de base en sécurité ou une preuve équivalente avant l’affectation au chantier. Une attestation VCA peut établir les connaissances requises, sans remplacer les formations propres au métier.",
+    "body": [
+      "Depuis le 15 avril 2023, la règle fédérale vise les travailleurs, les indépendants et les employeurs travaillant eux-mêmes à la réalisation de l’ouvrage. La formation dure au moins huit heures et précède le début du travail ; si son organisation préalable est impossible, elle doit être suivie dans le mois suivant le début des travaux.",
+      "Les connaissances sont présumées acquises avec une attestation de formation équivalente, par exemple VCA, ou au moins cinq ans d’expérience sur chantier pendant les dix dernières années. Conserver les justificatifs. Les règles sectorielles plus sévères restent applicables, notamment pour l’intérim.",
+      "L’employeur doit toujours fournir, avant l’occupation, les informations sur les risques du chantier et vérifier leur compréhension. La formation de base ne dispense pas d’une formation à la conduite d’engins ou au désamiantage."
+    ],
+    "keywords": [
+      "sécurité de base",
+      "VCA",
+      "formation huit heures",
+      "chantier",
+      "basisveiligheid"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/bien-etre-au-travail/lieux-de-travail/chantiers-temporaires-ou-mobiles/formation-de-base-en",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2023-04-15",
+    "status": "valide"
+  },
+  {
+    "id": "construction-chomage-intemperies-ec32",
+    "title": "Intempéries : chômage temporaire et carte eC3.2",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Appliquer la procédure ONEM propre à la construction et former le nouvel ouvrier à eC3.2. Le formulaire papier n’est plus le fonctionnement ordinaire depuis le 1er janvier 2025.",
+    "body": [
+      "Si l’ouvrier commence le travail puis l’interrompt à cause des intempéries, il a droit à une rémunération et ne peut être mis en chômage intempéries pour cette journée. Si le travail ne peut commencer dès son arrivée au chantier, le régime construction permet le chômage pour cette journée.",
+      "Communiquer mensuellement le premier jour effectif à l’ONEM le jour même ou le jour ouvrable suivant ; le jour ouvrable précédent est possible si le chômage est certain. Introduire la DRS scénario 2 lorsque nécessaire et la DRS scénario 5 après le mois.",
+      "L’ouvrier complète eC3.2 dès le premier jour de chaque mois, même sans chômage, et indique le travail avant de le commencer. Il transmet la carte en fin de mois s’il a connu du chômage temporaire. Le retour temporaire au papier nécessite l’accord de l’ONEM. Depuis le 1er mars 2026, l’inscription comme demandeur d’emploi intervient après les trois premiers mois de chômage temporaire."
+    ],
+    "keywords": [
+      "intempéries",
+      "eC3.2",
+      "C3.2A construction",
+      "chômage temporaire",
+      "DRS",
+      "ONEM"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ]
+    },
+    "source": "ONEM · onem.be",
+    "url": "https://www.onem.be/index.php/employeurs/chomage-temporaire/chomage-temporaire---secteur-de-la-construction---intemperies",
+    "owner": {
+      "name": "Office national de l’emploi",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-16",
+    "status": "valide"
+  },
+  {
+    "id": "construction-limosa-detachement",
+    "title": "Détachement : contrôler la preuve Limosa-1",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Avant le début d’une mission détachée, demander la preuve Limosa-1 et vérifier la période ainsi que le lieu d’occupation. Le client belge doit signaler l’absence de preuve.",
+    "body": [
+      "L’obligation Limosa est en vigueur depuis le 1er avril 2007. Elle concerne notamment les salariés envoyés travailler temporairement ou partiellement en Belgique et les indépendants détachés dans les secteurs à risque, dont la construction. Examiner les exemptions prévues selon l’activité et la durée ; la nationalité ne suffit pas à déterminer l’obligation.",
+      "La preuve Limosa-1 doit être présentée au client belge avant le commencement des activités. Si elle manque, celui-ci doit signaler cette non-présentation aux autorités. Adapter ou prolonger la déclaration si la mission change.",
+      "Le code QR de Limosa-1 peut servir à enregistrer la personne dans Checkinatwork. La déclaration Limosa et l’enregistrement quotidien des présences correspondent à deux démarches distinctes."
+    ],
+    "keywords": [
+      "Limosa",
+      "détachement",
+      "Limosa-1",
+      "travailleur étranger",
+      "chantier",
+      "meldingsplicht"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ]
+    },
+    "source": "ONSS, Working in Belgium · workinginbelgium.fgov.be",
+    "url": "https://www.workinginbelgium.fgov.be/fr/limosa.html",
+    "owner": {
+      "name": "Office national de sécurité sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2007-04-01",
+    "status": "valide"
+  },
+  {
+    "id": "construction-ar-chantiers-temporaires",
+    "title": "Chantiers temporaires : coordination et prévention",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "L’arrêté royal du 25 janvier 2001 encadre l’organisation de la sécurité des chantiers temporaires ou mobiles. Prévoir la coordination et les consignes avant de constituer les équipes.",
+    "body": [
+      "L’article 2 couvre notamment la construction, la rénovation, le terrassement, la réparation et la démolition. Lorsque plusieurs entrepreneurs interviennent, simultanément ou successivement, vérifier les obligations de coordination en conception et en réalisation selon la configuration du chantier.",
+      "L’article 26 impose un plan de sécurité et de santé dans les cas qu’il définit, notamment certains travaux présentant des risques particuliers. L’article 30 organise son intégration aux documents du marché, avec les modalités et dispenses prévues par le texte. Une offre d’emploi ne remplace pas ces documents.",
+      "L’article 50 impose aux entrepreneurs les mesures de prévention concernant notamment les accès, la circulation, la manutention, l’entretien du matériel et les interactions entre entreprises. Pour recruter un chef de chantier, distinguer ses tâches de celles du coordinateur sécurité-santé, fonction soumise à ses propres conditions. Le PDF intègre notamment la modification du 7 avril 2023, publiée le 14 avril 2023."
+    ],
+    "keywords": [
+      "AR 25 janvier 2001",
+      "chantier temporaire",
+      "coordinateur sécurité",
+      "plan sécurité santé",
+      "chef de chantier"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/AR_chant_TM_8%20(2).pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2023-04-14",
+    "status": "valide"
+  },
+  {
+    "id": "construction-etudiants-travaux-dangereux",
+    "title": "Étudiants sur chantier : tâches interdites et dérogations",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "Un contrat étudiant ne permet pas d’affecter librement le jeune aux machines et travaux dangereux du chantier. Vérifier les tâches réelles avant de publier l’offre.",
+    "body": [
+      "Les articles X.3-3 et X.3-8 du Code imposent une analyse préalable des risques adaptée au manque d’expérience et interdisent les travaux dangereux, notamment ceux de l’annexe X.3-1. Renouveler l’analyse au moins annuellement et lors d’une modification importante du poste.",
+      "Pour un étudiant, l’article X.3-11 permet certaines dérogations seulement à partir de 18 ans, lorsque les études correspondent aux activités concernées. L’employeur doit garantir des mesures de prévention effectives, un contrôle et la présence d’un travailleur expérimenté ; demander préalablement l’avis du comité et du conseiller en prévention.",
+      "L’article X.3-11/1 prévoit une interdiction spécifique de commander les engins motorisés de manutention visés, avec des exceptions limitées pour certains chariots et transpalettes. Ne pas transformer la dérogation générale en autorisation de conduire toute machine. Le texte intègre la modification publiée le 10 juin 2024."
+    ],
+    "keywords": [
+      "étudiant construction",
+      "jeunes au travail",
+      "travaux dangereux",
+      "engins motorisés",
+      "jobstudent"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ],
+      "contractTypes": [
+        "etudiant"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/Code%20livre%20X%20titre%203%20Jeunes%20au%20travail.pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2024-06-10",
+    "status": "valide"
+  },
+  {
+    "id": "construction-couvreurs-travail-hauteur",
+    "title": "Couvreurs : protections contre les chutes et échafaudages",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "Prévoir les protections et les formations adaptées au travail en hauteur. L’expérience du couvreur ne dispense pas l’employeur de sécuriser le poste.",
+    "body": [
+      "Les articles IV.5-1 à IV.5-3 imposent le choix d’équipements adaptés après analyse des risques. Donner priorité aux protections collectives contre les chutes, notamment garde-corps et plateformes, sur les protections individuelles. N’effectuer les travaux que si la météo permet de travailler sans compromettre la sécurité.",
+      "L’article IV.5-4 limite l’utilisation d’une échelle comme poste de travail aux situations de faible risque où un équipement plus sûr ne se justifie pas, compte tenu de la courte durée ou des caractéristiques du site. L’échelle ne constitue donc pas le poste normal pour tous travaux de toiture.",
+      "Pour les échafaudages, organiser la désignation d’une personne compétente, les vérifications et les formations adaptées à l’utilisation ou au montage, démontage et transformation. Vérifier ces compétences lors du recrutement. Le PDF intègre la modification publiée le 10 juin 2024."
+    ],
+    "keywords": [
+      "couvreur",
+      "travail en hauteur",
+      "échafaudage",
+      "chute",
+      "garde-corps",
+      "dakwerker"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ],
+      "roles": [
+        "couvreur",
+        "macon",
+        "chef-chantier"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/Code%20livre%20IV%20titre%205%20Equipements%20de%20travail%20pour%20des%20travaux%20temporaires%20en%20hauteur.pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2024-06-10",
+    "status": "valide"
+  },
+  {
+    "id": "construction-engins-grues-formation",
+    "title": "Engins et grues : vérifier la formation à la conduite",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "Demander des preuves de formation correspondant à l’engin réellement utilisé. Une attestation VCA générale ne démontre pas à elle seule la compétence de conduite.",
+    "body": [
+      "L’article IV.3-7, 1°, du Code réserve la conduite d’équipements mobiles automoteurs aux travailleurs ayant reçu une formation adéquate pour leur conduite sûre. L’employeur organise aussi la circulation et la protection des piétons dans la zone de travail.",
+      "Pour un grutier, préciser le type de grue et examiner la formation professionnelle, l’attestation ou le brevet correspondant. Le guide de Prévention et Intérim décrit ces formations, notamment auprès de centres reconnus par Constructiv, et l’aptitude médicale liée au poste de sécurité : https://www.fichepostedetravail.be/sites/default/files/2024-10/fiche_grutier_et_conducteur_d_engins_de_levage.pdf.",
+      "Les équipements de levage relèvent aussi du livre IV, titre 4. Distinguer la preuve de compétence du conducteur, les consignes propres au chantier et les contrôles de l’équipement. La version consolidée du Code utilisée est datée du 13 juin 2026."
+    ],
+    "keywords": [
+      "conducteur d’engins",
+      "grutier",
+      "attestation grutier",
+      "formation conduite",
+      "VCA",
+      "levage"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ],
+      "roles": [
+        "conducteur-engins",
+        "chef-chantier"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/Code_du_bien-%C3%AAtre_au_travail.pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-13",
+    "status": "valide"
+  },
+  {
+    "id": "construction-construbadge",
+    "title": "ConstruBadge : identification des ouvriers sur chantier",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Vérifier la délivrance du ConstruBadge lors de l’accueil d’un ouvrier. Ce badge d’identification visuelle ne réalise un enregistrement de présence que s’il est relié à un système prévu à cet effet.",
+    "body": [
+      "Le régime sectoriel de délivrance résulte de la CCT du 11 septembre 2014, entrée en vigueur le 1er octobre 2014. Constructiv délivre les badges sur la base des données officielles Dimona, DmfA et Limosa. Sont notamment concernés les ouvriers des entreprises belges, les intérimaires et les ouvriers détachés par des employeurs étrangers.",
+      "Pour les travailleurs d’entreprises belges, Constructiv envoie le badge au domicile. Pour les employeurs étrangers, la délivrance passe par les formalités, le paiement et l’adresse belge de livraison. L’employeur consulte les badges émis et demande un remplacement dans l’application ConstruBadge.",
+      "À l’accueil, contrôler l’identité, le badge et la procédure de présence applicable. Constructiv précise que son utilisation pour notifier une présence dépend des possibilités du système de contrôle d’accès ou d’enregistrement employé."
+    ],
+    "keywords": [
+      "ConstruBadge",
+      "identification chantier",
+      "carte sociale",
+      "Constructiv",
+      "Dimona",
+      "Limosa"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ]
+    },
+    "source": "Constructiv · constructiv.be",
+    "url": "https://constructiv.be/fr/soutiens-aux-entreprises/construbadge/",
+    "owner": {
+      "name": "Constructiv",
+      "team": "Secteur (CP 124)"
+    },
+    "lastValidated": "2014-10-01",
+    "status": "valide"
+  },
+  {
+    "id": "construction-interim-autorise-conditions",
+    "title": "Intérim dans la construction : motifs et conditions",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "L’intérim est autorisé dans la construction depuis 2002. La CCT du 4 décembre 2014 fixe trois motifs et des conditions sectorielles à vérifier avant la mission.",
+    "body": [
+      "L’article 3 autorise le remplacement d’un travailleur fixe en incapacité, l’accroissement temporaire du volume de travail et l’insertion en vue d’un engagement permanent. Les articles 5 et 6 encadrent l’accord ou l’information et la consultation de la délégation syndicale selon le motif.",
+      "Les articles 7 et 8 exigent une agence d’intérim construction agréée et une structure juridique distincte. Contrôler l’agrément requis et sa mention au contrat. L’article 3 impose une attestation de formation en sécurité construction d’au moins seize heures, sous réserve des équivalences et dispenses qu’il prévoit.",
+      "L’article 11 interdit les contrats journaliers et limite à six mois l’occupation d’un même intérimaire dans la même entreprise pour accroissement temporaire. L’article 12 interdit de remplacer, par l’intérim, le travail normalement réalisé par les salariés mis en chômage temporaire. La CCT est applicable depuis le 1er octobre 2014."
+    ],
+    "keywords": [
+      "intérim construction",
+      "CP 124",
+      "CCT 4 décembre 2014",
+      "insertion",
+      "agrément",
+      "uitzendarbeid"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ],
+      "contractTypes": [
+        "interim"
+      ]
+    },
+    "source": "Moniteur belge, SPF Emploi · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=15-11-24&numac=2015204214",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Secteur (CP 124)"
+    },
+    "lastValidated": "2015-11-24",
+    "status": "valide"
+  },
+  {
+    "id": "construction-ouvriers-cp124-employes-cp200",
+    "title": "Construction : distinguer ouvriers CP 124 et employés CP 200",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Une entreprise de construction peut employer des ouvriers CP 124 et des employés CP 200. Vérifier le statut et l’activité avant de choisir les barèmes et les avantages dans l’offre.",
+    "body": [
+      "La FAQ Pensio B définit les employés construction concernés comme les employés CP 200 d’une entreprise ou unité technique d’exploitation employant aussi des ouvriers CP 124, qui ne peuvent être affectés à une autre activité. En présence de plusieurs activités, elle retient le critère de prédominance. Ne pas appliquer automatiquement les barèmes horaires ouvriers au personnel employé.",
+      "Le régime de pension complémentaire des employés construction concerne les employeurs sans plan équivalent reconnu. L’affiliation passe par la DmfA ; vérifier les indices avec le secrétariat social. Depuis le 1er janvier 2026, le régime comporte un volet solidarité.",
+      "La FAQ distingue la contribution de pension portée à 1,80 % du salaire de référence au 1er janvier 2026 de la cotisation patronale globale de 2,23 %, qui finance aussi les composantes prévues par le régime. Pour présenter l’avantage au candidat, vérifier son affiliation effective."
+    ],
+    "keywords": [
+      "CP 124",
+      "CP 200",
+      "ouvrier",
+      "employé construction",
+      "pension complémentaire",
+      "Pensio B"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ]
+    },
+    "source": "Pensio B · pensiob.be",
+    "url": "https://pensiob.be/fr/harmonisation-des-pensions-complementaires/harmonisations-des-pensions-complementaires-faq/",
+    "owner": {
+      "name": "Pensio B et Fonds de sécurité d’existence pour les pensions complémentaires de la construction",
+      "team": "Secteur (CP 200)"
+    },
+    "lastValidated": "2026-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "construction-timbres-travailleurs-detaches",
+    "title": "Détachement : timbres et inscription à l’OPOC",
+    "category": "demarches",
+    "importance": "legal",
+    "summary": "Pour un employeur étranger, vérifier le régime des timbres et les éventuelles équivalences. La CCT de 2019 modifie la procédure prévue dans le texte de 2013.",
+    "body": [
+      "La CCT du 14 février 2019 modifie l’article 1er de la CCT du 12 septembre 2013. L’employeur étranger remplit son obligation d’inscription à l’OPOC par la déclaration Limosa. Contrôler cette déclaration avant le chantier.",
+      "Pour les timbres fidélité, l’exemption liée à des avantages équivalents dans le pays d’établissement répond aux conditions du texte et à l’examen de l’organisme de perception. Ne pas considérer une simple affirmation de l’employeur comme une preuve suffisante.",
+      "Les dispositions de perception, d’émission et de valorisation des timbres intempéries ne s’appliquent pas aux employeurs étrangers et aux ouvriers qu’ils détachent temporairement en Belgique. L’employeur reste tenu de payer le salaire journalier garanti complet en cas d’interruption de la journée pour intempéries. La modification est entrée en vigueur le 1er janvier 2019."
+    ],
+    "keywords": [
+      "détachement construction",
+      "OPOC",
+      "timbres fidélité",
+      "timbres intempéries",
+      "Limosa",
+      "employeur étranger"
+    ],
+    "scope": {
+      "sectors": [
+        "construction"
+      ]
+    },
+    "source": "SPF Emploi, registre des CCT · public-search.werk.belgie.be",
+    "url": "https://public-search.werk.belgie.be/website-download-service/joint-work-convention/124/124-2019-002082.pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Secteur (CP 124)"
+    },
+    "lastValidated": "2019-01-01",
+    "status": "valide"
+  }
+]

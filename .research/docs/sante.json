@@ -1,0 +1,519 @@
+[
+  {
+    "id": "sante-loi-professions-soins",
+    "title": "Professions de santé : diplômes et titres protégés",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "La loi coordonnée du 10 mai 2015 encadre les professions de soins. Vérifiez les qualifications avant de confier des actes réservés ou d’attribuer un titre professionnel.",
+    "body": [
+      "L’article 45 fixe les conditions de qualification de l’infirmier responsable de soins généraux. Il prévoit notamment une formation d’au moins trois années et 4 600 heures d’enseignement théorique et clinique. Les articles 48 et 50 encadrent le port du titre et interdisent à l’employeur de l’attribuer à une personne non qualifiée. Ces dispositions sont lues dans la consolidation mise à jour au 18 juin 2026.",
+      "L’article 43 encadre l’agrément du kinésithérapeute ; l’article 59 définit l’aide-soignant et son exercice sous contrôle infirmier. Le chapitre 9 transpose la reconnaissance européenne des qualifications, notamment la directive 2005/36/CE. Une qualification étrangère exige la procédure de reconnaissance applicable avant l’exercice en Belgique.",
+      "N’utilisez plus l’ancien article 25 comme base actuelle du visa : le texte consolidé le signale abrogé depuis le 1er janvier 2022. Les procédures actuelles de visa sont détaillées par le SPF Santé publique."
+    ],
+    "keywords": [
+      "loi 10 mai 2015",
+      "art infirmier",
+      "titre protégé",
+      "diplôme étranger",
+      "directive 2005/36"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ],
+      "roles": [
+        "infirmier",
+        "aide-soignant",
+        "kinesitherapeute"
+      ]
+    },
+    "source": "Justel · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/loi/2015/05/10/2015A24141/justel",
+    "owner": {
+      "name": "SPF Justice / Chancellerie du Premier Ministre",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-18",
+    "status": "valide"
+  },
+  {
+    "id": "sante-infirmier-visa",
+    "title": "Infirmier responsable de soins généraux : visa",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Exigez le diplôme admissible et le visa du SPF Santé publique. Aucun agrément n’est prévu pour le diplôme belge de base d’infirmier responsable de soins généraux.",
+    "body": [
+      "La page mise à jour le 16 septembre 2026 renvoie aux exigences de qualification de l’article 45 de la loi coordonnée du 10 mai 2015. Dans l’offre, précisez que l’exercice des fonctions suppose l’obtention du visa professionnel belge.",
+      "Le visa est envoyé automatiquement pour les diplômés des établissements repris dans la liste du SPF. Dans les autres cas, le diplômé doit le demander sur le portail visa. Il est transmis par courriel ou eBox et disponible sur le portail après approbation.",
+      "Avant l’entrée en fonction, vérifiez l’autorisation d’exercice au moyen du moteur de recherche pour employeurs lié par le SPF. Pour un diplôme étranger, appliquez la procédure de reconnaissance et de visa spécifique."
+    ],
+    "keywords": [
+      "infirmier",
+      "IRSG",
+      "visa",
+      "verpleegkundige",
+      "diplôme"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ],
+      "roles": [
+        "infirmier"
+      ]
+    },
+    "source": "SPF Santé publique · health.belgium.be",
+    "url": "https://www.health.belgium.be/fr/professionnels/professionnels-sante/sante-humaine/professions-sante/acces-aux-professions-soins-sante/praticiens-lart-infirmier/infirmier-responsable-soins-generaux",
+    "owner": {
+      "name": "SPF Santé publique",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-09-16",
+    "status": "valide"
+  },
+  {
+    "id": "sante-infirmier-specialisation",
+    "title": "Infirmier spécialisé : agrément du titre",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Un titre professionnel particulier ou une qualification professionnelle particulière exige un agrément. L’expérience dans un service ne suffit pas à elle seule pour porter le titre.",
+    "body": [
+      "Le SPF distingue les titres professionnels particuliers, notamment en soins intensifs et d’urgence, oncologie ou gériatrie, des qualifications professionnelles particulières. Les critères résultent de l’arrêté royal du 27 septembre 2006 et des arrêtés ministériels propres à chaque spécialité.",
+      "Les Communautés délivrent les agréments. Si le poste exige un TPP ou une QPP, demandez la décision d’agrément correspondant précisément à cette exigence.",
+      "Dans sa page du 16 septembre 2026, le SPF indique pour le maintien de ces spécialisations et qualifications une formation continue de 60 heures par période de quatre ans et au moins 1 500 heures de prestations au cours des quatre dernières années. Vérifiez les justificatifs et l’arrêté propre au titre demandé."
+    ],
+    "keywords": [
+      "infirmier spécialisé",
+      "TPP",
+      "QPP",
+      "agrément",
+      "formation continue"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ],
+      "roles": [
+        "infirmier"
+      ]
+    },
+    "source": "SPF Santé publique · health.belgium.be",
+    "url": "https://www.health.belgium.be/fr/professionnels/professionnels-sante/sante-humaine/professions-sante/acces-aux-professions-soins-sante/praticiens-lart-infirmier/infirmier-specialise",
+    "owner": {
+      "name": "SPF Santé publique",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-09-16",
+    "status": "valide"
+  },
+  {
+    "id": "sante-aide-soignant-enregistrement-etudiants",
+    "title": "Aide-soignant : enregistrement, visa et étudiants",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Pour engager un aide-soignant, vérifiez l’enregistrement communautaire et le visa fédéral. Un étudiant en soins infirmiers doit lui aussi obtenir ces autorisations pour occuper cette fonction.",
+    "body": [
+      "Après la formation reconnue, le candidat demande l’enregistrement à la Communauté compétente. Le visa suit l’enregistrement et devient disponible sur le portail du SPF après approbation. L’aide-soignant assiste l’infirmier responsable de soins généraux ou l’assistant en soins infirmiers sous sa supervision.",
+      "La page du 14 septembre 2026 prévoit un parcours pour les étudiants ayant réussi la première année de soins infirmiers, d’assistant en soins infirmiers ou de sage-femme. Elle mentionne 60 ECTS pour le bachelier, une formation théorique et clinique en gérontologie et 150 heures de stage au chevet du patient, y compris en gériatrie.",
+      "Demandez le certificat attestant les compétences d’aide-soignant et la décision d’enregistrement. La simple inscription dans une formation infirmière ne constitue pas une autorisation d’exercer comme aide-soignant."
+    ],
+    "keywords": [
+      "aide-soignant",
+      "zorgkundige",
+      "enregistrement",
+      "visa",
+      "étudiant infirmier"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ],
+      "roles": [
+        "aide-soignant",
+        "infirmier"
+      ]
+    },
+    "source": "SPF Santé publique · health.belgium.be",
+    "url": "https://www.health.belgium.be/fr/professionnels/professionnels-sante/sante-humaine/professions-sante/acces-aux-professions-soins-sante/praticiens-lart-infirmier/aides-soignants",
+    "owner": {
+      "name": "SPF Santé publique",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-09-14",
+    "status": "valide"
+  },
+  {
+    "id": "sante-diplomes-etrangers",
+    "title": "Diplômes étrangers : reconnaissance et langue",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Anticipez la reconnaissance du diplôme et le visa avant la prise de poste. Le SPF exige aussi des preuves linguistiques et de bonne conduite professionnelle.",
+    "body": [
+      "Pour un diplôme de l’EEE ou de Suisse et une installation durable, le candidat demande la reconnaissance à la Communauté compétente ; le traitement du visa démarre ensuite au SPF. Pour un diplôme hors EEE et Suisse, une équivalence est requise, puis, selon la profession, un agrément ou enregistrement communautaire et une demande de visa.",
+      "Selon la page du 16 septembre 2026, les niveaux linguistiques requis sont B2 pour l’IRSG, B1 pour l’infirmier breveté, A2 pour l’aide-soignant et C1 pour le kinésithérapeute, avec B2 pour l’expression écrite de ce dernier. Le certificat officiel doit dater de moins de quatre ans ; un diplôme obtenu dans un établissement francophone, néerlandophone ou germanophone peut également servir de preuve.",
+      "Le certificat de bonne conduite professionnelle, délivré par les autorités des pays où le candidat a exercé, ne peut dater de plus de trois mois lors de la demande. Le SPF délivre le visa après réception de toutes les pièces."
+    ],
+    "keywords": [
+      "diplôme étranger",
+      "reconnaissance",
+      "visa",
+      "langue B2",
+      "good standing",
+      "infirmier étranger"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ],
+      "roles": [
+        "infirmier",
+        "aide-soignant",
+        "kinesitherapeute"
+      ]
+    },
+    "source": "SPF Santé publique · health.belgium.be",
+    "url": "https://www.health.belgium.be/fr/professionnels/professionnels-sante/sante-humaine/professions-sante/acces-aux-professions-soins-sante/demander-visa-diplome-etranger",
+    "owner": {
+      "name": "SPF Santé publique",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-09-16",
+    "status": "valide"
+  },
+  {
+    "id": "sante-kinesitherapeute-agrement",
+    "title": "Kinésithérapeute : agrément et visa",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Le kinésithérapeute doit disposer d’un agrément communautaire et d’un visa fédéral. Contrôlez les deux avant de lui confier des soins.",
+    "body": [
+      "La Communauté compétente délivre l’agrément du diplôme de base. Le SPF Santé publique délivre ensuite automatiquement le visa, envoyé par courriel et eBox et disponible sur le portail visa après approbation.",
+      "La page du 14 septembre 2026 mentionne une formation universitaire en kinésithérapie ou une formation supérieure non universitaire de plein exercice d’au moins quatre ans. Pour les diplômes étrangers, le SPF renvoie à la procédure spécifique de reconnaissance.",
+      "Des agréments distincts existent pour les qualifications spécialisées. Si l’offre exige une spécialisation reconnue, vérifiez l’agrément correspondant auprès de la Communauté, en plus des autorisations de base. Le numéro INAMI répond à une démarche distincte liée au remboursement."
+    ],
+    "keywords": [
+      "kinésithérapeute",
+      "kinesitherapeut",
+      "agrément",
+      "visa",
+      "qualification particulière"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ],
+      "roles": [
+        "kinesitherapeute"
+      ]
+    },
+    "source": "SPF Santé publique · health.belgium.be",
+    "url": "https://www.health.belgium.be/fr/professionnels/professionnels-sante/sante-humaine/professions-sante/acces-aux-professions-soins-sante/kinesitherapeutes",
+    "owner": {
+      "name": "SPF Santé publique",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-09-14",
+    "status": "valide"
+  },
+  {
+    "id": "sante-kinesitherapie-inami",
+    "title": "Kinésithérapie : numéro INAMI et prestations",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Le numéro INAMI permet le remboursement des prestations et doit correspondre au lieu et au type d’activité. Le visa et l’agrément restent des conditions distinctes.",
+    "body": [
+      "L’INAMI publie l’article 7 de la nomenclature dans sa version applicable depuis le 1er juillet 2026. Vérifiez cette version pour les prestations que le kinésithérapeute devra attester et les conditions de leur remboursement.",
+      "Le guide d’inscription de l’INAMI exige le diplôme, l’agrément communautaire, le visa et une adresse de contact belge. Le numéro est attribué automatiquement si sa demande accompagnait l’agrément et si une adresse de contact belge est connue ; sinon, le candidat introduit le formulaire d’inscription.",
+      "Le numéro initial ne permet pas d’attester toutes les prestations. Pour une activité en cabinet, le praticien doit enregistrer cette activité dans ProSanté au plus tard le premier jour afin d’obtenir le code de compétence adapté, sans rétroactivité. Guide vérifié : https://www.inami.fgov.be/fr/professionnels/professionnels-de-la-sante/kinesitherapeutes/obtenir-votre-numero-inami-en-tant-que-kinesitherapeute-et-enregistrer-votre-pratique-en-cabinet . La date retenue est celle de la version de nomenclature, le guide n’affichant pas de date."
+    ],
+    "keywords": [
+      "numéro INAMI",
+      "kinésithérapie",
+      "ProSanté",
+      "code de compétence",
+      "nomenclature"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ],
+      "roles": [
+        "kinesitherapeute"
+      ]
+    },
+    "source": "INAMI · inami.fgov.be",
+    "url": "https://www.inami.fgov.be/fr/nomenclature/nomenclature-textes/nomenclature-article-7",
+    "owner": {
+      "name": "INAMI",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "sante-ific-indexation-2026",
+    "title": "IFIC : indexation de juillet 2026 et périmètre",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Utilisez la grille IFIC de juillet 2026 pour les établissements privés concernés. Le calculateur privé ne constitue pas une référence validée pour le secteur public.",
+    "body": [
+      "Depuis juillet 2026, l’IFIC applique l’indexation en centimes décrite sur sa page : 2 % sur la tranche jusqu’à 4 000 euros bruts mensuels à temps plein, avec un maximum de 80 euros d’augmentation pour les salaires supérieurs. La formule a été validée par les partenaires sociaux de la CP 330 le 29 juin 2026.",
+      "L’application aux nouveaux engagés ou aux changements de fonction dépend du secteur : fédéral privé depuis le 1er mai 2018 ; régionalisé flamand privé depuis le 1er novembre 2019 ; régionalisé wallon privé depuis le 9 janvier 2023 ; régionalisé bruxellois privé selon la date E de l’établissement, entre le 17 octobre 2022 et le 16 janvier 2023.",
+      "Identifiez le statut public ou privé et le champ conventionnel de l’employeur avant de chiffrer l’offre. La seule localisation en Flandre, Wallonie ou à Bruxelles ne détermine pas la grille."
+    ],
+    "keywords": [
+      "IFIC",
+      "CP 330",
+      "indexation juillet 2026",
+      "barème",
+      "hôpital public",
+      "hôpital privé"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ]
+    },
+    "source": "IFIC · if-ic.org",
+    "url": "https://www.if-ic.org/fr/baremes-ific",
+    "owner": {
+      "name": "IFIC ASBL",
+      "team": "Secteur (CP 330)"
+    },
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "sante-ific-grille-juillet-2026",
+    "title": "Grille IFIC privée au 1er juillet 2026",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "La grille fournit le salaire brut mensuel de référence par catégorie et ancienneté. Elle ne permet pas d’attribuer une catégorie sur le seul intitulé du métier.",
+    "body": [
+      "À ancienneté zéro, la grille du 1er juillet 2026 indique notamment 3 083,46 euros en catégorie 12, 3 187,48 euros en catégorie 14B, 3 447,52 euros en catégorie 14 et 3 692,71 euros en catégorie 15. Ces montants sont les références mensuelles à temps plein du secteur privé couvert.",
+      "Avant de publier un montant, déterminez la fonction IFIC attribuée, la catégorie et l’ancienneté reconnue. Précisez la quotité de travail et distinguez le barème des suppléments éventuels. Ne présentez pas la catégorie 14 comme le salaire automatique de tout infirmier ou éducateur."
+    ],
+    "keywords": [
+      "barème IFIC 2026",
+      "catégorie 14",
+      "catégorie 14B",
+      "ancienneté",
+      "salaire brut"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ]
+    },
+    "source": "IFIC · if-ic.org",
+    "url": "https://www.if-ic.org/src/Frontend/Files/userfiles/files/Bar%C3%A8mes%20cibles%20-%20Doelbarema's%20-%20index%2001-07-2026.pdf",
+    "owner": {
+      "name": "IFIC ASBL",
+      "team": "Secteur (CP 330)"
+    },
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "sante-cp330-maisons-repos-hors-ific",
+    "title": "Maisons de repos : anciennes échelles CP 330",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "La base officielle distingue les anciennes échelles des barèmes IFIC. Vérifiez le régime du travailleur avant de reprendre un montant dans l’offre ou le contrat.",
+    "body": [
+      "La fiche 3300002 concerne les maisons de retraite, maisons de repos et de soins, centres de jour, centres d’accueil de jour et résidences-services. Mise à jour le 13 juillet 2026, elle présente les échelles en vigueur au 1er juillet 2026.",
+      "La fiche exclut expressément les travailleurs rémunérés selon un barème IFIC. Elle renvoie ces derniers vers un autre sous-secteur de la base. Choisissez ensuite l’échelle et l’ancienneté correspondant à la situation applicable ; n’additionnez pas une ancienne échelle à un barème IFIC."
+    ],
+    "keywords": [
+      "CP 330",
+      "maison de repos",
+      "MRS",
+      "ancien barème",
+      "salaires minimums"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ]
+    },
+    "source": "SPF Emploi · salairesminimums.be",
+    "url": "https://www.salairesminimums.be/document.html?date=&jcId=fb51578d4fa7450abf03278f20917cf7",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-07-13",
+    "status": "valide"
+  },
+  {
+    "id": "sante-ific-cct-hopitaux",
+    "title": "Hôpitaux privés : CCT du modèle salarial IFIC",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "La CCT du 31 mars 2021 organise l’introduction complète du modèle salarial IFIC dans les services fédéraux privés concernés. Son champ ne couvre pas indistinctement tous les établissements de santé.",
+    "body": [
+      "L’article 1 vise notamment les hôpitaux couverts, les centres de psychiatrie légale, certains centres de revalidation, les soins infirmiers à domicile, les maisons médicales et les services du sang. Il exclut notamment les hôpitaux catégoriels autonomes, les maisons de soins psychiatriques et les initiatives d’habitation protégée du champ hospitalier fédéral défini dans cette CCT.",
+      "Le passage à 100 % prend effet le 1er juillet 2021. L’article 3 protège les travailleurs déjà en service contre une diminution salariale lors de l’introduction et règle le maintien possible des anciennes conditions pour les personnes pouvant choisir. Pour une embauche, vérifiez les dispositions concernant les nouveaux travailleurs, puis appliquez les montants actuellement indexés."
+    ],
+    "keywords": [
+      "CCT 31 mars 2021",
+      "IFIC 100 %",
+      "hôpital privé",
+      "CP 330",
+      "ancienneté"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ]
+    },
+    "source": "Partenaires sociaux CP 330 · if-ic.org",
+    "url": "https://www.if-ic.org/src/Frontend/Files/userfiles/files/330-2021-03-31%20CAO%20CCT%20IFIC%20100%25%20Geco%C3%B6rdineerde%20versie%20loonmodel%20IFIC%20100%25%20%20DEF%20(incl%20bijlagen).pdf",
+    "owner": {
+      "name": "Commission paritaire 330",
+      "team": "Secteur (CP 330)"
+    },
+    "lastValidated": "2021-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "sante-ific-etudiants-educateurs",
+    "title": "IFIC : étudiants et éducateurs du secteur fédéral privé",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Les étudiants salariés sont concernés par l’IFIC dans les établissements visés. Pour certains postes d’éducateur ou d’infirmier, le niveau de diplôme influence le barème.",
+    "body": [
+      "La FAQ impose d’attribuer aux étudiants sous contrat de travail une fonction de référence, ou une fonction manquante avec catégorie déterminée par l’employeur. Leur barème se détermine selon les mêmes modalités que celui des autres travailleurs. Pour les nouveaux engagés après l’implémentation, le barème IFIC doit figurer explicitement dans le contrat écrit.",
+      "La distinction entre bachelier et non-bachelier concerne les fonctions d’infirmier ou d’éducateur de catégorie 14 dans le département infirmier-soignant. Le travailleur rémunéré selon l’IFIC qui apporte la preuve de réussite du bachelier a droit au barème 14. Ne transposez pas cette règle à toute fonction d’éducateur.",
+      "La FAQ renvoie à la CCT du 31 mars 2021 ; la date retenue correspond à l’entrée en application complète du modèle, le 1er juillet 2021. Les montants doivent être recherchés dans la grille indexée en vigueur."
+    ],
+    "keywords": [
+      "étudiant",
+      "éducateur",
+      "IFIC 14B",
+      "bachelier",
+      "contrat écrit"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ]
+    },
+    "source": "IFIC · if-ic.org",
+    "url": "https://www.if-ic.org/fr/faq/secteurs-federaux-prives-de-soins-de-sante",
+    "owner": {
+      "name": "IFIC ASBL",
+      "team": "Secteur (CP 330)"
+    },
+    "lastValidated": "2021-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "sante-bruxelles-ific-secteurs-transferes",
+    "title": "Bruxelles : IFIC dans les soins régionalisés",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "À Bruxelles, vérifiez l’agrément ou le subventionnement COCOF/COCOM et le type d’établissement. Le régime des secteurs transférés se distingue du régime hospitalier fédéral.",
+    "body": [
+      "La page vise les établissements CP 330 agréés ou subventionnés par la COCOF ou la COCOM, notamment les maisons de repos, maisons de soins psychiatriques, initiatives d’habitation protégée et centres de rééducation fonctionnelle. L’attribution des fonctions s’effectue à l’engagement pour les nouveaux travailleurs concernés.",
+      "L’implémentation a débuté le 16 janvier 2023, ou le 17 octobre 2022 selon la date E de l’établissement. Vérifiez cette date et les CCT propres à l’institution avant de fixer le salaire. La date retenue ici est celle du démarrage général indiqué par la page.",
+      "Pour un éducateur relevant de la CP 319.02, ne reprenez pas automatiquement ce dispositif CP 330. La présentation IFIC des secteurs non marchands bruxellois classe la CP 319.02 dans le groupe sans planification d’adoption IFIC : https://www.if-ic.org/fr/informations-generales ."
+    ],
+    "keywords": [
+      "Bruxelles",
+      "COCOF",
+      "COCOM",
+      "IFIC",
+      "CP 330",
+      "CP 319.02",
+      "éducateur"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ],
+      "regions": [
+        "bruxelles"
+      ]
+    },
+    "source": "IFIC · if-ic.org",
+    "url": "https://www.if-ic.org/fr/secteurs-de-la-sante/bruxelles",
+    "owner": {
+      "name": "IFIC ASBL",
+      "team": "Secteur (CP 330)"
+    },
+    "lastValidated": "2023-01-16",
+    "status": "valide"
+  },
+  {
+    "id": "sante-sante-travail-hepatite-b",
+    "title": "Soins : examen préalable et vaccination hépatite B",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "Organisez la surveillance médicale avant l’affectation aux risques. Les obligations vaccinales dépendent des activités et de l’exposition, sous le contrôle du médecin du travail.",
+    "body": [
+      "Le Code du bien-être au travail, version du 13 juin 2026, encadre l’évaluation de santé préalable. L’article I.4-26 permet sa réalisation avant le contrat comme dernière étape de sélection, sous les conditions prévues ; elle doit précéder l’affectation effective au poste à risque.",
+      "L’annexe VII.1-6 prévoit la vaccination antihépatite B pour les catégories exposées des services d’examens ou de soins médicaux, y compris le personnel technique et d’entretien. L’exception vise le personnel administratif qui n’entre jamais en contact avec les substances susceptibles de contenir le virus. Les institutions hébergeant des malades mentaux visent le personnel soignant et éducatif.",
+      "Confiez l’appréciation médicale au conseiller en prévention-médecin du travail. Selon l’article I.4-12, un travailleur refusant les examens ou vaccinations obligatoires ne peut être mis ou maintenu au travail. L’article I.4-13 interdit les examens de sélection étrangers au cadre légal."
+    ],
+    "keywords": [
+      "hépatite B",
+      "vaccination",
+      "médecine du travail",
+      "examen préalable",
+      "risques biologiques"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/Code_du_bien-%C3%AAtre_au_travail.pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-13",
+    "status": "valide"
+  },
+  {
+    "id": "sante-casier-mineurs",
+    "title": "Travail avec des mineurs : extrait 596-2",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Lorsque la fonction relève de l’éducation, de la guidance psycho-médico-sociale ou de l’encadrement de mineurs, identifiez le modèle 596-2. Un extrait général ne correspond pas à cette finalité.",
+    "body": [
+      "Le SPF Justice rattache le modèle 596-2 à l’article 596, alinéa 2, du Code d’instruction criminelle. Il distingue ce modèle du modèle 595 de base et du modèle 596-1 destiné aux activités réglementées. Précisez les activités réelles du poste dans la demande, notamment pour un éducateur ou une fonction d’accompagnement de mineurs.",
+      "La page propose un formulaire-type pour choisir le bon extrait. Vérifiez séparément l’obligation sectorielle de contrôle applicable à l’établissement : cette page ne crée pas une obligation générale de demander un casier à tous les travailleurs de santé, ni une durée uniforme de validité.",
+      "La page n’affiche pas de date. La date retenue est celle de la publication, le 2 février 2017, de l’arrêté royal du 21 novembre 2016 sur la délivrance des extraits. Texte officiel vérifié : https://justice.belgium.be/sites/default/files/downloads/kb_21_nov_2016_modaliteiten_uittreksels_particulieren_-_gepubliceerde_versie.pdf ."
+    ],
+    "keywords": [
+      "casier judiciaire",
+      "596-2",
+      "modèle 2",
+      "mineurs",
+      "éducateur",
+      "uittreksel strafregister"
+    ],
+    "scope": {
+      "sectors": [
+        "sante"
+      ],
+      "roles": [
+        "infirmier",
+        "aide-soignant",
+        "kinesitherapeute",
+        "educateur"
+      ]
+    },
+    "source": "SPF Justice · justice.belgium.be",
+    "url": "https://www.justice.belgium.be/fr/themes_et_dossiers/documents/demander_des_documents/extrait_de_casier_judiciaire",
+    "owner": {
+      "name": "SPF Justice",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2017-02-02",
+    "status": "valide"
+  }
+]

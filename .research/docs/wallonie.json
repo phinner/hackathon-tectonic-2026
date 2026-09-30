@@ -1,0 +1,286 @@
+[
+  {
+    "id": "wallonie-francais-relations-travail",
+    "title": "Français obligatoire dans les relations de travail",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Pour un siège d'exploitation en région de langue française, hors communes à facilités, préparer les documents de travail en français. Une autre langue peut être utilisée en complément.",
+    "body": [
+      "L'article 2 du décret du 30 juin 1982 impose le français dans les relations sociales et dans les actes et documents d'entreprise prescrits par les lois et règlements. Il permet l'usage complémentaire d'une langue choisie par les parties et frappe de nullité toute clause restreignant l'usage du français.",
+      "Vérifier le siège d'exploitation auquel le travailleur est rattaché. Les annulations constitutionnelles de 1986 ont notamment supprimé les critères tirés du seul siège social ou de la seule expression française du travailleur et exclu les communes à facilités du champ du décret.",
+      "Selon l'article 3, les documents contraires à l'article 2 sont nuls et le juge constate cette nullité d'office. La régularisation ne produit ses effets qu'à la mise à disposition d'une version conforme aux parties. Le texte est entré en vigueur le 6 septembre 1982."
+    ],
+    "keywords": ["français", "langue du contrat", "siège d'exploitation", "décret 1982", "relations sociales"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "Communauté française · ejustice.just.fgov.be",
+    "url": "https://www.ejustice.just.fgov.be/eli/decret/1982/06/30/1982001285/justel",
+    "owner": {"name": "Communauté française", "team": "Communauté française"},
+    "lastValidated": "1982-09-06",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-decret-antidiscrimination",
+    "title": "Non-discrimination dans le placement et les aides à l'emploi",
+    "category": "offre",
+    "importance": "legal",
+    "summary": "Appliquer le décret wallon du 6 novembre 2008 dans les matières régionales de recrutement, placement, formation et aides à l'emploi. Prévoir les aménagements raisonnables nécessaires aux candidats en situation de handicap.",
+    "body": [
+      "L'article 5 vise notamment le placement, la formation professionnelle, les aides à l'emploi et l'occupation de travailleurs étrangers, dans les limites des compétences régionales. Il couvre aussi les relations de travail des services et organismes publics wallons concernés. Il ne remplace pas les lois fédérales applicables à l'emploi privé.",
+      "L'article 15 interdit les discriminations directes et indirectes, les instructions discriminatoires, le harcèlement et le refus d'aménagement raisonnable. Les critères protégés comprennent notamment l'âge, le handicap, l'état de santé, l'origine, la langue et les convictions. Écarter des annonces et présélections les exclusions non légalement justifiées.",
+      "L'article 13 impose les adaptations appropriées pour accéder à l'emploi ou à la formation, sauf charge disproportionnée. Une aide publique compensant suffisamment cette charge entre dans l'appréciation. La version consolidée consultée est en vigueur depuis le 17 août 2024."
+    ],
+    "keywords": ["discrimination", "placement", "offre d'emploi", "handicap", "aménagement raisonnable", "égalité"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "Service public de Wallonie · wallex.wallonie.be",
+    "url": "https://wallex.wallonie.be/eli/loi-decret/2008/11/06/2008204573",
+    "owner": {"name": "Région wallonne", "team": "Région wallonne"},
+    "lastValidated": "2024-08-17",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-job-plus-2026",
+    "title": "Job Plus : nouvel incitant depuis juillet 2026",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Depuis le 1er juillet 2026, vérifier l'accès à Job Plus pour une nouvelle embauche. Le portail wallon annonce le remplacement des dispositifs Impulsion, SESAM, Tremplin et SINE.",
+    "body": [
+      "L'information officielle publiée le 1er juillet 2026 présente une aide ouverte aux secteurs publics et privés, ciblant les personnes éloignées de l'emploi. L'éligibilité dépend notamment de l'inscription au Forem, de l'âge, des qualifications et d'une éventuelle reconnaissance d'aptitudes réduites.",
+      "Le montant de base annoncé est de 1 000 euros par mois, proratisé selon le temps de travail, avec un minimum d'un mi-temps. Une majoration de 200 euros concerne les entreprises de moins de 20 équivalents temps plein. Selon le profil, la durée annoncée va de 12 à 36 mois.",
+      "L'employeur doit notamment maintenir l'engagement pendant au moins trois mois, à mi-temps minimum. Vérifier le droit et le montant sur la plateforme du Forem, puis y introduire la demande. Pour les anciennes aides, contrôler séparément les dispositions transitoires au lieu de présumer un transfert automatique."
+    ],
+    "keywords": ["Job Plus", "aide à l'embauche", "Forem", "réforme 2026", "Impulsion", "SESAM"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "Service public de Wallonie · wallonie.be",
+    "url": "https://www.wallonie.be/fr/actualites/job-plus-un-nouvel-incitant-lembauche",
+    "owner": {"name": "Service public de Wallonie", "team": "Région wallonne"},
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-impulsion-25-12-transition",
+    "title": "Impulsion -25 ans et 12 mois+ : droits en cours",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Impulsion -25 ans et Impulsion 12 mois+ ne permettent plus d'ouvrir un nouvel avantage depuis le 1er juillet 2026. La fiche ONEM reste utile pour administrer les allocations déjà accordées.",
+    "body": [
+      "La fiche T40, actualisée le 1er juillet 2026, annonce l'abrogation pour les nouveaux avantages et une extinction des avantages en cours au plus tard le 31 décembre 2029. Ne pas présenter ces aides comme accessibles à un nouveau recrutement de septembre 2026.",
+      "Dans les dossiers relevant encore du régime transitoire, l'allocation de travail constitue un subside que l'employeur peut déduire du salaire net. Les conditions contractuelles indiquées depuis le 1er juillet 2023 sont un CDI ou un CDD d'au moins deux mois. Le contrat et l'annexe Impulsion doivent être signés ensemble.",
+      "La demande passe par la CAPAC ou le syndicat et doit parvenir à l'ONEM dans les deux mois suivant le mois du début du travail. Vérifier la décision individuelle avant toute déduction en paie, notamment lors d'un changement de contrat. Les anciennes instructions procédurales ne rouvrent pas un droit supprimé."
+    ],
+    "keywords": ["Impulsion -25 ans", "Impulsion 12 mois+", "ONEM", "allocation de travail", "annexe", "transition"],
+    "scope": {"regions": ["wallonie"], "contractTypes": ["cdi", "cdd"]},
+    "source": "ONEM · onem.be",
+    "url": "https://www.onem.be/citoyens/emploi---formation/activa---impulsion/le-plan-impulsion-de-la-region-wallonne",
+    "owner": {"name": "Office national de l'emploi", "team": "Fédéral"},
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-impulsion-55-transition",
+    "title": "Impulsion 55+ : fermeture et transition ONSS",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "La réduction wallonne pour travailleurs âgés est fermée aux nouveaux engagements depuis le 1er juillet 2026. Les droits antérieurs peuvent subsister, sous conditions, jusqu'au 31 décembre 2029 au plus tard.",
+    "body": [
+      "Les instructions ONSS 2026/3 concernent les unités d'établissement en Région wallonne, à l'exclusion de la Communauté germanophone. Aucun nouvel entrant n'est admis à partir du troisième trimestre 2026 pour les codes de réduction 8320, 8321 et 8322.",
+      "Pour les dossiers antérieurs, distinguer les dates d'engagement et d'ouverture du droit. L'ONSS indique un âge minimum de 57 ans pour les engagements à partir du 1er avril 2026 relevant du code 8321. Les plafonds salariaux et règles transitoires doivent être contrôlés dans l'instruction correspondant au trimestre déclaré.",
+      "La page signale une instruction intermédiaire du 10 septembre 2026. Confier au gestionnaire de paie la vérification de cette mise à jour et de la continuité du droit avant la DmfA. Ne pas promettre une réduction sur le seul critère de l'âge du candidat."
+    ],
+    "keywords": ["Impulsion 55+", "travailleurs âgés", "ONSS", "DmfA", "57 ans", "réduction groupe-cible"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "ONSS · socialsecurity.be",
+    "url": "https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/deductions/structuralreduction_targetgroupreductions/elderlyworkers_wal.html",
+    "owner": {"name": "Office national de sécurité sociale", "team": "Fédéral"},
+    "lastValidated": "2026-09-10",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-sesam-fin-transition",
+    "title": "SESAM : fermeture des demandes et suivi des octrois",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Aucune nouvelle demande SESAM n'est possible depuis le 1er juillet 2026. Les octrois existants restent suivis selon leur décision, sans transfert automatique vers Job Plus.",
+    "body": [
+      "La mise à jour du SPW du 24 septembre 2026 confirme la fin des nouvelles demandes SESAM et le remplacement par l'Incitant Job Plus. Les demandes de prolongation ou d'extension devaient être introduites au plus tard le 30 juin 2026.",
+      "Une aide déjà accordée se poursuit selon les conditions de la décision d'octroi, au plus tard jusqu'au 31 décembre 2029, si les obligations sont respectées. Conserver la décision et vérifier ses exigences avant tout remplacement de travailleur ou modification de l'effectif.",
+      "Aucune démarche particulière n'est demandée pour poursuivre le suivi normal d'un SESAM en cours auprès du Forem. À l'issue de l'octroi, une éventuelle aide Job Plus nécessite une demande distincte ; le travailleur n'y bascule pas automatiquement."
+    ],
+    "keywords": ["SESAM", "petite entreprise", "Job Plus", "octroi", "prolongation", "réforme 2026"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "SPW Emploi et Formation · emploi.wallonie.be",
+    "url": "https://emploi.wallonie.be/actualite/fin-du-dispositif-sesam-ce-qu-il-faut-savoir-et-ce-qui-change-pour-les-employeurs-wallons",
+    "owner": {"name": "SPW Économie, Emploi, Recherche", "team": "Région wallonne"},
+    "lastValidated": "2026-09-24",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-ape-conditions-2026",
+    "title": "APE : vérifier l'inscription avant l'engagement",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Depuis le 1er janvier 2026, l'accès APE repose en principe sur quatre mois d'inscription comme chercheur d'emploi à la veille de l'engagement. Des exceptions concernent notamment les secteurs prioritaires et les anciens travailleurs APE.",
+    "body": [
+      "Le Forem présente les APE comme des subsides destinés aux employeurs du non-marchand, aux pouvoirs locaux et à l'enseignement situés en Wallonie. Ce régime ne constitue pas une aide générale à toute entreprise commerciale.",
+      "Pour les engagements relevant des règles entrées en vigueur le 1er janvier 2026, contrôler les quatre mois d'inscription requis. Certaines situations permettent de ramener la durée à un jour, notamment dans la santé, l'aide à la personne, la petite enfance, la culture et l'enseignement.",
+      "Les personnes ayant déjà travaillé sous statut APE bénéficient d'un accès direct, quel que soit le secteur, sous condition de domicile en Belgique. Utiliser le calculateur du Forem la veille de l'engagement et vérifier aussi que l'employeur dispose du subside concerné."
+    ],
+    "keywords": ["APE", "non-marchand", "inscription Forem", "quatre mois", "enseignement", "santé"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "Le Forem · leforem.be",
+    "url": "https://www.leforem.be/citoyens/aides-promotion-emploi.html",
+    "owner": {"name": "Le Forem", "team": "Région wallonne"},
+    "lastValidated": "2026-01-01",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-ape-reforme-annonce-2027",
+    "title": "APE : réforme annoncée pour 2027",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Le Gouvernement a annoncé une intégration du soutien APE dans les politiques sectorielles à partir de 2027. Le communiqué de mars 2026 décrit un avant-projet adopté en première lecture, pas à lui seul une règle définitivement publiée.",
+    "body": [
+      "Le communiqué relatif à la décision du 19 mars 2026 annonce l'abrogation du dispositif APE au 1er janvier 2027. Il précise que le Gouvernement a adopté en première lecture un avant-projet de décret-cadre organisant le soutien à l'emploi par politiques sectorielles.",
+      "Le projet prévoit notamment une publication des bénéficiaires, des critères d'attribution et une coordination avec la Fédération Wallonie-Bruxelles. Pour préparer un recrutement financé au-delà de 2026, obtenir la confirmation du financement et des règles sectorielles applicables auprès de l'autorité subsidiante.",
+      "Cette fiche documente l'annonce officielle et son calendrier prévisionnel. Elle ne permet ni de supprimer un droit APE en cours en septembre 2026 ni de garantir à un candidat le maintien du même financement en 2027."
+    ],
+    "keywords": ["APE", "réforme 2027", "avant-projet", "subvention", "non-marchand", "Fédération Wallonie-Bruxelles"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "Gouvernement wallon · wallonie.be",
+    "url": "https://wallonie.be/fr/acteurs-et-institutions/wallonie/gouvernement-de-wallonie/communiques-presse/2026-03-25",
+    "owner": {"name": "Gouvernement wallon", "team": "Région wallonne"},
+    "lastValidated": "2026-03-25",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-aviq-prime-integration",
+    "title": "AViQ : prime à l'intégration d'un travailleur handicapé",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "L'AViQ peut rembourser 25 % du coût salarial pendant un an pour une embauche ou une reprise de travail répondant à ses conditions. Introduire la demande avec l'accord du travailleur avant l'engagement ou dans les trois mois suivants.",
+    "body": [
+      "La fiche publiée le 18 avril 2024 exige une reconnaissance AViQ et un contrat de travail ou un statut public. Pour une embauche, elle vise notamment une inactivité professionnelle d'au moins six mois sur les neuf mois précédents. Elle prévoit aussi la reprise après incapacité ou une décision de réintégration.",
+      "Le remboursement de 25 % porte sur la rémunération admissible à charge de l'entreprise, comprenant le brut, plafonné le cas échéant à 150 % du revenu minimum mensuel moyen garanti, et les cotisations patronales prises en compte. La durée maximale indiquée est d'un an.",
+      "Adresser la demande au bureau régional compétent selon le domicile du travailleur. L'intervention est liquidée trimestriellement sur justificatifs. Examiner également le tutorat, l'aménagement du poste et l'ajustement des conditions de travail avec l'AViQ, car chaque aide possède ses propres conditions de cumul."
+    ],
+    "keywords": ["AViQ", "handicap", "prime à l'intégration", "coût salarial", "réintégration", "aménagement de poste"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "AViQ · aviq.be",
+    "url": "https://www.aviq.be/sites/default/files/documents_pro/2024-04/Fiche%20Prime%20%C3%A0%20l%27int%C3%A9gration.pdf",
+    "owner": {"name": "Agence pour une Vie de Qualité", "team": "Région wallonne"},
+    "lastValidated": "2024-04-18",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-forem-diffusion-api-offres",
+    "title": "Diffuser une offre au Forem : contenu et responsabilités",
+    "category": "offre",
+    "importance": "guidance",
+    "summary": "Les conditions de diffusion par les API du Forem imposent des offres réelles, précises et non discriminatoires. Elles sont particulièrement utiles à un recruteur publiant pour ses clients ou depuis un logiciel RH.",
+    "body": [
+      "Les conditions actualisées le 12 décembre 2023 exigent une demande d'accès et des identifiants délivrés par le Forem. Le service permet de transmettre automatiquement des offres gérées pour l'entreprise ou ses clients. Ces conditions concernent ce canal de diffusion.",
+      "Le point 5 exige notamment la fonction et sa description, le nombre de postes, le lieu, la catégorie métier, le secteur, le contrat, le régime de travail, les qualifications ou l'expérience, la langue, la date de publication et les modalités de candidature. Employer les nomenclatures du Forem.",
+      "Supprimer l'annonce dès que le poste n'est plus réellement disponible. Les points 9 à 11 rappellent l'égalité de traitement, la CCT n° 38 et la protection des données. Le Forem peut refuser une annonce insuffisante et suspendre l'accès en cas de non-respect ; l'utilisateur reste responsable du contenu."
+    ],
+    "keywords": ["Forem", "publication offre", "API", "recrutement", "CCT 38", "non-discrimination"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "Le Forem · leforem.be",
+    "url": "https://www.leforem.be/partenaires/cgu-apis.html",
+    "owner": {"name": "Le Forem", "team": "Région wallonne"},
+    "lastValidated": "2023-12-12",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-permis-unique-categorie-generale",
+    "title": "Permis unique : préparer la demande et la preuve de pénurie",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Pour un travailleur étranger soumis à autorisation, préparer le dossier de travail et de séjour avant l'occupation. En catégorie générale, justifier aussi l'impossibilité de recruter sur le marché de l'emploi disponible.",
+    "body": [
+      "Le cadre de l'arrêté wallon du 6 juin 2024 s'applique depuis le 1er septembre 2024. La page SPW prévoit le permis unique pour une occupation de plus de 90 jours et son introduction électronique par l'employeur ou son mandataire sur Working in Belgium. Vérifier auparavant les éventuelles dispenses et catégories particulières.",
+      "Préparer notamment passeport, contrat signé, diplôme, preuve d'accès à une profession réglementée si nécessaire, et pièces de séjour. Le contrat doit préciser le poste et sa classification, le lieu, la durée, l'horaire, la rémunération et la commission paritaire, conformément à l'article 15.",
+      "L'article 2 permet notamment de s'appuyer sur la liste spécifique des métiers en pénurie ou une attestation du Forem après une offre publiée pendant au moins cinq semaines, également diffusée via EURES. La page prévoit aussi la gestion active et la présélection par le Forem. Obtenir les preuves avant de déposer la demande."
+    ],
+    "keywords": ["permis unique", "travailleur étranger", "Working in Belgium", "SPW", "EURES", "marché de l'emploi"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "SPW Emploi et Formation · emploi.wallonie.be",
+    "url": "https://emploi.wallonie.be/home/travailleurs-etrangers/permis-de-travail/vous-etes-employeur/que-devez-vous-faire/categorie-generale.html",
+    "owner": {"name": "SPW Économie, Emploi, Recherche", "team": "Région wallonne"},
+    "lastValidated": "2024-09-01",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-penurie-permis-2025-2026",
+    "title": "Pénuries pour permis de travail : liste 2025-2026",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "La liste spécifique aux travailleurs de pays tiers s'applique du 1er octobre 2025 au 30 septembre 2026 inclus. Elle est encore valable à la date de cette recherche, mais doit être revérifiée pour une demande ultérieure.",
+    "body": [
+      "L'annexe publiée par le SPW vise les fonctions en pénurie en région de langue française pour l'admission au travail d'un ressortissant d'un pays tiers. Elle met en œuvre l'article 2, § 2, alinéa 1er, 1°, et § 4, alinéa 2, de l'arrêté du Gouvernement wallon du 6 juin 2024.",
+      "Elle cite notamment conducteur de chantier, chef de chantier, monteur de structures métalliques lourdes et électricien installateur industriel. Comparer les tâches du poste avec l'intitulé exact de l'annexe ; la seule appartenance au secteur de la construction ne suffit pas.",
+      "Cette liste sert au dossier d'autorisation de travail. Elle ne dispense ni du permis requis ni des conditions professionnelles du poste. Sa période se termine le 30 septembre 2026 : ne pas présumer sa reconduction à partir du lendemain."
+    ],
+    "keywords": ["métiers en pénurie", "permis de travail", "pays tiers", "liste 2025-2026", "admission au travail"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "SPW Emploi et Formation · emploi.wallonie.be",
+    "url": "https://emploi.wallonie.be/files/Liste%20des%20m%C3%A9tiers%20en%20p%C3%A9nurie%202025-2026.pdf",
+    "owner": {"name": "SPW Économie, Emploi, Recherche", "team": "Région wallonne"},
+    "lastValidated": "2025-10-01",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-forem-penuries-2026",
+    "title": "Forem : 144 métiers en pénurie en 2026",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Le Forem publie une liste de 144 métiers en pénurie pour 2026 avec une méthode et une nomenclature renouvelées. L'utiliser pour préparer le sourcing et les formations nécessaires au recrutement.",
+    "body": [
+      "Le communiqué du 1er juillet 2026 explique le recours à l'enquête Besoins en main-d'œuvre et à un indice de criticité globale. La nouvelle approche remplace l'ancienne distinction binaire entre métiers en pénurie et fonctions critiques ; les comparaisons directes avec 2025 demandent donc de la prudence.",
+      "Parmi les métiers présentant les difficultés de recrutement les plus fortes figurent couvreur, aide-soignant, maçon et infirmier. Le communiqué relève 38 métiers dans la construction et 19 respectivement dans l'industrie technologique et dans la santé et l'action sociale.",
+      "Consulter le lien vers les métiers et les formations pour adapter le profil recherché et envisager une formation avant engagement. Cette publication décrit le marché du travail ; pour l'admission d'un ressortissant de pays tiers, utiliser la liste réglementaire distincte publiée par le SPW."
+    ],
+    "keywords": ["Forem", "métiers en pénurie", "criticité", "BMO", "formation", "recrutement 2026"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "Le Forem · leforem.be",
+    "url": "https://www.leforem.be/a-propos/communiques-presse/metiers-en-penurie-2026.html",
+    "owner": {"name": "Le Forem", "team": "Région wallonne"},
+    "lastValidated": "2026-07-01",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-pfi-formation-engagement",
+    "title": "PFI : former puis engager le candidat",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Le Plan Formation-Insertion permet de former un demandeur d'emploi aux besoins de l'entreprise. L'employeur s'engage ensuite à l'occuper sous contrat pendant au moins la durée de la formation.",
+    "body": [
+      "La fiche wallonne actualisée le 11 août 2026 prévoit une formation de 4 à 26 semaines, organisée en entreprise ou partiellement dans un centre de formation. L'entreprise doit disposer d'un siège d'exploitation en Wallonie et le candidat être inscrit comme demandeur d'emploi inoccupé.",
+      "Planifier dès le départ le contrat qui suivra la formation, pour une durée au moins équivalente. La fiche signale des variantes pour les chauffeurs poids lourds, bus et cars ainsi que le PFI Intérim. Faire valider le montage par le Forem avant le démarrage.",
+      "Ne pas reprendre un ancien modèle de stage de transition wallon : l'arrêté du 18 juillet 2013 a été abrogé et Wallex indique une fin de validité au 29 juin 2017, sur https://wallex.wallonie.be/eli/arrete/2013/07/18/2013204389. Le PFI présenté ici est un dispositif actuel distinct, avec obligation d'engagement."
+    ],
+    "keywords": ["PFI", "Plan Formation-Insertion", "formation", "engagement", "stage de transition", "Forem"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "Service public de Wallonie · wallonie.be",
+    "url": "https://www.wallonie.be/fr/demarches/beneficier-dun-plan-formation-insertion-pfi-destine-financer-la-formation-dun-futur-travailleur-au-sein-de-mon-entreprise",
+    "owner": {"name": "Service public de Wallonie et Le Forem", "team": "Région wallonne"},
+    "lastValidated": "2026-08-11",
+    "status": "valide"
+  },
+  {
+    "id": "wallonie-note-region-germanophone-langues",
+    "title": "Région germanophone et communes à facilités : langue des documents",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Ne pas appliquer automatiquement le décret français de 1982 à toute la Wallonie. La région de langue allemande et les communes à facilités relèvent des lois coordonnées du 18 juillet 1966.",
+    "body": [
+      "Le SPF Emploi rappelle que le critère est le siège d'exploitation auquel le travailleur est attaché. Pour un établissement en région de langue allemande, l'employeur utilise l'allemand pour les actes et documents destinés au personnel.",
+      "Dans les communes à facilités de la Région wallonne, ces documents sont rédigés en français, mais le fondement juridique est fédéral. Les lois coordonnées sont entrées en vigueur le 2 août 1966. Vérifier la commune exacte avant de choisir le modèle de contrat ; le filtre géographique « wallonie » inclut ici une zone qui ne relève pas du décret de la Communauté française."
+    ],
+    "keywords": ["Communauté germanophone", "allemand", "communes à facilités", "langue du contrat", "siège d'exploitation"],
+    "scope": {"regions": ["wallonie"]},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/conclusion-du-contrat-de-travail/comment-conclure-valablement-un-3",
+    "owner": {"name": "SPF Emploi, Travail et Concertation sociale", "team": "Fédéral"},
+    "lastValidated": "1966-08-02",
+    "status": "valide"
+  }
+]

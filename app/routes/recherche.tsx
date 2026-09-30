@@ -1,6 +1,6 @@
 import { Link, redirect } from "react-router";
 import type { Route } from "./+types/recherche";
-import { Eyebrow, Icon } from "~/components/badges";
+import { Icon } from "~/components/badges";
 import { regions, roles } from "~/data/taxonomy";
 import { parseQuery, readCriteria, steps, toSearch, UNKNOWN, type Criteria, type CriteriaKey } from "~/lib/search";
 
@@ -51,9 +51,7 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
 
   return (
     <div className="mx-auto max-w-4xl">
-      <Eyebrow>Votre recrutement</Eyebrow>
-      <h1 className="mt-1 text-headline-md text-primary md:text-headline-lg">Définir le poste à ouvrir</h1>
-      <p className="mt-1 text-on-surface-variant">Chaque réponse affine les règles qui s'appliquent.</p>
+      <h1 className="text-headline-md text-primary md:text-headline-lg">Définir le poste</h1>
 
       <Stepper criteria={criteria} currentIndex={currentIndex} />
 
@@ -63,7 +61,6 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
           <div className="text-body-sm">
             <p className="text-label-md text-secondary">Pré-rempli depuis votre question</p>
             <p className="mt-1 text-on-surface italic">« {from} »</p>
-            <p className="mt-1 text-on-surface-variant">Vérifiez les réponses et complétez celles qui manquent.</p>
           </div>
         </div>
       )}
@@ -114,7 +111,7 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
             <li key={step.key} className="rounded-xl border border-outline-variant/40 bg-surface-container-lowest p-space-lg shadow-md">
               <div className="flex items-center justify-between border-b border-outline-variant/20 pb-space-sm">
                 <div>
-                  <span className="text-label-sm font-semibold text-outline">ÉTAPE {String(i + 1).padStart(2, "0")}</span>
+                  <span className="text-label-sm font-semibold text-outline">{String(i + 1).padStart(2, "0")}</span>
                   <p className="font-display text-headline-sm text-primary">{step.question}</p>
                 </div>
                 <Icon name={stepIcons[step.key]} size={22} className="text-secondary" />
@@ -125,7 +122,7 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
                   Je ne sais pas
                 </Link>
                 <Link to={`/resultats${toSearch(criteria)}`} className="font-medium text-secondary hover:underline">
-                  Voir les documents maintenant →
+                  Voir les documents →
                 </Link>
               </div>
             </li>
@@ -135,10 +132,7 @@ export default function Recherche({ loaderData }: Route.ComponentProps) {
 
       {done && (
         <div className="mt-space-lg flex flex-col items-center justify-between gap-space-md rounded-xl border border-outline-variant/40 bg-surface-container-lowest p-space-md shadow-sm sm:flex-row">
-          <p className="flex items-center gap-space-xs text-body-sm text-on-surface-variant">
-            <span className="size-2 rounded-full bg-on-tertiary-container" />
-            Tous les critères sont renseignés.
-          </p>
+          <span />
           <Link
             to={`/resultats${toSearch(criteria)}`}
             className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-lg bg-primary px-space-xl text-label-md text-on-primary shadow-md transition-all hover:bg-primary-container active:scale-95 sm:w-auto"

@@ -1,0 +1,502 @@
+[
+  {
+    "id": "logistique-industrie-cp14003-baremes-2026",
+    "title": "CP 140.03 : salaires et primes 2026",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Appliquer le barème correspondant au personnel roulant, non roulant ou de garage et au régime de repos compensatoire. La CCT du 18 décembre 2025 fixe les montants au 1er janvier 2026.",
+    "body": [
+      "La CCT 196981/CO/140.03 vise les ouvriers de la catégorie ONSS 083. Pour le personnel roulant de niveau 1, le minimum brut est de 14,5425 €/heure avec repos compensatoires payés, contre 14,9255 €/heure avec repos non payés ou 38 heures effectives par semaine. Au niveau 4, les taux correspondants sont de 15,4020 € et 15,8075 €.",
+      "Pour le personnel non roulant de classe 1, les taux sont respectivement de 15,2435 € et 15,6465 €/heure. L'annexe prévoit une prime d'équipes de 7,5 % du salaire horaire barémique par heure effectivement prestée, hors personnel de garage, et une prime de nuit de 12,5 % pour le personnel non roulant.",
+      "Vérifier les conditions d'ouverture des primes et, pour les nouvelles embauches concernées, les règles de nuit entrées en vigueur le 1er juin 2026. L'offre doit distinguer salaire de base, primes et remboursements de frais."
+    ],
+    "keywords": [
+      "CP 140.03",
+      "barème 2026",
+      "personnel roulant",
+      "personnel non roulant",
+      "ploegenpremie",
+      "repos compensatoire"
+    ],
+    "scope": {
+      "sectors": [
+        "logistique"
+      ]
+    },
+    "source": "SPF Emploi · public-search.emploi.belgique.be",
+    "url": "https://public-search.emploi.belgique.be/website-download-service/joint-work-convention/14003/14003-2025-015025.pdf",
+    "owner": {
+      "name": "Sous-commission paritaire 140.03",
+      "team": "Secteur (CP 140.03)"
+    },
+    "lastValidated": "2026-02-26",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-cp226-baremes-2026",
+    "title": "CP 226 : barèmes des employés en 2026",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Déterminer la classe de fonction et l'ancienneté barémique avant de chiffrer l'offre. Les minima mensuels ont été indexés de 2,23 % au 1er janvier 2026.",
+    "body": [
+      "À ancienneté barémique nulle, le minimum mensuel brut à temps plein est de 2 574,27 € en classe 1, 2 810,29 € en classe 2 et 3 755,40 € en classe 8. Les montants s'appliquent à l'horaire à temps plein de l'entreprise ; pour un temps partiel, appliquer le rapport entre les heures contractuelles et cet horaire.",
+      "L'employé qui exerce habituellement des fonctions de plusieurs classes bénéficie de la rémunération de la fonction la plus élevée. La page prévoit des règles particulières d'étalement pour certaines promotions d'au moins deux classes. Ne pas déduire la classe du seul intitulé de poste."
+    ],
+    "keywords": [
+      "CP 226",
+      "employés logistique",
+      "ancienneté barémique",
+      "classification",
+      "barema"
+    ],
+    "scope": {
+      "sectors": [
+        "logistique"
+      ]
+    },
+    "source": "SPF Emploi · salairesminimums.be",
+    "url": "https://www.salairesminimums.be/document.html?date=01/01/2026&jcId=4f9f26050d2a49ef8453da7b55c9ddc1",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-01-20",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-cp111-baremes-juillet-2026",
+    "title": "CP 111 : minima ouvriers depuis juillet 2026",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Consulter le tableau territorial et le régime horaire des entreprises de transformation des métaux. La base officielle affiche une indexation de 2,81 % au 1er juillet 2026.",
+    "body": [
+      "Le tableau national mentionne 17,1244 € brut/heure pour un régime de 38 heures par semaine au 1er juillet 2026. La fiche exclut les entreprises de montage de ponts et charpentes métalliques de la CCT barémique présentée.",
+      "Des tableaux territoriaux et classifications distincts figurent dans la même fiche. Par exemple, le Brabant affiche 16,6853 €/heure pour 39 heures et 16,2682 €/heure pour 40 heures. Faire confirmer le tableau applicable avant de publier la rémunération d'un soudeur, opérateur ou technicien ; ne pas appliquer un seul taux à toute la CP 111."
+    ],
+    "keywords": [
+      "CP 111",
+      "métal",
+      "salaire horaire",
+      "Agoria",
+      "barème juillet 2026"
+    ],
+    "scope": {
+      "sectors": [
+        "industrie"
+      ]
+    },
+    "source": "SPF Emploi · salairesminimums.be",
+    "url": "https://www.salairesminimums.be/document.html?date=&jcId=dd072e73a1804572b8574756f04350cc",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-07-07",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-cp209-baremes-juillet-2026",
+    "title": "CP 209 : minima employés depuis juillet 2026",
+    "category": "contrat",
+    "importance": "legal",
+    "summary": "Les employés barémisés et barémisables des fabrications métalliques relèvent des minima nationaux de leur catégorie. L'indexation du 1er juillet 2026 est de 2,81 %.",
+    "body": [
+      "Pour les employés administratifs, les minima mensuels bruts au 1er juillet 2026 sont de 2 648,62 € aux échelons 1 et 2, 2 756,34 € à l'échelon 3 et 2 948,60 € à l'échelon 4.",
+      "La fiche distingue employés administratifs, employés techniques, dessinateurs, contremaîtres et traceurs en chaudronnerie. Identifier la catégorie réelle et vérifier les conditions d'entreprise avant d'annoncer un salaire. Le barème national ne couvre que les employés barémisés et barémisables ; la page précise que l'indexation sectorielle porte sur les minima et les salaires réels."
+    ],
+    "keywords": [
+      "CP 209",
+      "fabrications métalliques",
+      "employés techniques",
+      "Agoria",
+      "indexation 2026"
+    ],
+    "scope": {
+      "sectors": [
+        "industrie"
+      ]
+    },
+    "source": "SPF Emploi · salairesminimums.be",
+    "url": "https://salairesminimums.be/document.html?date=01/07/2026&jcId=c2eb636e11684edaaaa6b1d8e70ef93a",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-07-07",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-chauffeur-permis-c-ce",
+    "title": "Chauffeur : vérifier les permis C et CE",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "L'offre doit demander la catégorie correspondant au camion et à sa remorque. Contrôler aussi l'aptitude médicale du groupe 2 et le CAP lorsque l'activité le requiert.",
+    "body": [
+      "Le permis C autorise les véhicules de plus de 3 500 kg de masse maximale autorisée ; le C1 couvre ceux de plus de 3 500 kg et jusqu'à 7 500 kg. Avec C ou C1, la remorque ne peut dépasser 750 kg. Au-delà, il faut la catégorie complémentaire CE ou C1E appropriée.",
+      "Selon la page actualisée le 20 février 2026, C et CE peuvent être obtenus dès 18 ans avec aptitude professionnelle, contre 21 ans sans celle-ci. Pour demander le permis, il faut notamment une attestation médicale du groupe 2. Vérifier la validité des catégories inscrites sur le document du candidat, et pas seulement la réussite ancienne d'un examen."
+    ],
+    "keywords": [
+      "permis C",
+      "permis CE",
+      "chauffeur poids lourd",
+      "groupe 2",
+      "rijbewijs"
+    ],
+    "scope": {
+      "roles": [
+        "chauffeur-poids-lourd"
+      ]
+    },
+    "source": "SPF Mobilité et Transports · mobilit.belgium.be",
+    "url": "https://mobilit.belgium.be/fr/route/conduire/permis-de-conduire/permis-de-conduire-belge/camions-categorie-c-c1-ce-c1e",
+    "owner": {
+      "name": "SPF Mobilité et Transports",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-02-20",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-code95-regionalisation",
+    "title": "Code 95 : renouvellement et compétence régionale",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Le code 95 complète le permis pour la plupart des chauffeurs professionnels. Prévoir le renouvellement quinquennal et orienter les démarches vers la Région compétente.",
+    "body": [
+      "L'information publiée par le SPW le 2 juin 2025 confirme la régionalisation des examens et de la formation continue liés à l'aptitude professionnelle. Le certificat concerne la plupart des conducteurs professionnels des catégories C et D.",
+      "Le renouvellement intervient tous les cinq ans après 35 heures de formation continue. Dans le recrutement, demander un code 95 valable ou identifier précisément la dispense applicable ; organiser la formation lorsque l'échéance approche. Les règles européennes de qualification initiale et continue sont codifiées par la directive UE 2022/2561 ; les démarches concrètes relèvent des autorités régionales."
+    ],
+    "keywords": [
+      "code 95",
+      "CAP",
+      "aptitude professionnelle",
+      "35 heures",
+      "directive 2022/2561"
+    ],
+    "scope": {
+      "roles": [
+        "chauffeur-poids-lourd"
+      ],
+      "regions": [
+        "wallonie"
+      ]
+    },
+    "source": "SPW Mobilité et Infrastructures · mobilite.wallonie.be",
+    "url": "https://mobilite.wallonie.be/en_US/home/actus/zone-maincontent/actualites/l-aptitude-professionnelle-devient-une-competence-regionale.html",
+    "owner": {
+      "name": "SPW Mobilité et Infrastructures",
+      "team": "Région wallonne"
+    },
+    "lastValidated": "2025-06-02",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-temps-conduite-repos",
+    "title": "Chauffeurs : conduite, pauses et repos",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Construire les tournées et les horaires annoncés en respectant les plafonds de conduite et les repos du règlement CE 561/2006. Le temps de conduite ne représente pas tout le temps de travail.",
+    "body": [
+      "La fiche européenne vérifiée le 12 juillet 2026 rappelle les limites de 9 heures de conduite par jour, extensibles à 10 heures deux fois par semaine, 56 heures par semaine et 90 heures sur deux semaines consécutives. Après 4 h 30 de conduite, prévoir 45 minutes de pause, éventuellement fractionnées en 15 puis 30 minutes.",
+      "Le repos journalier normal est de 11 heures ; une réduction à 9 heures est possible au maximum trois fois entre deux repos hebdomadaires. Le repos hebdomadaire normal de 45 heures ne se prend pas dans le véhicule et l'employeur supporte le coût de l'hébergement requis.",
+      "Prévoir également chargement, déchargement et autres tâches dans l'horaire. Les règles européennes de temps de travail fixent une moyenne de 48 heures par semaine, distincte du plafond de conduite. Les dérogations de transport international doivent être vérifiées avant de promettre une organisation de tournée."
+    ],
+    "keywords": [
+      "règlement 561/2006",
+      "temps de conduite",
+      "repos chauffeur",
+      "pause 45 minutes",
+      "rijtijden"
+    ],
+    "scope": {
+      "roles": [
+        "chauffeur-poids-lourd"
+      ]
+    },
+    "source": "Commission européenne · europa.eu",
+    "url": "https://europa.eu/youreurope/business/hiring-managing-staff/transport-sector-workers/road-transportation-workers/indexamp_fr.htm",
+    "owner": {
+      "name": "Commission européenne",
+      "team": "Union européenne"
+    },
+    "lastValidated": "2026-07-12",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-tachygraphe-2026",
+    "title": "Tachygraphe : exigences applicables en 2026",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Vérifier l'équipement du véhicule et former le chauffeur à son usage. Depuis le 1er juillet 2026, l'obligation s'étend à certains transports internationaux de marchandises en véhicules légers.",
+    "body": [
+      "La page du SPF Mobilité, mise à jour le 30 juin 2026, prévoit un tachygraphe intelligent version 2 pour les véhicules nouvellement immatriculés depuis le 21 août 2023. Pour les véhicules utilisés en transport international, le remplacement des anciens tachygraphes analogiques ou numériques était requis au 1er janvier 2025, et celui des intelligents version 1 au 18 août 2025.",
+      "Depuis le 1er juillet 2026, les transports internationaux de marchandises en véhicules de plus de 2,5 tonnes et jusqu'à 3,5 tonnes entrent aussi dans le dispositif. La page rappelle l'exemption de l'article 3, point ha, du règlement 561/2006 pour certains transports pour compte propre lorsque la conduite n'est pas l'activité principale.",
+      "Qualifier l'activité avant de décider d'une exemption et vérifier que le conducteur maîtrise le tachygraphe installé. La dérogation belge du projet pilote électrique mentionnée sur la page prenait fin le 31 août 2026 ; ne pas la présenter comme encore applicable au 30 septembre 2026."
+    ],
+    "keywords": [
+      "tachygraphe",
+      "smart tachygraphe 2",
+      "transport international",
+      "2,5 tonnes",
+      "règlement 165/2014"
+    ],
+    "scope": {
+      "sectors": [
+        "logistique"
+      ]
+    },
+    "source": "SPF Mobilité et Transports · mobilit.belgium.be",
+    "url": "https://mobilit.belgium.be/fr/route/transport/tachygraphe-digital/tachygraphe-digital",
+    "owner": {
+      "name": "SPF Mobilité et Transports",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-30",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-cariste-formation-aptitude",
+    "title": "Cariste : formation et aptitude médicale",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "La réglementation belge n'institue pas de permis cariste général. L'employeur doit vérifier la formation adaptée à l'engin et l'aptitude médicale au poste de sécurité.",
+    "body": [
+      "L'article IV.3-7, 1°, du Code du bien-être réserve la conduite des équipements mobiles automoteurs aux travailleurs formés à leur conduite sûre. Le conducteur occupe un poste de sécurité au sens de l'article I.4-1, § 2, 1° ; le médecin du travail constate son aptitude.",
+      "Une attestation délivrée par un organisme de formation peut documenter les compétences, mais le SPF ne prévoit ni agrément obligatoire de ces cours ni permis réglementaire de cariste. Dans l'offre, préciser le type d'engin et la compétence attendue, puis vérifier l'adéquation de la formation aux tâches confiées.",
+      "Le SPF rappelle l'interdiction de principe pour les étudiants et l'existence d'exceptions encadrées pour certains engins non gerbeurs à petite levée. La date de référence est celle de l'entrée en vigueur du Code, le 12 juin 2017 ; elle n'est pas une date d'actualisation de cette page."
+    ],
+    "keywords": [
+      "cariste",
+      "chariot élévateur",
+      "attestation cariste",
+      "formation adéquate",
+      "heftruck"
+    ],
+    "scope": {
+      "roles": [
+        "cariste",
+        "magasinier"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/bien-etre-au-travail/equipements-de-travail/equipements-de-travail-mobiles/permis-de",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2017-06-12",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-machines-formation-securite",
+    "title": "Machines : instructions et formation spécifiques",
+    "category": "restrictions",
+    "importance": "legal",
+    "summary": "Avant l'affectation d'un opérateur ou technicien, vérifier les risques du poste, les instructions et les habilitations nécessaires. L'expérience antérieure ne dispense pas l'employeur de ces obligations.",
+    "body": [
+      "Le livre IV, titre 2, du Code impose des équipements adaptés aux travaux et aux risques. L'article IV.2-3 réserve l'utilisation présentant un risque spécifique aux travailleurs chargés de cette utilisation ; les intervenants en réparation, transformation, maintenance ou entretien doivent être spécifiquement habilités.",
+      "L'article IV.2-4 prévoit une formation adéquate spécifique pour ces intervenants. L'article IV.2-5 impose des informations compréhensibles, couvrant l'utilisation normale, les situations anormales prévisibles et les enseignements de l'expérience, ainsi que des instructions écrites pour les machines et outils mécanisés. Prévoir cette préparation dans l'accueil au poste.",
+      "Le PDF officiel signale l'arrêté modificatif du 12 mai 2024, publié au Moniteur belge le 10 juin 2024. Cette publication sert de date de référence documentaire."
+    ],
+    "keywords": [
+      "sécurité machines",
+      "opérateur production",
+      "formation sécurité",
+      "habilitation maintenance",
+      "arbeidsmiddelen"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/sites/default/files/content/documents/Bien-%C3%AAtre%20au%20travail/R%C3%A9glementation/Code%20livre%20IV%20titre%202%20Dispositions%20applicables%20%C3%A0%20tous%20les%20%C3%A9quipements%20de%20travail.pdf",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2024-06-10",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-soudeur-iso9606",
+    "title": "Soudeur : portée de la qualification ISO 9606-1",
+    "category": "restrictions",
+    "importance": "guidance",
+    "summary": "Pour une fonction de soudage des aciers, vérifier que la qualification demandée correspond au procédé du poste. ISO 9606-1:2012 reste publiée ; le projet ISO/DIS 9606.2 ne constitue pas encore son remplacement définitif.",
+    "body": [
+      "ISO 9606-1:2012 définit l'épreuve de qualification pour le soudage par fusion des aciers, manuel ou semi-automatique. Elle évalue notamment l'aptitude du soudeur à guider l'électrode, la torche ou le chalumeau pour produire une soudure acceptable. Elle ne s'applique pas aux procédés entièrement mécanisés ou automatisés.",
+      "La fiche ISO indique une confirmation de l'édition en 2023 et présente la prochaine édition comme un projet. Dans l'offre, préciser la qualification correspondant aux travaux, plutôt que demander indistinctement une certification pour tout procédé. Vérifier séparément les exigences du projet ou du client : la fiche technique ne crée pas à elle seule une obligation légale générale d'accès au métier."
+    ],
+    "keywords": [
+      "soudeur",
+      "ISO 9606-1",
+      "qualification soudage",
+      "acier",
+      "lasser"
+    ],
+    "scope": {
+      "roles": [
+        "soudeur"
+      ]
+    },
+    "source": "Organisation internationale de normalisation · iso.org",
+    "url": "https://www.iso.org/fr/standard/54936.html",
+    "owner": {
+      "name": "Organisation internationale de normalisation",
+      "team": "Guide pratique"
+    },
+    "lastValidated": "2012-07-13",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-nuit-regles-juin2026",
+    "title": "Travail de nuit : règles depuis juin 2026",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Utiliser les règles actuelles de la loi du 16 mars 1971, et non les anciens résumés e-commerce. Depuis le 1er juin 2026, le travail de nuit est admis en principe.",
+    "body": [
+      "La nuit reste définie de 20 heures à 6 heures. L'employeur doit respecter les repos, les CCT, la prévention et la procédure d'introduction dans le règlement de travail. Distinguer les horaires hors minuit-5 heures, relevant de l'article 36, des régimes comportant des prestations de nuit au sens de l'article 38.",
+      "Dans la distribution et les secteurs connexes légalement définis, dont certaines activités logistiques, les droits aux primes de nuit des nouveaux entrants depuis le 1er juin 2026 sont limités aux prestations entre 23 heures et 6 heures, sauf dérogation conventionnelle ou réglementaire entrée en vigueur après cette date. Les travailleurs déjà en service conservent leurs droits applicables entre 20 heures et 6 heures.",
+      "Avant de publier horaires et primes, vérifier le champ d'application, la situation du travailleur et les CCT. L'autorisation de nuit ne dispense pas de la procédure d'introduction du régime."
+    ],
+    "keywords": [
+      "travail de nuit",
+      "e-commerce",
+      "article 38",
+      "prime de nuit",
+      "juin 2026",
+      "nachtarbeid"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/duree-du-travail-et-temps-de-repos/travail-de-nuit",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2026-06-01",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-dimanche-entrepot",
+    "title": "Entrepôt : vérifier l'autorisation du dimanche",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "Le travail dominical nécessite une dérogation applicable à l'activité. Le simple accord du candidat ou la mention « travail le dimanche » dans l'offre ne suffit pas.",
+    "body": [
+      "L'article 11 de la loi du 16 mars 1971 interdit en principe le travail le dimanche de 0 à 24 heures. Le SPF recense notamment des dérogations pour les entreprises de transport terrestre et certains chargements ou déchargements dans les ports, débarcadères et stations. Vérifier la base juridique propre à l'entrepôt au lieu d'étendre automatiquement une exception du transport à toute activité de stockage.",
+      "En principe, le travail dominical ouvre un repos compensatoire dans les six jours suivants. Selon l'article 16, plus de quatre heures de travail donnent droit à une journée entière ; jusqu'à quatre heures, à une demi-journée, avant ou après 13 heures, avec au maximum cinq heures de travail ce jour-là.",
+      "La date documentaire correspond à la publication de la loi de base, le 30 mars 1971. Pour l'offre, faire confirmer le régime actuel et les éventuelles primes sectorielles."
+    ],
+    "keywords": [
+      "dimanche",
+      "entrepôt",
+      "repos compensatoire",
+      "logistique",
+      "zondagsarbeid"
+    ],
+    "scope": {},
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail/duree-du-travail-et-temps-de-repos/repos-du-dimanche",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "1971-03-30",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-interim-salaire-horaires",
+    "title": "Intérim : salaire et horaires chez l'utilisateur",
+    "category": "contrat",
+    "importance": "guidance",
+    "summary": "L'intérimaire doit recevoir au moins la rémunération qu'il aurait obtenue comme travailleur permanent dans les mêmes conditions. Les règles horaires de l'utilisateur s'appliquent à la mission.",
+    "body": [
+      "Le salaire comprend aussi les avantages accordés aux permanents. Pour une mission en logistique ou en industrie, transmettre à l'agence la classification, le salaire et les primes applicables chez l'utilisateur. Les heures supplémentaires, la nuit et le dimanche suivent également la réglementation de l'utilisateur, avec les mêmes sursalaires et repos compensatoires.",
+      "Seule une entreprise de travail intérimaire agréée peut fournir cette prestation. Vérifier le motif autorisé, la durée et les accords requis avant la mission. Le SPF interdit notamment le recours aux intérimaires en cas de grève ou de lock-out dans l'établissement et pour la catégorie de personnel concernés.",
+      "La date de référence est la publication de la loi du 24 juillet 1987 au Moniteur belge du 20 août 1987 ; la fiche officielle présente le dispositif et ses modifications."
+    ],
+    "keywords": [
+      "intérim logistique",
+      "égalité salariale",
+      "prime équipes",
+      "utilisateur",
+      "uitzendarbeid"
+    ],
+    "scope": {
+      "contractTypes": [
+        "interim"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/travail-interimaire",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "1987-08-20",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-interim-fiche-poste",
+    "title": "Intérim : transmettre les risques du poste",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "L'utilisateur doit communiquer les qualifications et risques du poste avant la sélection de l'intérimaire. La fiche de poste permet à l'agence de choisir une personne apte aux tâches confiées.",
+    "body": [
+      "Avant la mise à disposition, l'utilisateur décrit les exigences professionnelles et les informations de bien-être au moyen de la fiche de poste. L'entreprise de travail intérimaire sélectionne le travailleur sur cette base et lui transmet les informations reçues avant son affectation.",
+      "Pendant la mission, l'utilisateur répond de l'application des règles de bien-être sur le lieu de travail. Pour un cariste, opérateur ou soudeur, documenter les équipements et risques réels ; ne pas affecter le travailleur à une autre activité risquée sans réexaminer ces informations. Les articles 12ter et 12quater de la loi sur le bien-être imposent de refuser une collaboration dont on sait qu'elle ne respecte pas ces obligations.",
+      "Le cadre figure au livre X, titre 2, du Code du bien-être, entré en vigueur le 12 juin 2017. Cette date sert de référence en l'absence de date d'actualisation affichée."
+    ],
+    "keywords": [
+      "fiche de poste",
+      "intérimaire",
+      "risques professionnels",
+      "accueil sécurité",
+      "werkpostfiche"
+    ],
+    "scope": {
+      "contractTypes": [
+        "interim"
+      ]
+    },
+    "source": "SPF Emploi · emploi.belgique.be",
+    "url": "https://emploi.belgique.be/fr/themes/bien-etre-au-travail/organisation-de-travail-et-categories-specifiques-du-travailleurs-4",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2017-06-12",
+    "status": "valide"
+  },
+  {
+    "id": "logistique-industrie-chauffeurs-detaches-imi",
+    "title": "Chauffeurs détachés : déclaration et documents",
+    "category": "demarches",
+    "importance": "guidance",
+    "summary": "Pour un détachement routier vers la Belgique, utiliser la déclaration spécifique au transport. Elle remplace la déclaration Limosa dans le champ de ce dispositif.",
+    "body": [
+      "L'employeur établi dans l'Union européenne ou au Royaume-Uni déclare le détachement avant son début via l'interface publique reliée à IMI et tient les données à jour. Pour un employeur établi ailleurs, le SPF indique l'application belge transport-declaration-detachement.belgique.be. La déclaration identifie aussi le gestionnaire de transport ou la personne de contact.",
+      "Le conducteur doit pouvoir présenter la déclaration, les preuves des opérations de transport et les enregistrements du tachygraphe, sur papier ou sous forme électronique. Après le détachement, l'employeur doit fournir les documents demandés par l'inspection dans les huit semaines suivant la demande.",
+      "Le cadre belge transpose le paquet Mobilité par la loi du 19 juin 2022, publiée le 11 juillet 2022. Vérifier d'abord que l'opération constitue un détachement soumis au dispositif ; ne pas traiter tout franchissement de frontière comme un détachement."
+    ],
+    "keywords": [
+      "détachement chauffeur",
+      "IMI",
+      "paquet mobilité",
+      "Limosa",
+      "transport routier"
+    ],
+    "scope": {
+      "roles": [
+        "chauffeur-poids-lourd"
+      ]
+    },
+    "source": "SPF Emploi · employment.belgium.be",
+    "url": "https://employment.belgium.be/en/themes/international/posting/concept-and-formalities/formalities/specific-formalities-case-0",
+    "owner": {
+      "name": "SPF Emploi, Travail et Concertation sociale",
+      "team": "Fédéral"
+    },
+    "lastValidated": "2022-07-11",
+    "status": "valide"
+  }
+]
