@@ -1,5 +1,18 @@
 import type { Doc } from "~/data/documents";
-import { importanceLevels, type Importance } from "~/data/taxonomy";
+import type { Criteria } from "~/lib/search";
+import {
+  byId,
+  companies,
+  contractTypes,
+  importanceLevels,
+  provinces,
+  regions,
+  roles,
+  sectors,
+  workTimes,
+  type Importance,
+  type Option,
+} from "~/data/taxonomy";
 
 /** Icône Material Symbols. La taille passe par `style` : la feuille de Google Fonts l'emporterait sur une classe Tailwind. */
 export function Icon({ name, size = 18, className = "" }: { name: string; size?: number; className?: string }) {
@@ -78,3 +91,45 @@ export function Eyebrow({ children, className = "text-secondary" }: { children: 
 
 export const formatDate = (iso: string) =>
   new Date(iso).toLocaleDateString("fr-BE", { day: "numeric", month: "short", year: "numeric" });
+
+const criterionChips: Record<string, { icon: string; value: (c: Criteria) => Option | undefined }> = {
+  métier: { icon: "badge", value: (c) => byId(roles, c.role) },
+  secteur: { icon: "domain", value: (c) => byId(sectors, c.sector) },
+  entreprise: { icon: "apartment", value: (c) => byId(companies, c.company) },
+  contrat: { icon: "description", value: (c) => byId(contractTypes, c.contract) },
+  province: { icon: "pin_drop", value: (c) => byId(provinces, c.province) },
+  région: { icon: "map", value: (c) => byId(regions, byId(provinces, c.province)?.region) },
+  régime: { icon: "schedule", value: (c) => byId(workTimes, c.workTime) },
+};
+
+/** Critères du poste que le document cible (vert) ou dont il dépend sans qu'ils soient précisés (ambre). */
+export function CriteriaChips({ matched, imprecise, criteria }: { matched: string[]; imprecise: string[]; criteria: Criteria }) {
+  if (matched.length === 0 && imprecise.length === 0) {
+    return (
+      <span className={`${chip} border-slate-200 bg-slate-50 font-medium text-slate-500`}>
+        <Icon name="public" size={14} />
+        Tous postes
+      </span>
+    );
+  }
+  return (
+    <>
+      {matched.map((label) => (
+        <span key={label} className={`${chip} border-emerald-200 bg-emerald-50 text-emerald-800`} title={`Ciblé : ${label}`}>
+          <Icon name={criterionChips[label]?.icon ?? "check"} size={14} />
+          {criterionChips[label]?.value(criteria)?.label ?? label}
+        </span>
+      ))}
+      {imprecise.map((label) => (
+        <span
+          key={label}
+          className={`${chip} border-dashed border-amber-300 bg-amber-50 text-amber-800`}
+          title={`Dépend du critère « ${label} », non précisé`}
+        >
+          <Icon name={criterionChips[label]?.icon ?? "help"} size={14} />
+          {label.charAt(0).toUpperCase() + label.slice(1)} ?
+        </span>
+      ))}
+    </>
+  );
+}

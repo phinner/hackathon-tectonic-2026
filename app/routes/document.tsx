@@ -1,6 +1,6 @@
 import { data, Link } from "react-router";
 import type { Route } from "./+types/document";
-import { Eyebrow, formatDate, Icon, ImportanceBadge, importanceStyles, Keywords, StatusBadges } from "~/components/badges";
+import { CriteriaChips, Eyebrow, formatDate, Icon, ImportanceBadge, importanceStyles, Keywords, StatusBadges } from "~/components/badges";
 import { getDocument } from "~/data/documents";
 import { categories, companies, contractTypes, provinces, regions, roles, sectors, workTimes } from "~/data/taxonomy";
 import { matchDocuments, readCriteria, toSearch } from "~/lib/search";
@@ -17,6 +17,7 @@ export function loader({ request, params }: Route.LoaderArgs) {
   const related = (ids?: string[]) => (ids ?? []).map(getDocument).filter((d) => d !== undefined);
   return {
     doc,
+    criteria,
     search: toSearch(criteria),
     match: match ? { matched: match.matched, imprecise: match.imprecise } : null,
     conflicts: related(doc.conflictsWith),
@@ -28,7 +29,7 @@ const labels = (list: { id: string; label: string }[], ids?: string[]) =>
   ids?.map((id) => list.find((o) => o.id === id)?.label ?? id).join(", ");
 
 export default function Document({ loaderData }: Route.ComponentProps) {
-  const { doc, search, match, conflicts, replacedBy } = loaderData;
+  const { doc, criteria, search, match, conflicts, replacedBy } = loaderData;
   const category = categories.find((c) => c.id === doc.category);
   const scope = [
     ["Secteurs", labels(sectors, doc.scope.sectors)],
@@ -153,10 +154,9 @@ export default function Document({ loaderData }: Route.ComponentProps) {
               </dl>
             )}
             {match && (match.matched.length > 0 || match.imprecise.length > 0) && (
-              <p className="mt-space-sm rounded-lg bg-surface-container-low p-3 text-body-sm text-on-surface-variant">
-                {match.matched.length > 0 && <>Correspond : {match.matched.join(", ")}. </>}
-                {match.imprecise.length > 0 && <>À confirmer : {match.imprecise.join(", ")}.</>}
-              </p>
+              <div className="mt-space-sm flex flex-wrap gap-space-xs">
+                <CriteriaChips matched={match.matched} imprecise={match.imprecise} criteria={criteria} />
+              </div>
             )}
           </div>
         </aside>

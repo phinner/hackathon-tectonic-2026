@@ -1,6 +1,6 @@
 import { Form, Link, useSubmit } from "react-router";
 import type { Route } from "./+types/resultats";
-import { formatDate, Icon, ImportanceBadge, importanceStyles, Keywords, StatusBadges } from "~/components/badges";
+import { CriteriaChips, formatDate, Icon, ImportanceBadge, importanceStyles, Keywords, StatusBadges } from "~/components/badges";
 import { categories, importanceLevels } from "~/data/taxonomy";
 import {
   applyFilters,
@@ -12,6 +12,7 @@ import {
   steps,
   toSearch,
   UNKNOWN,
+  type Criteria,
   type Match,
 } from "~/lib/search";
 
@@ -184,18 +185,21 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
             <p className="text-body-sm text-on-surface-variant">{group.description}</p>
             <ol className="mt-space-md space-y-space-sm">
               {group.matches.slice(0, filters.category ? undefined : PREVIEW).map((match, rank) => (
-                <DocItem key={match.doc.id} match={match} rank={rank} search={search} />
+                <DocItem key={match.doc.id} match={match} rank={rank} search={search} criteria={criteria} />
               ))}
             </ol>
             {!filters.category && group.matches.length > PREVIEW && (
               <details className="group mt-space-sm">
-                <summary className="cursor-pointer list-none text-label-md text-secondary hover:underline">
-                  <span className="group-open:hidden">Voir les {group.matches.length - PREVIEW} autres</span>
+                <summary className="flex h-12 cursor-pointer list-none items-center justify-center gap-space-xs rounded-xl border-2 border-dashed border-secondary/50 bg-surface-container-low text-label-md font-semibold text-secondary transition-colors hover:border-secondary hover:bg-surface-container [&::-webkit-details-marker]:hidden">
+                  <Icon name="expand_more" className="transition-transform group-open:rotate-180" />
+                  <span className="group-open:hidden">
+                    Voir les {group.matches.length - PREVIEW} autres documents
+                  </span>
                   <span className="hidden group-open:inline">Masquer</span>
                 </summary>
                 <ol className="mt-space-sm space-y-space-sm">
                   {group.matches.slice(PREVIEW).map((match, rank) => (
-                    <DocItem key={match.doc.id} match={match} rank={rank + PREVIEW} search={search} />
+                    <DocItem key={match.doc.id} match={match} rank={rank + PREVIEW} search={search} criteria={criteria} />
                   ))}
                 </ol>
               </details>
@@ -207,7 +211,17 @@ export default function Resultats({ loaderData }: Route.ComponentProps) {
   );
 }
 
-function DocItem({ match: { doc, matched, imprecise }, rank, search }: { match: Match; rank: number; search: string }) {
+function DocItem({
+  match: { doc, matched, imprecise },
+  rank,
+  search,
+  criteria,
+}: {
+  match: Match;
+  rank: number;
+  search: string;
+  criteria: Criteria;
+}) {
   return (
     <li>
       <Link
@@ -234,12 +248,9 @@ function DocItem({ match: { doc, matched, imprecise }, rank, search }: { match: 
                 <Icon name="verified_user" size={14} className="text-secondary" />
                 {doc.source} · {doc.owner.name} · validé le {formatDate(doc.lastValidated)}
               </p>
-              {(matched.length > 0 || imprecise.length > 0) && (
-                <p className="text-label-sm text-outline italic">
-                  {matched.length > 0 && <>Pour : {matched.join(", ")}. </>}
-                  {imprecise.length > 0 && <>À confirmer : {imprecise.join(", ")}.</>}
-                </p>
-              )}
+              <div className="flex flex-wrap gap-space-xs">
+                <CriteriaChips matched={matched} imprecise={imprecise} criteria={criteria} />
+              </div>
             </div>
           </div>
           <div className="hidden max-w-44 sm:block">

@@ -108,27 +108,34 @@ export function matchDocuments(criteria: Criteria): Match[] {
     const matched: string[] = [];
     const imprecise: string[] = [];
     let excluded = false;
-    let score = importanceLevels[doc.importance].weight * 2;
+    let score = 0;
 
     for (const [label, allowed, value] of checks) {
       if (!allowed) continue;
-      if (!value || value === UNKNOWN) {
-        imprecise.push(label);
-        score -= 2;
-      } else if (allowed.includes(value)) {
+      if (!value || value === UNKNOWN) imprecise.push(label);
+      else if (allowed.includes(value)) {
         matched.push(label);
         score += criterionWeight[label];
       } else excluded = true;
     }
     if (excluded) continue;
 
-    if (doc.status === "obsolete") score -= 100;
     if (doc.status === "a-verifier") score -= 3;
 
     results.push({ doc, score, matched, imprecise });
   }
 
-  return results.sort((a, b) => b.score - a.score || b.doc.lastValidated.localeCompare(a.doc.lastValidated));
+  // Obsolètes en dernier, puis le plus de critères ciblés, puis le moins de critères à confirmer,
+  // puis le poids des critères, l'importance et la fraîcheur.
+  return results.sort(
+    (a, b) =>
+      Number(a.doc.status === "obsolete") - Number(b.doc.status === "obsolete") ||
+      b.matched.length - a.matched.length ||
+      a.imprecise.length - b.imprecise.length ||
+      b.score - a.score ||
+      importanceLevels[b.doc.importance].weight - importanceLevels[a.doc.importance].weight ||
+      b.doc.lastValidated.localeCompare(a.doc.lastValidated),
+  );
 }
 
 export const levels = [
